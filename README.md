@@ -1,0 +1,304 @@
+# LLM Debate Benchmark: Adversarial Multi-Turn Argument Under Opposition
+
+This benchmark measures how well large language models perform in adversarial, multi-turn debates on a wide range of propositions. Strong performance in this setting requires retrieval, rebuttal, and strategic coherence across several rounds, not just a polished first answer.
+
+Each evaluated matchup runs twice on the **same topic with sides swapped**. A three-model judge panel then decides winner and margin, and the published leaderboard is Bradley-Terry over completed side-swapped matchups.
+
+---
+
+![Bradley-Terry leaderboard](images/debate_bt_ratings__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+---
+
+## How to read the main chart
+
+- Each bar is one model’s current **Bradley-Terry rating**.
+- Higher bars mean stronger judged debate performance.
+- The grey band behind each bar is the **plausible range** for that model’s rating.
+- The published order uses **Bradley-Terry**. Glicko-2 and rating deviation remain secondary diagnostics for scheduling and uncertainty, not the headline ranking.
+
+---
+
+## Current Snapshot
+
+- **21 rated models**
+- **1,162 completed debates in the current debate scope**
+- **552 rated side-swapped matchups in the clean aggregated slice**
+- **3,424 clean parsed judgment rows in that slice**
+- **91.2 mean availability score**
+
+---
+
+## What this benchmark shows
+
+Debate is harder than ordinary question answering because the model has to stay correct and coherent **after the other side pushes back**. That pressure exposes several different abilities at once:
+
+- **Knowledge under stress**: can the model retrieve the right facts when challenged, not just in its opening statement?
+- **Counterargument handling**: can it answer the strongest objection instead of repeating its own case?
+- **Strategic coherence**: can it preserve a line of argument over multiple turns instead of drifting or contradicting itself?
+- **Epistemic discipline**: can it make claims that remain defensible when the debate becomes adversarial?
+
+In practice, this format does not reward openings alone. Some models look strong in a first pass but weaken once the other side attacks specifics, while others stay more stable across rebuttal and closing.
+
+The side-swapped design matters too. Some propositions are easier to argue from one side than the other, so each pair debates the same motion twice with roles reversed. That makes the benchmark closer to a structured adversarial comparison than a one-shot preference test.
+
+Another reason debate is useful is that it makes different failure modes visible at the same time. A model can know the facts but fail to organize them. It can produce elegant openings but weak rebuttals. It can sound persuasive while still collapsing under pressure. Debate compresses those distinctions into one adversarial format.
+
+---
+
+## Representative Motions
+
+The benchmark is broad rather than narrowly optimized around one policy template. A few current motions give a good sense of the range:
+
+- **Dating apps**: The dominant dating-app model makes relationship formation worse for most users than better.
+- **School smartphones**: Schools should ban smartphones during the school day by default rather than leave phone rules to individual teachers.
+- **Older-adult care**: Hospitals and care providers should not replace most human companionship with AI or robotic companions for older adults, even when staffing is tight.
+- **Shrinkflation**: Supermarkets and food apps should be required to display shrinkflation and unit-price changes more clearly when package sizes fall without obvious headline price cuts.
+- **Eurozone politics**: The eurozone's post-2010 crisis response deepened political distrust more than it preserved European solidarity.
+
+This matters because debate ability can look very different on fiscal policy, civil liberties, technology governance, migration, labor, education, or historical-justice motions. A wide topic bank makes the leaderboard more meaningful.
+
+---
+
+## Bradley-Terry Leaderboard
+
+### Current full leaderboard
+
+| Rank | Model | BT | Avail | Adj BT | Matchups |
+| ---: | --- | ---: | ---: | ---: | ---: |
+| 1 | Claude Sonnet 4.6 (high reasoning) | 1617.5 | 90.8 | 1468.8 | 79 |
+| 2 | GPT-5.4 (high reasoning) | 1610.5 | 95.2 | 1533.8 | 78 |
+| 3 | Claude Opus 4.6 (high reasoning) | 1605.6 | 95.0 | 1525.4 | 74 |
+| 4 | Claude Sonnet 4.6 (no reasoning) | 1600.4 | 94.3 | 1509.5 | 83 |
+| 5 | Gemini 3.1 Pro Preview | 1599.0 | 88.9 | 1421.4 | 64 |
+| 6 | GLM-5 | 1594.6 | 61.4 | 979.8 | 38 |
+| 7 | Claude Opus 4.6 (no reasoning) | 1589.9 | 96.4 | 1533.1 | 81 |
+| 8 | Kimi K2.5 Thinking | 1561.5 | 92.0 | 1437.3 | 81 |
+| 9 | GPT-5.4 (no reasoning) | 1552.6 | 95.8 | 1488.0 | 92 |
+| 10 | ByteDance Seed2.0 Pro | 1551.9 | 100.0 | 1551.9 | 60 |
+| 11 | MiniMax-M2.7 | 1520.9 | 94.4 | 1436.4 | 50 |
+| 12 | Grok 4.20 Beta 0309 (Reasoning) | 1511.1 | 96.0 | 1450.6 | 46 |
+| 13 | Qwen3.5-397B-A17B | 1508.7 | 91.7 | 1382.9 | 42 |
+| 14 | Grok 4.20 Beta 0309 (Non-Reasoning) | 1480.4 | 92.5 | 1369.4 | 36 |
+| 15 | Xiaomi MiMo V2 Pro | 1476.0 | 60.4 | 891.7 | 28 |
+| 16 | Deepseek V3.2 | 1469.2 | 92.5 | 1359.0 | 37 |
+| 17 | Gemini 3.1 Flash-Lite Preview | 1456.1 | 91.7 | 1334.7 | 31 |
+| 18 | GPT-OSS-120B | 1370.5 | 100.0 | 1370.5 | 32 |
+| 19 | Baidu Ernie 5.0 | 1360.6 | 100.0 | 1360.6 | 16 |
+| 20 | Mistral Large 3 | 1330.1 | 89.3 | 1187.5 | 25 |
+| 21 | Llama 4 Maverick | 1132.9 | 96.9 | 1097.5 | 31 |
+
+`Avail` is the benchmark’s availability score, and `Adj BT` is the Bradley-Terry rating after discounting for operational unreliability. That adjusted view is not the headline ranking, but it is useful because some models debate well only when they actually make it through the run.
+
+---
+
+
+## What Stands Out
+
+The current picture is: a crowded frontier, family-dependent reasoning gains, and meaningful reliability penalties for some otherwise capable debaters.
+
+- **The frontier is real, but not settled.** The strongest current raw-BT cluster is **Claude Sonnet 4.6 (high reasoning)**, **GPT-5.4 (high reasoning)**, **Claude Opus 4.6 (high reasoning)**, **Claude Sonnet 4.6 (no reasoning)**, **Gemini 3.1 Pro Preview**, and **GLM-5**. That group is still close enough that more data could reshuffle the middle, though **GLM-5** remains a special case because its availability penalty is severe.
+- **Reasoning mode is helping, but the size of the gain depends heavily on the family.** In the current snapshot, **GPT-5.4 high reasoning** beats **GPT-5.4 no reasoning** by about `58` BT points, **Grok reasoning** beats **Grok non-reasoning** by about `31`, **Claude Opus 4.6 high reasoning** beats **Claude Opus 4.6 no reasoning** by about `16`, and **Claude Sonnet 4.6 high reasoning** beats **Claude Sonnet 4.6 no reasoning** by about `17`.
+- **Reliability is materially changing how some models should be read.** **GLM-5** and **Xiaomi MiMo V2 Pro** are the clearest examples: both have respectable raw BT but severe availability penalties. **Gemini 3.1 Pro Preview**, **Claude Sonnet 4.6 (high reasoning)**, **Mistral Large 3**, **Qwen3.5-397B-A17B**, and **Kimi K2.5 Thinking** also take visible hits once incomplete and errored debates are priced in.
+- **Judges are rewarding rebuttal quality and argument strength more than isolated style.** The top cluster is repeatedly described in the model profiles as **disciplined, grounded, clash-driven, and responsive**. Lower-ranked models often retain some mix of **grounding**, **originality**, or **rhetorical effectiveness**, but still lose because they underperform on **rebuttal quality** and **argument strength**.
+- **The clearest current blowouts are mostly in the lower part of the field, not at the frontier.** The largest average pairwise edges are concentrated against **Llama 4 Maverick**: **Claude Opus 4.6 (high reasoning)** over **Llama 4 Maverick** at `+3.10`, **Kimi K2.5 Thinking** over **Llama 4 Maverick** at `+2.96`, and **GPT-5.4 (high reasoning)** over **Llama 4 Maverick** at `+2.75`. That is another way of seeing that the bottom of the table is more separated than the top.
+
+---
+
+## Why Bradley-Terry And Side Swaps
+
+This benchmark does **not** publish a simple “average judge score per debate” leaderboard as the main result. The primary table is Bradley-Terry over **completed side-swapped matchups**.
+
+That matters for three reasons:
+
+1. A single debate can be distorted by side advantage or topic-specific asymmetry.
+2. Bradley-Terry uses the pairwise structure of the benchmark instead of treating every judged debate as an isolated score.
+3. Relative judgments are a better fit for LLM judging than absolute score calibration. Asking which side did better on the same motion is usually more stable than asking whether a debate was, say, a `7.8` or an `8.3` on some global scale.
+
+That last point matters in practice. Judges can differ in harshness, scale usage, and topic leniency. A relative decision on the same debate is less exposed to those calibration problems than an absolute score in isolation. For that reason, rubric fields are retained as diagnostics, but the public leaderboard is built from relative outcomes.
+
+So the headline unit is not “one debate,” but “one completed side-swapped matchup on one topic.” That is a better fit for a benchmark meant to compare sustained adversarial performance rather than one-off wins.
+
+---
+
+## Pairwise View
+
+The pairwise heatmap shows how models perform against each other after aggregation across completed, side-swapped matchups. This is useful because a single scalar leaderboard always hides some structure. A model can be strong overall while still having a few specific bad matchups.
+
+![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+The heatmap is most useful as a quick read on where the field is decisively separated and where it still is not. In the current snapshot, the biggest clean edges are mostly against **Llama 4 Maverick**, while the top cluster remains much tighter.
+
+---
+
+## Judge Sanity Checks
+
+The benchmark relies on LLM judges, so it is worth being explicit about the current sanity checks:
+
+- the Bradley-Terry graph is connected
+- mean cross-judge winner agreement is **0.563**
+- mean absolute presented-side margin bias by judge is **0.122**
+- the canonical parsed judgment table currently has **0** parse-warning rows
+- the current active judge pool includes **Claude Sonnet 4.6 (high reasoning)**, **GPT-5.4 (high reasoning)**, **Gemini 3.1 Pro Preview**, **Grok 4.20 Beta 0309 (Reasoning)**, **Qwen3.5-397B-A17B**, and **Kimi K2.5 Thinking**, with some carried-over historical rows from **MiniMax-M2.7**
+
+This does not make the judges perfect. But it does mean the current snapshot is not obviously being driven by parser chaos or a huge systematic side-presentation artifact.
+
+---
+
+## Cross-Judge Agreement
+
+The stored judge-agreement table is also rendered directly as a heatmap so it is easier to see which evaluators tend to move together and which pairs diverge more often.
+
+![Judge agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+This is a sanity-check view, not a second leaderboard. It is there to make evaluator consistency visible rather than bury it inside one summary statistic.
+
+---
+
+## Debate Quality Signal
+
+The benchmark also tracks a judge-side entertainment/readability diagnostic as a secondary signal. It does **not** affect ratings, but it is useful for checking whether the benchmark produces debates that are merely formal or actually engaging to read.
+
+- mean entertainment across complete side-swapped matchups: **7.09 / 10**
+- most entertaining current models by that signal include **Claude Sonnet 4.6 (high reasoning)**, **Claude Sonnet 4.6 (no reasoning)**, **Kimi K2.5 Thinking**, and **Claude Opus 4.6 (high reasoning)**
+- **Claude Sonnet 4.6 (no reasoning)** vs **Kimi K2.5 Thinking** on assisted dying for terminal or degenerative suffering
+- **Claude Opus 4.6 (no reasoning)** vs **Claude Sonnet 4.6 (high reasoning)** on compulsory licensing for foundation-model training on copyrighted works
+- **Kimi K2.5 Thinking** vs **Xiaomi MiMo V2 Pro** on the eurozone crisis response
+
+This signal is diagnostic rather than decisive, but it helps show that the benchmark is producing debates judges generally find readable and engaging.
+
+![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+Read against the main strength rating, this view separates three cases that a single leaderboard hides: models that are strong and lively, models that are strong but comparatively dry, and models that are readable or vivid without being top-tier debaters. Entertainment still stays diagnostic only; it does not feed the rating.
+
+---
+
+## Content Block Rate
+
+Content blocks reflect a distinct moderation/content-fragility problem rather than simple latency, parser trouble, or blank outputs.
+
+![Content block rate](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+In the current clean slice, **Xiaomi MiMo V2 Pro** is the clear outlier at **10.4%** of seen debates ending in a content block (`10 / 96`). The next highest rates are **Grok 4.20 Beta 0309 (Non-Reasoning)** at **3.8%**, **Kimi K2.5 Thinking** at **2.3%**, and **Qwen3.5-397B-A17B** at **2.1%**. Most of the top raw-BT models are at or near zero on this specific measure, including both current **GPT-5.4** variants, **Claude Opus 4.6 (high reasoning)**, and **ByteDance Seed2.0 Pro**.
+
+![Strength versus content blocks](images/debate_content_block_vs_strength__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+The scatter is useful because it separates "strong but occasionally brittle" from "strong and operationally clean." **Xiaomi MiMo V2 Pro** is the clearest upper-right outlier. **Kimi K2.5 Thinking** and **Grok 4.20 Beta 0309 (Non-Reasoning)** also show visible content-block exposure, while most frontier models cluster in the lower-right with much lower block rates.
+
+---
+## Worked Example
+
+<details>
+<summary>Claude Sonnet 4.6 (high reasoning) vs GPT-5.4 (high reasoning) on banning location-data sales</summary>
+
+**Motion:** Governments should prohibit data brokers from selling individuals’ precise location data without explicit, time-limited opt-in consent.
+
+**PRO opening, Claude Sonnet 4.6 (high reasoning):**
+
+> “Precise location data is the most intimate data stream that exists about a person... When data brokers package and sell this information without any meaningful consent... they are handing strangers a surveillance capability that no individual ever agreed to provide.”
+
+**CON opening, GPT-5.4 (high reasoning):**
+
+> “Nobody disputes that precise location can be deeply sensitive. The dispute is over remedy... The real problems are abuse, re-identification, warrant circumvention, and sale for dangerous purposes. A rule built around consent theater will block legitimate uses and still be gamed by the firms best at harvesting clicks.”
+
+**PRO rebuttal:**
+
+> “CON's alternative is use-based restrictions — prohibit bad purposes, permit good ones. But those restrictions face exactly the same enforcement problem, without giving any individual a point of control... The proposition picks the enforceable option.”
+
+**CON rebuttal:**
+
+> “PRO’s central move is to treat a captured click as privacy protection. It is not... Once the checkbox is obtained, the sale is lawful. So their rule does not stop the abuse; it launders it through a permission screen.”
+
+</details>
+
+---
+
+## Method Summary
+
+### Topics
+
+The benchmark draws from a large proposition bank intended to be understandable to an informed generalist while still varied enough to expose real differences between models. Topics are not limited to the safest generic policy prompts; the set includes empirical, normative, geopolitical, technological, and social disputes.
+
+The working bank is intentionally broad. That matters because debate performance can be very topic-sensitive, and a narrow prompt family would make it too easy for models to overfit to one style of argument.
+
+### Debate execution
+
+For a selected model pair and topic:
+
+1. The two models debate the proposition in a multi-turn format.
+2. The same pair then debates the same proposition again with the sides reversed.
+3. Both full debate transcripts are stored.
+
+### Judging
+
+Each completed debate is judged by a three-model panel. The raw judge outputs are retained, then parsed into structured winner, margin, and diagnostic rubric fields. The rubric sub-scores are useful diagnostics, but the main published ranking comes from the final side-swapped matchup outcome, not from directly averaging rubric categories into the leaderboard.
+
+The current judge roster in this snapshot is drawn from **Claude Sonnet 4.6 (high reasoning)**, **GPT-5.4 (high reasoning)**, **Gemini 3.1 Pro Preview**, **Grok 4.20 Beta 0309 (Reasoning)**, **Qwen3.5-397B-A17B**, and **Kimi K2.5 Thinking**, with some earlier carried-over rows from **MiniMax-M2.7** in the cumulative judge scope.
+
+### Aggregation
+
+The headline ranking is Bradley-Terry over completed side-swapped matchups. This is the best single published order for this benchmark because it is directly tied to paired outcomes. Glicko-2 remains useful for live scheduling and uncertainty, but Bradley-Terry is the public reference table.
+
+### Current benchmark health
+
+The current snapshot is large enough to be informative and coherent enough to interpret:
+
+- judged outputs rebuilt cleanly with zero canonical parse warnings
+- every active participant has completed debates and a rating
+- every active judge has judgments in scope
+
+These are maintenance-style metrics, but they matter. A benchmark can produce attractive charts while still resting on fragile evaluation plumbing. This one is currently in better shape than that.
+
+---
+
+## Limits and caveats
+
+- This is still a **live benchmark**, not a frozen final release.
+- It uses **LLM judges**, not human judges, though the design reduces noise with side swaps, multiple judges, stored raw outputs, and agreement diagnostics.
+- Some models are affected meaningfully by **availability and content-filter behavior**, which is why operational reliability is tracked alongside quality.
+- Debate is only one capability slice. It is a rich one, but it is not the whole story about model usefulness.
+- The current judge scope is cumulative and still evolving, and this published rolling snapshot spans a live judge-prompt refresh inside the same template scope. It should be read as a strong live snapshot rather than a frozen historical release.
+- The current published snapshot is rebuilt from the clean filtered slice of that rolling judge scope, so the leaderboard and status counts intentionally differ from the cumulative raw judgment CSV linked below.
+
+For that reason, the most defensible reading is: this benchmark measures which models currently look strongest at **sustained, adversarial, multi-turn argumentation** under this setup.
+
+---
+
+## Full Artifacts
+
+- [Current leaderboard markdown](reports/debate_leaderboard__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
+- [Current benchmark status](reports/debate_benchmark_status__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
+- [Current model profiles](reports/debate_model_profiles__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
+- [Current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
+- [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current strength-vs-reliability chart](images/debate_strength_vs_reliability__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current strength-vs-content-blocks chart](images/debate_content_block_vs_strength__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current judge-agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current strength-vs-entertainment chart](images/debate_strength_vs_entertainment__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [All clean completed debate transcripts in the current debate scope](transcripts/)
+- [Current rolling raw judgment table (CSV)](judgments/judge_results__judge_active_20260321b.csv)
+- [Current rolling raw judgment rows (JSONL)](judgments/judge_results__judge_active_20260321b.jsonl)
+
+## Related Benchmarks
+
+This benchmark sits alongside other public LLM evaluations that probe different failure modes and capabilities:
+
+- [LLM Sycophancy Benchmark](https://github.com/lechmazur/sycophancy) — opposite-narrator contradictions and narrator-following bias
+- [Thematic Generalization Benchmark](https://github.com/lechmazur/generalization) — latent-category induction from examples and counterexamples
+- [Creative Writing Benchmark](https://github.com/lechmazur/writing) — short-story quality under fixed required elements
+- [Auction Benchmark](https://github.com/lechmazur/auction) — bargaining and emergent collusion in a simulated bidding environment
+- [Diplomat](https://github.com/lechmazur/diplomat) — multi-agent public negotiation with private move selection
+- [Elimination Game](https://github.com/lechmazur/elimination_game) — alliance formation, deception, and jury persuasion
+- [Extended Connections](https://github.com/lechmazur/nyt-connections) — harder category induction with extra distractor words
+
+Debate is the one in this group most directly about **adversarial reasoning with an active opponent**.
+
+---
+
+## Updates
+
+- `2026-03-22`: First release. **21 rated models**, **1,162 completed debates in the debate scope**, **552 rated side-swapped matchups in the clean aggregated slice**, **3,424 clean parsed judgment rows**.
+
+---
