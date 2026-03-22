@@ -287,6 +287,31 @@ The benchmark draws from a large proposition bank intended to be understandable 
 
 The working bank is intentionally broad. That matters because debate performance can be very topic-sensitive, and a narrow prompt family would make it too easy for models to overfit to one style of argument.
 
+The current curated keep bank contains **683** topics. The current debate scope has touched **590** distinct topics, and **552** of those are in the current clean rated slice after incomplete and quarantined side-swapped groups are excluded.
+
+Top-level topic coverage in the current bank and evaluated slice:
+
+| Domain | Curated bank | Topics seen in current debate scope | Topics in clean rated slice |
+| --- | ---: | ---: | ---: |
+| Law / regulation / courts | 135 | 115 | 106 |
+| Labor / education / social policy | 122 | 109 | 102 |
+| Media / culture / internet | 111 | 101 | 96 |
+| Macro / trade / industrial policy | 108 | 87 | 79 |
+| Health / bioethics | 65 | 58 | 55 |
+| Energy / climate / infrastructure | 49 | 37 | 35 |
+| Science / space / frontier tech | 34 | 31 | 30 |
+| Geopolitics / defense / security | 24 | 23 | 22 |
+| Business / antitrust / market structure | 28 | 22 | 21 |
+| AI / tech policy | 7 | 7 | 6 |
+
+Question-type coverage:
+
+| Question type | Curated bank | Topics seen in current debate scope | Topics in clean rated slice |
+| --- | ---: | ---: | ---: |
+| mixed | 466 | 398 | 371 |
+| normative | 151 | 136 | 126 |
+| empirical | 66 | 56 | 55 |
+
 ### Debate execution
 
 For a selected model pair and topic:
