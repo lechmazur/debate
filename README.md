@@ -186,28 +186,96 @@ In the current clean slice, **Xiaomi MiMo V2 Pro** is the clear outlier at **10.
 The scatter is useful because it separates "strong but occasionally brittle" from "strong and operationally clean." **Xiaomi MiMo V2 Pro** is the clearest upper-right outlier. **Kimi K2.5 Thinking** and **Grok 4.20 Beta 0309 (Non-Reasoning)** also show visible content-block exposure, while most frontier models cluster in the lower-right with much lower block rates.
 
 ---
-## Worked Example
+## Worked Examples
 
 <details>
 <summary>Claude Sonnet 4.6 (high reasoning) vs GPT-5.4 (high reasoning) on banning location-data sales</summary>
 
 **Motion:** Governments should prohibit data brokers from selling individuals’ precise location data without explicit, time-limited opt-in consent.
 
-**PRO opening, Claude Sonnet 4.6 (high reasoning):**
+**Full transcripts:**
 
-> “Precise location data is the most intimate data stream that exists about a person... When data brokers package and sell this information without any meaningful consent... they are handing strangers a surveillance capability that no individual ever agreed to provide.”
+- [Debate A: Claude Sonnet 4.6 (high reasoning) as PRO, GPT-5.4 (high reasoning) as CON](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md)
+- [Debate B: GPT-5.4 (high reasoning) as PRO, Claude Sonnet 4.6 (high reasoning) as CON](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
+- [Current rolling judgment rows (search for `prop_0541`)](judgments/judge_results__judge_active_20260321b.csv)
 
-**CON opening, GPT-5.4 (high reasoning):**
+**Judge panel on both side-swapped debates:** Gemini 3.1 Pro Preview, Grok 4.20 Beta 0309 (Reasoning), and Qwen3.5-397B-A17B.
 
-> “Nobody disputes that precise location can be deeply sensitive. The dispute is over remedy... The real problems are abuse, re-identification, warrant circumvention, and sale for dangerous purposes. A rule built around consent theater will block legitimate uses and still be gamed by the firms best at harvesting clicks.”
+**Judged result:**
 
-**PRO rebuttal:**
+- Debate A (`Claude PRO / GPT CON`): split **2-1** for **Claude Sonnet 4.6 (high reasoning)**, with judge entertainment scores `9`, `7`, and `8`
+- Debate B (`GPT PRO / Claude CON`): **3-0** for **GPT-5.4 (high reasoning)**, with judge entertainment scores `8`, `7`, and `8`
+- Across both side assignments: **GPT-5.4 (high reasoning)** won **4 of 6** judge votes overall
+- Mean entertainment across the full side-swapped pair: **7.83 / 10**
+- Average absolute judged margin across the six judge rows: **1.4**
 
-> “CON's alternative is use-based restrictions — prohibit bad purposes, permit good ones. But those restrictions face exactly the same enforcement problem, without giving any individual a point of control... The proposition picks the enforceable option.”
+This is a good example of why the benchmark uses side-swapped relative judgments instead of a one-shot absolute score. One assignment was close and slightly favored Claude; the rematch, with roles reversed, favored GPT more clearly.
 
-**CON rebuttal:**
+**Debate structure in this benchmark:**
 
-> “PRO’s central move is to treat a captured click as privacy protection. It is not... Once the checkbox is obtained, the sale is lawful. So their rule does not stop the abuse; it launders it through a permission screen.”
+1. PRO opening
+2. CON opening
+3. PRO rebuttal 1
+4. CON rebuttal 1
+5. PRO pressure questions
+6. CON pressure questions
+7. PRO rebuttal 2
+8. CON rebuttal 2
+9. PRO closing
+10. CON closing
+
+**Round-by-round sketch from Debate A (`Claude PRO / GPT CON`):**
+
+1. **PRO opening:** Claude frames precise location as uniquely intimate surveillance data and argues that broker resale turns private life into something strangers can buy.
+2. **CON opening:** GPT accepts the privacy harm but attacks the mechanism, arguing that the real target should be abusive downstream use rather than consent paperwork.
+3. **PRO rebuttal 1:** Claude tries to make enforceability central, claiming explicit consent creates a clear legal baseline while pure use-based restrictions push everything into after-the-fact reconstruction.
+4. **CON rebuttal 1:** GPT’s strongest reply is that a captured click is not meaningful protection. Once the checkbox is obtained, the sale is lawful, so the harms Claude named can still occur.
+5. **PRO pressure questions:** Claude presses on who would enforce use-based rules and why the answer to dark-patterned consent is not stronger consent law plus anti-bundling constraints.
+6. **CON pressure questions:** GPT targets the motion’s weak point by asking whether “analytics intermediary” carve-outs still allow raw upstream transfers and what “time-limited” consent changes after a sale already happens.
+7. **PRO rebuttal 2:** Claude answers that upstream transfers are still covered, the sale must state a specific purpose, and consent should be read as a floor rather than the whole privacy regime.
+8. **CON rebuttal 2:** GPT argues those answers concede both porosity and redundancy: if broad labels like analytics are enough, the rule is easy to route around; if harmful-use bans are still needed, those bans are doing the real work.
+9. **PRO closing:** Claude reduces the round to the default legal setting: under the proposition, resale is presumptively blocked unless a person explicitly says yes.
+10. **CON closing:** GPT closes by reframing the motion as a paperwork-first rule that powerful interfaces can satisfy while the truly dangerous downstream buyers still require separate restrictions.
+
+**What changes in the side-swapped rematch (`GPT PRO / Claude CON`):**
+
+- GPT’s PRO case is cleaner when it gets to argue directly for the proposition rather than attack it. The rematch lets it frame the motion as a narrow default shift against invisible resale.
+- Claude’s CON case becomes sharper on the idea that consent is a compliance ritual, not a real screen on buyer identity or downstream misuse.
+- That role reversal is exactly why the second debate matters. Good models can often argue both sides coherently, but they do not do so equally well.
+
+</details>
+
+<details>
+<summary>GPT-5.4 (high reasoning) vs Llama 4 Maverick on forced-sterilization redress</summary>
+
+**Motion:** Countries should provide stronger compensation and archival access to survivors and descendants of forced-sterilization programs rather than treat those abuses as closed chapters.
+
+**Full transcripts:**
+
+- [Debate A: GPT-5.4 (high reasoning) as PRO, Llama 4 Maverick as CON](transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md)
+- [Debate B: Llama 4 Maverick as PRO, GPT-5.4 (high reasoning) as CON](transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
+- [Current rolling judgment rows (search for `prop_0214`)](judgments/judge_results__judge_active_20260321b.csv)
+
+**Judge panel on both side-swapped debates:** Claude Sonnet 4.6 (high reasoning), Kimi K2.5 Thinking, and Qwen3.5-397B-A17B.
+
+**Judged result:**
+
+- Debate A (`GPT PRO / Llama CON`): **3-0** for **GPT-5.4 (high reasoning)**, with entertainment scores `5`, `6`, and `5`
+- Debate B (`Llama PRO / GPT CON`): **3-0** for **GPT-5.4 (high reasoning)**, with entertainment scores `6`, `7`, and `7`
+- Across both side assignments: **GPT-5.4 (high reasoning)** won **all 6 of 6** judge votes
+- Mean entertainment across the full side-swapped pair: **6.0 / 10**
+- Average absolute judged margin across the six judge rows: **2.6**
+
+This is a cleaner blowout than the location-data example above. The better debater stays better as PRO and as CON, which is what a real benchmark gap should look like.
+
+**Why this one was decisive:**
+
+- In Debate A, GPT's PRO case is concrete from the start: the injury is ongoing, compensation is redress rather than charity, and archival access is part of proving what happened rather than just symbolic acknowledgment.
+- Llama's CON case is morally sympathetic but more diffuse. It leans on complexity, resource diversion, and re-traumatization concerns without landing an equally sharp mechanism for why compensation and archive access are the wrong response.
+- In the rematch, Llama's PRO case is serviceable but generic. GPT's CON case is much more pointed: descendant compensation becomes open-ended, privacy harms from broader file access become concrete, and the administrative line-drawing problem stays central through rebuttal and closing.
+- The side swap still matters, but it does not change the ranking. GPT wins both assignments unanimously, so this pair reads much more like a stable separation than a frontier toss-up.
+
+Taken together, the two examples show why the benchmark runs each matchup twice. Sometimes side-swapping reveals a genuinely close contest between elite models. Sometimes it confirms that the stronger debater is simply stronger on either side of the motion.
 
 </details>
 
