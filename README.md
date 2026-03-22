@@ -361,13 +361,13 @@ For that reason, the most defensible reading is: this benchmark measures which m
 
 This benchmark sits alongside other public LLM evaluations that probe different failure modes and capabilities:
 
-- [LLM Sycophancy Benchmark](https://github.com/lechmazur/sycophancy) — opposite-narrator contradictions and narrator-following bias
-- [Thematic Generalization Benchmark](https://github.com/lechmazur/generalization) — latent-category induction from examples and counterexamples
-- [Creative Writing Benchmark](https://github.com/lechmazur/writing) — short-story quality under fixed required elements
-- [Auction Benchmark](https://github.com/lechmazur/auction) — bargaining and emergent collusion in a simulated bidding environment
+- [LLM Sycophancy Benchmark](https://github.com/lechmazur/sycophancy/) — opposite-narrator contradictions and narrator-following bias
+- [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/) — latent-category induction from examples and counterexamples
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing/) — short-story quality under fixed required elements
+- [BAZAAR: Auction Market Benchmark](https://github.com/lechmazur/bazaar/) — strategic bidding in a competitive simulated market
 - [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/) — multi-agent public conversation before private move selection
-- [Elimination Game](https://github.com/lechmazur/elimination_game) — alliance formation, deception, and jury persuasion
-- [Extended Connections](https://github.com/lechmazur/nyt-connections) — harder category induction with extra distractor words
+- [Elimination Game: Social Reasoning and Deception in Multi-Agent LLMs](https://github.com/lechmazur/elimination_game/) — alliance formation, deception, and jury persuasion
+- [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/) — harder category induction with extra distractor words
 
 Debate is the one in this group most directly about **adversarial reasoning with an active opponent**.
 
