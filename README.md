@@ -326,20 +326,6 @@ Each completed debate is judged by a three-model panel. The raw judge outputs ar
 
 The current judge roster in this snapshot is drawn from **Claude Sonnet 4.6 (high reasoning)**, **GPT-5.4 (high reasoning)**, **Gemini 3.1 Pro Preview**, **Grok 4.20 Beta 0309 (Reasoning)**, **Qwen3.5-397B-A17B**, and **Kimi K2.5 Thinking**, with some earlier carried-over rows from **MiniMax-M2.7** in the cumulative judge scope.
 
-### Aggregation
-
-The headline ranking is Bradley-Terry over completed side-swapped matchups. This is the best single published order for this benchmark because it is directly tied to paired outcomes. Glicko-2 remains useful for live scheduling and uncertainty, but Bradley-Terry is the public reference table.
-
-### Current benchmark health
-
-The current snapshot is large enough to be informative and coherent enough to interpret:
-
-- judged outputs rebuilt cleanly with zero canonical parse warnings
-- every active participant has completed debates and a rating
-- every active judge has judgments in scope
-
-These are maintenance-style metrics, but they matter. A benchmark can produce attractive charts while still resting on fragile evaluation plumbing. This one is currently in better shape than that.
-
 ---
 
 ## Limits and caveats
