@@ -365,7 +365,7 @@ This benchmark sits alongside other public LLM evaluations that probe different 
 - [Thematic Generalization Benchmark](https://github.com/lechmazur/generalization) — latent-category induction from examples and counterexamples
 - [Creative Writing Benchmark](https://github.com/lechmazur/writing) — short-story quality under fixed required elements
 - [Auction Benchmark](https://github.com/lechmazur/auction) — bargaining and emergent collusion in a simulated bidding environment
-- [Diplomat](https://github.com/lechmazur/diplomat) — multi-agent public negotiation with private move selection
+- [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/) — multi-agent public conversation before private move selection
 - [Elimination Game](https://github.com/lechmazur/elimination_game) — alliance formation, deception, and jury persuasion
 - [Extended Connections](https://github.com/lechmazur/nyt-connections) — harder category induction with extra distractor words
 
