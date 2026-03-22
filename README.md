@@ -25,7 +25,6 @@ Each evaluated matchup runs twice on the **same topic with sides swapped**. A th
 - **1,162 completed debates in the current debate scope**
 - **552 rated side-swapped matchups in the clean aggregated slice**
 - **3,424 clean parsed judgment rows in that slice**
-- **91.2 mean availability score**
 
 ---
 
@@ -64,42 +63,41 @@ This matters because debate ability can look very different on fiscal policy, ci
 
 ### Current full leaderboard
 
-| Rank | Model | BT | Avail | Adj BT | Matchups |
-| ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | Claude Sonnet 4.6 (high reasoning) | 1617.5 | 90.8 | 1468.8 | 79 |
-| 2 | GPT-5.4 (high reasoning) | 1610.5 | 95.2 | 1533.8 | 78 |
-| 3 | Claude Opus 4.6 (high reasoning) | 1605.6 | 95.0 | 1525.4 | 74 |
-| 4 | Claude Sonnet 4.6 (no reasoning) | 1600.4 | 94.3 | 1509.5 | 83 |
-| 5 | Gemini 3.1 Pro Preview | 1599.0 | 88.9 | 1421.4 | 64 |
-| 6 | GLM-5 | 1594.6 | 61.4 | 979.8 | 38 |
-| 7 | Claude Opus 4.6 (no reasoning) | 1589.9 | 96.4 | 1533.1 | 81 |
-| 8 | Kimi K2.5 Thinking | 1561.5 | 92.0 | 1437.3 | 81 |
-| 9 | GPT-5.4 (no reasoning) | 1552.6 | 95.8 | 1488.0 | 92 |
-| 10 | ByteDance Seed2.0 Pro | 1551.9 | 100.0 | 1551.9 | 60 |
-| 11 | MiniMax-M2.7 | 1520.9 | 94.4 | 1436.4 | 50 |
-| 12 | Grok 4.20 Beta 0309 (Reasoning) | 1511.1 | 96.0 | 1450.6 | 46 |
-| 13 | Qwen3.5-397B-A17B | 1508.7 | 91.7 | 1382.9 | 42 |
-| 14 | Grok 4.20 Beta 0309 (Non-Reasoning) | 1480.4 | 92.5 | 1369.4 | 36 |
-| 15 | Xiaomi MiMo V2 Pro | 1476.0 | 60.4 | 891.7 | 28 |
-| 16 | Deepseek V3.2 | 1469.2 | 92.5 | 1359.0 | 37 |
-| 17 | Gemini 3.1 Flash-Lite Preview | 1456.1 | 91.7 | 1334.7 | 31 |
-| 18 | GPT-OSS-120B | 1370.5 | 100.0 | 1370.5 | 32 |
-| 19 | Baidu Ernie 5.0 | 1360.6 | 100.0 | 1360.6 | 16 |
-| 20 | Mistral Large 3 | 1330.1 | 89.3 | 1187.5 | 25 |
-| 21 | Llama 4 Maverick | 1132.9 | 96.9 | 1097.5 | 31 |
+| Rank | Model | BT | Matchups |
+| ---: | --- | ---: | ---: |
+| 1 | Claude Sonnet 4.6 (high reasoning) | 1617.5 | 79 |
+| 2 | GPT-5.4 (high reasoning) | 1610.5 | 78 |
+| 3 | Claude Opus 4.6 (high reasoning) | 1605.6 | 74 |
+| 4 | Claude Sonnet 4.6 (no reasoning) | 1600.4 | 83 |
+| 5 | Gemini 3.1 Pro Preview | 1599.0 | 64 |
+| 6 | GLM-5 | 1594.6 | 38 |
+| 7 | Claude Opus 4.6 (no reasoning) | 1589.9 | 81 |
+| 8 | Kimi K2.5 Thinking | 1561.5 | 81 |
+| 9 | GPT-5.4 (no reasoning) | 1552.6 | 92 |
+| 10 | ByteDance Seed2.0 Pro | 1551.9 | 60 |
+| 11 | MiniMax-M2.7 | 1520.9 | 50 |
+| 12 | Grok 4.20 Beta 0309 (Reasoning) | 1511.1 | 46 |
+| 13 | Qwen3.5-397B-A17B | 1508.7 | 42 |
+| 14 | Grok 4.20 Beta 0309 (Non-Reasoning) | 1480.4 | 36 |
+| 15 | Xiaomi MiMo V2 Pro | 1476.0 | 28 |
+| 16 | Deepseek V3.2 | 1469.2 | 37 |
+| 17 | Gemini 3.1 Flash-Lite Preview | 1456.1 | 31 |
+| 18 | GPT-OSS-120B | 1370.5 | 32 |
+| 19 | Baidu Ernie 5.0 | 1360.6 | 16 |
+| 20 | Mistral Large 3 | 1330.1 | 25 |
+| 21 | Llama 4 Maverick | 1132.9 | 31 |
 
-`Avail` is the benchmark’s availability score, and `Adj BT` is the Bradley-Terry rating after discounting for operational unreliability. That adjusted view is not the headline ranking, but it is useful because some models debate well only when they actually make it through the run.
+`BT` is the headline Bradley-Terry rating. `Matchups` is the number of completed side-swapped matchups for that model in the clean aggregated slice.
 
 ---
 
 
 ## What Stands Out
 
-The current picture is: a crowded frontier, family-dependent reasoning gains, and meaningful reliability penalties for some otherwise capable debaters.
+The current picture is: a crowded frontier, family-dependent reasoning gains, and clearer separation in the lower half of the field than at the top.
 
-- **The frontier is real, but not settled.** The strongest current raw-BT cluster is **Claude Sonnet 4.6 (high reasoning)**, **GPT-5.4 (high reasoning)**, **Claude Opus 4.6 (high reasoning)**, **Claude Sonnet 4.6 (no reasoning)**, **Gemini 3.1 Pro Preview**, and **GLM-5**. That group is still close enough that more data could reshuffle the middle, though **GLM-5** remains a special case because its availability penalty is severe.
+- **The frontier is real, but not settled.** The strongest current BT cluster is **Claude Sonnet 4.6 (high reasoning)**, **GPT-5.4 (high reasoning)**, **Claude Opus 4.6 (high reasoning)**, **Claude Sonnet 4.6 (no reasoning)**, **Gemini 3.1 Pro Preview**, and **GLM-5**. That group is still close enough that more data could reshuffle the middle, especially because some of those models still have fewer completed matchups than others.
 - **Reasoning mode is helping, but the size of the gain depends heavily on the family.** In the current snapshot, **GPT-5.4 high reasoning** beats **GPT-5.4 no reasoning** by about `58` BT points, **Grok reasoning** beats **Grok non-reasoning** by about `31`, **Claude Opus 4.6 high reasoning** beats **Claude Opus 4.6 no reasoning** by about `16`, and **Claude Sonnet 4.6 high reasoning** beats **Claude Sonnet 4.6 no reasoning** by about `17`.
-- **Reliability is materially changing how some models should be read.** **GLM-5** and **Xiaomi MiMo V2 Pro** are the clearest examples: both have respectable raw BT but severe availability penalties. **Gemini 3.1 Pro Preview**, **Claude Sonnet 4.6 (high reasoning)**, **Mistral Large 3**, **Qwen3.5-397B-A17B**, and **Kimi K2.5 Thinking** also take visible hits once incomplete and errored debates are priced in.
 - **Judges are rewarding rebuttal quality and argument strength more than isolated style.** The top cluster is repeatedly described in the model profiles as **disciplined, grounded, clash-driven, and responsive**. Lower-ranked models often retain some mix of **grounding**, **originality**, or **rhetorical effectiveness**, but still lose because they underperform on **rebuttal quality** and **argument strength**.
 - **The clearest current blowouts are mostly in the lower part of the field, not at the frontier.** The largest average pairwise edges are concentrated against **Llama 4 Maverick**: **Claude Opus 4.6 (high reasoning)** over **Llama 4 Maverick** at `+3.10`, **Kimi K2.5 Thinking** over **Llama 4 Maverick** at `+2.96`, and **GPT-5.4 (high reasoning)** over **Llama 4 Maverick** at `+2.75`. That is another way of seeing that the bottom of the table is more separated than the top.
 
@@ -339,7 +337,6 @@ For that reason, the most defensible reading is: this benchmark measures which m
 - [Current model profiles](reports/debate_model_profiles__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
-- [Current strength-vs-reliability chart](images/debate_strength_vs_reliability__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current strength-vs-content-blocks chart](images/debate_content_block_vs_strength__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
