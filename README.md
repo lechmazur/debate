@@ -347,7 +347,6 @@ For that reason, the most defensible reading is: this benchmark measures which m
 - [Current benchmark status](reports/debate_benchmark_status__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current model profiles](reports/debate_model_profiles__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
-- Optional post-run transcript highlights can be built with `run_debate_highlights.py`, which writes `stats/debate_highlights__<scope>__<analysis_model>.csv` and `reports/debate_highlights__<scope>__<analysis_model>.md`
 - [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current strength-vs-content-blocks chart](images/debate_content_block_vs_strength__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
