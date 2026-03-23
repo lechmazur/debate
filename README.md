@@ -209,8 +209,8 @@ The scatter is useful because it separates "strong but occasionally brittle" fro
 
 If you want to jump straight into transcript pairs that are especially worth reading:
 
-- **Frontier matchup:** **Claude Sonnet 4.6 (high reasoning)** vs **GPT-5.4 (high reasoning)** on banning location-data sales. This is one of the best current top-tier matchups to read because the topic is strong, the execution is strong, and the side swap materially changes the picture. Mean entertainment across the pair: **7.83 / 10**. Read [Debate A](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md) and [Debate B](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md).
-- **Most quotable current pair:** **MiniMax-M2.7** vs **Qwen3.5-397B-A17B** on algorithmic dynamic pricing. This is the sharpest current read if you want memorable lines rather than just benchmark hygiene, and it is essentially a dead heat with mean normalized margin **0.06**. Read [Debate A](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md) and [Debate B](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md).
+- **Frontier matchup:** **Claude Sonnet 4.6 (high reasoning)** vs **GPT-5.4 (high reasoning)** on banning location-data sales. This is one of the best current top-tier matchups to read because the topic is strong, the execution is strong, and the side swap materially changes the picture. Mean entertainment across the pair: **7.83 / 10**. Read [Debate A](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0541-claude-sonnet-4-6-adaptive-vs-gpt-5.4-high.md).
+- **Most quotable current pair:** **MiniMax-M2.7** vs **Qwen3.5-397B-A17B** on algorithmic dynamic pricing. This is the sharpest current read if you want memorable lines rather than just benchmark hygiene, and it is essentially a dead heat with mean normalized margin **0.06**. Read [Debate A](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md).
 
 <details>
 <summary>Claude Sonnet 4.6 (high reasoning) vs GPT-5.4 (high reasoning) on banning location-data sales</summary>
@@ -221,6 +221,7 @@ If you want to jump straight into transcript pairs that are especially worth rea
 
 - [Debate A: Claude Sonnet 4.6 (high reasoning) as PRO, GPT-5.4 (high reasoning) as CON](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md)
 - [Debate B: GPT-5.4 (high reasoning) as PRO, Claude Sonnet 4.6 (high reasoning) as CON](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
+- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0541-claude-sonnet-4-6-adaptive-vs-gpt-5.4-high.md)
 - [Current rolling judgment rows (search for `prop_0541`)](judgments/judge_results__judge_active_20260321b.csv)
 
 **Judge panel on both side-swapped debates:** Gemini 3.1 Pro Preview, Grok 4.20 Beta 0309 (Reasoning), and Qwen3.5-397B-A17B.
@@ -278,6 +279,7 @@ This is a good example of why the benchmark uses side-swapped relative judgments
 
 - [Debate A: GPT-5.4 (high reasoning) as PRO, Llama 4 Maverick as CON](transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md)
 - [Debate B: Llama 4 Maverick as PRO, GPT-5.4 (high reasoning) as CON](transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
+- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0214-gpt-5.4-high-vs-llama4-maverick.md)
 - [Current rolling judgment rows (search for `prop_0214`)](judgments/judge_results__judge_active_20260321b.csv)
 
 **Judge panel on both side-swapped debates:** Claude Sonnet 4.6 (high reasoning), Kimi K2.5 Thinking, and Qwen3.5-397B-A17B.
@@ -374,6 +376,7 @@ For that reason, the most defensible reading is: this benchmark measures which m
 - [Current benchmark status](reports/debate_benchmark_status__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current model profiles](reports/debate_model_profiles__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
+- [Current matchup judgment index](reports/debate_matchup_judgments__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current highlights report](reports/debate_highlights__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-low.md)
 - [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)

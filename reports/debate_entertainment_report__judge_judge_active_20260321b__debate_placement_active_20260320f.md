@@ -1,28 +1,28 @@
 # Debate Entertainment Report
 
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
-- generated_at: `2026-03-22T15:25:03.641611+00:00`
+- generated_at: `2026-03-23T05:22:56.954299+00:00`
 - This report uses the judge-side entertainment diagnostic (`<fun>`) as a readability / engagement signal only. It does not affect ratings.
 
 ## Snapshot
 
-- mean entertainment across complete side-swap matchups: `7.09` / `10`
+- mean entertainment across complete side-swap matchups: `7.07` / `10`
 - models with entertainment signal: `21`
-- complete matchups with entertainment signal: `552`
-- topics with entertainment signal: `552`
+- complete matchups with entertainment signal: `565`
+- topics with entertainment signal: `565`
 
 ## Most Entertaining Models
 
 1. `Claude Sonnet 4.6 (high reasoning)`  Mean fun `7.31` / `10` across `79` pair groups and `79` topics. It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 2. `Claude Sonnet 4.6 (no reasoning)`  Mean fun `7.29` / `10` across `83` pair groups and `83` topics. It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 3. `Kimi K2.5 Thinking`  Mean fun `7.27` / `10` across `81` pair groups and `81` topics. It currently reads as clash-driven and responsive, clear and persuasive, and inventive in framing.
-4. `Claude Opus 4.6 (high reasoning)`  Mean fun `7.26` / `10` across `74` pair groups and `74` topics. It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
+4. `Claude Opus 4.6 (high reasoning)`  Mean fun `7.24` / `10` across `76` pair groups and `76` topics. It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 5. `Claude Opus 4.6 (no reasoning)`  Mean fun `7.20` / `10` across `81` pair groups and `81` topics. It currently reads as clash-driven and responsive.
-6. `MiniMax-M2.7`  Mean fun `7.16` / `10` across `50` pair groups and `50` topics. Style signal is still mixed in this shard.
-7. `GPT-5.4 (high reasoning)`  Mean fun `7.13` / `10` across `78` pair groups and `78` topics. It currently reads as disciplined and grounded, clash-driven and responsive, and inventive in framing.
+6. `MiniMax-M2.7`  Mean fun `7.12` / `10` across `51` pair groups and `51` topics. Style signal is still mixed in this shard.
+7. `GPT-5.4 (high reasoning)`  Mean fun `7.10` / `10` across `80` pair groups and `80` topics. It currently reads as disciplined and grounded, clash-driven and responsive, and inventive in framing.
 8. `Gemini 3.1 Pro Preview`  Mean fun `7.09` / `10` across `64` pair groups and `64` topics. It currently reads as clash-driven and responsive, and clear and persuasive.
-9. `Qwen3.5-397B-A17B`  Mean fun `7.09` / `10` across `42` pair groups and `42` topics. Style signal is still mixed in this shard.
-10. `Grok 4.20 Beta 0309 (Reasoning)`  Mean fun `7.09` / `10` across `46` pair groups and `46` topics. Style signal is still mixed in this shard.
+9. `Qwen3.5-397B-A17B`  Mean fun `7.08` / `10` across `44` pair groups and `44` topics. Style signal is still mixed in this shard.
+10. `Grok 4.20 Beta 0309 (Non-Reasoning)`  Mean fun `7.02` / `10` across `37` pair groups and `37` topics. Style signal is still mixed in this shard.
 
 ## Most Entertaining Matchups
 
@@ -54,10 +54,10 @@
 
 These averages are diagnostic only and help show how different judges tend to use the fun scale.
 
-- `gemini-3.1-pro-preview` (`4`): mean fun `7.91` / `10` across `622` rows.
-- `qwen3.5-397b-a17b` (`6`): mean fun `7.28` / `10` across `701` rows.
-- `gpt-5.4-high` (`1`): mean fun `6.98` / `10` across `482` rows.
-- `kimi-k2.5` (`16`): mean fun `6.97` / `10` across `520` rows.
-- `minimax-m2.7` (`12`): mean fun `6.84` / `10` across `103` rows.
-- `grok-4.20-beta-0309-reasoning` (`9`): mean fun `6.66` / `10` across `654` rows.
-- `claude-sonnet-4-6-adaptive` (`2`): mean fun `6.44` / `10` across `342` rows.
+- `gemini-3.1-pro-preview` (`4`): mean fun `7.90` / `10` across `632` rows.
+- `qwen3.5-397b-a17b` (`6`): mean fun `7.23` / `10` across `713` rows.
+- `kimi-k2.5` (`16`): mean fun `6.97` / `10` across `522` rows.
+- `gpt-5.4-high` (`1`): mean fun `6.94` / `10` across `494` rows.
+- `minimax-m2.7` (`12`): mean fun `6.79` / `10` across `112` rows.
+- `grok-4.20-beta-0309-reasoning` (`9`): mean fun `6.64` / `10` across `664` rows.
+- `claude-sonnet-4-6-adaptive` (`2`): mean fun `6.42` / `10` across `347` rows.
