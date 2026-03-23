@@ -45,6 +45,16 @@ Another reason debate is useful is that it makes different failure modes visible
 
 ---
 
+## Pairwise View
+
+The pairwise heatmap shows how models perform against each other after aggregation across completed, side-swapped matchups. This is useful because a single scalar leaderboard always hides some structure. A model can be strong overall while still having a few specific bad matchups.
+
+![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+The heatmap is most useful as a quick read on where the field is decisively separated and where it still is not. In the current snapshot, the biggest clean edges are mostly against **Llama 4 Maverick**, while the top cluster remains much tighter.
+
+---
+
 ## Representative Motions
 
 The benchmark is broad rather than narrowly optimized around one policy template. A few current motions give a good sense of the range:
@@ -119,15 +129,6 @@ So the headline unit is not “one debate,” but “one completed side-swapped 
 
 ---
 
-## Pairwise View
-
-The pairwise heatmap shows how models perform against each other after aggregation across completed, side-swapped matchups. This is useful because a single scalar leaderboard always hides some structure. A model can be strong overall while still having a few specific bad matchups.
-
-![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
-
-The heatmap is most useful as a quick read on where the field is decisively separated and where it still is not. In the current snapshot, the biggest clean edges are mostly against **Llama 4 Maverick**, while the top cluster remains much tighter.
-
----
 
 ## Judge Sanity Checks
 
@@ -168,6 +169,25 @@ This signal is diagnostic rather than decisive, but it helps show that the bench
 ![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 
 Read against the main strength rating, this view separates three cases that a single leaderboard hides: models that are strong and lively, models that are strong but comparatively dry, and models that are readable or vivid without being top-tier debaters. Entertainment still stays diagnostic only; it does not feed the rating.
+
+---
+
+## Best Lines
+
+The current transcript-highlights pass also surfaces lines that are worth quoting in their own right. A few of the strongest from the current scope:
+
+1. **Encryption backdoors**, Claude Sonnet 4.6 (no reasoning): *"Children don't disappear in percentages. They disappear one at a time, in exactly these cases."*
+2. **Historic-district housing**, GPT-5.4 (high reasoning): *"If preservation wins even there, then it is not stewardship; it is exclusion protected by aesthetics."*
+3. **Four-day workweek**, Gemini 3.1 Pro Preview: *"We do not subsidize cheap goods with exhausted labor."*
+4. **Prescription-drug advertising**, Claude Opus 4.6 (no reasoning): *"You don't build the bridge while the ferry company lobbies to keep its monopoly."*
+5. **Homelessness as housing vs policing**, Claude Sonnet 4.6 (high reasoning): *"A city that clears the same encampment twelve times a year is not governing effectively; it is performing governance."*
+6. **Medical autonomy vs dignity**, Claude Opus 4.6 (high reasoning): *"A conception of dignity that can be enforced against your will over your own body is just domination with better vocabulary."*
+7. **The euro and European solidarity**, Qwen3.5-397B-A17B: *"Politically, the Euro is not glue; it is acid."*
+8. **NDAs and workplace abuse**, GPT-5.4 (no reasoning): *"That is not a shield for victims. It is a shield against victims."*
+9. **Algorithmic dynamic pricing**, Qwen3.5-397B-A17B: *"You cannot reject a trap you cannot see."*
+10. **Brexit and economic drag**, GPT-5.4 (high reasoning): *"If two runners face the same storm and one is also carrying a backpack, the backpack still made him slower."*
+
+The full highlights report is linked below.
 
 ---
 
@@ -347,6 +367,7 @@ For that reason, the most defensible reading is: this benchmark measures which m
 - [Current benchmark status](reports/debate_benchmark_status__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current model profiles](reports/debate_model_profiles__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
+- [Current highlights report](reports/debate_highlights__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-low.md)
 - [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current strength-vs-content-blocks chart](images/debate_content_block_vs_strength__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
