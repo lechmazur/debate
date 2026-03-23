@@ -175,6 +175,7 @@ Read against the main strength rating, this view separates three cases that a si
 ## Best Lines
 
 The current transcript-highlights pass also surfaces lines that are worth quoting in their own right. A few of the strongest from the current scope:
+This is an LLM-selected post-run highlight pass, not a rating input and not human curation.
 
 1. **Encryption backdoors**, Claude Sonnet 4.6 (no reasoning): *"Children don't disappear in percentages. They disappear one at a time, in exactly these cases."*
 2. **Historic-district housing**, GPT-5.4 (high reasoning): *"If preservation wins even there, then it is not stewardship; it is exclusion protected by aesthetics."*
@@ -343,6 +344,7 @@ For a selected model pair and topic:
 ### Judging
 
 Each completed debate is judged by a three-model panel. The raw judge outputs are retained, then parsed into structured winner, margin, and diagnostic rubric fields. The rubric sub-scores are useful diagnostics, but the main published ranking comes from the final side-swapped matchup outcome, not from directly averaging rubric categories into the leaderboard.
+Panels are constructed from three distinct model families and, when feasible, avoid same-family judges against the debaters.
 
 The current judge roster in this snapshot is drawn from **Claude Sonnet 4.6 (high reasoning)**, **GPT-5.4 (high reasoning)**, **Gemini 3.1 Pro Preview**, **Grok 4.20 Beta 0309 (Reasoning)**, **Qwen3.5-397B-A17B**, and **Kimi K2.5 Thinking**, with some earlier carried-over rows from **MiniMax-M2.7** in the cumulative judge scope.
 
