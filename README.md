@@ -28,6 +28,16 @@ Each evaluated matchup runs twice on the **same topic with sides swapped**. A th
 
 ---
 
+## Pairwise View
+
+The pairwise heatmap shows how models perform against each other after aggregation across completed, side-swapped matchups. This is useful because a single scalar leaderboard always hides some structure. A model can be strong overall while still having a few specific bad matchups.
+
+![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+The heatmap is most useful as a quick read on where the field is decisively separated and where it still is not. In the current snapshot, the biggest clean edges are mostly against **Llama 4 Maverick**, while the top cluster remains much tighter.
+
+---
+
 ## What this benchmark shows
 
 Debate is harder than ordinary question answering because the model has to stay correct and coherent **after the other side pushes back**. That pressure exposes several different abilities at once:
@@ -42,16 +52,6 @@ In practice, this format does not reward openings alone. Some models look strong
 The side-swapped design matters too. Some propositions are easier to argue from one side than the other, so each pair debates the same motion twice with roles reversed. That makes the benchmark closer to a structured adversarial comparison than a one-shot preference test.
 
 Another reason debate is useful is that it makes different failure modes visible at the same time. A model can know the facts but fail to organize them. It can produce elegant openings but weak rebuttals. It can sound persuasive while still collapsing under pressure. Debate compresses those distinctions into one adversarial format.
-
----
-
-## Pairwise View
-
-The pairwise heatmap shows how models perform against each other after aggregation across completed, side-swapped matchups. This is useful because a single scalar leaderboard always hides some structure. A model can be strong overall while still having a few specific bad matchups.
-
-![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
-
-The heatmap is most useful as a quick read on where the field is decisively separated and where it still is not. In the current snapshot, the biggest clean edges are mostly against **Llama 4 Maverick**, while the top cluster remains much tighter.
 
 ---
 
@@ -206,6 +206,11 @@ The scatter is useful because it separates "strong but occasionally brittle" fro
 
 ---
 ## Worked Examples
+
+If you want to jump straight into transcript pairs that are especially worth reading:
+
+- **Frontier matchup:** **Claude Sonnet 4.6 (high reasoning)** vs **GPT-5.4 (high reasoning)** on banning location-data sales. This is one of the best current top-tier matchups to read because the topic is strong, the execution is strong, and the side swap materially changes the picture. Mean entertainment across the pair: **7.83 / 10**. Read [Debate A](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md) and [Debate B](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md).
+- **Most quotable current pair:** **MiniMax-M2.7** vs **Qwen3.5-397B-A17B** on algorithmic dynamic pricing. This is the sharpest current read if you want memorable lines rather than just benchmark hygiene, and it is essentially a dead heat with mean normalized margin **0.06**. Read [Debate A](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md) and [Debate B](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md).
 
 <details>
 <summary>Claude Sonnet 4.6 (high reasoning) vs GPT-5.4 (high reasoning) on banning location-data sales</summary>
