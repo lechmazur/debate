@@ -33,13 +33,13 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GLM-5 | +2.5 | +2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by effectively embracing the normative burden of the proposition, successfully arguing that "safety" must mean more than mere survival. Side B relied heavily on the descriptive status quo of international law and walked into a trap in the Pressure Questions, concedi...
   Most decisive rebuttal noted: Side A's A1 in Rebuttal 2, which cleanly flips Side B's question about the EU-Turkey deal by pointing out that the deal's failure to meet the proposition's standards is exactly the point.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B made the clearer, more decisive case that "safety" must include enforceable dignity rights beyond bare non-refoulement; Side A's repeated clipping, minimalism that reduced people to "warehouse" units, and failure to neutralize the EU-Turkey controversy as validating PRO...
+- **Grok 4.20 0309 (Reasoning)**: Side B made the clearer, more decisive case that "safety" must include enforceable dignity rights beyond bare non-refoulement; Side A's repeated clipping, minimalism that reduced people to "warehouse" units, and failure to neutralize the EU-Turkey controversy as validating PRO...
   Most decisive rebuttal noted: B's Rebuttal 2 directly used A's own EU-Turkey pressure to show the arrangement's flaws prove the need for the three rights, exposing how CON relies on lowered standards.
 
 ## Debate B
@@ -54,14 +54,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GLM-5 | -2.2 | -1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 6.0 |
 | Kimi K2.5 Thinking | GLM-5 | -1.3 | -1.30 | 6.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by systematically dismantling Side A's defense of the absolute "only" clause. B's pressure questions successfully forced A to concede that other rights are "indispensable baseline protections" and that wealthy democracies failing A's strict standard are given leeway...
   Most decisive rebuttal noted: B's second rebuttal decisively weaponized A's answers to the pressure questions, correctly pointing out that allowing "measurable improvements" for democracies like Germany and France functionally guts A's defense of the strict "only" prerequisite.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by exposing the arbitrariness in PRO's "only" triad, leveraging PRO's own concession on other indispensable baselines (non-refoulement, healthcare, detention) that were excluded, and showing selective application to wealthy states like those in Dublin, neutralizing...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by exposing the arbitrariness in PRO's "only" triad, leveraging PRO's own concession on other indispensable baselines (non-refoulement, healthcare, detention) that were excluded, and showing selective application to wealthy states like those in Dublin, neutralizing...
   Most decisive rebuttal noted: A's Rebuttal 2 directly quoted B4.1 concession on baselines and highlighted lack of principle plus special pleading on backlogs, damaging PRO's exclusivity claim.
 - **Kimi K2.5 Thinking**: CON successfully demonstrated that PRO's "only" formulation is arbitrary (selecting three rights while conceding others like healthcare are "indispensable"), legally overstated (misattributing the "effective remedy" requirement to Article 33 of the Refugee Convention rather th...
   Most decisive rebuttal noted: CON's exposure of the arbitrariness of PRO's triad and the special pleading required for wealthy democracies (B4.5-B4.7, B5.1-B5.4), which showed that PRO could not consistently apply their "only" standard without either dismantling the Dublin system or creating ad hoc exempti...

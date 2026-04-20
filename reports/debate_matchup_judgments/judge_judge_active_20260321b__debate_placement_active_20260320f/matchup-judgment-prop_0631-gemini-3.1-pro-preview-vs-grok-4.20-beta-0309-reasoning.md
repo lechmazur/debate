@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0631__gemini-3.1-pro-preview__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0631`
-- matchup: **Gemini 3.1 Pro Preview** vs **Grok 4.20 Beta 0309 (Reasoning)**
+- matchup: **Gemini 3.1 Pro Preview** vs **Grok 4.20 0309 (Reasoning)**
 - overall judged result (normalized): **Gemini 3.1 Pro Preview**
 - overall judged result (raw): **Gemini 3.1 Pro Preview**
 - mean entertainment: `7.00 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0631__gemini-3.1-pro-preview__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0631__grok-4.20-beta-0309-reasoning__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Gemini 3.1 Pro Preview**
+- [Debate A transcript](../../../transcripts/prop_0631__gemini-3.1-pro-preview__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **Grok 4.20 0309 (Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0631__grok-4.20-beta-0309-reasoning__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Gemini 3.1 Pro Preview**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0631__gemini-3.1-pro-preview__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f` or topic `prop_0631`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0631__gemini-3.1-pro-preview__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0631__gemini-3.1-pro-preview__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Grok 4.20 0309 (Reasoning)**
 - judged result: Unanimous `3-0` for **Gemini 3.1 Pro Preview**.
 - entertainment scores: `7`, `7`, `8`
 - mean signed raw margin (PRO+): `+1.47`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0631__grok-4.20-beta-0309-reasoning__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0631__grok-4.20-beta-0309-reasoning__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Gemini 3.1 Pro Preview**
+- roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Gemini 3.1 Pro Preview**
 - judged result: Split `2-1` for **Gemini 3.1 Pro Preview**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `-0.13`
@@ -57,7 +57,7 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Gemini 3.1 Pro Preview | -1.0 | -1.39 | 6.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Reasoning) | +1.8 | +1.80 | 7.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Reasoning) | +1.8 | +1.80 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -1.2 | -0.96 | 7.0 |
 
 ### Judge Notes

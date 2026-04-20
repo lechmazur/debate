@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | MiniMax-M2.7 | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Flash-Lite Preview | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON built the clearer comparative case by repeatedly exposing that the proposition only requires a meeting without binding outcome or veto; PRO shifted to "friction" and aspirational collaboration but never neutralized the impasse problem or showed why targeted enforceable too...
+- **Grok 4.20 0309 (Reasoning)**: CON built the clearer comparative case by repeatedly exposing that the proposition only requires a meeting without binding outcome or veto; PRO shifted to "friction" and aspirational collaboration but never neutralized the impasse problem or showed why targeted enforceable too...
   Most decisive rebuttal noted: A's R2 and closing on "what happens when negotiation fails" (A4.2, A5.2), which forced PRO to concede to non-binding friction and could not recover in closing.
 - **Kimi K2.5 Thinking**: Side A wins by demonstrating that mandatory negotiation without binding veto power constitutes "process theater" that cannot prevent harmful AI deployment after impasse, whereas their alternative framework of enforceable impact assessments and statutory human review rights pro...
   Most decisive rebuttal noted: Side A's pressure on the impasse question (A3.1) and subsequent rebuttal crystallizing that "friction is not power" (A4.1-A4.3), exposing that Side B's model provides consultation without protection.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | +2.1 | +2.24 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | +2.1 | +2.24 | 7.0 |
 | Kimi K2.5 Thinking | MiniMax-M2.7 | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | MiniMax-M2.7 | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by establishing a clearer, live route to victory around democratic accountability: workers' unique lived-experience knowledge prevents harms that reactive laws and technical audits miss. B directly answered A's speed/competency pressures by narrowing scope to substa...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by establishing a clearer, live route to victory around democratic accountability: workers' unique lived-experience knowledge prevents harms that reactive laws and technical audits miss. B directly answered A's speed/competency pressures by narrowing scope to substa...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions on scope and bias, then crystallized unilateral power vs. accountability.
 - **Kimi K2.5 Thinking**: Side B successfully defended the necessity of pre-deployment worker voice by distinguishing substantive AI deployment (subject to negotiation) from iterative maintenance (not subject), thereby neutralizing Side A's "veto by friction" objection. Side B's framing of "lived exper...
   Most decisive rebuttal noted: Side B's Turn 7 (Rebuttal 2) answers A1 and A2, where they distinguish deployment from maintenance to defeat the "gridlock" objection and argue that algorithmic bias lives in deployment choices (feature weighting, optimization targets) that only affected workers can identify,...

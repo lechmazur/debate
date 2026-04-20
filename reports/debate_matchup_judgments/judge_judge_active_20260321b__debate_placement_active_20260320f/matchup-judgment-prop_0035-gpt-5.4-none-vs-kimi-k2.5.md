@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | +1.5 | +2.09 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Kimi K2.5 Thinking | -1.0 | -0.80 | 7.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: PRO built and maintained the stronger path to victory across all five turns. Its core framework — collective-action failure, invisible risk, and costs merely shifted to occupants rather than eliminated — was never squarely neutralized. Three live advantages survived the full e...
   Most decisive rebuttal noted: PRO's Q1 pressure question — "what guarantees any school or building actually installs, maintains, and responds to those sensors without an enforceable legal duty?" — was the most decisive exchange. CON's A1 offered liability, reputational damage, and general duties of care, b...
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by clarifying the core clash on pre-harm legal duty vs voluntary hope; directly answered pressure with existing-code analogies and technology-neutral floors while exposing CON's alternatives as post-harm only; crystallized why collective-action failures demand enforceabl...
+- **Grok 4.20 0309 (Reasoning)**: B won by clarifying the core clash on pre-harm legal duty vs voluntary hope; directly answered pressure with existing-code analogies and technology-neutral floors while exposing CON's alternatives as post-harm only; crystallized why collective-action failures demand enforceabl...
   Most decisive rebuttal noted: B's Rebuttal 2 used required A1/A2 format to dismantle sensor/liability guarantees and reframe innovation as needing a floor, neutralizing CON's transparency route.
 - **Qwen3.5-397B-A17B**: Side A wins due to superior format discipline and a live feasibility argument that Side B failed to neutralize. Side B exceeded word limits in 4 out of 5 speeches, resulting in clipped conclusions that undermined their rhetorical impact and completeness. Substantively, Side A'...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 8) effectively turned Side B's enforcement concession ("periodic inspection") into "spot-check theater," reinforcing the scarcity argument that mandates lead to abandonment rather than safety.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +1.5 | +2.09 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Kimi K2.5 Thinking | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: Side B (PRO) wins a clear but competitive debate for three compounding reasons. First, PRO's market-failure argument—building owners externalize health costs onto workers and students, so voluntarism inevitably rewards corner-cutting—was introduced early, defended throughout,...
   Most decisive rebuttal noted: The most decisive exchange was PRO's pressure question Q2 and CON's answer. PRO asked what mechanism prevents landlords from externalizing health costs without legal penalty. CON answered with disclosure, grants, and tort remedies. PRO had already established in Rebuttal 1 tha...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path by framing enforceable standards as fixing a live market failure with precedent from fire codes/asbestos, showing voluntary approaches failed in the pandemic, and directly answering governance/priority concerns via funding pressure and context-sen...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path by framing enforceable standards as fixing a live market failure with precedent from fire codes/asbestos, showing voluntary approaches failed in the pandemic, and directly answering governance/priority concerns via funding pressure and context-sen...
   Most decisive rebuttal noted: B's R2 directly answered A's pressure on metrics/monitoring and poor-district priorities, then reframed flexibility as a strength rather than concession, damaging A's governance critique.
 - **Qwen3.5-397B-A17B**: Side B wins decisively due to superior format execution and a stronger comparative case. Side A was clipped in four out of five speeches (Opening, Rebuttal 1, Rebuttal 2, Closing), which is a severe execution cost that left key burdens unanswered and their final weighing incom...
   Most decisive rebuttal noted: Side B Rebuttal 2 (Turn 7) directly answered the metric and budget pressure questions, turning the opportunity cost argument by explaining how legal mandates force legislative funding that voluntary guidance never activates.

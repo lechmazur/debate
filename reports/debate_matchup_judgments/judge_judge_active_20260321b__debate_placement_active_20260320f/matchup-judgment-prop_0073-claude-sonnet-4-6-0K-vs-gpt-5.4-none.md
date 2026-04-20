@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | +2.5 | +2.00 | 6.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by decisively neutralizing Side A's "external rules" alternative. Side B effectively pointed out that conferences and the NCAA are ultimately just the schools regulating themselves, meaning Side A's alternative fails to solve the core power asymmetry. While Side A r...
   Most decisive rebuttal noted: Side B's closing and second rebuttal, which pointed out that Side A's "mandatory" conference bylaws are just amended by votes of the member schools, neatly exposing the structural flaw in Side A's alternative.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins by sharpening the durability/enforceability clash: only collective bargaining creates court-binding rights athletes can independently invoke, while B's external-mandatory rules remain revocable by school-controlled bodies. B's model repeatedly concedes the need for prot...
+- **Grok 4.20 0309 (Reasoning)**: A wins by sharpening the durability/enforceability clash: only collective bargaining creates court-binding rights athletes can independently invoke, while B's external-mandatory rules remain revocable by school-controlled bodies. B's model repeatedly concedes the need for prot...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answers both pressure questions then crystallizes the "revocable vs. binding" weighing, exposing that B's external rules still depend on the same institutions with adverse interests.
 - **Qwen3.5-397B-A17B**: Side A wins on both substance and execution. Substantively, A successfully narrowed the debate to enforceability, demonstrating that B's proposed "external rules" (conference bylaws, legislation) remain vulnerable to institutional control or political shifts, whereas a CBA cre...
   Most decisive rebuttal noted: Side A Rebuttal 2 (Turn 7). It correctly used A1:/A2: formatting to answer pressure questions, addressed the "bargaining unit" concern by citing tiered professional structures, and delivered the decisive "durability gap" argument that framed the rest of the debate.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.20 | 6.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by successfully framing the debate around the core power dynamic of the athlete-school relationship ("source of authority" vs "language of benevolence"). Side A mounted a very strong structural critique, pressing on the lack of current legal infrastructure and unit...
   Most decisive rebuttal noted: Side B's closing crystallization exposing Side A's alternatives as top-down ("A grievance procedure designed by the school is not the same as terms negotiated with the school") was the decisive blow of the debate.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer path to victory by centering the core power-imbalance problem once schools share revenue and showing that CON's reform alternatives remain revocable and top-down without formal representation; A directly answered legal-predicate and unit-design pressur...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer path to victory by centering the core power-imbalance problem once schools share revenue and showing that CON's reform alternatives remain revocable and top-down without formal representation; A directly answered legal-predicate and unit-design pressur...
   Most decisive rebuttal noted: A's A4.1-A4.2 directly reframed CON's legal and heterogeneity objections into reasons for (not against) school-specific bargaining units, crystallizing why alternatives fail to deliver binding seats at the table.
 - **Qwen3.5-397B-A17B**: Side B wins on the critical clash of enforceability. While Side A built a compelling normative case about "who holds the pen," Side B successfully demonstrated that without federal employee status, "collective bargaining" is merely a label on the same unilateral discretion A c...
   Most decisive rebuttal noted: Side B Rebuttal 2 (Turn 8) directly answered the binding mechanism question by listing alternative enforceable structures (legislation, contract law) and highlighting the legal void in A's plan, turning A's "power" argument into a liability.

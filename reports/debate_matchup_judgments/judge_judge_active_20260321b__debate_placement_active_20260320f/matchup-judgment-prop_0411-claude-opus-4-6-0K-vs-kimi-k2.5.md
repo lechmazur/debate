@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (no reasoning) | +1.4 | +1.54 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +2.5 | +2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.2 | +1.28 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Most decisive was A’s pressure-plus-rebuttal sequence forcing B to defend market-exit and bus-cut claims without a real example, while A answered the boarding-time objection by showing “close to standard” can absorb physical differences without conceding the motion.
 - **Gemini 3.1 Pro Preview**: Side B won by decisively neutralizing Side A's only major disadvantage (budget cannibalization and market exit). When pressed for a single real-world example of an accessibility mandate causing bus cuts, Side A explicitly refused to provide one, which Side B expertly weaponize...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing brilliantly capitalized on Side A's admission in A4.1 that they "need not name a specific scandal," dismantling Side A's empirical credibility on their core impact.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the stronger case by framing wheelchair inaccessibility as ongoing discrimination violating civil-rights principles, contrasting documented real harms (multi-hour waits, cancellations) against CON's unproven predictions of market exit and budget cannibalization. B...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the stronger case by framing wheelchair inaccessibility as ongoing discrimination violating civil-rights principles, contrasting documented real harms (multi-hour waits, cancellations) against CON's unproven predictions of market exit and budget cannibalization. B...
   Most decisive rebuttal noted: B's R2 and closing highlighting CON's evasion on specific jurisdiction examples of harm, crystallizing hypothetical costs vs. actual exclusion.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.3 | +1.43 | 8.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: A’s answer to B’s vagueness objection was the key exchange: defining compliance as same-market parity in wait-time and availability data undercut B’s claim that “close to standard” was too flexible to enforce.
 - **Gemini 3.1 Pro Preview**: Side A decisively won the debate by systematically dismantling Side B's operational examples and exposing a core contradiction in Side B's framing of the mandate. When Side B relied on London taxis to prove ride-hail feasibility, Side A effectively countered by differentiating...
   Most decisive rebuttal noted: Side A's Rebuttal 2 cleanly neutralized the London taxi example by contrasting purpose-built, closed-system fleets with the open-labor reality of modern ride-hail.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by maintaining clearer comparative weighing on civil rights and existing scalable models (London/Seattle) while directly answering pressure on metrics and costs; Side A scores execution costs from two clipped speeches and fails to neutralize the quantifiable parity...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by maintaining clearer comparative weighing on civil rights and existing scalable models (London/Seattle) while directly answering pressure on metrics and costs; Side A scores execution costs from two clipped speeches and fails to neutralize the quantifiable parity...
   Most decisive rebuttal noted: B4 directly resolves A's demand/cost tension and enforcement burden with live metrics, collapsing A's "impossible or meaningless" fork.

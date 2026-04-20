@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (no reasoning) | +1.4 | +1.54 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +2.2 | +1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: B’s strongest exchange was turning A’s mitigation-first framework against it: after A conceded cuts are possible only as a last resort, B argued Doha showed serious harm can persist despite aggressive mitigation, so A’s standard effectively delays action until after athletes p...
 - **Gemini 3.1 Pro Preview**: Side A wins by decisively proving that mitigation is an insufficient substitute for contraction when extreme heat and travel are involved. Side A expertly leveraged the Doha 2019 example to show that even aggressive mitigation results in severe athlete harm, and brilliantly fr...
   Most decisive rebuttal noted: Side A's Rebuttal 2 and Closing response to the Doha 2019 example, flipping Side B's argument about 'institutional learning' by pointing out that the athletes who collapsed were people whose bodies paid the cost of that lesson.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by forcing and then exploiting CON's limiting-principle concession in A4.1, showing that mitigation-first forces athletes to absorb harm before contraction is allowed; Doha example lands as real mitigation failure rather than mere learning opportunity. PRO maintain...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by forcing and then exploiting CON's limiting-principle concession in A4.1, showing that mitigation-first forces athletes to absorb harm before contraction is allowed; Doha example lands as real mitigation failure rather than mere learning opportunity. PRO maintain...
   Most decisive rebuttal noted: B's R2 directly answers both pressure questions then pivots to show CON's "last resort only" stance makes preventive action impossible; B5 closing crystallizes this cleanly.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (high reasoning) | +1.4 | +1.54 | 8.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.2 | +1.28 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Most decisive was B’s “no stopping point” rebuttal: A defended cooling breaks, timing shifts, relocations, and other top-down safety measures, but could not explain why schedule cuts are uniquely off-limits except that they hurt the commercial product.
 - **Gemini 3.1 Pro Preview**: Side A won by successfully exposing the structural limits of Side B's 'adaptation' framework. Side A compellingly argued that relying entirely on mitigating measures like cooling breaks creates a paradigm with 'no ceiling' for commercial expansion, effectively treating mass at...
   Most decisive rebuttal noted: Side A's R1 and Closing teardown of Side B's adaptation argument, culminating in the observation that 'Doha wasn't a crisis—it was a lesson,' perfectly weaponized Side B's own logic to prove that unchecked expansion prioritizes revenue over welfare.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by establishing a non-negotiable duty of care, showing adaptation mitigates but does not solve structural over-scheduling, and exposing CON's revenue-protecting red line at cuts while accepting other top-down measures. CON's proportiona...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by establishing a non-negotiable duty of care, showing adaptation mitigates but does not solve structural over-scheduling, and exposing CON's revenue-protecting red line at cuts while accepting other top-down measures. CON's proportiona...
   Most decisive rebuttal noted: B's R2 directly answered revenue/vagueness PQs then reframed CON's "arbitrary red line" as protecting commercial output under welfare language.

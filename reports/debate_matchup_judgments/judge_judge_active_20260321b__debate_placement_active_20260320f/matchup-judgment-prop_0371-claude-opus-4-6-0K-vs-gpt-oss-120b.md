@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +2.2 | +2.20 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +2.5 | +2.00 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins on transparency and obfuscation; PRO forced admissions that zero-bag travelers are rare and fees add little beyond existing enforcement, collapsing CON's discrimination and rationing claims while framing bundling as honest pricing that enables real competition.
+- **Grok 4.20 0309 (Reasoning)**: B wins on transparency and obfuscation; PRO forced admissions that zero-bag travelers are rare and fees add little beyond existing enforcement, collapsing CON's discrimination and rationing claims while framing bundling as honest pricing that enables real competition.
   Most decisive rebuttal noted: B's R2 directly answers pressure then leverages A's own <5% and "largely redundant" phrasing to declare CON's pillars fatally undermined.
 - **Kimi K2.5 Thinking**: Side A secured decisive concessions in the second rebuttal that collapsed Side B's core case. Side B admitted the "zero-bag traveler" benefiting from unbundled pricing represents "well under five percent" of passengers and that the fee's operational deterrent is "largely redun...
   Most decisive rebuttal noted: Side A's Pressure Questions (Turn 5) exposing that (1) virtually all passengers use cabin space for something and (2) size limits are enforced independently of fees, which forced Side B's damaging concessions in Turn 8 that conceded both points.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.6 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -1.8 | -1.44 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON wins by exposing the core mismatch: PRO repeatedly identifies hidden-fee opacity as the problem yet demands a product-bundle mandate as the solution. CON's narrower transparency-fix alternative neutralizes PRO's examples without the regressive cross-subsidy on the 35% bag-...
+- **Grok 4.20 0309 (Reasoning)**: CON wins by exposing the core mismatch: PRO repeatedly identifies hidden-fee opacity as the problem yet demands a product-bundle mandate as the solution. CON's narrower transparency-fix alternative neutralizes PRO's examples without the regressive cross-subsidy on the 35% bag-...
   Most decisive rebuttal noted: CON's A4/A5 turns and closing frame the transparency-vs-mandate gap as a scalpel-vs-sledgehammer choice, damaging PRO's route without new evidence dumps.
 - **Kimi K2.5 Thinking**: CON wins by successfully bifurcating transparency from product design. PRO's case collapses hidden fees and carry-on mandates into a single intervention, but CON demonstrates that disclosure rules (the "scalpel") solve the deception problem without forcing the 35% of bag-free...
   Most decisive rebuttal noted: CON's distinction between transparency failure and product-design mandate in Rebuttal 1 ([B2.5]-[B2.6]) and Closing ([B5.1]-[B5.3]), showing that mandatory all-in price disclosure solves PRO's harms without raising fares for bag-free travelers or eliminating consumer choice.

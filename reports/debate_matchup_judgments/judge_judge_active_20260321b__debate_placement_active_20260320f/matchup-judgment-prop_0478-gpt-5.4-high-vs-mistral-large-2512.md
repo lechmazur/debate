@@ -32,14 +32,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | -2.2 | -1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by exposing the mechanical difficulty of tracking 'substantial income' across multiple platforms and sectors. When Side A attempted to solve this by proposing an API layer and sector-specific tiers, Side B masterfully weaponized those concessions to prove their core...
   Most decisive rebuttal noted: Turn 8 (B4), where Side B pointed out that Side A's proposed solutions (API tracking and tiered systems) effectively conceded Side B's main objections about cross-platform data plumbing and explosive compliance complexity.
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON built the cleaner comparative case by showing the proposition's cross-platform "substantial income" threshold requires exactly the bureaucracy, incidence effects, and tailoring PRO was forced to concede when answering pressure. PRO repeated status-quo badness and the narro...
+- **Grok 4.20 0309 (Reasoning)**: CON built the cleaner comparative case by showing the proposition's cross-platform "substantial income" threshold requires exactly the bureaucracy, incidence effects, and tailoring PRO was forced to concede when answering pressure. PRO repeated status-quo badness and the narro...
   Most decisive rebuttal noted: CON's R2 directly mapped PRO's A1/A2 concessions (national API reporting + sector tailoring) back onto the live burdens of compliance and concentration, collapsing PRO's scalability claim.
 - **Qwen3.5-397B-A17B**: Side B wins by successfully turning Side A's proposed solutions into admissions of the policy's unworkability. When Side A suggested an API layer and sector-specific tiering in Rebuttal 2, Side B framed these as concessions that confirmed the "compliance maze" and bureaucracy...
   Most decisive rebuttal noted: Side B Turn 8 (Rebuttal 2): Directly reframed Side A's answers to the Pressure Questions as concessions ("Those were not answers to our objections; they were our objections"), crystallizing the clash around administrative complexity and net worker impact.

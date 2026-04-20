@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +3.2 | +2.84 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins dominantly because Side B suffers a massive internal breakdown in the second half of the debate. In Rebuttal 2, Side B accidentally attacks its own position, explicitly stating that "CON's position serves insurers by legitimizing that [privacy] tax." Side A brillia...
   Most decisive rebuttal noted: Side A's Closing (Turn 9) effectively burying Side B for the devastating self-own in [B4.5] and [B4.6], transforming a structural slip-up into a decisive strategic concession.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the cleaner path to victory by crystallizing the compulsory nature of auto insurance as making market discipline and exit illusory, directly tying this to coercion via premium penalties, and exploiting Side A's failure to name any market without such penalties des...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the cleaner path to victory by crystallizing the compulsory nature of auto insurance as making market discipline and exit illusory, directly tying this to coercion via premium penalties, and exploiting Side A's failure to name any market without such penalties des...
   Most decisive rebuttal noted: B4's direct A1/A2 answers plus calling out the unanswered [B3.2] market-penalty question, which A never resolved and B revisited in closing as effective concession.
 - **Qwen3.5-397B-A17B**: Side B wins by successfully anchoring the debate on the compulsory nature of car insurance, which undermined Side A's core arguments about market discipline and contractual freedom. Side A failed to answer Side B's pressure question regarding existing markets without telematic...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 7) directly answered pressure questions and weighed Side A's failure to provide empirical evidence for market discipline.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -2.5 | -2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B wins by effectively turning Side A's definition of "genuinely fair terms" against them. When Side A specifies that fairness requires "no pricing penalty for declining," Side B decisively points out that prohibiting a price difference between those who share data and tho...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing, where B explains that Side A's "no pricing penalty for declining" standard mathematically destroys the very discounts that make telematics beneficial to safe and budget-conscious drivers.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by exposing that PRO's late definition of "genuinely fair terms" (especially no penalty for declining) eliminates the economic incentive for discounts, destroying the very benefits PRO claims to preserve while making the standard a de facto barrier; A better neutra...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by exposing that PRO's late definition of "genuinely fair terms" (especially no penalty for declining) eliminates the economic incentive for discounts, destroying the very benefits PRO claims to preserve while making the standard a de facto barrier; A better neutra...
   Most decisive rebuttal noted: A's Rebuttal 2 directly weaponizes B's A1/A2 definitions to prove the motion removes pricing differentials, collapsing PRO's opt-in framing.
 - **Qwen3.5-397B-A17B**: Side A wins by exposing a fatal flaw in Side B's definition of fairness. When Side B defined "genuinely fair terms" to include no pricing penalty for declining surveillance, Side A demonstrated that this makes the economic model impossible (if you can't charge more for refusin...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 8) where they explain that "no pricing penalty for declining" eliminates the discount logic, turning Side B's definition against them.

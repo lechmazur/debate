@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | -1.5 | -1.33 | 9.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | MiniMax-M2.7 | GPT-5.4 (no reasoning) | -1.3 | -1.73 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins by providing a more resilient, pragmatic definition of solidarity. While Side B eloquently argued that the crisis response preserved only an institutional skeleton through coercive exit costs ("a locked door"), Side A successfully demonstrated that Side B's standar...
   Most decisive rebuttal noted: Side A's closing rebuttal, which brilliantly flips Side B's "locked door" metaphor into a "burning building" analogy to prove that choosing painful cooperation over mutual destruction is the ultimate proof of solidarity.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by maintaining a tighter comparative standard that solidarity requires political consent not just institutional survival; consistently answered pressures with direct A1/A2 while showing "staying in" was coercive retention; A's multiple clipped speeches and weaker burden...
+- **Grok 4.20 0309 (Reasoning)**: B won by maintaining a tighter comparative standard that solidarity requires political consent not just institutional survival; consistently answered pressures with direct A1/A2 while showing "staying in" was coercive retention; A's multiple clipped speeches and weaker burden...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered A's pressure on trust vs solidarity via switching costs and uniform troika pattern across countries, collapsing A's "costly cooperation" frame into hollow retention.
 - **MiniMax-M2.7**: Side B won on the definitional question that governed the debate. CON's core argument—that solidarity in a crisis union means costly mutual commitment under strain, not warm sentiment, and that repeated creditor-debtor cooperation through the ugliest bargaining shows the bond...
   Most decisive rebuttal noted: Side B's A1/A2 response to PRO's pressure questions was the most decisive exchange. PRO's Q2 pressed that architects preserved the union by making exit costly rather than membership attractive—implying trust was sacrificed, not preserved. CON's A2 answered that expensive divor...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
 | MiniMax-M2.7 | Claude Sonnet 4.6 (high reasoning) | -1.5 | -2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by successfully redefining solidarity as 'costly cooperation' rather than 'warm feelings' and cleanly separating the distrust caused by the financial crisis itself from the distrust caused by the response. Side B suffered from repeated clipping execution errors and...
   Most decisive rebuttal noted: Side A's Rebuttal 2 turning Side B's 'prison' analogy by pointing out that prisoners do not elect governments to stay and renegotiate terms from within, proving that choosing shared institutions over available exit is a profound act of mass solidarity.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by demonstrating that PRO's causal mechanism (conditionality producing distrust) collapses when extended to non-program states, tracing distrust to the crisis itself rather than the response. A better weighs the comparative burden, showing persistent mass support f...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by demonstrating that PRO's causal mechanism (conditionality producing distrust) collapses when extended to non-program states, tracing distrust to the crisis itself rather than the response. A better weighs the comparative burden, showing persistent mass support f...
   Most decisive rebuttal noted: A's R2 directly damages B's core mechanism on non-program distrust spread, exposing that the crisis—not response conditionality—does the causal work, which B never repairs.
 - **MiniMax-M2.7**: Side B won because Side A's causal mechanism collapsed under pressure and Side B exploited this cleanly. Side A's central claim was that the governing method of conditionality produced distrust. When pressed on why Euroscepticism surged equally in France, Netherlands, and Finl...
   Most decisive rebuttal noted: In Rebuttal 2, Side B's A2 response to Side A's explanation of Euroscepticism in non-program states. Side A argued that conditionality "organized meaning" across the eurozone even in countries without troika programs. Side B correctly identified this as fatal to A's mechanism:...

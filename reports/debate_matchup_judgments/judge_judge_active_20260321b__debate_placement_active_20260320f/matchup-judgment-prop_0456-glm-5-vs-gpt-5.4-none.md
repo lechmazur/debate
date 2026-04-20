@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +1.2 | +1.28 | 7.0 |
 | Kimi K2.5 Thinking | GLM-5 | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | GLM-5 | +2.0 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B built clearer comparative case on consequences over methods, showed effects filter solves overbreadth, and rebutted attribution risks by equating them to conventional cases; A's "narrowing" attack landed but B adapted directly while highlighting CON's ambiguity invites aggre...
+- **Grok 4.20 0309 (Reasoning)**: B built clearer comparative case on consequences over methods, showed effects filter solves overbreadth, and rebutted attribution risks by equating them to conventional cases; A's "narrowing" attack landed but B adapted directly while highlighting CON's ambiguity invites aggre...
   Most decisive rebuttal noted: B's R1/R2 directly neutralized attribution and overbreadth as strawmen using the effects test already in the motion, forcing A into repeating escalation worries without new weighing.
 - **Kimi K2.5 Thinking**: Side A successfully defended an effects-based reading of the motion, demonstrating that "equivalence" inherently filters trivial incidents while establishing clear deterrence for catastrophic attacks. Side B's argument that the motion was overbroad relied on interpreting it as...
   Most decisive rebuttal noted: Side A's first rebuttal (A2) effectively neutralized Side B's attribution and overbreadth objections by showing that conventional attacks also require investigation and that the equivalence standard itself performs the necessary filtering, while establishing that Side B's ambi...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 4.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 4.0 |
 | Kimi K2.5 Thinking | GLM-5 | -1.5 | -1.50 | 2.0 |
 | Qwen3.5-397B-A17B | GLM-5 | -2.5 | -2.00 | 5.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) wins on the relevant AI/copyright portions by cleanly framing copyright as a right of control and consent rather than mere compensation; compulsory licensing ignores non-monetary harms and creator autonomy. Side B's practical coordination argument is reasonable bu...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) wins on the relevant AI/copyright portions by cleanly framing copyright as a right of control and consent rather than mere compensation; compulsory licensing ignores non-monetary harms and creator autonomy. Side B's practical coordination argument is reasonable bu...
   Most decisive rebuttal noted: A's A2 response exposing that PRO's own Stuxnet example would justify kinetic retaliation under their logic, though the exchange occurred on the wrong topic.
 - **Kimi K2.5 Thinking**: Both sides debated cyber warfare and international armed conflict for the first eight turns, completely diverging from the stated proposition regarding AI training and compulsory licensing. However, in the closing round, Side B delivered a coherent, focused argument directly a...
   Most decisive rebuttal noted: Side B's closing argument that compulsory licensing transforms copyright from a right of control into a mere right to compensation, arguing that "some harms cannot be priced" and creator dignity requires the ability to refuse rather than merely be paid, effectively undermining...

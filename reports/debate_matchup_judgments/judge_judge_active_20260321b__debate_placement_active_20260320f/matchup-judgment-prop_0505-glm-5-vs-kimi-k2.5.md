@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GLM-5 | +2.2 | +1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GLM-5 | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by consistently dominating the principled clash over consent and effectively neutralizing Side A's utilitarian arguments. Side B's pressure questions exposed a deep contradiction in Side A's stance (relying on implicit TOS consent while calling explicit opt-in "mean...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing reframing of Side A's "tragedy of the anti-commons" argument, pointing out that if users declining causes bias, forcing their inclusion overrides the very concept of consent.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins by clarifying the core consent contradiction that B never resolved: B treats broad platform TOS as sufficient consent yet calls specific opt-in "theater." A successfully narrows scope to reasonable privacy expectations, answers pressure directly, and frames the issue as...
+- **Grok 4.20 0309 (Reasoning)**: A wins by clarifying the core consent contradiction that B never resolved: B treats broad platform TOS as sufficient consent yet calls specific opt-in "theater." A successfully narrows scope to reasonable privacy expectations, answers pressure directly, and frames the issue as...
   Most decisive rebuttal noted: A's A4.4-A4.5 and closing A5.3 exposing B's inconsistent consent stance (TOS valid but targeted consent impossible) materially damaged B's route to victory.
 - **Qwen3.5-397B-A17B**: Side B wins due to superior epistemic discipline and a decisive turn on the consent contradiction. Side A's closing speech contained hallucinated reference IDs (citing non-existent "Side C" sources), which violates the grounding rules and undermines credibility on technical cl...
   Most decisive rebuttal noted: Side B Rebuttal 2 (Turn 7) exposing the contradiction in Side A's consent framework (validating ToS consent while dismissing opt-in as theater).
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | -1.3 | -1.39 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | -1.3 | -1.39 | 7.0 |
 | Qwen3.5-397B-A17B | Kimi K2.5 Thinking | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by establishing that the privacy harm occurs at the point of ingestion, which neutralized Side A's reliance on downstream output filtering. Side A also crucially dropped Side B's point that IRB oversight prevents the 'academic loophole' from allowing universities to...
   Most decisive rebuttal noted: Side B's analogy in the closing—that we do not permit selling medical records on the promise that buyers will filter the outputs—devastatingly exposed the flaw in Side A's reliance on post-hoc technical mitigations.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by demonstrating the proposition's practical failure: academic exemptions allow identical models to proliferate while consent rules entrench giants via transaction costs, making output regulation superior. A offered strong privacy principles and direct rebuttals but coul...
+- **Grok 4.20 0309 (Reasoning)**: B won by demonstrating the proposition's practical failure: academic exemptions allow identical models to proliferate while consent rules entrench giants via transaction costs, making output regulation superior. A offered strong privacy principles and direct rebuttals but coul...
   Most decisive rebuttal noted: B4 directly took A's irreversibility and marketplace claims, showing proportionality favors targeted fixes over blanket rules that achieve neither privacy nor competition.
 - **Qwen3.5-397B-A17B**: Side B wins by establishing that privacy harm occurs at ingestion, a point Side A could not refute without conceding that their alternative (output filtering) offers no guarantees. Side A's entrenchment argument was strong but neutralized by Side B's framing of the status quo...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 7) successfully answered the transaction cost pressure with collective bargaining mechanisms and reinforced the irreversibility of data ingestion, undermining Side A's technical mitigation claims.

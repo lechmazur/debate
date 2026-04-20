@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0490__deepseek-v32-exp__qwen3.5-397b-a17b__tpl_placement_active_20260320f`
 - topic_id: `prop_0490`
-- matchup: **Deepseek V3.2** vs **Qwen3.5-397B-A17B**
+- matchup: **DeepSeek V3.2** vs **Qwen3.5-397B-A17B**
 - overall judged result (normalized): **Qwen3.5-397B-A17B**
 - overall judged result (raw): **Qwen3.5-397B-A17B**
 - mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `-0.95`
+- mean signed normalized margin for `DeepSeek V3.2`: `-0.95`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0490__deepseek-v32-exp__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **Qwen3.5-397B-A17B**
-- [Debate B transcript](../../../transcripts/prop_0490__qwen3.5-397b-a17b__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Qwen3.5-397B-A17B**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0490__deepseek-v32-exp__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **Qwen3.5-397B-A17B**
+- [Debate B transcript](../../../transcripts/prop_0490__qwen3.5-397b-a17b__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Qwen3.5-397B-A17B**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0490__deepseek-v32-exp__qwen3.5-397b-a17b__tpl_placement_active_20260320f` or topic `prop_0490`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0490__deepseek-v32-exp__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0490__deepseek-v32-exp__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **Qwen3.5-397B-A17B**
+- roles: PRO = **DeepSeek V3.2**, CON = **Qwen3.5-397B-A17B**
 - judged result: Unanimous `3-0` for **Qwen3.5-397B-A17B**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `-1.43`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0490__qwen3.5-397b-a17b__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0490__qwen3.5-397b-a17b__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Qwen3.5-397B-A17B**, CON = **Deepseek V3.2**
+- roles: PRO = **Qwen3.5-397B-A17B**, CON = **DeepSeek V3.2**
 - judged result: Split `2-1` for **Qwen3.5-397B-A17B**.
 - entertainment scores: `8`, `7`, `8`
 - mean signed raw margin (PRO+): `+0.40`
@@ -57,7 +57,7 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Qwen3.5-397B-A17B | +1.3 | +1.43 | 7.0 |
-| Gemini 3.1 Pro Preview | Deepseek V3.2 | -1.2 | -1.07 | 8.0 |
+| Gemini 3.1 Pro Preview | DeepSeek V3.2 | -1.2 | -1.07 | 8.0 |
 | Kimi K2.5 Thinking | Qwen3.5-397B-A17B | +1.1 | +1.10 | 8.0 |
 
 ### Judge Notes

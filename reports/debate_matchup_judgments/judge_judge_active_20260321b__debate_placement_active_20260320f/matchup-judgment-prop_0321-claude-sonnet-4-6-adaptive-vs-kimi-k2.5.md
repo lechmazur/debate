@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.3 | +1.43 | 8.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s rebuttal that search engines send users to the original creator while generative systems route users away with synthetic substitutes was the cleanest decisive turn; B’s attempt to isolate “training” from “generation” did not fully neutralize that economic distinction.
 - **Gemini 3.1 Pro Preview**: Side B won by systematically dismantling Side A's 'diligent student' and 'search engine' analogies, cleanly distinguishing between tools that route attention to creators and tools that generate commercial substitutes. Side B also effectively neutralized Side A's transaction-co...
   Most decisive rebuttal noted: Side B's Rebuttal 1 distinction between search engines (which amplify reach by routing users to the source) and generative AI (which replaces reach by providing a synthetic substitute) completely defanged Side A's open-internet impact.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clarifying the core fairness clash: commercial extraction for substitutive products differs from human learning or search indexing, shifting burden to value-capturing firms rather than creators. Effective rebuttals neutralized A's analogies (student, library, Pen...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clarifying the core fairness clash: commercial extraction for substitutive products differs from human learning or search indexing, shifting burden to value-capturing firms rather than creators. Effective rebuttals neutralized A's analogies (student, library, Pen...
   Most decisive rebuttal noted: B2.1-B2.5 directly collapsed the diligent-student and search analogies by contrasting amplification vs replacement and personal voice vs packaged commercial substitution.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.2 | +1.32 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.2 | +1.28 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: A’s rebuttal that search/indexing “directs traffic” while generative AI “replaces the destination” was the sharpest exchange, because it undercut B’s main analogy and kept the debate centered on commercial substitute-making rather than generic computational use of public infor...
 - **Gemini 3.1 Pro Preview**: Side B won by decisively winning the clash on administrative burden and structural power. B's distinction between directing traffic (search engines) and replacing the destination (AI) neutralized A's primary historical analogy. Furthermore, B perfectly answered A's pressure qu...
   Most decisive rebuttal noted: B's first rebuttal (B2.1) cleanly dismantled A's search-engine analogy by contrasting Google "directing traffic" with AI "replacing the destination entirely."
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by sharper power-asymmetry framing, direct answers to pressure on commercial scoping and burden-shifting, and clearer weighing of incentive alignment over CON's proportionality claims; A's clipped closing and failure to fully engage small-commercial burden weakened their...
+- **Grok 4.20 0309 (Reasoning)**: B won by sharper power-asymmetry framing, direct answers to pressure on commercial scoping and burden-shifting, and clearer weighing of incentive alignment over CON's proportionality claims; A's clipped closing and failure to fully engage small-commercial burden weakened their...
   Most decisive rebuttal noted: B4's A1/A2 directly dismantled false symmetry on admin costs and commercial limits, neutralizing A's transparency alternative and exposing its overbreadth.

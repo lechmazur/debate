@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +1.7 | +1.70 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +2.0 | +1.60 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built a clearer case around direct public benefits vs conditional private gains, effectively exposed gaps in CON's mechanisms via pressure on underrepresentation, and crystallized the equity stakes without relying on unproven spillovers.
+- **Grok 4.20 0309 (Reasoning)**: Side A built a clearer case around direct public benefits vs conditional private gains, effectively exposed gaps in CON's mechanisms via pressure on underrepresentation, and crystallized the equity stakes without relying on unproven spillovers.
   Most decisive rebuttal noted: A's handling of the scholarship/lottery analogy and low-income underrepresentation pressure forced CON into admitting design failures in current subsidies.
 - **Kimi K2.5 Thinking**: Side A (PRO) won by establishing that public resources should serve immediate, widespread public benefits rather than conditional private returns. Side B (CON) failed to overcome the "promissory notes" critique: their benefits (revenue sharing, targeted subsidies, aspirational...
   Most decisive rebuttal noted: Side A's comparison of subsidized elite sports spots to "lottery tickets" as poverty policy (A2.4), which undermined CON's central equity argument by highlighting the rarity of scholarships versus the certainty of broad access benefits.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.0 | +0.80 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins on clearer equity clash and stronger public-trust framing; directly answered pressure on infrastructure with targeted-scholarship alternative while exposing CON's thin-margin defense of regressive subsidies; CON's budget-absorption point landed but reference errors and...
+- **Grok 4.20 0309 (Reasoning)**: A wins on clearer equity clash and stronger public-trust framing; directly answered pressure on infrastructure with targeted-scholarship alternative while exposing CON's thin-margin defense of regressive subsidies; CON's budget-absorption point landed but reference errors and...
   Most decisive rebuttal noted: A4's A1/A2 responses dismantled CON's privatization and quantification evasion, crystallizing that broad base precedes any ladder.
 - **Kimi K2.5 Thinking**: Side A (PRO) won by demonstrating that elite travel subsidies predominantly benefit affluent families who could self-finance, while broad recreational access serves public health and equity more effectively. Side B (CON) failed to substantiate that current subsidies meaningful...
   Most decisive rebuttal noted: Side A's turn in Rebuttal 1 ([A2.1]) showing that elite subsidies reinforce rather than prevent inequality because travel teams already serve predominantly affluent populations.

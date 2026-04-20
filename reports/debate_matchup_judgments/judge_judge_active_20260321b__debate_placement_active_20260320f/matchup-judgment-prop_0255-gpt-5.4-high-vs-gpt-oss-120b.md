@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.7 | +1.70 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO built the clearer path by distinguishing operational use from third-party archiving/resale and showing CON's own vendor-contract model (no retention, no onward sale) aligns with the proposition. CON never justified why a secondary commodity market is required for the cited...
+- **Grok 4.20 0309 (Reasoning)**: PRO built the clearer path by distinguishing operational use from third-party archiving/resale and showing CON's own vendor-contract model (no retention, no onward sale) aligns with the proposition. CON never justified why a secondary commodity market is required for the cited...
   Most decisive rebuttal noted: PRO's R2 (B4.1-B4.4) directly answered A's questions then used those answers to collapse CON's "existing safeguards" and "essential services" routes, crystallizing that benefits do not require brokerage.
 - **Kimi K2.5 Thinking**: Side B (PRO) won by isolating the archiving-and-selling business model as structurally harmful and unnecessary. Side A (CON) conceded that bounded, purpose-limited processing (vendors working strictly for a bank without resale) preserves fraud detection and health monitoring,...
   Most decisive rebuttal noted: Side B’s demonstration in Rebuttal 2 and Closing that Side A’s proposed alternative—vendor-only processing with immediate deletion and no downstream resale—proved the ban was precisely targeted rather than blunt, and that the resale step CON defended was unnecessary for the be...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.6 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -2.0 | -1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger case by showing the proposition is overbroad as written, harming legitimate cross-platform fraud prevention, cybersecurity, and abuse detection that rely on non-public traces. Side B repeatedly narrowed the motion with unstated distinctions (internal...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger case by showing the proposition is overbroad as written, harming legitimate cross-platform fraud prevention, cybersecurity, and abuse detection that rely on non-public traces. Side B repeatedly narrowed the motion with unstated distinctions (internal...
   Most decisive rebuttal noted: A's Rebuttal 2, which used B's own carve-outs to prove the motion only works after being rewritten, exposing the incumbency-subsidy problem for smaller actors.
 - **Kimi K2.5 Thinking**: CON wins because PRO’s defense requires rewriting the motion. The proposition bans archiving and selling "deleted or otherwise non-public digital traces," which CON shows would sweep in legitimate cybersecurity signals (breach indicators, compromise data, abuse fingerprints)....
   Most decisive rebuttal noted: CON’s second rebuttal and closing exposure that PRO "invents a 'security-incident data' exemption because they know the phrase 'otherwise non-public digital traces' would otherwise sweep in breach indicators," showing the motion only works if rewritten, which judges should rej...

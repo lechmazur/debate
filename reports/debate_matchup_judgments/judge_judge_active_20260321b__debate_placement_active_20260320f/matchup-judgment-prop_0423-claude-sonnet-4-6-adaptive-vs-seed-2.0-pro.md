@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.66 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s response to B’s “captured media is worse than no media” claim was decisive: A argued news deserts do not create healthy skepticism but ignorance and disengagement, so silence is not a safer anti-corruption baseline than imperfect local reporting with firewalls.
 - **Gemini 3.1 Pro Preview**: PRO won by systematically dismantling CON's defense of the status quo. PRO's insight that "ignorance generates disengagement, not healthy skepticism" decisively defeated CON's comparative claim that an absence of news is safer than the risk of captured news.
   Most decisive rebuttal noted: PRO's second rebuttal, which exposed the psychological flaw in CON's argument by pointing out that citizens in news deserts do not actively distrust the gap; they simply stop knowing.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A maintained clearer comparative weighing of demonstrated news-desert harms (corruption, polarization via national fill-in) vs. manageable capture risks with stipulated firewalls; rebutted volunteer alternatives as structurally unable to deliver deep accountability and showed...
+- **Grok 4.20 0309 (Reasoning)**: A maintained clearer comparative weighing of demonstrated news-desert harms (corruption, polarization via national fill-in) vs. manageable capture risks with stipulated firewalls; rebutted volunteer alternatives as structurally unable to deliver deep accountability and showed...
   Most decisive rebuttal noted: A's R2 directly answered pressure on local firewalls then crystallized "demonstrated harm beats theoretical risk," exposing B's consistent focus on vulnerability without superior status-quo mechanism.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.2 | -1.32 | 8.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s rebuttal that A’s library/public-board analogy was non-comparable, then the follow-up that firewall failure is asymmetric because government capture can distort an entire funded local media ecosystem at once, was the most decisive exchange.
 - **Gemini 3.1 Pro Preview**: Side B won by systematically dismantling A's reliance on "firewall governance," effectively arguing that firewalls structurally fail or create chilling effects under high-stakes political pressure. B's "asymmetry of failure" framework—showing that government capture systematic...
   Most decisive rebuttal noted: B's distinction in Rebuttal 1 between library boards and investigative journalism cleanly neutralized A's strongest institutional analogy, proving that firewalls face categorically different pressure when the funded entity is actively investigating its funders.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by establishing and defending the decisive asymmetry of failure: government capture distorts every funded outlet simultaneously and is self-reinforcing, while private distortions are narrower and reversible. B exposed that PRO's precedents only show firewalls workin...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by establishing and defending the decisive asymmetry of failure: government capture distorts every funded outlet simultaneously and is self-reinforcing, while private distortions are narrower and reversible. B exposed that PRO's precedents only show firewalls workin...
   Most decisive rebuttal noted: B's Rebuttal 2 crystallized the asymmetry and showed PRO's "sometimes survives" standard falls short of the proposition's required net benefit under pressure.

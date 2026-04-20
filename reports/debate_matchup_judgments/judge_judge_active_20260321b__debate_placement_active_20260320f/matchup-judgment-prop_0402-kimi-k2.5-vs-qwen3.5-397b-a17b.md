@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.4 | +1.54 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen3.5-397B-A17B | -1.2 | -1.07 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Qwen3.5-397B-A17B | -1.2 | -1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Qwen3.5-397B-A17B | -1.2 | -1.28 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s most decisive rebuttal was turning B’s inspection/admin-burden case into “you are blaming tenants for government delay and possibly trying to evade basic safety standards,” which sharply undercut B’s attempt to frame voucher rejection as neutral risk management.
 - **Gemini 3.1 Pro Preview**: Side A wins by effectively proving that vouchers are not just guaranteed cash, but a fundamentally different business contract burdened by administrative delays. Side B fails to adequately address Side A's point that mandating acceptance forces landlords to personally absorb t...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A4.1) perfectly crystallizes the burden debate, pointing out that while B argues tenants shouldn't pay the price for government inefficiency, B's stance merely forces landlords to subsidize that public failure instead.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer path by showing vouchers bundle real administrative burdens and conditional terms that alter the contract, not mere prejudice, and that mandates incentivize market exit reducing overall supply. Side B effectively pressed the "fix bureaucracy not punish...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer path by showing vouchers bundle real administrative burdens and conditional terms that alter the contract, not mere prejudice, and that mandates incentivize market exit reducing overall supply. Side B effectively pressed the "fix bureaucracy not punish...
   Most decisive rebuttal noted: B4.1-B4.4 directly answered pressure by separating program friction from tenant risk and flipping CON's bureaucracy concession, but A's supply-response in A4.5-A4.7 kept a live route open.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | -1.4 | -1.54 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.2 | -1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s most decisive rebuttal was that fair-housing analogies fail because vouchers are not an immutable trait but a program carrying distinct contractual burdens; A never fully answered that beyond reasserting status discrimination and weighing tenant harm against what B had alr...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively reframing vouchers not as a simple payment method, but as a burdensome government contract that imposes tangible financial risks (e.g., 60-90 day payment delays, rent caps). Side B repeatedly dismissed these as mere "administrative paperwork" without...
   Most decisive rebuttal noted: Side A's Closing correctly points out Side B's fatal weighing error, weaponizing Side B's dropped defense on the supply destruction argument to prove the proposition harms the very tenants it claims to help.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer, more decisive case by distinguishing immutable traits from contractual regulatory burdens, showing how mandates convert private assets into uncompensated public utilities and shrink supply via predictable market exit. Side B repeatedly framed burdens...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer, more decisive case by distinguishing immutable traits from contractual regulatory burdens, showing how mandates convert private assets into uncompensated public utilities and shrink supply via predictable market exit. Side B repeatedly framed burdens...
   Most decisive rebuttal noted: A's Rebuttal 1 and 2 directly collapsed the race-discrimination analogy and reframed voucher acceptance as compelled state partnership, leaving B's weighing of "friction vs crisis" dependent on an unanswered supply-destruction risk.

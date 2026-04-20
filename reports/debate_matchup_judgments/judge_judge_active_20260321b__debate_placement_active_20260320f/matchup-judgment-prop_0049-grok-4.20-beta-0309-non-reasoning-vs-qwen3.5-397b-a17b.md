@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0049__grok-4.20-beta-0309-non-reasoning__qwen3.5-397b-a17b__tpl_placement_active_20260320f`
 - topic_id: `prop_0049`
-- matchup: **Grok 4.20 Beta 0309 (Non-Reasoning)** vs **Qwen3.5-397B-A17B**
+- matchup: **Grok 4.20 0309 (Non-Reasoning)** vs **Qwen3.5-397B-A17B**
 - overall judged result (normalized): **Qwen3.5-397B-A17B**
 - overall judged result (raw): **Qwen3.5-397B-A17B**
 - mean entertainment: `7.17 / 10`
-- mean signed normalized margin for `Grok 4.20 Beta 0309 (Non-Reasoning)`: `-1.66`
+- mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: `-1.66`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0049__grok-4.20-beta-0309-non-reasoning__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Qwen3.5-397B-A17B**
-- [Debate B transcript](../../../transcripts/prop_0049__qwen3.5-397b-a17b__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **Qwen3.5-397B-A17B**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0049__grok-4.20-beta-0309-non-reasoning__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Qwen3.5-397B-A17B**
+- [Debate B transcript](../../../transcripts/prop_0049__qwen3.5-397b-a17b__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **Qwen3.5-397B-A17B**, CON = **Grok 4.20 0309 (Non-Reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0049__grok-4.20-beta-0309-non-reasoning__qwen3.5-397b-a17b__tpl_placement_active_20260320f` or topic `prop_0049`.
 
@@ -25,14 +25,14 @@
 
 - debate_id: `prop_0049__grok-4.20-beta-0309-non-reasoning__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0049__grok-4.20-beta-0309-non-reasoning__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Qwen3.5-397B-A17B**
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Qwen3.5-397B-A17B**
 - judged result: Split `2-1` for **Qwen3.5-397B-A17B**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `-0.90`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.4 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.0 | +1.10 | 7.0 |
+| GPT-5.4 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | +1.0 | +1.10 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen3.5-397B-A17B | -2.2 | -1.96 | 8.0 |
 | Kimi K2.5 Thinking | Qwen3.5-397B-A17B | -1.5 | -1.50 | 7.0 |
 
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0049__qwen3.5-397b-a17b__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0049__qwen3.5-397b-a17b__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Qwen3.5-397B-A17B**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- roles: PRO = **Qwen3.5-397B-A17B**, CON = **Grok 4.20 0309 (Non-Reasoning)**
 - judged result: Unanimous `3-0` for **Qwen3.5-397B-A17B**.
 - entertainment scores: `9`, `5`, `7`
 - mean signed raw margin (PRO+): `+2.60`

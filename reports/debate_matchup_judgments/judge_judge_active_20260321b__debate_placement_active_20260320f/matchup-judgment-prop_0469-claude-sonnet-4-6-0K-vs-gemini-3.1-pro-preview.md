@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Gemini 3.1 Pro Preview | -1.0 | -1.00 | 6.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by making the capacity/infinite-demand and weakened-deterrence comparisons clearest across rounds; A's strong opening and pull-factor rebuttal are undermined by clipping in R2 and closing (execution cost), failure to squarely neutralize North-Africa absorption risk...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by making the capacity/infinite-demand and weakened-deterrence comparisons clearest across rounds; A's strong opening and pull-factor rebuttal are undermined by clipping in R2 and closing (execution cost), failure to squarely neutralize North-Africa absorption risk...
   Most decisive rebuttal noted: B's R2 directly exploits A's "residual population" concession with scale math while exposing the transit-state category error, collapsing PRO's bilateral-corridor rescue.
 - **Kimi K2.5 Thinking**: CON wins on the capacity problem. PRO concedes that extreme wage differentials drive "vast" migration demand (B2.3), yet never explains how limited legal corridors can absorb more than a tiny fraction of this flow. When combined with deprioritizing mass deportations, PRO leave...
   Most decisive rebuttal noted: CON's refutation in Rebuttal 2 (A4.3-A4.4) exposing that PRO's "residual population" for enforcement is actually the vast majority of migrants due to infinite demand, not a small manageable exception, thereby collapsing PRO's attempt to distinguish between "mass" and "targeted...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.1 | +1.17 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.1 | +1.17 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | -1.2 | -1.20 | 8.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.2 | -0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by clarifying the live choice as regulated labor markets versus revolving-door black markets, directly answering capacity pressures by comparing deportation logistics to corridor requirements and using the Qatar reform as narrow proof-of-concept. Side B's complement...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by clarifying the live choice as regulated labor markets versus revolving-door black markets, directly answering capacity pressures by comparing deportation logistics to corridor requirements and using the Qatar reform as narrow proof-of-concept. Side B's complement...
   Most decisive rebuttal noted: A's A4.3-A4.4 weighing of capacity demands and revolving-door failure directly damaged CON's "political will only" route after B's questions.
 - **Kimi K2.5 Thinking**: CON successfully established that legal labor corridors require institutional capacity (bilateral enforcement, labor protections, functioning state apparatus) that is absent in key North African states like Libya, while enforcement functions with existing capacity. PRO's relia...
   Most decisive rebuttal noted: CON's dismantling of the Qatar example as an exceptional case driven by unique World Cup pressure, demonstrating that PRO's model for regional reform relied on diplomatic conditions unlikely to be replicated across Libya, Tunisia, and the Gulf simultaneously.

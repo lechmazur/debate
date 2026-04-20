@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | MiniMax-M2.7 | -0.9 | -0.90 | 8.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +1.4 | +1.12 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer route to victory by consistently framing the hard-case decision rule when inflation persists above target, directly answering B's pressure on evidence and de-anchoring prevention, and demonstrating the asymmetry of risks (modest recoverable unemploymen...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer route to victory by consistently framing the hard-case decision rule when inflation persists above target, directly answering B's pressure on evidence and de-anchoring prevention, and demonstrating the asymmetry of risks (modest recoverable unemploymen...
   Most decisive rebuttal noted: A's R2 directly dispatched B's pressure questions on preemptive action and alternatives, exposing that CON demands perfect timing no institution has while PRO supplies a robust default rule.
 - **Kimi K2.5 Thinking**: Side A (CON) wins by successfully shifting the burden of proof and defending a coherent alternative to PRO's rigid prioritization. CON demonstrated that PRO's credibility argument relies on speculative future harm (de-anchoring) to justify imposing known, concentrated harm (un...
   Most decisive rebuttal noted: CON's burden shift in Rebuttal 2 (A4.1-A4.3), arguing that PRO must justify imposing identifiable unemployment on hundreds of thousands based on speculative de-anchoring risks that current evidence does not support, while demonstrating that post-1990s central banking has succe...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.2 | -1.20 | 7.0 |
 | Qwen3.5-397B-A17B | MiniMax-M2.7 | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by clarifying the credibility asymmetry: modest preemptive anchoring prevents stagflation's dual harms, directly rebutting CON's distributional and supply-shock points while answering pressure questions with the flexible-vs-rigid expectations binary. CON's balancin...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by clarifying the credibility asymmetry: modest preemptive anchoring prevents stagflation's dual harms, directly rebutting CON's distributional and supply-shock points while answering pressure questions with the flexible-vs-rigid expectations binary. CON's balancin...
   Most decisive rebuttal noted: A's R1 turning CON's distributional claim into support for proactive anchoring to avoid sustained stagflation.
 - **Kimi K2.5 Thinking**: Side A (CON) wins by exposing a decisive tension in Side B's (PRO) empirical premise. PRO conceded that current inflation was driven by supply shocks that are now unwinding, yet insisted on preemptive demand destruction to prevent expectations from embedding. CON successfully...
   Most decisive rebuttal noted: Side A's identification in Rebuttal 1 that PRO cannot simultaneously argue (1) supply shocks are unwinding and (2) immediate tightening is necessary to prevent expectations embedding, because the former undermines the empirical premise of the latter.

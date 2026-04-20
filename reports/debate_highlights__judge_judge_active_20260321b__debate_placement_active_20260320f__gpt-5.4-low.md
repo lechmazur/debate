@@ -3,8 +3,8 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - analysis_model: `gpt-5.4-low`
 - source: LLM-selected best lines over complete side-swapped debate matchups
-- parsed moments: `1620`
-- matchups with at least one parsed moment: `548`
+- parsed moments: `1834`
+- matchups with at least one parsed moment: `620`
 
 ## Most Quotable Matchups
 
@@ -26,7 +26,7 @@ Why it matters: This line crystallizes the transparency objection in a way that 
 > We cannot fix a rigged game by asking the dealer to show their cards occasionally. We must stop the dealing.
 Why it matters: This is the matchup’s best closing image: it rebuts incremental transparency regulation while making the ban sound like the only serious remedy. The metaphor is unusually alive without losing the substance of the enforceability argument.
 
-### Grok 4.20 Beta 0309 (Non-Reasoning) vs MiniMax-M2.7
+### Grok 4.20 0309 (Non-Reasoning) vs MiniMax-M2.7
 
 - topic: `prop_0098: The TikTok US joint-venture structure with Oracle and other US investors adequately addresses national-security concerns without meaningfully ending...`
 - highlight signal: mean `10.0` / `10`, max `10` / `10`, moments `3`
@@ -40,7 +40,7 @@ Why it matters: This is the cleanest compression of the entire negative case: it
 > Calling that adequate is like installing a deadbolt on a door while leaving the windows wide open. The lock is real; the home is still exposed.
 Why it matters: This is the matchup’s best analogy: vivid enough to quote on its own, but also doing real argumentative work by conceding one mitigation while showing why it is insufficient. It turns an abstract “partial mitigation” dispute into an instantly graspable image.
 
-- `10/10` `Strong Closing` by **Grok 4.20 Beta 0309 (Non-Reasoning)** in `Closing` as `CON` (`prop_0098__minimax-m2.7__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f` turn `10`)
+- `10/10` `Strong Closing` by **Grok 4.20 0309 (Non-Reasoning)** in `Closing` as `CON` (`prop_0098__minimax-m2.7__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f` turn `10`)
 > Guarding a Virginia database while the platform’s mind still answers to Beijing is not national-security architecture; it is continued vulnerability wearing contractual camouflage.
 Why it matters: This closing line is the most polished endgame crystallization in the pair: it ties the whole clash back to data versus control and lands with unusually strong phrasing. It feels both analytically decisive and highly shareable.
 
@@ -103,6 +103,20 @@ Why it matters: This is the cleanest and most memorable reframing in the matchup
 - `10/10` `Strong Closing` by **Claude Sonnet 4.6 (high reasoning)** in `Closing` as `CON` (`prop_0384__ernie-5__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f` turn `10`)
 > The illness isn't the indicator. The response to the resulting obligation is. PRO has spent this entire debate proving the wrong thing.
 Why it matters: This is a devastating final crystallization: short, decisive, and easy to remember. It flips the proposition's core premise by separating cause from behavior in a way that feels both analytically strong and highly shareable.
+
+### Claude Opus 4.7 (high reasoning) vs Kimi K2.5 Thinking
+
+- topic: `prop_0487: Governments should fund and deploy permanent asteroid-deflection infrastructure rather than treat planetary defense mainly as a research niche.`
+- highlight signal: mean `10.0` / `10`, max `10` / `10`, moments `2`
+- matchup summary: This matchup’s best highlights came from crisp, image-heavy crystallizations rather than sprawling technical exchanges. Claude produced the most showable lines on both sides, especially when reducing the dispute to vivid contrasts like hardware versus PowerPoint or a truck frozen in the wrong orbit.
+
+- `10/10` `Decisive Rebuttal` by **Claude Opus 4.7 (high reasoning)** in `Rebuttal 2` as `PRO` (`prop_0487__claude-opus-4-7-adaptive__kimi-k2.5__s0__tpl_placement_active_20260320f` turn `7`)
+> And crucially: a kinetic impactor with seven years of warning and imperfect composition data still beats a PowerPoint with perfect composition data.
+Why it matters: This is the cleanest pro-side crystallization in the matchup: it answers the customization objection while turning the research-only posture into a vivid image of uselessness. It’s memorable because it compresses the whole debate into action versus analysis without becoming empty rhetoric.
+
+- `10/10` `Strong Closing` by **Claude Opus 4.7 (high reasoning)** in `Closing` as `CON` (`prop_0487__kimi-k2.5__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f` turn `10`)
+> Fund the warning. Fund the capability. Don't freeze a truck in the wrong orbit.
+Why it matters: This is an excellent closing tag line: punchy, quotable, and tightly tied to the con theory that permanent space hardware is geometrically mismatched and wasteful. The final sentence is especially benchmark-worthy because it turns a technical orbital-mechanics objection into a line a general reader will actually remember.
 
 ### GPT-5.4 (high reasoning) vs MiniMax-M2.7
 
@@ -194,24 +208,6 @@ Why it matters: This is the most vivid line in the entire matchup. It does real 
 > The truly state-approved narrative is the sanitized one: heroism foregrounded, atrocity minimized, victims blurred away.
 Why it matters: This is a strong inversion of the opposition’s “state-approved script” attack. It lands because it compresses a substantive rebuttal into a crisp, memorable indictment of official amnesia.
 
-### GPT-5.4 (high reasoning) vs Llama 4 Maverick
-
-- topic: `prop_0014: The U.S. national debt has reached a level where serious deficit reduction should take priority over most new...`
-- highlight signal: mean `9.7` / `10`, max `10` / `10`, moments `3`
-- matchup summary: This side-swapped matchup produced its best lines when GPT-5.4 sharpened the clash into clean governing rules rather than abstract debt alarms. The standout quotes are memorable because they turn fiscal policy into vivid, quotable standards: burden of proof, limiting principle, and a crisp final distinction between scrutiny and supremacy.
-
-- `10/10` `Framing Move` by **GPT-5.4 (high reasoning)** in `Rebuttal 1` as `PRO` (`prop_0014__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f` turn `3`)
-> At that point, the default should shift from “spend unless forbidden” to “prove it, pay for it, or wait.”
-Why it matters: This is the cleanest framing line in the matchup: it translates a sprawling debt debate into a simple decision rule. It is both substantive and highly quotable because it gives judges an intuitive standard they can immediately apply.
-
-- `10/10` `Strong Closing` by **GPT-5.4 (high reasoning)** in `Closing` as `CON` (`prop_0014__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f` turn `10`)
-> PRO proved debt deserves scrutiny, not supremacy.
-Why it matters: This is the sharpest line from the reverse-side debate because it compresses the entire rebuttal into a punchy, elegant distinction. It is especially showcase-worthy as a rare closing phrase that is both rhetorically slick and genuinely argumentative.
-
-- `9/10` `Strong Closing` by **GPT-5.4 (high reasoning)** in `Closing` as `PRO` (`prop_0014__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f` turn `9`)
-> So the clean comparison is this: one side offers discipline with exceptions; the other offers exceptions without discipline.
-Why it matters: This is an excellent crystallization: compact, balanced, and easy to remember. It turns the whole round into a single contrast that sounds like a verdict rather than a recap.
-
 ## Best Lines Overall
 
 - `10/10` `Framing Move`: **Claude Sonnet 4.6 (no reasoning)** vs **ByteDance Seed2.0 Pro** on `prop_0001: Countries should ban end-to-end encryption backdoors for law enforcement even if it limits counterterrorism...` in `Closing`
@@ -221,6 +217,10 @@ Why it matters: This is the cleanest crystallization of the PRO case in either t
 - `10/10` `Best Line`: **Claude Sonnet 4.6 (no reasoning)** vs **ByteDance Seed2.0 Pro** on `prop_0001: Countries should ban end-to-end encryption backdoors for law enforcement even if it limits counterterrorism...` in `Rebuttal 1`
 > Children don't disappear in percentages. They disappear one at a time, in exactly these cases.
 Why it matters: This is the standout rhetorical line of the matchup: vivid, morally forceful, and directly responsive to the opponent’s statistical minimization. It turns an abstract “1% of cases” claim into a concrete burden in a way readers will actually remember.
+
+- `10/10` `Decisive Rebuttal`: **Claude Opus 4.7 (high reasoning)** vs **GPT-5.4 (no reasoning)** on `prop_0002: American cities would be more affordable today if they had legalized denser housing two...` in `Rebuttal 2`
+> A $10 rent reduction on a $2,400 unit vindicates the arithmetic and loses the motion.
+Why it matters: This is the sharpest crystallization of CON’s burden argument across both debates. It forcefully distinguishes technical directional effects from the ordinary-English claim of affordability, and it is phrased in a way readers will actually remember.
 
 - `10/10` `Decisive Rebuttal`: **GPT-5.4 (high reasoning)** vs **MiniMax-M2.7** on `prop_0003: Cities should relax historic-district protections when they block needed housing density, even at the...` in `Rebuttal 1`
 > “Build more homes, just not here” is not a housing answer when “here” means central, transit-rich neighborhoods where demand is highest.
@@ -270,6 +270,10 @@ Why it matters: It’s a compact, biting indictment that instantly reframes the 
 > The debate turns on a single question: should states expand vouchers based on what they are, or what PRO hopes they might become?
 Why it matters: This is the cleanest burden-framing line in the matchup. It crystallizes the whole side-swap into one memorable sentence and gives readers an instantly understandable takeaway about policy realism versus aspirational design.
 
+- `10/10` `Best Line`: **Claude Opus 4.7 (high reasoning)** vs **Claude Sonnet 4.6 (no reasoning)** on `prop_0012: Museums and universities should return Indigenous and colonized peoples' human remains promptly even when...` in `Rebuttal 2`
+> A veto by the wrong claimants is not sovereignty; it is a second dispossession wearing sovereignty's clothes.
+Why it matters: This is the standout line of the matchup: vivid, elegant, and tightly tied to the core clash over mistaken affiliation. It reframes a procedural caution as a moral danger in language readers are likely to remember.
+
 - `10/10` `Strong Closing`: **GPT-5.4 (no reasoning)** vs **Mistral Large 3** on `prop_0013: Countries should formally acknowledge and teach wartime sexual slavery and forced labor even when...` in `Closing`
 > So even if acknowledgment and teaching keep grievance visible in present diplomacy, that is still the right choice, because visible grievance attached to truth is governable; buried grievance attached to denial is corrosive. One can negotiate with an admitted past. One cannot reconcile around an insult.
 Why it matters: This is the cleanest crystallization of the whole debate: it reframes “keeping grievances alive” from a liability into a manageable consequence of honesty. The last sentence is especially quotable and gives the round a memorable moral hinge.
@@ -298,17 +302,9 @@ Why it matters: This closing crystallization is both vivid and decisive: it turn
 > A conception of dignity that can be enforced against your will over your own body is just domination with better vocabulary.
 Why it matters: This is the standout line of the whole matchup: compact, vivid, and substantively central. It crystallizes the PRO case in a way that is both philosophically sharp and instantly quoteable.
 
-- `10/10` `Best Line`: **Gemini 3.1 Flash-Lite Preview** vs **Grok 4.20 Beta 0309 (Non-Reasoning)** on `prop_0018: Cities should impose congestion pricing in central districts even when drivers strongly oppose it.` in `Rebuttal 2`
+- `10/10` `Best Line`: **Gemini 3.1 Flash-Lite Preview** vs **Grok 4.20 0309 (Non-Reasoning)** on `prop_0018: Cities should impose congestion pricing in central districts even when drivers strongly oppose it.` in `Rebuttal 2`
 > This is the logic of a spreadsheet, not a society.
 Why it matters: This is the sharpest anti-technocracy line in the matchup. It compresses the con side's whole moral critique into a phrase that is instantly legible, quotable, and hard to forget.
-
-- `10/10` `Best Line`: **Kimi K2.5 Thinking** vs **Claude Opus 4.6 (no reasoning)** on `prop_0019: Landlords that use shared algorithmic rent-setting tools should face antitrust scrutiny as if they...` in `Rebuttal 2`
-> When competitors feed real-time lease data into a shared algorithm that returns synchronized price floors, they have outsourced their pricing independence to a digital cartel manager.
-Why it matters: This is the most vivid line in the matchup, translating a technical antitrust theory into a phrase a reader would actually remember. It also does real argumentative work by framing the algorithm not as neutral software but as the operational center of coordination.
-
-- `10/10` `Best Line`: **Qwen3.5-397B-A17B** vs **Gemini 3.1 Flash-Lite Preview** on `prop_0020: The European Union would be stronger today if it had never adopted a common...` in `Rebuttal 1`
-> Politically, the Euro is not glue; it is acid.
-Why it matters: This is the cleanest one-line inversion in the matchup: it flips CON’s integration framing into a claim of corrosion rather than cohesion. It is short, vivid, and directly tied to the substantive argument that the euro poisoned solidarity through creditor-debtor politics.
 
 ## Sharpest Pressure Questions
 
@@ -324,16 +320,16 @@ Why it matters: This is the cleanest one-line inversion in the matchup: it flips
 - `10/10` by **Kimi K2.5 Thinking** against **Claude Opus 4.6 (no reasoning)** on `prop_0134: Restricting short-term rentals in high-demand city neighborhoods reduces rents and displacement more than it...`
 > If strict restrictions truly fail to reduce short-term rental supply because black markets persist [C1.6], how do they simultaneously destroy host income streams [C1.4]? Either the restrictions work to return units to housing stock, or they fail to constrain supply—CON cannot claim both massive economic damage to hosts and enforcement futility.
 
-- `10/10` by **Claude Opus 4.6 (no reasoning)** against **Grok 4.20 Beta 0309 (Reasoning)** on `prop_0178: Ultra-processed food reformulation mandates such as caps on salt, sugar, and fat would improve...`
+- `10/10` by **Claude Opus 4.6 (no reasoning)** against **Grok 4.20 0309 (Reasoning)** on `prop_0178: Ultra-processed food reformulation mandates such as caps on salt, sugar, and fat would improve...`
 > Q1: PRO claims simultaneous caps on salt, sugar, and fat "close the loopholes" [P2.1], but can you name a single real-world regulatory regime that has successfully imposed binding caps on all three nutrients simultaneously across thousands of ultra-processed products—and if none exists, on what empirical basis are you asking us to accept that this untested mechanism would outperform every labeling intervention ever tried?
 
 - `10/10` by **GPT-5.4 (no reasoning)** against **Baidu Ernie 5.0** on `prop_0268: Advanced driver-assistance systems should default to intelligent speed assistance rather than leave speed warnings...`
 > Which is it: easy override, meaning weak real-world effect on speeding, or hard/delayed override, meaning added risk in bad reads and fast-changing situations?
 
-- `10/10` by **Deepseek V3.2** against **Grok 4.20 Beta 0309 (Reasoning)** on `prop_0278: A two-state solution between Israelis and Palestinians remains the least-bad achievable long-term outcome despite...`
+- `10/10` by **DeepSeek V3.2** against **Grok 4.20 0309 (Reasoning)** on `prop_0278: A two-state solution between Israelis and Palestinians remains the least-bad achievable long-term outcome despite...`
 > Why is the trust needed for their submission more achievable than the trust for a separation?
 
-- `10/10` by **Grok 4.20 Beta 0309 (Reasoning)** against **Grok 4.20 Beta 0309 (Non-Reasoning)** on `prop_0401: European countries should end golden-visa and citizenship-by-investment programs rather than continue selling residency access...`
+- `10/10` by **Grok 4.20 0309 (Reasoning)** against **Grok 4.20 0309 (Non-Reasoning)** on `prop_0401: European countries should end golden-visa and citizenship-by-investment programs rather than continue selling residency access...`
 > If every immigration route can be gamed [C1.3], why insist on an express paid lane that advertises minimal integration and lets oligarchs buy legal cover before authorities can react?
 
 - `10/10` by **Claude Opus 4.6 (high reasoning)** against **Claude Opus 4.6 (no reasoning)** on `prop_0431: Parents should have less power to use schools and teachers to enforce highly restrictive...`

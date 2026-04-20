@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.2 | +1.28 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.0 | +1.00 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger comparative case by repeatedly clarifying that the status quo is not neutral and that waiting for conclusive data while subsidizing the incumbent at scale is incumbent favoritism. A answered B's heterogeneity and conditionality pressures directly with...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger comparative case by repeatedly clarifying that the status quo is not neutral and that waiting for conclusive data while subsidizing the incumbent at scale is incumbent favoritism. A answered B's heterogeneity and conditionality pressures directly with...
   Most decisive rebuttal noted: A's Rebuttal 2 directly used A1/A2 to dispatch B's pressure questions and reframe the disagreement as conditional parity versus conditional marginality, collapsing B's false dilemma.
 - **Kimi K2.5 Thinking**: Side B (PRO) successfully established that demanding "conclusive" long-term yield data before granting parity functions as incumbent protection when conventional agriculture already receives massive subsidies. They effectively neutralized Side A's heterogeneity concerns by dem...
   Most decisive rebuttal noted: Side B's response to Side A's heterogeneity argument in Rebuttal 1 (B2.3-B2.4), where they demonstrated that conventional inputs also vary sharply by region and that variability is a reason to share transition risk rather than deny support, effectively undercut CON's core obje...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.6 | -1.60 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON won by maintaining that the specific motion requires justifying full parity before conclusive yield data; they showed a workable middle ground of targeted support suffices for learning and transition without lock-in risk or copying flawed subsidy scale. PRO framed bias cor...
+- **Grok 4.20 0309 (Reasoning)**: CON won by maintaining that the specific motion requires justifying full parity before conclusive yield data; they showed a workable middle ground of targeted support suffices for learning and transition without lock-in risk or copying flawed subsidy scale. PRO framed bias cor...
   Most decisive rebuttal noted: B4 directly answered A's pressures on evidence and stopping rules, reframing them as confirming lock-in risk and making the middle-ground comparison decisive.
 - **Kimi K2.5 Thinking**: CON (Side A) won by successfully defending a principled middle ground between "no support" and "parity-scale subsidies." They established that governments can fund transition assistance, regional trials, insurance tools, and outcome-based payments without committing to the mot...
   Most decisive rebuttal noted: CON's argument in Rebuttal 1 (A2.6) and Rebuttal 2 (A4.4) that targeted regional pilots, transition insurance, and outcome-based payments constitute a viable third way that generates learning without requiring parity-scale lock-in, directly undermining PRO's false dichotomy be...

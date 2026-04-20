@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +1.2 | +1.28 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -0.7 | -0.70 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.2 | -0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by keeping the clash on whether perpetual raw-sewage exposure is tolerable and using CON's refusal to set any hard limit or acceptable overflow number to frame their approach as institutionalized failure. B's "ends the subscription" vs "perpetual Band-Aids" comparis...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by keeping the clash on whether perpetual raw-sewage exposure is tolerable and using CON's refusal to set any hard limit or acceptable overflow number to frame their approach as institutionalized failure. B's "ends the subscription" vs "perpetual Band-Aids" comparis...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered A's limiting-principle question while pressing CON's unanswered "how many discharges" burden, which B then crystallized in closing as the decisive concession.
 - **Kimi K2.5 Thinking**: CON (Side A) won by successfully demonstrating that PRO's (Side B) framework lacked a limiting principle capable of handling the "much higher upfront cost" constraint embedded in the motion. While PRO effectively established the moral urgency of eliminating raw sewage and expo...
   Most decisive rebuttal noted: The exchange regarding limiting principles and acceptable overflow frequencies. CON's pressure question exposed that PRO's framework had no stopping point for costs (making zero overflows mandatory "at any price"), while PRO's counter-pressure exposed CON's vague "as low as pr...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | GLM-5 | -1.0 | -1.00 | 8.0 |
 | Qwen3.5-397B-A17B | GLM-5 | -1.2 | -0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by framing the core choice as ending a predictably defective design versus perpetual management of failure, directly neutralizing CON's "comparable outcomes" and cost-effectiveness claims by showing they leave the root hazard intact under worsening storms. B answered pre...
+- **Grok 4.20 0309 (Reasoning)**: B won by framing the core choice as ending a predictably defective design versus perpetual management of failure, directly neutralizing CON's "comparable outcomes" and cost-effectiveness claims by showing they leave the root hazard intact under worsening storms. B answered pre...
   Most decisive rebuttal noted: B's R2 directly took CON's 85-98% claim and showed the residual discharges are the exact failure mode (not trivial leftover), then tied it to no-stopping-point tradeoff trap in closing.
 - **Kimi K2.5 Thinking**: CON wins by successfully pressuring PRO on the cost constraint embedded in the proposition. While PRO effectively argued that combined sewers have a structural "failure mode" that overflow management cannot eliminate, they failed to establish a limiting principle for when upfr...
   Most decisive rebuttal noted: The exchange over "comparable environmental outcomes" and limiting principles. CON successfully challenged PRO to define when costs would outweigh benefits, exposing that PRO's framework would justify virtually any expense for marginal water quality gains. PRO's counter that C...

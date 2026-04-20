@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.3 | +1.43 | 8.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2 Pro | -1.2 | -1.07 | 9.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s pressure on whether the hybrid path ever becomes separation was the key exchange: B answered that it does not need to, and A used that to argue CON was defending perpetual overflow management rather than the proposition’s replacement question.
 - **Gemini 3.1 Pro Preview**: Side A wins by successfully proving that Side B's "actual solution" is a fiscal fantasy for most municipalities, turning B's push for a defined endpoint into an open-ended vulnerability. While B effectively critiqued A's hybrid model as a "permanent contamination floor," A con...
   Most decisive rebuttal noted: Side A's Rebuttal 2 effectively neutralizes B's "bounded capital investment" argument by using the shared Boston example to prove that large-scale separation is often an open-ended, multi-generational expense rather than a cleanly finished project.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by framing separation as a permanent structural fix versus CON's acceptance of indefinite overflows under "hybrid" branding. PRO neutralized feasibility attacks by treating "should" as a normative destination that guides policy even whe...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by framing separation as a permanent structural fix versus CON's acceptance of indefinite overflows under "hybrid" branding. PRO neutralized feasibility attacks by treating "should" as a normative destination that guides policy even whe...
   Most decisive rebuttal noted: B's R2 answers to A's pressure questions exposed that CON's "dynamic" path has no destination, collapsing CON's case into permanent management.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.66 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s first rebuttal was the key turn: it accepted A’s point that sewage is worse, then argued that this still doesn’t answer the actual proposition because optimized overflow management can reduce sewage discharges substantially without paying the full separation premium. That...
 - **Gemini 3.1 Pro Preview**: Side A wins by relentlessly enforcing the burden of the proposition. While Side B effectively argued the moral imperative of stopping sewage overflows, Side A successfully demonstrated that Side B never proved separation's massive upfront cost and long-term climate adaptation...
   Most decisive rebuttal noted: Side A's Rebuttal 2 dismantled the idea that separation is a permanent, one-time cost by pointing out that separated stormwater pipes also face an exponential curve of climate adaptation and capacity upgrades.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) wins by keeping the debate anchored to the proposition's explicit cost-benefit test ("even when upfront cost is much higher"). A neutralized B's "permanent fix" and moral-sewage-vs-runoff frames with direct comparisons on delayed benefits during decades-long const...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) wins by keeping the debate anchored to the proposition's explicit cost-benefit test ("even when upfront cost is much higher"). A neutralized B's "permanent fix" and moral-sewage-vs-runoff frames with direct comparisons on delayed benefits during decades-long const...
   Most decisive rebuttal noted: A's Rebuttal 1, which reframed B's concessions on stormwater pollution and Chicago costs into an unanswered burden on why full separation outperforms optimized management on the proposition's own metric.

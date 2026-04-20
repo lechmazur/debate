@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | +1.0 | +1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | ByteDance Seed2.0 Pro | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's closing reframe—that CON had spent the debate arguing for nuclear as a "gap-filler" not a "central strategy," which is precisely what opponents used to say about coal before better alternatives arrived—was the sharpest single argumentative move. It crystallized the defin...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively establishing that nuclear remains necessary to completely eliminate fossil fuels. Side A expertly leveraged Side B's concession that near-term renewable grids still require fossil backup, framing nuclear as the essential zero-carbon dispatchable pilla...
   Most decisive rebuttal noted: Side A's Rebuttal 2 capitalization on Side B's admission that fossil backup remains necessary for extreme weather events, cleanly linking it back to the resolution's burden of "necessity" for decarbonization.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) built the clearer path to victory by showing that PRO explicitly conceded near-term fossil backup remains necessary for renewables during multi-week lulls, directly undermining the claim that nuclear is no longer needed as central zero-carbon dispatchable power in...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) built the clearer path to victory by showing that PRO explicitly conceded near-term fossil backup remains necessary for renewables during multi-week lulls, directly undermining the claim that nuclear is no longer needed as central zero-carbon dispatchable power in...
   Most decisive rebuttal noted: A's Rebuttal 2 directly used PRO's intermittency admission to argue the motion fails, plus the France outage response that preserved nuclear's practical edge.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | -1.1 | -1.53 | 7.0 |
 | Gemini 3.1 Pro Preview | ByteDance Seed2.0 Pro | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | -1.2 | -1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | -1.2 | -1.28 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Side B's first rebuttal on the US reliability example: "22% is not a decarbonized grid—it is a grid still fundamentally dependent on fossil plants for the times when the wind doesn't blow and the sun doesn't shine." This exposed A's central empirical exhibit as evidence of a h...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully neutralizing Side A's core reliability argument while maintaining their own offensive on construction timelines. Side A pushed hard on the idea that renewables fail during winter cold snaps and require fossil backup, but in Turn 8, Side A conceded th...
   Most decisive rebuttal noted: Side B's Turn 9 observation that CON's own rebuttal admitted nuclear-centric grids also cannot handle winter peak demand spikes without fossil backup, collapsing Side A's main comparative advantage.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A made the cleaner comparative case on proven reliability today versus unscaled storage and projections, using Germany, capacity factors, and northern-winter gaps to neutralize B's cost/speed claims. B's answers introduced brittle precision on "10-25% cheaper" full-system...
+- **Grok 4.20 0309 (Reasoning)**: Side A made the cleaner comparative case on proven reliability today versus unscaled storage and projections, using Germany, capacity factors, and northern-winter gaps to neutralize B's cost/speed claims. B's answers introduced brittle precision on "10-25% cheaper" full-system...
   Most decisive rebuttal noted: A's Rebuttal 1 on 4-hour storage inadequacy for multi-week lulls and fossil masking of 22% US renewables, which B never fully neutralized despite direct answers.

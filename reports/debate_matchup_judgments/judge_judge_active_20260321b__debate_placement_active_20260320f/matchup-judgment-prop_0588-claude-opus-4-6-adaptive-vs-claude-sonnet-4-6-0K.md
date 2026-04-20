@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.8 | +1.92 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.8 | +1.92 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clearly exposing and exploiting Side A's internal contradiction on diminishing returns (already picked low-hanging fruit) versus hundreds of thousands of still-unmonitored wells plus recurring leaks that prove ongoing LDAR value. B directly answered pressure ques...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clearly exposing and exploiting Side A's internal contradiction on diminishing returns (already picked low-hanging fruit) versus hundreds of thousands of still-unmonitored wells plus recurring leaks that prove ongoing LDAR value. B directly answered pressure ques...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered A's questions, collapsed both of CON's core claims in one move by affirming recurrence helps LDAR, and highlighted unanswered timeline concessions.
 - **Kimi K2.5 Thinking**: PRO (Side B) won by successfully defending the literal terms of the motion. They established that "near-term" means immediate deployment (months vs. 5+ years), leveraged the 80x potency multiplier for methane over 20-year horizons, and exposed a fatal contradiction in CON's ca...
   Most decisive rebuttal noted: PRO's turning of CON's argument about equipment degradation and recurring leaks in Rebuttal 2 [B4.3-B4.5], which showed that recurrence proves LDAR provides ongoing climate benefits rather than facing diminishing returns, thereby collapsing CON's claim that further tightening...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | +1.0 | +1.00 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won on the decisive near-term physics clash (GWP-20 forcing vs slow CO2 accumulation) plus persistent real-world emissions gap that CON never neutralized; CON's marginal-cost and implementation points landed but PRO's rebuttals on super-emitters, existing regulatory adoption...
+- **Grok 4.20 0309 (Reasoning)**: B won on the decisive near-term physics clash (GWP-20 forcing vs slow CO2 accumulation) plus persistent real-world emissions gap that CON never neutralized; CON's marginal-cost and implementation points landed but PRO's rebuttals on super-emitters, existing regulatory adoption...
   Most decisive rebuttal noted: B's R1 directly falsified CON's "easy leaks already fixed by incentives" with monitoring data showing systematic under-reporting, collapsing CON's load-bearing premise.
 - **Kimi K2.5 Thinking**: Side B (PRO) won by successfully defending the magnitude gap in near-term warming potential (GWP-20) while neutralizing Side A's economic arguments. PRO effectively used super-emitter evidence to falsify CON's claim that market incentives already capture cheap abatement opport...
   Most decisive rebuttal noted: The exchange on super-emitters versus economic incentives (B2.1-B2.3), where PRO used monitoring data showing actual emissions double industry reporting to falsify CON's premise that "the easy tonnes are already being recovered," collapsing the foundation of CON's cost-curve a...

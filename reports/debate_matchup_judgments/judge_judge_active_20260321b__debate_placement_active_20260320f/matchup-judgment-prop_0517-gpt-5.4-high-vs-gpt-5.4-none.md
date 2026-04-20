@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | +2.5 | +2.22 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +3.0 | +2.40 | 6.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B wins by effectively framing the right to explanation as a necessary "gateway" to utilizing existing legal remedies. Side B cleanly resolves Side A's primary offense—that probabilistic models cannot be explained without deception—by providing highly plausible, concrete e...
   Most decisive rebuttal noted: Side B's Rebuttal 2 answers to the pressure questions, which perfectly demonstrated how a hybrid system's explanation looks in practice and proved why it is necessary to activate other rights.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A built clearer gateway logic: explanation activates existing remedies; B never neutralized how victims trigger correction/appeal without knowing decisive factors. A's direct A1/A2 rebuttal with concrete eviction example crystallized this; B's clipped speeches and vaguer admin...
+- **Grok 4.20 0309 (Reasoning)**: A built clearer gateway logic: explanation activates existing remedies; B never neutralized how victims trigger correction/appeal without knowing decisive factors. A's direct A1/A2 rebuttal with concrete eviction example crystallized this; B's clipped speeches and vaguer admin...
   Most decisive rebuttal noted: A's Rebuttal 2 (A1/A2) directly answered B's pressure with workable hybrid-model template and showed the "wrong eviction record" case that existing tools cannot reach without explanation.
 - **Qwen3.5-397B-A17B**: Side A wins decisively due to superior execution and clearer clash resolution. Side B failed the word limit in three separate substantive speeches (Opening, Rebuttal 1, Rebuttal 2), resulting in clipped arguments that left key weighing and conclusions unfinished (e.g., "Our ap...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7). It directly answered the Pressure Questions with concrete scenarios (lender, hospital) that demystified the "hybrid system" objection and reinforced the "gateway" thesis, effectively neutralizing B's claim that the right was indeterminate.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | +1.1 | +0.88 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by drawing a decisive distinction between verifying "checkable facts" (the data used, model validation) and generating "causal stories" (the model's internal rationale). A successfully argued that court-mandated explanations would devolve into sanitized, easily game...
   Most decisive rebuttal noted: A's second rebuttal (Turn 8) decisively answered the pressure questions by demonstrating how B's proposed test relied on the exact vague phrasing A warned about, and sharply pointed out that narrative explanations are often the worst detectors for proxy discrimination.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A built the clearer, more decisive path by showing a limited right to explanation is the necessary bridge that makes CON's own remedies (record access, correction, appeals) actually usable rather than guesswork in high-stakes domains; B's "theater" and "grading prose" attacks...
+- **Grok 4.20 0309 (Reasoning)**: A built the clearer, more decisive path by showing a limited right to explanation is the necessary bridge that makes CON's own remedies (record access, correction, appeals) actually usable rather than guesswork in high-stakes domains; B's "theater" and "grading prose" attacks...
   Most decisive rebuttal noted: A's R2 directly answered B's questions while sharpening that records alone do not reveal which inputs or proxies drove a denial, preserving the "lights off" accountability critique through closing.
 - **Qwen3.5-397B-A17B**: Side A wins by establishing explanation as a logical precondition for the remedies Side B preferred. While Side B effectively argued that explanations can be vague or misleading ("theater"), Side A's rebuttal that "no explanation is worse theater" and their defense of the "lim...
   Most decisive rebuttal noted: Side A's second rebuttal (Turn 7), specifically the defense of the "bridge" analogy and the distinction between having data and knowing what mattered.

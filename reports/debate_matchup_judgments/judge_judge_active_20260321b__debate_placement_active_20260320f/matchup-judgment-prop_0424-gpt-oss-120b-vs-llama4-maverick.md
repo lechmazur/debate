@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-OSS-120B | +2.5 | +2.67 | 5.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-OSS-120B | +2.5 | +2.67 | 5.0 |
 | Kimi K2.5 Thinking | GPT-OSS-120B | +2.0 | +2.00 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-OSS-120B | +3.0 | +2.40 | 6.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A delivered a consistent, comparative case on inclusion, durability, and cost that directly answered all pressure and adapted across rounds. Side B contradicted its own position by supporting physical infrastructure in Rebuttal 2, ignored key burdens, and failed to clarif...
+- **Grok 4.20 0309 (Reasoning)**: Side A delivered a consistent, comparative case on inclusion, durability, and cost that directly answered all pressure and adapted across rounds. Side B contradicted its own position by supporting physical infrastructure in Rebuttal 2, ignored key burdens, and failed to clarif...
   Most decisive rebuttal noted: Side A's Rebuttal 2 directly answered both Q sets while exposing CON's digital-prerequisite and attrition weaknesses, after which B's self-contradictory turn collapsed its route to victory.
 - **Kimi K2.5 Thinking**: Side B (PRO) established a clear three-pronged framework (inclusivity, evidence, economics) and defended it consistently. Side A (CON) failed to prove that apps deserve *more* investment than physical infrastructure, ultimately conceding in Rebuttal 2 that app evidence is limi...
   Most decisive rebuttal noted: The evidence comparison in Rebuttal 2, where Side B contrasted the 15-20% consistent loneliness reduction from physical infrastructure meta-analyses against app attrition rates exceeding 60%, forcing Side A to concede that digital trials lack scalability and generalizability.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Llama 4 Maverick | +1.2 | +1.28 | 5.0 |
+| Grok 4.20 0309 (Reasoning) | Llama 4 Maverick | +1.2 | +1.28 | 5.0 |
 | Kimi K2.5 Thinking | GPT-OSS-120B | -1.5 | -1.50 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-OSS-120B | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger comparative case by consistently emphasizing equity, depth of real-world interaction, and multi-benefit value of existing/repurposed physical spaces using grounded general knowledge. Side B offered sharper efficiency contrasts but incurred heavy disco...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger comparative case by consistently emphasizing equity, depth of real-world interaction, and multi-benefit value of existing/repurposed physical spaces using grounded general knowledge. Side B offered sharper efficiency contrasts but incurred heavy disco...
   Most decisive rebuttal noted: B's direct opportunity-cost attack on "low-cost" in Rebuttal 1 was strong but undermined by precision violations; A's pressure questions on access exposed a live weakness that B only partially patched with new ungrounded claims.
 - **Kimi K2.5 Thinking**: Side A (CON) secured victory by establishing a decisive comparative advantage in measurability, cost-efficiency, and resilience. They effectively pressed that app-based interventions provide real-time analytics and longitudinal data that physical infrastructure cannot match, a...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A4), which answered the pressure questions by addressing the digital divide with plausible smartphone penetration statistics and kiosk solutions, then weaponized the measurability question by contrasting digital analytics against Side B's admission of limi...

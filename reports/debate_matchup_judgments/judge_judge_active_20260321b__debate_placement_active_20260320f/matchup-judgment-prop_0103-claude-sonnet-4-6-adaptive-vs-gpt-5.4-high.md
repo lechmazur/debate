@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.3 | -1.30 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer comparative case: even after PRO's layering response, eligibility changes require live transaction checks anyway, rendering the federal license largely redundant bureaucracy with no uniquely effective filter for missing records. B directly named target...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer comparative case: even after PRO's layering response, eligibility changes require live transaction checks anyway, rendering the federal license largely redundant bureaucracy with no uniquely effective filter for missing records. B directly named target...
   Most decisive rebuttal noted: B's R2 directly answered A's pressure by naming concrete reforms and reframing the debate as direct POS improvements versus unnecessary prior-permission layer, exposing that PRO's "unique" benefits relied on the same flawed reporting chains.
 - **Kimi K2.5 Thinking**: CON successfully demonstrated that a federal license is redundant if the point-of-sale system is strengthened as CON proposed (universal background checks, ending the 3-day default proceed, improved reporting). PRO failed to prove that licensing catches disqualifying records t...
   Most decisive rebuttal noted: CON's rebuttal at [B4.5] that a licensing office cannot discover records that courts and agencies never reported, and that applicants cannot realistically prove the nonexistence of disqualifying events across jurisdictions, which neutralized PRO's claim that licensing catches...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | -1.6 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -1.2 | -0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by showing the licensing regime burdens law-abiding users, inverts constitutional presumptions, and targets compliant actors while criminals bypass it; B distinguished targeted fixes from the proposition's new bureaucracy and handled pr...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by showing the licensing regime burdens law-abiding users, inverts constitutional presumptions, and targets compliant actors while criminals bypass it; B distinguished targeted fixes from the proposition's new bureaucracy and handled pr...
   Most decisive rebuttal noted: B's rebuttal 2 and closing exposed PRO's leap from "system can improve" or "training matters" to "therefore require federal licensing," crystallizing the mismatch between mechanism and actual offenders.
 - **Kimi K2.5 Thinking**: CON wins by exposing a decisive mechanism-population mismatch: licensing creates friction only for law-abiding buyers while dangerous actors bypass the system through theft, black markets, and straw purchasers willing to commit fraud. PRO never overcame this bypass problem, an...
   Most decisive rebuttal noted: B's closing argument [B5.2] that the licensing mechanism and target population are mismatched, specifically: "People who acquire firearms to commit violence steal them, exploit illegal markets, or recruit compliant buyers. A federal license adds a layer of process that law-abi...

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | +1.2 | +1.20 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | +1.0 | +0.80 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B built clearer comparative route: mandatory audited reporting removes "didn't know" shield and enables upstream accountability where local enforcement fails; A's imperfections/costs/moral-licensing points are real but treated as reasons to abandon rather than improve the tool...
+- **Grok 4.20 0309 (Reasoning)**: B built clearer comparative route: mandatory audited reporting removes "didn't know" shield and enables upstream accountability where local enforcement fails; A's imperfections/costs/moral-licensing points are real but treated as reasons to abandon rather than improve the tool...
   Most decisive rebuttal noted: B4 directly answered A's pressure questions on real-time protection and unknown tiers then pivoted to why CON's local-enforcement alternative cannot reach distant brands, exposing the enforcement-gap burden A never resolved.
 - **Kimi K2.5 Thinking**: PRO wins by successfully framing the debate as a choice between imperfect upstream accountability and a status quo that shields multinationals in weak governance zones. While CON landed strong blows on audit gaming, small-supplier consolidation risks, and the lack of investor-...
   Most decisive rebuttal noted: PRO's exposure in Rebuttal 2 that CON's alternative assumes functional local regulators, adequate budgets, and jurisdiction that demonstrably do not exist in the jurisdictions where the worst abuses occur (B4.5), which CON failed to answer substantively in A4.2 beyond assertin...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.6 | -1.71 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.6 | -1.71 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | -1.8 | -1.80 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by repeatedly exposing that PRO must add unstated fixes (auditor rotation, liability, harmonization) to salvage the exact mechanism in the motion, turning the case into a faith argument. A used Rana Plaza against PRO, countered conflict-minerals positively with doc...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by repeatedly exposing that PRO must add unstated fixes (auditor rotation, liability, harmonization) to salvage the exact mechanism in the motion, turning the case into a faith argument. A used Rana Plaza against PRO, countered conflict-minerals positively with doc...
   Most decisive rebuttal noted: A's Rebuttal 1 &amp; 2 showed PRO's "fixes" were concessions the original proposal lacks; B never squared this circle.
 - **Kimi K2.5 Thinking**: CON wins by demonstrating that PRO's mechanism relies on future fixes (auditor rotation, jurisdictional harmonization) not contained in the motion, while providing a viable alternative (targeted trade enforcement). CON's critique of audit conflicts of interest and the conflict...
   Most decisive rebuttal noted: CON's response in Rebuttal 2 demonstrating that conflict minerals reporting (cited by PRO as a success) actually shifted abuses geographically rather than stopping them, undermining the "imperfect data is better than none" framework.

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-OSS-120B | +2.0 | +2.13 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-OSS-120B | +2.0 | +2.13 | 6.0 |
 | Kimi K2.5 Thinking | GPT-OSS-120B | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-OSS-120B | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer, more consistent case that autonomy supplies concrete consent/capacity mechanisms while dignity is vague and prone to paternalism; Side B's Rebuttal 2 mistakenly defended autonomy instead of dignity, creating a fatal inconsistency that A exploited. Cli...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer, more consistent case that autonomy supplies concrete consent/capacity mechanisms while dignity is vague and prone to paternalism; Side B's Rebuttal 2 mistakenly defended autonomy instead of dignity, creating a fatal inconsistency that A exploited. Cli...
   Most decisive rebuttal noted: Side A's Rebuttal 2 directly answered B's pressure questions by showing procedural safeguards realize dignity without external overrides, exposing B's later flip and collapsing their live route on vagueness vs. enforceability.
 - **Kimi K2.5 Thinking**: Side B (PRO) wins by demonstrating that autonomy provides concrete, enforceable safeguards (capacity, informed consent) while dignity-based frameworks collapse into arbitrary paternalism. Side A (CON) failed to provide a non-circular criterion for "inherent worth" or explain h...
   Most decisive rebuttal noted: Side B's response to the organ-selling and slavery objections (B2.3-B2.5, B4.3-B4.4), arguing that autonomy already incorporates safeguards against coercion and desperation, thereby protecting human worth without resorting to vague external judgments of "dignity" that override...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Mistral Large 3 | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Mistral Large 3 | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Mistral Large 3 | +1.7 | +1.70 | 8.0 |
 | Qwen3.5-397B-A17B | Mistral Large 3 | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A constructed the cleaner, more decisive path by framing autonomy as the sole consistent bright line that prevents external paternalism, directly exposing dignity as slippery and open to cultural bias/coercion in every clash. A's pressure answers highlighted circularity w...
+- **Grok 4.20 0309 (Reasoning)**: Side A constructed the cleaner, more decisive path by framing autonomy as the sole consistent bright line that prevents external paternalism, directly exposing dignity as slippery and open to cultural bias/coercion in every clash. A's pressure answers highlighted circularity w...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answered B's pressure on lethal choice/competence by showing dignity assessments smuggle moral judgments, then tied it to existing slipperiness without widening.
 - **Kimi K2.5 Thinking**: Side B (PRO) wins by establishing that bodily autonomy is the precondition for moral agency while exposing dignity as an inherently subjective standard that functions as a Trojan horse for paternalistic coercion. Side B successfully undermined Side A's key examples—compulsory...
   Most decisive rebuttal noted: Side B's critique in Rebuttal 2 and Closing that dignity collapses into circular reasoning and cultural bias, effectively demonstrating that dignity cannot simultaneously be a universal standard and a tool for overriding specific choices without becoming a mask for majoritaria...

@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0391__grok-4.20-beta-0309-reasoning__minimax-m2.7__tpl_placement_active_20260320f`
 - topic_id: `prop_0391`
-- matchup: **Grok 4.20 Beta 0309 (Reasoning)** vs **MiniMax-M2.7**
+- matchup: **Grok 4.20 0309 (Reasoning)** vs **MiniMax-M2.7**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.17 / 10`
-- mean signed normalized margin for `Grok 4.20 Beta 0309 (Reasoning)`: `-0.37`
+- mean signed normalized margin for `Grok 4.20 0309 (Reasoning)`: `-0.37`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0391__grok-4.20-beta-0309-reasoning__minimax-m2.7__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **MiniMax-M2.7**
-- [Debate B transcript](../../../transcripts/prop_0391__minimax-m2.7__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **MiniMax-M2.7**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0391__grok-4.20-beta-0309-reasoning__minimax-m2.7__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **MiniMax-M2.7**
+- [Debate B transcript](../../../transcripts/prop_0391__minimax-m2.7__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **MiniMax-M2.7**, CON = **Grok 4.20 0309 (Reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0391__grok-4.20-beta-0309-reasoning__minimax-m2.7__tpl_placement_active_20260320f` or topic `prop_0391`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0391__grok-4.20-beta-0309-reasoning__minimax-m2.7__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0391__grok-4.20-beta-0309-reasoning__minimax-m2.7__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **MiniMax-M2.7**
-- judged result: Split `2-1` for **Grok 4.20 Beta 0309 (Reasoning)**.
+- roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **MiniMax-M2.7**
+- judged result: Split `2-1` for **Grok 4.20 0309 (Reasoning)**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `+0.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.4 (high reasoning) | Grok 4.20 Beta 0309 (Reasoning) | +1.3 | +1.43 | 7.0 |
+| GPT-5.4 (high reasoning) | Grok 4.20 0309 (Reasoning) | +1.3 | +1.43 | 7.0 |
 | Gemini 3.1 Pro Preview | MiniMax-M2.7 | -1.8 | -1.60 | 8.0 |
-| Qwen3.5-397B-A17B | Grok 4.20 Beta 0309 (Reasoning) | +2.0 | +1.60 | 7.0 |
+| Qwen3.5-397B-A17B | Grok 4.20 0309 (Reasoning) | +2.0 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0391__minimax-m2.7__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0391__minimax-m2.7__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **MiniMax-M2.7**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- roles: PRO = **MiniMax-M2.7**, CON = **Grok 4.20 0309 (Reasoning)**
 - judged result: Unanimous `3-0` for **MiniMax-M2.7**.
 - entertainment scores: `8`, `6`, `7`
 - mean signed raw margin (PRO+): `+1.30`

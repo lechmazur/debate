@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | +1.0 | +1.39 | 4.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2 Pro | -1.5 | -1.33 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.0 | +1.07 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.0 | +1.07 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: The most decisive exchange was A's response to B's pressure question Q2 (Turn 7, A4.3–A4.4): A directly answered why blocking transit-adjacent housing is not morally neutral by demonstrating that the harm is exported to lower-income, car-dependent areas rather than eliminated....
 - **Gemini 3.1 Pro Preview**: Both sides entirely ignored the assigned proposition for the first four rounds, arguing a completely different topic (municipal housing and transit zoning). Because the motion is the decision rule, neither side built a valid case until the closing speeches. In the final turn,...
   Most decisive rebuttal noted: Side A's closing argument that mutual recognition is inherently exclusionary and reproduces power asymmetries, directly refuting PRO's claim that it creates clean market access for small firms.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer comparative case on total vs localized displacement, showed standing rules can deliver protections without vetoes, and directly answered pressure questions in the required format. Side A’s second rebuttal inadvertently supported the opponent’s mechanis...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer comparative case on total vs localized displacement, showed standing rules can deliver protections without vetoes, and directly answered pressure questions in the required format. Side A’s second rebuttal inadvertently supported the opponent’s mechanis...
   Most decisive rebuttal noted: B’s Rebuttal 2 directly opened with A1:/A2: dismantling the false dilemma on protections and weighing visible local harm against exported scarcity harm.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | -1.0 | -1.39 | 4.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2 Pro | +2.8 | +2.49 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Xiaomi MiMo V2 Pro | +1.5 | +1.60 | 4.0 |
+| Grok 4.20 0309 (Reasoning) | Xiaomi MiMo V2 Pro | +1.5 | +1.60 | 4.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Side B's closing [B5] most decisively shaped the outcome. When A's Rebuttal 2 conceded that recognition deals work as a "catalyst" for future convergence rather than direct market access, B5 turned that concession into the winning comparison: "A priority is for what works dire...
 - **Gemini 3.1 Pro Preview**: Both sides mistakenly debated an unprompted housing motion for the first half of the match. In Turn 6, Side A suddenly introduced the actual prompt's motion (trade/tariffs) in their Pressure Questions. Side B expertly pivoted in Rebuttal 2, answering the trade questions and es...
   Most decisive rebuttal noted: Side B's Rebuttal 2 seamlessly transitioned to the correct trade topic, answered Side A's pressure questions directly, and framed mutual recognition as a necessary catalyst rather than an endpoint, neutralizing the demand for perfect prerequisites.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B (PRO) built a clearer comparative case on sequencing and economic value in the later rounds, directly answered pressure questions in required format, and crystallized why mutual recognition acts as a catalyst for high-value sectors; A (CON) suffered multiple clipped turns, a...
+- **Grok 4.20 0309 (Reasoning)**: B (PRO) built a clearer comparative case on sequencing and economic value in the later rounds, directly answered pressure questions in required format, and crystallized why mutual recognition acts as a catalyst for high-value sectors; A (CON) suffered multiple clipped turns, a...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered A's trade-focused pressure questions with a catalyst mechanism, exposing A's prerequisite demands as paralyzing, then tied it to the live clash on reliable integration.

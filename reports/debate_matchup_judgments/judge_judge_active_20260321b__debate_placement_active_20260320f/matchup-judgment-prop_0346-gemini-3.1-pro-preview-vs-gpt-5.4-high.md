@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.2 | -0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO built the cleaner comparative case by consistently distinguishing verifiable results (SLAs, resolved tickets, completed audits) from passive presence monitoring, showing superior incentive alignment and trust preservation. CON's relabeling critique was answered directly by...
+- **Grok 4.20 0309 (Reasoning)**: PRO built the cleaner comparative case by consistently distinguishing verifiable results (SLAs, resolved tickets, completed audits) from passive presence monitoring, showing superior incentive alignment and trust preservation. CON's relabeling critique was answered directly by...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered the invisible-work question with concrete deliverables (uptime checks, resolved bottlenecks) while exposing CON's contradiction on surveillance, collapsing CON's leading-indicator route.
 - **Kimi K2.5 Thinking**: CON won by exposing a fatal dilemma in PRO's case: either "outputs" are narrowly defined (end products), in which case they fail to capture preventive work and arrive too late to prevent coordination failures; or "outputs" are defined broadly enough to include responsiveness,...
   Most decisive rebuttal noted: CON's second rebuttal (B4) and closing (B5), which demonstrated that PRO's expansive definition of "output" (encompassing SLAs, peer reviews, and responsiveness) actually validates CON's position that remote work requires evaluating sustained engagement through workflow visibi...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -1.2 | -0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by maintaining a clear comparative frame that direct job standards (responsiveness, milestones, teamwork results) outperform gamable activity proxies while exposing how CON redefines normal coordination as "monitoring" and fails to neutralize incentive distortion....
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by maintaining a clear comparative frame that direct job standards (responsiveness, milestones, teamwork results) outperform gamable activity proxies while exposing how CON redefines normal coordination as "monitoring" and fails to neutralize incentive distortion....
   Most decisive rebuttal noted: B's rebuttal 1 and rebuttal 2 showing CON absorbs core hours/response expectations into "presence monitoring" thereby erasing any limiting principle while still punishing efficient workers who meet output standards.
 - **Kimi K2.5 Thinking**: Side A wins by establishing a cleaner comparative frame: direct measurement of contribution versus proxy measurement. A successfully distinguishes between evaluating agreed-upon standards (responsiveness, coverage, quality) and constant surveillance of activity signals, showin...
   Most decisive rebuttal noted: A's response to the autopsy/time-theft arguments in Rebuttal 1 (A2.5-A2.7), demonstrating that activity dashboards provide fake reassurance while direct progress signals (milestones, colleague feedback) suffice for management without invasive surveillance.

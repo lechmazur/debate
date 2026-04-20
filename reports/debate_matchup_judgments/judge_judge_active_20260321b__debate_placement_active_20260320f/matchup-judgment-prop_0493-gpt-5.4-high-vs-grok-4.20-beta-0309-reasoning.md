@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0493__gpt-5.4-high__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0493`
-- matchup: **GPT-5.4 (high reasoning)** vs **Grok 4.20 Beta 0309 (Reasoning)**
+- matchup: **GPT-5.4 (high reasoning)** vs **Grok 4.20 0309 (Reasoning)**
 - overall judged result (normalized): **GPT-5.4 (high reasoning)**
 - overall judged result (raw): **GPT-5.4 (high reasoning)**
 - mean entertainment: `7.17 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0493__gpt-5.4-high__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0493__grok-4.20-beta-0309-reasoning__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0493__gpt-5.4-high__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Grok 4.20 0309 (Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0493__grok-4.20-beta-0309-reasoning__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **GPT-5.4 (high reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0493__gpt-5.4-high__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f` or topic `prop_0493`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0493__gpt-5.4-high__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0493__gpt-5.4-high__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Grok 4.20 0309 (Reasoning)**
 - judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
 - entertainment scores: `7`, `8`, `7`
 - mean signed raw margin (PRO+): `+1.60`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0493__grok-4.20-beta-0309-reasoning__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0493__grok-4.20-beta-0309-reasoning__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **GPT-5.4 (high reasoning)**
+- roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **GPT-5.4 (high reasoning)**
 - judged result: Split `2-1` for **GPT-5.4 (high reasoning)**.
 - entertainment scores: `6`, `7`, `8`
 - mean signed raw margin (PRO+): `-0.83`
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | -1.5 | -2.09 | 6.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | -1.8 | -1.60 | 7.0 |
-| Qwen3.5-397B-A17B | Grok 4.20 Beta 0309 (Reasoning) | +0.8 | +0.64 | 8.0 |
+| Qwen3.5-397B-A17B | Grok 4.20 0309 (Reasoning) | +0.8 | +0.64 | 8.0 |
 
 ### Judge Notes
 

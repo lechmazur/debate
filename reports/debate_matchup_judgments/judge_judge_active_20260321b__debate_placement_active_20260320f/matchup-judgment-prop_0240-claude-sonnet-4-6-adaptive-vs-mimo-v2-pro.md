@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.3 | +1.43 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +1.4 | +1.24 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Most decisive was B’s reply to A’s “unpaid internship or nothing” framing: even if some roles disappear, that does not justify preserving unpaid labor, and A never overcame B’s comparison that difficulty of creating fair alternatives is not a reason to keep unfair ones.
 - **Gemini 3.1 Pro Preview**: Side A wins by maintaining a stronger, more principled framework grounded in labor law. Side B makes a highly pragmatic case about resource-constrained sectors and vanishing opportunities. However, Side A successfully neutralizes this by arguing that labor protections do not r...
   Most decisive rebuttal noted: Side A's second rebuttal, specifically the argument that labor law is not required to guarantee replacement jobs (A4.3), effectively contextualized and neutralized Side B's core "disappearing ladder" threat.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer, more decisive case by analogizing to established labor-law tests (primary-beneficiary, min-wage precedents) and framing unpaid internships as normalized exploitation that perpetuates inequality. Side A raised repeated practical concerns about lost opp...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer, more decisive case by analogizing to established labor-law tests (primary-beneficiary, min-wage precedents) and framing unpaid internships as normalized exploitation that perpetuates inequality. Side A raised repeated practical concerns about lost opp...
   Most decisive rebuttal noted: B2's safe-harbor response to the litigation-chilling objection and reframing of "desperation" as illegitimate, which materially damaged A's live route to victory.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.2 | -1.32 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: A4’s response that B’s presumption-of-payment model still runs through the same underfunded legal framework B described as ineffective, so PRO had not really solved the enforcement problem.
 - **Gemini 3.1 Pro Preview**: Side B won by exposing a critical contradiction in Side A's enforcement mechanism and successfully defending the comparative alternative. Side B persuasively argued that heavy restriction would simply destroy opportunities at small organizations rather than create paid ones, a...
   Most decisive rebuttal noted: Side B's Rebuttal 2, which decisively pointed out that Side A's proposed "presumption of payment" relied on the exact same legal tests Side A previously condemned as chronically underfunded and failing.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) built the clearer path to victory by showing heavy restriction produces absence rather than paid positions in resource-poor nonprofits and small organizations, directly harming the modest-background students both sides discuss. A neutralized B's pressures by contr...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) built the clearer path to victory by showing heavy restriction produces absence rather than paid positions in resource-poor nonprofits and small organizations, directly harming the modest-background students both sides discuss. A neutralized B's pressures by contr...
   Most decisive rebuttal noted: A's R2 directly took B's "existing tests" admission and showed the presumption adds only paperwork burden on small orgs without fixing underfunding, collapsing B's enforceability route.

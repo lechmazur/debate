@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0447__claude-sonnet-4-6-0K__deepseek-v32-exp__tpl_placement_active_20260320f`
 - topic_id: `prop_0447`
-- matchup: **Claude Sonnet 4.6 (no reasoning)** vs **Deepseek V3.2**
+- matchup: **Claude Sonnet 4.6 (no reasoning)** vs **DeepSeek V3.2**
 - overall judged result (normalized): **Claude Sonnet 4.6 (no reasoning)**
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.00 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0447__claude-sonnet-4-6-0K__deepseek-v32-exp__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Deepseek V3.2**
-- [Debate B transcript](../../../transcripts/prop_0447__deepseek-v32-exp__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **Claude Sonnet 4.6 (no reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0447__claude-sonnet-4-6-0K__deepseek-v32-exp__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **DeepSeek V3.2**
+- [Debate B transcript](../../../transcripts/prop_0447__deepseek-v32-exp__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **Claude Sonnet 4.6 (no reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0447__claude-sonnet-4-6-0K__deepseek-v32-exp__tpl_placement_active_20260320f` or topic `prop_0447`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0447__claude-sonnet-4-6-0K__deepseek-v32-exp__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0447__claude-sonnet-4-6-0K__deepseek-v32-exp__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Deepseek V3.2**
+- roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **DeepSeek V3.2**
 - judged result: Split `2-1` for **Claude Sonnet 4.6 (no reasoning)**.
 - entertainment scores: `7`, `7`, `8`
 - mean signed raw margin (PRO+): `+0.23`
@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.2 | +1.32 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
-| Qwen3.5-397B-A17B | Deepseek V3.2 | -2.0 | -1.60 | 8.0 |
+| Qwen3.5-397B-A17B | DeepSeek V3.2 | -2.0 | -1.60 | 8.0 |
 
 ### Judge Notes
 
@@ -49,14 +49,14 @@
 
 - debate_id: `prop_0447__deepseek-v32-exp__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0447__deepseek-v32-exp__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **Claude Sonnet 4.6 (no reasoning)**
+- roles: PRO = **DeepSeek V3.2**, CON = **Claude Sonnet 4.6 (no reasoning)**
 - judged result: Split `2-1` for **Claude Sonnet 4.6 (no reasoning)**.
 - entertainment scores: `6`, `6`, `8`
 - mean signed raw margin (PRO+): `-0.67`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.4 (high reasoning) | Deepseek V3.2 | +1.3 | +1.43 | 6.0 |
+| GPT-5.4 (high reasoning) | DeepSeek V3.2 | +1.3 | +1.43 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.50 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.8 | -1.44 | 8.0 |
 

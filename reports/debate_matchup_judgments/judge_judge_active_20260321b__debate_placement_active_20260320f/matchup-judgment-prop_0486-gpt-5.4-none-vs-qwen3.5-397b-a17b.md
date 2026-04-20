@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | +1.5 | +2.09 | 7.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | +2.0 | +1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Side A's Rebuttal 1 narrowing of the motion from "definitive token-by-token ancestry" to "category-level and dataset-level disclosure of inputs the provider chose to assemble" was the most decisive single move. It defused CON's core feasibility objection while preserving the f...
 - **Gemini 3.1 Pro Preview**: Side A wins by exposing a fatal contradiction in Side B's case. Side B argues that keeping training records is both technically impossible and too dangerous, but later concedes that courts can use "existing discovery processes" to order internal logs when violations are allege...
   Most decisive rebuttal noted: Side A's closing argument dismantling Side B's reliance on "discovery later," pointing out that this concedes records are technically possible to keep and fundamentally matter, completely collapsing Side B's earlier technical feasibility and security objections.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by demonstrating that zero transparency creates an accountability vacuum and strategic ignorance that output-based remedies cannot fix; tiered disclosure neutralized CON's trilemma on feasibility/risk without major new evidence. Clippin...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by demonstrating that zero transparency creates an accountability vacuum and strategic ignorance that output-based remedies cannot fix; tiered disclosure neutralized CON's trilemma on feasibility/risk without major new evidence. Clippin...
   Most decisive rebuttal noted: B4's tiered-transparency answer to A's conflicting-rights question dismantled the false dilemma and shifted burden back to CON's "no records" baseline.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | -1.1 | -1.53 | 7.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.1 | -1.17 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.1 | -1.17 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: The most decisive exchange was CON's Rebuttal 2 turning PRO's own concession against them: PRO answered the pressure question by retreating to "batch-level" disclosure, and CON immediately identified this as fatal—if the list is only that general, it cannot tell any individual...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully trapping Side A in a dilemma between feasibility and usefulness. When Side A conceded that "batch-level" or dataset-level disclosure was sufficient to avoid crushing compliance burdens, Side B convincingly demonstrated that broad dataset names (like...
   Most decisive rebuttal noted: Side B's Second Rebuttal exposed the fatal flaw in Side A's "batch-level" concession, noting that broad disclosure is too vague to prove an individual's work was used, destroying PRO's core promise of enabling concrete legal claims.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger comparative case by showing the mandated disclosure is structurally mismatched: feasible batch-level lists (which B ultimately defended) remain too vague to deliver actionable info on specific works or data, while more granular versions impose competi...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger comparative case by showing the mandated disclosure is structurally mismatched: feasible batch-level lists (which B ultimately defended) remain too vague to deliver actionable info on specific works or data, while more granular versions impose competi...
   Most decisive rebuttal noted: A's Rebuttal 2 exposing that B's concession to batch-level disclosure destroys their own promise of enabling specific rights enforcement.

@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +1.5 | +2.09 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.7 | +1.51 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.8 | +1.92 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's Pressure Question Q1—"If economic desperation persists regardless, how is a woman better off in an unregulated shadow market with zero legal recourse than in a system with mandatory independent counsel, escrow, and enforceable withdrawal rights?"—was the most decisive ex...
 - **Gemini 3.1 Pro Preview**: Side A wins this debate by consistently offering a more pragmatic and comparatively stronger path to mitigating the harms associated with surrogacy. While Side B effectively articulated a strong moral stance against the commodification of human life and the inherent coercion o...
   Most decisive rebuttal noted: The most decisive rebuttal exchange was around the pressure questions (A3, B3) and their answers (A4, B4). Side A's Q1 effectively cornered Side B on the practical implications of prohibition, asking how a woman is better off in an unregulated shadow market. Side A's Q2 presse...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger practical path by showing regulation supplies enforceable tools (escrow, penalty-free withdrawal, independent counsel) that prohibition cannot, directly answering CON's coercion claims and exposing how bans worsen the very exploitation CON decries. Si...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger practical path by showing regulation supplies enforceable tools (escrow, penalty-free withdrawal, independent counsel) that prohibition cannot, directly answering CON's coercion claims and exposing how bans worsen the very exploitation CON decries. Si...
   Most decisive rebuttal noted: A's A1/A2 in Rebuttal 2 directly dismantled B's pressure on "theoretical choice" by contrasting enforceable exit options with black-market brutality, neutralizing CON's core burden.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Qwen3.5-397B-A17B | +1.0 | +1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -1.5 | -1.33 | 9.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: PRO's repeated challenge to CON's decriminalize-act/prohibit-payment alternative—crystallized in B4.4: "Without legal contracts, how do you enforce the 'no payment' rule without punishing the woman?"—was the most decisive pressure in the debate. It exposed a real structural ga...
 - **Gemini 3.1 Pro Preview**: This was an exceptionally close and well-argued debate. Side A made a compelling pragmatic case for legalizing and regulating compensated surrogacy as the most effective means of protecting vulnerable women and providing clear pathways to parenthood, arguing that prohibition s...
   Most decisive rebuttal noted: Side B's Rebuttal 1 ([B2.1] and [B2.2]) was particularly decisive. It directly challenged Side A's analogy of surrogacy to other dangerous labor like mining by distinguishing pregnancy as the "embodied creation of a human person" rather than "extractive labor," and powerfully...
-- **Grok 4.20 Beta 0309 (Reasoning)**: A built the clearer path to victory on harm reduction: prohibition drives surrogacy underground without contracts or medical safeguards, while regulation enables enforceable minimums, counsel, and oversight. A directly answered B's organ-sale and clinical-trial pressures with...
+- **Grok 4.20 0309 (Reasoning)**: A built the clearer path to victory on harm reduction: prohibition drives surrogacy underground without contracts or medical safeguards, while regulation enables enforceable minimums, counsel, and oversight. A directly answered B's organ-sale and clinical-trial pressures with...
   Most decisive rebuttal noted: A's Rebuttal 2 A1/A2 directly dismantled B's equivalencies and showed how B's own model recreates the underground coercion B condemns.

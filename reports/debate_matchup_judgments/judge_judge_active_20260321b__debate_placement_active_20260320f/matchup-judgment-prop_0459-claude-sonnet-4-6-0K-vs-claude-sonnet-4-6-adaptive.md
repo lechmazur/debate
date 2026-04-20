@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.8 | +1.92 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | +2.1 | +2.10 | 8.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins by clarifying the sequence clash: industrial policy creates the distributed capacity CON's alternatives (diversification, plurilateral deals, stockpiles) presuppose but cannot generate. B directly answered A's pressures with the China solar example showing learning-curv...
+- **Grok 4.20 0309 (Reasoning)**: B wins by clarifying the sequence clash: industrial policy creates the distributed capacity CON's alternatives (diversification, plurilateral deals, stockpiles) presuppose but cannot generate. B directly answered A's pressures with the China solar example showing learning-curv...
   Most decisive rebuttal noted: B's Rebuttal 2 used the China vindication and upstream-concentration symmetry to collapse CON's alternative under its own logic while distinguishing creation vs redistribution of capacity.
 - **Kimi K2.5 Thinking**: PRO wins on the sequence problem and the China precedent. CON's alternative of plurilateral agreements and diversification presupposes capacity that does not exist outside China; PRO convincingly argues industrial policy must create that capacity before it can be coordinated....
   Most decisive rebuttal noted: PRO's rebuttal of the "moving chokepoint" objection in Rebuttal 2 (B4.3), where they distinguish between full autarky and distributing critical nodes across allied economies while invoking learning curves to counter the compounding-costs argument, effectively neutralized what...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.2 | -1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.2 | -1.28 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON built the clearer comparative case: higher prices from localization directly slow clean-tech deployment and raise emissions, undermining the transition goal. PRO never fully neutralized this core tradeoff, instead pivoting to insurance analogies and claiming concession on...
+- **Grok 4.20 0309 (Reasoning)**: CON built the clearer comparative case: higher prices from localization directly slow clean-tech deployment and raise emissions, undermining the transition goal. PRO never fully neutralized this core tradeoff, instead pivoting to insurance analogies and claiming concession on...
   Most decisive rebuttal noted: CON's R2 and closing directly rebutted PRO's concession claim by preserving the motion's "even at the cost" clause, showing targeted allied pacts differ from redundant domestic duplication across full chains.
 - **Kimi K2.5 Thinking**: CON successfully exposed the tension between higher prices and climate deployment speed, but undermined their own position by endorsing "targeted allied mineral partnerships" that involve the same mechanism—subsidies to build domestic capacity in partner countries—that the mot...
   Most decisive rebuttal noted: PRO's closing argument that CON's preferred "allied mineral partnerships" constitute an instance of the motion rather than an alternative to it, collapsing the distinction between strategic localization and allied diversification.

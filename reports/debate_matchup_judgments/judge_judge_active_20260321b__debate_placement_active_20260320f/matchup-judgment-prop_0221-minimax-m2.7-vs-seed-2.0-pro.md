@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | ByteDance Seed2.0 Pro | -1.0 | -1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | ByteDance Seed2.0 Pro | -1.8 | -1.60 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | +1.2 | +1.28 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: CON's Rebuttal 2 introduction of the intelligence-led targeting distinction: police already hold targeted stop powers keyed to specific evidence of weapon carrying or gang affiliation; the motion demands broad, lowered-threshold expansion that strips that specificity, which is...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully weaponizing the London 2021 example to dismantle Side A's core claim that stop-and-search guarantees immediate, short-term safety. Side A struggled to explain why expanded policing failed to prevent the 10% homicide spike in that example. Side B's cl...
   Most decisive rebuttal noted: Side B's second rebuttal, which cleanly answered Side A's pressure question by explaining that police already possess intelligence-led stop powers, meaning expansion merely lowers the suspicion threshold to allow profiling.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by directly answering both pressure questions in A1:/A2: format, conceding training failures while proposing specific new oversight mechanisms that clarified complements rather than rivals, and reframing the central London 2021 example as compound failure proving ne...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by directly answering both pressure questions in A1:/A2: format, conceding training failures while proposing specific new oversight mechanisms that clarified complements rather than rivals, and reframing the central London 2021 example as compound failure proving ne...
   Most decisive rebuttal noted: A's R2 reframing of London data plus new oversight proposals that damaged CON's "false tradeoff" route to victory.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | -1.2 | -1.67 | 7.0 |
 | Gemini 3.1 Pro Preview | ByteDance Seed2.0 Pro | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | -1.1 | -1.17 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | -1.1 | -1.17 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: CON's use of PRO's own Scotland evidence in Rebuttal 2 and the closing was the most decisive exchange. PRO introduced Scotland's 40% reduction in racial disproportionality as proof that real-time reporting works, expecting to argue that adding disciplinary authority would clos...
 - **Gemini 3.1 Pro Preview**: Side A won by maintaining a clear, pragmatic comparative weighing: the concrete benefit of lives saved versus the residual harms of imperfectly safeguarded stops. Side B successfully argued that Side A's full safeguard bundle was untested at scale, but Side A effectively mitig...
   Most decisive rebuttal noted: Side A's A1 in Rebuttal 2, which used the example of Scotland's real-time reporting system reducing disparities by 40% to counter Side B's assertion that the safeguards were purely aspirational.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by making the decisive clash on untested safeguard bundles clearer and sustaining pressure on the burden of proof for expanding powers; B neutralized A's targeted/safeguards distinction by noting every past expansion claimed to be targeted yet produced disparities a...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by making the decisive clash on untested safeguard bundles clearer and sustaining pressure on the burden of proof for expanding powers; B neutralized A's targeted/safeguards distinction by noting every past expansion claimed to be targeted yet produced disparities a...
   Most decisive rebuttal noted: B's Rebuttal 2 exposing that PRO's full bundle (real-time reporting plus disciplinary boards) has never operated together at scale, turning A's partial Scotland evidence into an unproven leap.

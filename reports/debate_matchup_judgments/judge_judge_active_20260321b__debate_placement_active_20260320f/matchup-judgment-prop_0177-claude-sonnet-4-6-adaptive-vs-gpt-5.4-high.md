@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO built the clearer path by directly answering pressure questions, demonstrating that adaptive accelerated pathways are the structured mechanism to generate exactly the multi-year ordinary-center data CON demands, and weighing the status-quo cost of 17 daily deaths against m...
+- **Grok 4.20 0309 (Reasoning)**: PRO built the clearer path by directly answering pressure questions, demonstrating that adaptive accelerated pathways are the structured mechanism to generate exactly the multi-year ordinary-center data CON demands, and weighing the status-quo cost of 17 daily deaths against m...
   Most decisive rebuttal noted: A's Rebuttal 2 (A4) that began with explicit A1:/A2: answers, collapsed CON's caution-as-cost-free stance, and showed the evidentiary threshold CON named is produced by the very accelerated process CON opposed.
 - **Kimi K2.5 Thinking**: Side B (CON) won by successfully establishing that "routine solution" requires multi-year survival data in ordinary centers—a high bar PRO accepted—while demonstrating that the gap between current proof-of-concept (weeks/months) and that threshold involves deep biological unce...
   Most decisive rebuttal noted: B4's handling of the pressure questions and the "time gap" problem—demonstrating that multi-year survival data cannot be accelerated into existence and that surveillance is reactive for irreversible implants, paired with the distinction between experimental compassionate use a...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.2 | +1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON won by repeatedly exposing PRO's progressive redefinition of "routine solution to the human organ shortage" down to low-thousands of specialty procedures that fail the motion's own standard, while demonstrating that population-level zoonotic risks are asymmetrically severe...
+- **Grok 4.20 0309 (Reasoning)**: CON won by repeatedly exposing PRO's progressive redefinition of "routine solution to the human organ shortage" down to low-thousands of specialty procedures that fail the motion's own standard, while demonstrating that population-level zoonotic risks are asymmetrically severe...
   Most decisive rebuttal noted: B's Rebuttal 2 using PRO's own "low-thousands annually" answer to demonstrate the scale was still a boutique program, not routine.
 - **Kimi K2.5 Thinking**: Side A wins by establishing a defensible, clinically grounded definition of "routine" as regular, scheduled availability at designated centers that materially reduces waitlist mortality, rather than universal replacement of human donation. Their staged rollout model—projecting...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7), specifically the direct A1/A2 answers to Side B's pressure questions: A provided realistic enrollment projections (low-thousands annually across designated centers) and explained the pause rule mechanism with independent oversight, thereby exposin...

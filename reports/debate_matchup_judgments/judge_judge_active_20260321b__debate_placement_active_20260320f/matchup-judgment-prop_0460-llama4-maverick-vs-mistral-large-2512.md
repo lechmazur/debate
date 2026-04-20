@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Llama 4 Maverick | +2.8 | +2.49 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Mistral Large 3 | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Mistral Large 3 | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Mistral Large 3 | -2.0 | -2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B wins by effectively turning Side A's examples and capitalizing on a major unforced error. In the Pressure Questions round, Side A confusingly misattributed its own arguments to Side B and introduced the Texas CREZ example as a case where state-level authority accelerate...
   Most decisive rebuttal noted: Turn 7, where Side B effortlessly co-opts Side A's Texas CREZ example to prove that centralizing siting authority at the state level successfully accelerates buildout and reduces litigation.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B built the cleaner comparative case that reducing local veto does not deliver speed but multiplies backlash and litigation; reframed Texas CREZ and turned A's own examples against it while maintaining the through-line that upfront buy-in is prerequisite for success, whereas A...
+- **Grok 4.20 0309 (Reasoning)**: B built the cleaner comparative case that reducing local veto does not deliver speed but multiplies backlash and litigation; reframed Texas CREZ and turned A's own examples against it while maintaining the through-line that upfront buy-in is prerequisite for success, whereas A...
   Most decisive rebuttal noted: B's A1/A2 in Rebuttal 2 directly answered the pressure, exposed the false choice, and clarified Texas as reformed localism rather than override, collapsing A's centralization-equals-speed claim.
 - **Kimi K2.5 Thinking**: Side A (CON) wins by exposing the false trade-off at the heart of the proposition. They successfully argued that stripping local veto power does not produce speed but rather shifts opposition into costlier litigation and political arenas, citing Germany's Energiewende and the...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 8) answer A2, where they distinguish Texas CREZ as "reformed localism" with binding community benefits rather than mere centralized override, and contrast it with Germany's costly top-down failures. This reframing neutralized Side B's strongest exampl...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Mistral Large 3 | +4.5 | +4.00 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Mistral Large 3 | +2.5 | +2.67 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Mistral Large 3 | +2.5 | +2.67 | 6.0 |
 | Kimi K2.5 Thinking | Mistral Large 3 | +4.0 | +4.00 | 6.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B wins decisively because Side A suffers a catastrophic persona failure in the second half of the debate, completely abandoning its own position to argue explicitly for the PRO side and attack the "CON side." Even before this forfeit, Side B built a commanding lead by fra...
   Most decisive rebuttal noted: Side B's A2 in Rebuttal 2, which cleanly flips Side A's question about the local origins of projects into proof that constructive local input is already incorporated without needing a structural veto.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by maintaining a consistent clash on the tragedy of the commons and asymmetry of harms from local vetoes (e.g. Grain Belt delays vs. millions affected), directly answering B's pressures in Rebuttal 2, and crystallizing the decisive comparison in closing. Side B's R...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by maintaining a consistent clash on the tragedy of the commons and asymmetry of harms from local vetoes (e.g. Grain Belt delays vs. millions affected), directly answering B's pressures in Rebuttal 2, and crystallizing the decisive comparison in closing. Side B's R...
   Most decisive rebuttal noted: A's Rebuttal 2 (A1/A2) that reframed local input as preserved in planning but not as veto, exposing B's conflation of opposition with representation.
 - **Kimi K2.5 Thinking**: Side B won decisively due to Side A's critical execution failures. Side B maintained consistent advocacy with sharp rebuttals exposing the asymmetry of harm between local veto beneficiaries and the millions bearing climate costs. In contrast, Side A's Rebuttal 2 was entirely c...
   Most decisive rebuttal noted: Side B's Pressure Questions (Turn 5) exposed the fundamental asymmetry of accountability in local vetoes and challenged whether minority obstruction constitutes democracy, which Side A failed to adequately address before their Rebuttal 2 was clipped.

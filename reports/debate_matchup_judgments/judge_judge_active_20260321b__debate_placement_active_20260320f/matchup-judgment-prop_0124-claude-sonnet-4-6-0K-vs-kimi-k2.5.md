@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +1.2 | +1.07 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 8.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 8.0 |
 | Qwen3.5-397B-A17B | Kimi K2.5 Thinking | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B edges out a win by successfully weighing the concrete suffering of the individual against the institutional and systemic risks raised by Side A. While Side A made highly effective arguments about the erosion of safeguards in Canada and the Netherlands, Side B neutralize...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (A2), which reframed Side A's economic coercion argument by pointing out that denying MAID to everyone because some lack adequate care logically results in "collective punishment" for those whose suffering persists despite excellent care.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built a clearer live route to victory by consistently returning to the competent patient's real, non-speculative suffering versus CON's precautionary institutional fears. A directly answered both pressure-question sets, used Oregon's long-term containment to neutralize...
+- **Grok 4.20 0309 (Reasoning)**: Side A built a clearer live route to victory by consistently returning to the competent patient's real, non-speculative suffering versus CON's precautionary institutional fears. A directly answered both pressure-question sets, used Oregon's long-term containment to neutralize...
   Most decisive rebuttal noted: A's R2 directly dispatching both of B's pressure questions on safeguards and economic coercion, exposing the precautionary standard's inconsistency with existing medical authority.
 - **Qwen3.5-397B-A17B**: Side B wins due to superior argumentative discipline and a more robust defense of the institutional stakes. While Side A built a compelling case for individual autonomy and effectively used Oregon as a counter-example to the slippery slope, Side B successfully framed the debat...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 8) effectively neutralized Side A's opioid comparison by distinguishing intent (healing vs. killing) and doubled down on the economic coercion argument, framing free lethal medication vs. expensive care as a structural subsidy of abandonment that stat...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | -2.2 | -1.96 | 9.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins by setting a brilliant strategic trap and executing a devastating rebuttal. Side A used their Pressure Question to bait Side B into citing withdrawn requests as proof that safeguards work, then in Rebuttal 2, Side A introduced a survivorship bias argument: we only...
   Most decisive rebuttal noted: Side A's Rebuttal 2 argument that relying on withdrawn requests to prove safeguards work is structurally flawed due to survivorship bias, completely neutralizing Side B's defense of the system's reliability.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins on the unaddressed epistemic burden: withdrawal rates cannot measure erroneous approvals because those patients are dead and leave no trace. B crystallized this survivorship bias and criteria drift pattern (Canada, Belgium expansions) while PRO kept citing withdrawals a...
+- **Grok 4.20 0309 (Reasoning)**: B wins on the unaddressed epistemic burden: withdrawal rates cannot measure erroneous approvals because those patients are dead and leave no trace. B crystallized this survivorship bias and criteria drift pattern (Canada, Belgium expansions) while PRO kept citing withdrawals a...
   Most decisive rebuttal noted: B4.5-B4.6 exposing that PRO's "safeguards work" evidence systematically undercounts invisible failures; A never neutralized it.
 - **Qwen3.5-397B-A17B**: Side B won by establishing a decisive epistemic critique that Side A could not neutralize. While Side A built a compelling moral case around autonomy and certain suffering, Side B's argument regarding silent errors—that safeguard failures cannot be measured because the victims...
   Most decisive rebuttal noted: Side B Rebuttal 2 (Turn 8) for introducing the survivorship bias critique against Side A's safeguard evidence, noting that approved errors do not survive to correct the record.

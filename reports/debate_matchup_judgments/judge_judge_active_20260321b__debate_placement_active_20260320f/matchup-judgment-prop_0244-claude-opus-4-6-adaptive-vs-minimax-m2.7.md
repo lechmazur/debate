@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.66 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | +2.2 | +1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Most decisive was B’s turn that flipped A’s “bad implementation, not bad tool” defense: if resistance and noncompliance were predictable, then they should have been built into advocates’ expectations, so underperformance still proves the proposition.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully anchoring the debate to the public advocacy that actually drove the adoption and funding of body cameras. Side A's attempt to restrict 'advocates' to cautious researchers and 'accountability' to bureaucratic paperwork was effectively dismantled by Si...
   Most decisive rebuttal noted: Side B's Rebuttal 2 argument that cameras were explicitly sold as a solution to institutional pathologies (like he-said-she-said dynamics), meaning their failure to overcome those pathologies is a failure of the tool's core promise, not an excuse for it.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins on the core benchmark clash: advocates' actual promises that drove adoption were transformative on misconduct and prosecutions; CON's redefinition to documentation/exoneration and "implementation not tool" excuses concede the proposition rather than refute it. A's direc...
+- **Grok 4.20 0309 (Reasoning)**: A wins on the core benchmark clash: advocates' actual promises that drove adoption were transformative on misconduct and prosecutions; CON's redefinition to documentation/exoneration and "implementation not tool" excuses concede the proposition rather than refute it. A's direc...
   Most decisive rebuttal noted: A's Rebuttal 1 reframing CON's implementation concession as proving predictable failure, directly damaging CON's live route on expectations.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | MiniMax-M2.7 | +1.2 | +1.32 | 8.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | -2.0 | -1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s most decisive rebuttal was turning A’s “cameras are evidentiary tools” framing against A: if the footage only matters when institutions already choose to act, then cameras did less for accountability than advocates implied. A’s reply that every mechanism needs institutiona...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully contesting Side B's standard for what "advocates expected." A's argument that B constructed an impossibly high, utopian standard for cameras—expecting them to bypass institutional willingness—was highly persuasive. A's Rebuttal 2 decisively dismantle...
   Most decisive rebuttal noted: Side A's Rebuttal 2 takedown of Side B's three "independent" accountability mechanisms (consent decrees, oversight boards, whistleblower laws) by pointing out that they all rely heavily on institutional willingness (DOJ, legislatures, prosecutors).
-- **Grok 4.20 Beta 0309 (Reasoning)**: B built clearer comparative case on actual vs constructed advocate expectations; directly neutralized PRO's "all mechanisms require institutions" move by showing PRO's alternatives suffer identically; PRO's key concession on ordinary cases without pressure weakened their route...
+- **Grok 4.20 0309 (Reasoning)**: B built clearer comparative case on actual vs constructed advocate expectations; directly neutralized PRO's "all mechanisms require institutions" move by showing PRO's alternatives suffer identically; PRO's key concession on ordinary cases without pressure weakened their route...
   Most decisive rebuttal noted: B's R2 counter that whistleblower/consent-decree examples also depend on institutional will, collapsing PRO's attempted distinction after pressure Qs.

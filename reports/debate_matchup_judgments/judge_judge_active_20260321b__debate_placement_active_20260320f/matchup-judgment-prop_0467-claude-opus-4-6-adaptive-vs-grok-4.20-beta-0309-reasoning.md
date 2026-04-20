@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0467__claude-opus-4-6-adaptive__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0467`
-- matchup: **Claude Opus 4.6 (high reasoning)** vs **Grok 4.20 Beta 0309 (Reasoning)**
+- matchup: **Claude Opus 4.6 (high reasoning)** vs **Grok 4.20 0309 (Reasoning)**
 - overall judged result (normalized): **Claude Opus 4.6 (high reasoning)**
 - overall judged result (raw): **Claude Opus 4.6 (high reasoning)**
 - mean entertainment: `7.33 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0467__claude-opus-4-6-adaptive__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.6 (high reasoning)**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0467__grok-4.20-beta-0309-reasoning__claude-opus-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Claude Opus 4.6 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0467__claude-opus-4-6-adaptive__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.6 (high reasoning)**, CON = **Grok 4.20 0309 (Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0467__grok-4.20-beta-0309-reasoning__claude-opus-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Claude Opus 4.6 (high reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0467__claude-opus-4-6-adaptive__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f` or topic `prop_0467`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0467__claude-opus-4-6-adaptive__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0467__claude-opus-4-6-adaptive__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Opus 4.6 (high reasoning)**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- roles: PRO = **Claude Opus 4.6 (high reasoning)**, CON = **Grok 4.20 0309 (Reasoning)**
 - judged result: Split `2-1` for **Claude Opus 4.6 (high reasoning)**.
 - entertainment scores: `7`, `8`, `8`
 - mean signed raw margin (PRO+): `+0.53`
@@ -33,7 +33,7 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (high reasoning) | +1.3 | +1.43 | 7.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Reasoning) | -1.2 | -1.20 | 8.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Reasoning) | -1.2 | -1.20 | 8.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0467__grok-4.20-beta-0309-reasoning__claude-opus-4-6-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0467__grok-4.20-beta-0309-reasoning__claude-opus-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Claude Opus 4.6 (high reasoning)**
+- roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Claude Opus 4.6 (high reasoning)**
 - judged result: Unanimous `3-0` for **Claude Opus 4.6 (high reasoning)**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `-1.10`

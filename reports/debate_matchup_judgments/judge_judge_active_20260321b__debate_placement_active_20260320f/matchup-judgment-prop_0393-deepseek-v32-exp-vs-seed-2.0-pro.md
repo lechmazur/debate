@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0393__deepseek-v32-exp__seed-2.0-pro__tpl_placement_active_20260320f`
 - topic_id: `prop_0393`
-- matchup: **Deepseek V3.2** vs **ByteDance Seed2.0 Pro**
+- matchup: **DeepSeek V3.2** vs **ByteDance Seed2.0 Pro**
 - overall judged result (normalized): **ByteDance Seed2.0 Pro**
 - overall judged result (raw): **ByteDance Seed2.0 Pro**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `-1.38`
+- mean signed normalized margin for `DeepSeek V3.2`: `-1.38`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0393__deepseek-v32-exp__seed-2.0-pro__s0__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **ByteDance Seed2.0 Pro**
-- [Debate B transcript](../../../transcripts/prop_0393__seed-2.0-pro__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **ByteDance Seed2.0 Pro**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0393__deepseek-v32-exp__seed-2.0-pro__s0__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **ByteDance Seed2.0 Pro**
+- [Debate B transcript](../../../transcripts/prop_0393__seed-2.0-pro__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **ByteDance Seed2.0 Pro**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0393__deepseek-v32-exp__seed-2.0-pro__tpl_placement_active_20260320f` or topic `prop_0393`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0393__deepseek-v32-exp__seed-2.0-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0393__deepseek-v32-exp__seed-2.0-pro__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **ByteDance Seed2.0 Pro**
+- roles: PRO = **DeepSeek V3.2**, CON = **ByteDance Seed2.0 Pro**
 - judged result: Unanimous `3-0` for **ByteDance Seed2.0 Pro**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `-1.27`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0393__seed-2.0-pro__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0393__seed-2.0-pro__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **ByteDance Seed2.0 Pro**, CON = **Deepseek V3.2**
+- roles: PRO = **ByteDance Seed2.0 Pro**, CON = **DeepSeek V3.2**
 - judged result: Unanimous `3-0` for **ByteDance Seed2.0 Pro**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.60`

@@ -32,14 +32,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Xiaomi MiMo V2 Pro | +1.5 | +1.66 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Xiaomi MiMo V2 Pro | +1.6 | +1.71 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Xiaomi MiMo V2 Pro | +1.6 | +1.71 | 7.0 |
 | Qwen3.5-397B-A17B | Xiaomi MiMo V2 Pro | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
 - **GPT-5.4 (high reasoning)**: A won by keeping the debate anchored to the actual motion: routine outsourcing of core early-childhood reading, conversation, and bedtime functions. A’s case that these routines depend on contingent human attunement and attachment stayed live throughout, and A cleanly distingu...
   Most decisive rebuttal noted: A’s second rebuttal was decisive: it directly answered the pressure, drew a workable line between occasional support and routine replacement, and turned B’s “lubricant” framing by arguing B’s examples either were not outsourcing at all or else became substitutive. B’s “smart s...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by clarifying the live clash on responsive human attunement vs. simulated patience in early development, directly answering both pressure questions with a qualitative displacement threshold and reframing CON's "lubricant" claim. Side B's pragmatic equity and burnout...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by clarifying the live clash on responsive human attunement vs. simulated patience in early development, directly answering both pressure questions with a qualitative displacement threshold and reframing CON's "lubricant" claim. Side B's pragmatic equity and burnout...
   Most decisive rebuttal noted: A's A4.4 engine/lubricant reframe and A4.2 qualitative threshold sharply damaged B's supplementation narrative.
 - **Qwen3.5-397B-A17B**: Side A won the decisive clash over the definition of "routine." By conceding occasional use while defining routine outsourcing as habitual delegation that shifts attachment, A neutralized B's "burnout" defense. A's "lubricant vs. engine" analogy in Rebuttal 2 provided a superi...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7), specifically the "lubricant vs. engine" analogy which successfully reframed CON's "support" argument as substitutive displacement.

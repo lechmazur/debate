@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +1.8 | +1.44 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by forcing and then capitalizing on a clear concession: in [A4.1] Side A endorsed "narrowly targeted sanction regime" freezing assets of providers, ISPs and officials, which matches the motion's call for sanctions comparable to those on cyber-aggressors. B narrowed...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by forcing and then capitalizing on a clear concession: in [A4.1] Side A endorsed "narrowly targeted sanction regime" freezing assets of providers, ISPs and officials, which matches the motion's call for sanctions comparable to those on cyber-aggressors. B narrowed...
   Most decisive rebuttal noted: B's closing exposing the [A4.1] concession that collapsed A's opposition into qualified acceptance of sanctions.
 - **Kimi K2.5 Thinking**: PRO wins decisively on the key concession captured in Rebuttal 2. When asked in Pressure Questions what consequence should follow for a state that knowingly tolerates botnets, CON answered at B4.1 with "a narrowly targeted sanction regime—freezing the assets of the specific ho...
   Most decisive rebuttal noted: Side A's closing crystallization of Side B's concession at B4.1, demonstrating that CON's proposed remedy (targeted asset freezes on complicit officials and providers) was identical to the "sanctions comparable to those used against serious cyber-aggressors" mandated by the pr...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | -2.1 | -2.10 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | -2.0 | -1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by cleanly exposing the central paradox PRO never resolved: sanctions first turn potential law-enforcement partners into adversaries, as shown by the Emotet case that succeeded only through unsanctioned cooperation. PRO's conditional-relief and triangulated-evidence...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by cleanly exposing the central paradox PRO never resolved: sanctions first turn potential law-enforcement partners into adversaries, as shown by the Emotet case that succeeded only through unsanctioned cooperation. PRO's conditional-relief and triangulated-evidence...
   Most decisive rebuttal noted: A's Rebuttal 1 directly dismantled PRO's Emotet claim, showing partnership preceded any pressure and that reversing the sequence destroys cooperation.
 - **Kimi K2.5 Thinking**: Side B demonstrated that sanctioning states for "knowing tolerance" creates a cooperation paradox, destroying the law-enforcement partnerships required to dismantle botnets (as shown by the Emotet case, which succeeded through partnership, not sanctions). Side B also exposed f...
   Most decisive rebuttal noted: Side B's exposure of the Emotet contradiction and the cooperation paradox (B2.1, B4.1, B5.1), showing that sanctions designation transforms potential partners into adversaries and undermines the very enforcement the proposition claims to enable.

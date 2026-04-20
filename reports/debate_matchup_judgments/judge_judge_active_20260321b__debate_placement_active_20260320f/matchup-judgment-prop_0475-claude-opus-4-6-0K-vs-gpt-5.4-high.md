@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +1.2 | +1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer path to victory by showing the motion is a directional rebalance of distorting production subsidies (not total elimination), pairing this with the flat emissions record of incremental livestock improvements and the 90%+ potential cuts from precision fe...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer path to victory by showing the motion is a directional rebalance of distorting production subsidies (not total elimination), pairing this with the flat emissions record of incremental livestock improvements and the 90%+ potential cuts from precision fe...
   Most decisive rebuttal noted: A's A1/A2 in Rebuttal 2 directly named non-resilience subsidies for reallocation and tied flat emissions to demand growth outpacing efficiency, damaging CON's incrementalism route.
 - **Kimi K2.5 Thinking**: PRO won by successfully distinguishing between production subsidies (which incentivize overproduction and emissions) and genuine safety-net functions (insurance and disaster relief), thereby neutralizing CON's food-security concerns while maintaining climate urgency. CON faile...
   Most decisive rebuttal noted: PRO's distinction in Rebuttal 2 between production subsidies and safety-net functions (A1/A2), which showed governments could shift "far more" support to precision fermentation by cutting overproduction incentives while preserving disaster insurance and emergency assistance, t...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.2 | -1.20 | 8.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +1.2 | +0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by framing subsidies as tools for public goods (lower emissions, less land/waste) rather than legacy support, directly rebutting scale and risk claims with phased reallocation and grid-differentiated rollout; Side B's stronger resilience and food-security points wer...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by framing subsidies as tools for public goods (lower emissions, less land/waste) rather than legacy support, directly rebutting scale and risk claims with phased reallocation and grid-differentiated rollout; Side B's stronger resilience and food-security points wer...
   Most decisive rebuttal noted: A's Rebuttal 2 directly quantified 40% shift and staged timeline, exposing that CON's "no serious correction" attack and concession claim did not dismantle the comparative long-term emissions advantage.
 - **Kimi K2.5 Thinking**: CON successfully demonstrated that the motion's demand for "far more" reallocation risked destabilizing functioning food systems for technologies unproven at commodity scale. PRO's concession to a staged, conditional timeline—deploying "far more" subsidies only in clean-grid e...
   Most decisive rebuttal noted: CON's handling of PRO's pressure questions in Rebuttal 2, demonstrating that subsidy bias could be corrected through new funding streams (carbon pricing, green budgets) without destabilizing existing food production, then weaponizing PRO's own "40% reallocation" specificity to...

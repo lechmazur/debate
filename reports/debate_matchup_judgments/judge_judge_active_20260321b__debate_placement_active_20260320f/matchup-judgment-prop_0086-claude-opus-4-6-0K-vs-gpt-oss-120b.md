@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +2.5 | +2.67 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +2.5 | +2.67 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +2.5 | +2.50 | 8.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +4.0 | +3.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B correctly and consistently defended the proposition that human companionship should not be replaced, while A (assigned CON) argued the same position throughout, admitted providing zero support for replacement, and even supplied evidence against it. B's rebuttals crystallized...
+- **Grok 4.20 0309 (Reasoning)**: B correctly and consistently defended the proposition that human companionship should not be replaced, while A (assigned CON) argued the same position throughout, admitted providing zero support for replacement, and even supplied evidence against it. B's rebuttals crystallized...
   Most decisive rebuttal noted: B's Rebuttal 1 directly mapped every one of A's empirical/ethical/safety points back to the proposition, forcing A into an unrecoverable burden they never met.
 - **Kimi K2.5 Thinking**: Side B (CON) fundamentally misunderstood their assigned role, arguing throughout that AI replacement is harmful, unethical, and inferior to human care—thereby supporting the proposition they were assigned to oppose—while Side A (PRO) correctly identified this confusion and dem...
   Most decisive rebuttal noted: Side A's first rebuttal (Turn 3) exposing that Side B's entire opening actually argued for the proposition by cataloguing harms of AI replacement rather than benefits.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.7 | -1.70 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -2.5 | -2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by directly engaging the "even when staffing is tight" clause, showing PRO's named volunteer programs fail to cover overnight/rural gaps, and leveraging PRO's own concession that robots reduce immediate distress—making refusal of AI cause avoidable harm when humans...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by directly engaging the "even when staffing is tight" clause, showing PRO's named volunteer programs fail to cover overnight/rural gaps, and leveraging PRO's own concession that robots reduce immediate distress—making refusal of AI cause avoidable harm when humans...
   Most decisive rebuttal noted: Side A's [A4.3-A4.4] and [A5.2] dismantling of the specific programs in [B4.1] plus the distress concession in [B4.3], which Side B never answered in closing.
 - **Kimi K2.5 Thinking**: Side B wins by successfully enforcing the "even when staffing is tight" condition of the motion. Side A argued persuasively for the superiority of human companionship but failed to demonstrate scalable alternatives that actually fill overnight, weekend, and rural gaps. When Si...
   Most decisive rebuttal noted: Side B's Rebuttal 2 dismantling of Side A's named volunteer programs (B4.3), demonstrating that Senior Companions operate daytime only, hospice volunteers serve the dying rather than general elder care, and VA programs provide clinical visits rather than round-the-clock compan...

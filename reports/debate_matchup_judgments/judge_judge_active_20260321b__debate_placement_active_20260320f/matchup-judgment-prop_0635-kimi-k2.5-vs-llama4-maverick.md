@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +3.0 | +4.17 | 5.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +4.8 | +4.27 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +2.5 | +2.67 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +2.5 | +2.67 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A's Rebuttal 2 [A4.3] exposed B's fatal internal contradiction: B simultaneously argued that "reasonable safeguards" is hopelessly vague and that sophisticated developers understand and can implement them. Once that contradiction was on the table, B had no path to save their c...
 - **Gemini 3.1 Pro Preview**: Side A completely collapsed starting in the Pressure Questions round, where it bizarrely began attacking its own arguments in the third person. By Rebuttal 2 and Closing, Side A was fully arguing Side B's case, explicitly stating that "CON's objections are based on an overly b...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing, which immediately identified and ruthlessly capitalized on Side A's fatal contradiction and total auto-concession.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (PRO) maintained a consistent, well-grounded case using apt analogies to other probabilistic technologies and tort law's handling of "reasonable care," directly rebutting complexity and litigation fears while highlighting victim recourse. Side B (CON) opened strongly bu...
+- **Grok 4.20 0309 (Reasoning)**: Side A (PRO) maintained a consistent, well-grounded case using apt analogies to other probabilistic technologies and tort law's handling of "reasonable care," directly rebutting complexity and litigation fears while highlighting victim recourse. Side B (CON) opened strongly bu...
   Most decisive rebuttal noted: Side A's Rebuttal 2 and Closing exposing CON's contradictory concessions on feasible safeguards and rational actor behavior, collapsing CON's core objections to vagueness and chilling effects.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | -2.0 | -2.78 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -3.0 | -2.67 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B's Rebuttal 1 on the car analogy [B2.2]: B distinguished vehicles with "fixed operational envelopes" from foundation models that "transform based on user prompting," landing a precise refutation of A's manufacturing analogy that A never recovered from. A continued using the a...
 - **Gemini 3.1 Pro Preview**: Side A won a dominant victory by effectively distinguishing between the upstream creators of general-purpose models and the downstream actors who control specific deployments. Side B struggled to explain how a base model provider could foresee context-specific harms or why the...
   Most decisive rebuttal noted: Side A's Rebuttal 1 destruction of the car analogy ('vehicles have fixed operational envelopes... cars don't transform into chemical plants or surgical suites') cleanly isolated why traditional product liability fails for general-purpose AI.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by consistently centering the control principle and the mismatch between general-purpose base models and context-specific harms. Side A repeated core claims across rounds without neutralizing this distinction or the chilling-effect ince...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by consistently centering the control principle and the mismatch between general-purpose base models and context-specific harms. Side A repeated core claims across rounds without neutralizing this distinction or the chilling-effect ince...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered A's pressure questions while sharpening the severing-of-control clash; A's parallel turn conceded downstream circumvention without resolving who can truly foresee or prevent it.

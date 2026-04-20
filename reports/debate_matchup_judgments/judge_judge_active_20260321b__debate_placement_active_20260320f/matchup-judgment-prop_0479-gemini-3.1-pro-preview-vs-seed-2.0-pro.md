@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Gemini 3.1 Pro Preview | +1.6 | +1.60 | 6.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer path to victory by showing unrestricted offsets create permanent incentive traps that stall structural decarbonization, while allowing offsets for genuine residuals. Side B's short-term "tons per dollar" and tipping-point case was not neutralized but w...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer path to victory by showing unrestricted offsets create permanent incentive traps that stall structural decarbonization, while allowing offsets for genuine residuals. Side B's short-term "tons per dollar" and tipping-point case was not neutralized but w...
   Most decisive rebuttal noted: A's A4.3-A4.4 rebuttal on why buffer pools cannot physically equate temporary biological storage to permanent fossil emissions, directly damaging B's core equivalence claim.
 - **Kimi K2.5 Thinking**: Side B (PRO) won by establishing that biological carbon offsets are fundamentally temporary storage that cannot permanently neutralize fossil carbon emissions, undermining Side A's cost-efficiency comparison of "10 tons of offsets vs 1 ton of internal cuts." More decisively, w...
   Most decisive rebuttal noted: Side B's pressure questions and subsequent rebuttal on the R&D funding mechanism and the permanence distinction (fossil carbon lasting millennia vs. temporary biological storage), which exposed Side A's inability to guarantee that capital saved from buying cheap offsets would...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.2 | +1.28 | 7.0 |
 | Kimi K2.5 Thinking | ByteDance Seed2.0 Pro | +1.5 | +1.50 | 8.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -1.2 | -0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger path by clarifying the live tradeoff—offsets allow credible short-term cuts but remove incentives for the permanent in-value-chain tech shifts (EVs, green hydrogen, SAF) needed to avoid locking in fossil dependence. Side B's immediate-volume and Globa...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger path by clarifying the live tradeoff—offsets allow credible short-term cuts but remove incentives for the permanent in-value-chain tech shifts (EVs, green hydrogen, SAF) needed to avoid locking in fossil dependence. Side B's immediate-volume and Globa...
   Most decisive rebuttal noted: Side A's A4.1-A4.2 directly answered B's pressure on defunding and regulatory nightmares by referencing existing EU ETS/EPA frameworks and noting the cap still channels funds to quality projects while accelerating cost curves; this neutralized B's strongest route to victory.
 - **Kimi K2.5 Thinking**: PRO wins by establishing that the motion prevents long-term fossil fuel lock-in and that offset-dependent "net-zero" pledges lack credibility. CON’s strongest argument—that caps defund Global South clean energy—was effectively neutralized by PRO’s distinction between fraudulen...
   Most decisive rebuttal noted: PRO’s rebuttal of CON’s abandonment argument (B2.3/B4.1), reframing offset-dependent net-zero pledges as non-credible greenwashing whose loss is climatically irrelevant, thereby neutralizing CON’s primary offensive impact and clearing the path for the cap’s long-term decarboni...

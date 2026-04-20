@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.2 | +1.32 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +1.6 | +1.42 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s pressure on B’s claim that prison-condition cases are “binary” was the key exchange: by showing courts already police non-binary minimums like overcrowding, medical care, and nutrition, A substantially weakened B’s argument that environmental floors are uniquely nonjustici...
 - **Gemini 3.1 Pro Preview**: Side A won by systematically neutralizing Side B's practical objections and maintaining a clear comparative advantage. A decisively won the "necessity" clash by pointing out that the statutory remedies B championed can be repealed or waived when the government itself is the vi...
   Most decisive rebuttal noted: A's argument in the Closing that statutory remedies are insufficient because they can be repealed or waived by captured agencies, perfectly proving why a constitutional floor is necessary.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger case by showing that a "minimally clean" right forces courts into legislative-style weighing of incommensurable risks, economics, and science across diffuse global systems, unlike discrete prison-conditions cases. Side B's floor analogy and answers to...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger case by showing that a "minimally clean" right forces courts into legislative-style weighing of incommensurable risks, economics, and science across diffuse global systems, unlike discrete prison-conditions cases. Side B's floor analogy and answers to...
   Most decisive rebuttal noted: A's A4.2 distinction between carceral microsystems and global environmental causation directly neutralized B's prison-conditions analogy after pressure questions.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.3 | -1.43 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | -2.1 | -1.87 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s second rebuttal was the most decisive exchange: it dissolved A’s “courts are either weak or tyrannical” pressure by showing both can be true at once, then argued that constitutional environmental rights would favor wealthy litigants while statutes and regulation can protec...
 - **Gemini 3.1 Pro Preview**: Side B won by decisively turning Side A's own examples against them and introducing an unanswered equity critique. B successfully argued that structural injunctions (Side A's proposed remedy) take decades and require immense resources, meaning a constitutional right would only...
   Most decisive rebuttal noted: B's second rebuttal, which turned A's structural injunction and desegregation analogies into a fatal equity disadvantage by pointing out that such litigation takes generations and only benefits communities with vast legal resources.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by making the decisive institutional and remedial clash clearer: a vague "minimally clean" standard at systemic scale differs from discrete constitutional rights, displaces democratic accountability, favors resourced litigants over broad legislation, and replicates...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by making the decisive institutional and remedial clash clearer: a vague "minimally clean" standard at systemic scale differs from discrete constitutional rights, displaces democratic accountability, favors resourced litigants over broad legislation, and replicates...
   Most decisive rebuttal noted: Turn 8 (A4) directly dissolves B's court-contradiction pressure [B3.2] while pivoting to equity comparison on who litigation actually protects, leaving B's closing [B5] unable to rebut the legislative vs. courthouse asymmetry.

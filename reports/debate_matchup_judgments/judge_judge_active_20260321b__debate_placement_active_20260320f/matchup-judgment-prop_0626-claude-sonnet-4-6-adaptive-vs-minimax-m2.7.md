@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.2 | +1.32 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +2.2 | +1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.92 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: B’s strongest push was that A’s talk of calibration sounded like CON’s gradualism, but A’s A1 response—that post-commitment adjustment is different from starting with partial support because partial subsidies leave conventional lock-in intact—was the decisive rebuttal exchange.
 - **Gemini 3.1 Pro Preview**: Side B wins by successfully framing the "same scale" requirement not as a blind leap, but as a structural necessity to overcome existing market lock-in caused by conventional subsidies. Side A's advocacy for partial support was effectively countered by B's point that underfund...
   Most decisive rebuttal noted: Side B's Rebuttal 2 effectively neutralized A's best pressure. B cleanly distinguished their position from A's by explaining that calibration must happen *after* full-scale parity is achieved to break the lock-in, and smartly flipped A's political irreversibility argument by p...
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by clarifying that caution is not neutral and partial support fails to break subsidy lock-in; A conceded key mechanisms yet could not neutralize the asymmetry of irreversible ecological harm vs adjustable policy risks. Multiple clipped A turns imposed execution costs, wh...
+- **Grok 4.20 0309 (Reasoning)**: B won by clarifying that caution is not neutral and partial support fails to break subsidy lock-in; A conceded key mechanisms yet could not neutralize the asymmetry of irreversible ecological harm vs adjustable policy risks. Multiple clipped A turns imposed execution costs, wh...
   Most decisive rebuttal noted: B's R2 directly answered political-irreversibility pressure by showing under-resourced partial programs guarantee visible failure and backlash, flipping A's point against CON's own gradualism.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.4 | -1.54 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | -2.0 | -1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Most decisive was B’s parity-vs-transition rebuttal, capped by the point that A answered success with soil and biodiversity metrics rather than food-production capacity, which made A look like it had shifted away from the motion’s central yield-risk issue.
 - **Gemini 3.1 Pro Preview**: Side A won by effectively distinguishing between transition support (which they conceded) and permanent structural equivalence (which they argued is reckless without conclusive yield data). When Side B offered environmental metrics to measure the success of regenerative subsid...
   Most decisive rebuttal noted: Side A's Rebuttal 2, where they explicitly point out that Side B's proposed accountability metrics (soil carbon, water infiltration) substitute ecosystem services for food production data, effectively dodging the core tension of the motion.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer path by insisting evidence of scalable yields must precede subsidy parity, neutralizing PRO's double-standard and precautionary flips as repeating past policy errors; CON crystallized subsidy lock-in risks while PRO's closing was clipped.
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer path by insisting evidence of scalable yields must precede subsidy parity, neutralizing PRO's double-standard and precautionary flips as repeating past policy errors; CON crystallized subsidy lock-in risks while PRO's closing was clipped.
   Most decisive rebuttal noted: A's A4 direct answers exposing PRO's shift from yields to environmental metrics as evading the motion's core food-production burden.

@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GLM-5 | +1.5 | +2.09 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +2.0 | +2.13 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +2.0 | +2.13 | 7.0 |
 | Qwen3.5-397B-A17B | GLM-5 | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: PRO built a more coherent path to victory across the full exchange. The central reframe—that mixed evidence does not justify denying agency to families the current system has already failed—held up under pressure and was never squarely neutralized. The decisive clash was the c...
   Most decisive rebuttal noted: PRO's pressure question Q1 and the subsequent exchange on civic-integration asymmetry. PRO forced CON to admit that wealthy families already escape public schools through moving and private tuition, and CON's only answer—that vouchers channel public dollars specifically—implic...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by clarifying the decisive moral asymmetry: wealthy families already choose while low-income ones are trapped, directly leveraging B's own concession. A answered pressures cleanly, framed resource loss as intended accountability, and crystallized the child-over-ins...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by clarifying the decisive moral asymmetry: wealthy families already choose while low-income ones are trapped, directly leveraging B's own concession. A answered pressures cleanly, framed resource loss as intended accountability, and crystallized the child-over-ins...
   Most decisive rebuttal noted: A's R1 and pressure on civic integration asymmetry, exposing that CON would burden only the poor with integration that the rich escape, which B never fully rebutted.
 - **Qwen3.5-397B-A17B**: Side B wins by better aligning with the motion's specific constraint ("even when evidence... is mixed") and avoiding execution errors. While Side A built a strong mechanistic case about fixed costs and resource drains, Side B successfully reframed the debate around parental ag...
   Most decisive rebuttal noted: The exchange on resource drain vs. accountability (Turns 3, 4, 7, 8). Side A argued that fixed costs mean funding loss harms remaining students; Side B countered that funding follows the child and schools must adapt. Side B's moral weighing (institution budget vs. child needs)...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GLM-5 | -1.8 | -2.50 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 6.0 |
 | Qwen3.5-397B-A17B | GLM-5 | -3.0 | -2.40 | 7.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: CON won by identifying and hammering PRO's central vulnerability—that the entire pro-expansion case rested on idealized program designs that don't exist at scale rather than programs as actually implemented. PRO's responses in Rebuttal 2 doubled down on this flaw, citing speci...
   Most decisive rebuttal noted: CON's sustained "can vs. does" attack across Rebuttal 1, Rebuttal 2, and the closing—most sharply crystallized in the line "Don't scale what's already broken"—was the most decisive exchange. PRO repeatedly responded by conceding current implementation is flawed and pivoting to...
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins by exposing PRO's repeated reliance on "could/should" idealized designs versus actual flawed implementations, squarely meeting the burden under mixed evidence and certain public-school harms while PRO violates rebuttal rules with late named statutes and clipped turns.
+- **Grok 4.20 0309 (Reasoning)**: B wins by exposing PRO's repeated reliance on "could/should" idealized designs versus actual flawed implementations, squarely meeting the burden under mixed evidence and certain public-school harms while PRO violates rebuttal rules with late named statutes and clipped turns.
   Most decisive rebuttal noted: B's R2 directly answers A's pressure by reiterating "could" vs "do" gap, then frames closing around the proposition's actual wording rather than hoped-for reforms.
 - **Qwen3.5-397B-A17B**: Side A wins due to superior epistemic discipline and format compliance. Side B exceeded word limits in three separate turns (Opening, Rebuttal 1, Rebuttal 2), incurring repeated execution costs. More critically, Side B relied on invented legislation in Rebuttal 2 (Indiana 'Ful...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 8) exposed Side B's invented citations while reinforcing the 'restraint' narrative, turning B's evidence failure into a decisive weighing point on burden of proof.

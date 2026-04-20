@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | +4.5 | +4.00 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.7 | +1.81 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.7 | +1.81 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A delivered a highly disciplined, evidence-backed case and won in a blowout when Side B completely lost track of which side it was on. By the second half of the debate, Side B was explicitly conceding Side A's core arguments (e.g., that no viable funding alternative exist...
   Most decisive rebuttal noted: Side A's Closing, which cleanly swept up Side B's massive Rebuttal 2 concessions and used them to definitively close out the debate.
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO won by forcing the core practical clash on replacement funding in remote areas; CON conceded no viable alternative exists at scale (A4.1-2) and that Namibia succeeded via hunting revenue, neutralizing moral and incentive attacks. PRO narrowed to live empirical outcomes und...
+- **Grok 4.20 0309 (Reasoning)**: PRO won by forcing the core practical clash on replacement funding in remote areas; CON conceded no viable alternative exists at scale (A4.1-2) and that Namibia succeeded via hunting revenue, neutralizing moral and incentive attacks. PRO narrowed to live empirical outcomes und...
   Most decisive rebuttal noted: PRO's B5 closing directly quoting CON's concessions on remote-area economics and lack of alternatives crystallized the decisive weighing on wildlife outcomes over distaste.
 - **Qwen3.5-397B-A17B**: Side B secured a decisive victory by forcing a critical concession in Rebuttal 2 regarding the viability of alternative funding in remote areas. Side A admitted that ecotourism is economically unviable where hunting operates and that governments will not fill the funding gap,...
   Most decisive rebuttal noted: The decisive exchange occurred in Rebuttal 2. Side B's Turn 7 set the trap by demanding evidence of alternatives, but Side A's Turn 8 conceded the point explicitly, admitting photographic tourism is unviable in remote areas and no replacement funding exists. This surrender on...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Mistral Large 3 | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Mistral Large 3 | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Mistral Large 3 | +1.2 | +1.28 | 7.0 |
 | Qwen3.5-397B-A17B | Mistral Large 3 | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by effectively anchoring their case to the specific conditional wording of the motion, neutralizing Side B's primary argument that transparency is rare by arguing that the rarity of a safeguard doesn't justify banning the practice where the safeguard actually works....
   Most decisive rebuttal noted: Side A's A2 in Rebuttal 2, which cleanly resolved the clash over ecotourism by explaining that Kenya's success relies on accessibility and infrastructure that remote regions like Botswana's Kalahari lack, making hunting revenue uniquely necessary there.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the cleaner path by hammering the motion's narrow conditional framing ("where transparency exists"), using Namibia as live proof of benefits while showing why alternatives like ecotourism fail in remote contexts; Side A scored on enforcement gaps but never neutral...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the cleaner path by hammering the motion's narrow conditional framing ("where transparency exists"), using Namibia as live proof of benefits while showing why alternatives like ecotourism fail in remote contexts; Side A scored on enforcement gaps but never neutral...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions with geographic differentiation and governance incentives, collapsing A's all-or-nothing transparency attack into a narrower concession that the motion rewards successful models.
 - **Qwen3.5-397B-A17B**: Side B won the critical weighing on economic necessity and geographic reality. While Side A effectively challenged the feasibility of the transparency condition, Side B successfully narrowed the debate to jurisdictions where transparency does exist (Namibia), arguing the motio...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 7) answering the Kenya/Botswana question. By distinguishing the geographic and infrastructure realities (high-density parks vs remote Kalahari), Side B neutralized Side A's strongest evidence (Kenya) and protected their necessity claim.

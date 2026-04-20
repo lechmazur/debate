@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__tpl_placement_active_20260320f`
 - topic_id: `prop_0608`
-- matchup: **Grok 4.20 Beta 0309 (Non-Reasoning)** vs **Xiaomi MiMo V2 Pro**
-- overall judged result (normalized): **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- overall judged result (raw): **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- matchup: **Grok 4.20 0309 (Non-Reasoning)** vs **Xiaomi MiMo V2 Pro**
+- overall judged result (normalized): **Grok 4.20 0309 (Non-Reasoning)**
+- overall judged result (raw): **Grok 4.20 0309 (Non-Reasoning)**
 - mean entertainment: `6.67 / 10`
-- mean signed normalized margin for `Grok 4.20 Beta 0309 (Non-Reasoning)`: `+2.70`
+- mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: `+2.70`
 - judgment rows: `3`
 - swap_complete: `0`
 - rating_eligible: `0`
@@ -16,7 +16,7 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
+- [Debate A transcript](../../../transcripts/prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__tpl_placement_active_20260320f` or topic `prop_0608`.
 
@@ -24,16 +24,16 @@
 
 - debate_id: `prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
-- judged result: Unanimous `3-0` for **Grok 4.20 Beta 0309 (Non-Reasoning)**.
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
+- judged result: Unanimous `3-0` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `6`, `8`, `6`
 - mean signed raw margin (PRO+): `+2.67`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.5 | +2.09 | 6.0 |
-| Gemini 3.1 Pro Preview | Grok 4.20 Beta 0309 (Non-Reasoning) | +4.5 | +4.00 | 8.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Non-Reasoning) | +2.0 | +2.00 | 6.0 |
+| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | +1.5 | +2.09 | 6.0 |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | +4.5 | +4.00 | 8.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Non-Reasoning) | +2.0 | +2.00 | 6.0 |
 
 ### Judge Notes
 

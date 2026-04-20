@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (high reasoning) | +1.3 | +1.43 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.2 | -1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: B’s most decisive rebuttal was separating strictness from identical TV-style scripts/fonts and arguing that mandatory, clear disclosure with real penalties can be adapted across media; that undercut A’s central “broadcast architecture” objection.
 - **Gemini 3.1 Pro Preview**: Side A won by successfully proving that the enforcement mechanisms required for "strict parity" would fundamentally break the decentralized nature of the influencer ecosystem. While Side B argued strongly on the principle that deception is harmful regardless of medium, Side A...
   Most decisive rebuttal noted: Side A's Rebuttal 2 distinction between copyright algorithms (matching fixed digital fingerprints) and sponsorship algorithms (requiring semantic analysis of contextual nuance and off-platform compensation) thoroughly neutralized Side B's argument that platforms already have t...
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by framing the core issue as consistent consumer protection against deception regardless of medium, directly rebutting CON's structural differences and enforcement objections, resolving key contradictions on audience literacy and platform roles, and making the comparativ...
+- **Grok 4.20 0309 (Reasoning)**: B won by framing the core issue as consistent consumer protection against deception regardless of medium, directly rebutting CON's structural differences and enforcement objections, resolving key contradictions on audience literacy and platform roles, and making the comparativ...
   Most decisive rebuttal noted: B's Rebuttal 1 exposed CON's platform-literacy contradiction while narrowing the dispute to the act of concealment rather than architecture.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.5 | +1.66 | 8.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.7 | +1.81 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.7 | +1.81 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s first rebuttal turning A’s “authenticity” distinction against them was the key exchange: if sponsored influencer content feels more like genuine friendship than TV ads do, that is a stronger reason for equally strict disclosure, not an exemption from it.
 - **Gemini 3.1 Pro Preview**: Side B won by maintaining a highly effective and consistent framework around "weaponized intimacy" and directly answering Side A's pressure questions. Side A made a strong point about institutional asymmetry, but structurally failed by using their A1/A2 tags in Rebuttal 2 to r...
   Most decisive rebuttal noted: Side B's Rebuttal 2 effectively neutralized Side A's push for platform-level tags by arguing that standardized tags are easily buried by the very platforms engineering the "deceptive intimacy," making personal liability the only way to cut through.
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO established clearer clash on why weaponized intimacy demands matching individual liability for large-audience creators, directly neutralized CON's enforcement and asymmetry claims via proportionality and existing platform tools, maintained progression without widening, whi...
+- **Grok 4.20 0309 (Reasoning)**: PRO established clearer clash on why weaponized intimacy demands matching individual liability for large-audience creators, directly neutralized CON's enforcement and asymmetry claims via proportionality and existing platform tools, maintained progression without widening, whi...
   Most decisive rebuttal noted: B4 directly answers A's platform/tag and scale-triage questions, damaging the institutional-asymmetry route by showing layered liability already applies to traditional media.

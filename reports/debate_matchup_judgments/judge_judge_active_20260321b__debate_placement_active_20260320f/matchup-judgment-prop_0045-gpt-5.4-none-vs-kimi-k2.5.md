@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | +1.5 | +2.09 | 7.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Side A's Rebuttal 2 pivot on CON's own concession: "if a tool is not predictive, not evaluative, and mainly conversational, CON has conceded the motion's premise." This forced B into defending MBTI/DISC purely on efficiency grounds while A had already provided a direct alterna...
 - **Gemini 3.1 Pro Preview**: Side A wins because they effectively dismantled the central defense offered by Side B. Side B’s entire case rested on the idea that these tests are useful "coordination infrastructure" that make bias visible and contestable. Side A successfully rebutted this by arguing that st...
   Most decisive rebuttal noted: Side A’s final rebuttal where they pivoted from the "prediction vs. coordination" debate back to the fact that standardizing low-validity tools bureaucratizes rather than eliminates bias.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins by keeping the debate anchored to the proposition's focus on low predictive validity and its real harms in hiring filters and team misdiagnosis; B's coordination-reframing is engaging but evades the core validity burden and over-relies on claiming explicit labels automa...
+- **Grok 4.20 0309 (Reasoning)**: A wins by keeping the debate anchored to the proposition's focus on low predictive validity and its real harms in hiring filters and team misdiagnosis; B's coordination-reframing is engaging but evades the core validity burden and over-relies on claiming explicit labels automa...
   Most decisive rebuttal noted: A's A4.3-A4.4 directly collapses B's false dichotomy of "MBTI or vibes" into observed-behavior alternatives while showing explicit labels can formalize rather than contest bias.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | -1.5 | -2.09 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.5 | +1.33 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: CON's identification in B2.5 and B4.4–B4.6 that PRO's "organizational memory weaponizes labels" move was an abuse argument, not a predictive-validity argument. This was the most decisive exchange: CON showed that PRO had abandoned the motion's stated reason and migrated to a m...
 - **Gemini 3.1 Pro Preview**: Side A wins by maintaining a consistent, structural critique of the instruments themselves, successfully arguing that there is no meaningful distinction between "hiring" and "team-building" when the instrument relies on invalid, deterministic constructs. Side A effectively cou...
   Most decisive rebuttal noted: Side A's second rebuttal [A4.2-A4.3] effectively dismantled the "bounded use" defense by grounding the claim in the inherent nature of the instruments (typology) rather than just the intent of the managers.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by consistently linking low predictive validity to concrete harms (false binaries, stereotyping, self-fulfilling labels that persist in team and career decisions) using plausible mechanisms and examples. Side B's motion-wording distinction between prediction and "co...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by consistently linking low predictive validity to concrete harms (false binaries, stereotyping, self-fulfilling labels that persist in team and career decisions) using plausible mechanisms and examples. Side B's motion-wording distinction between prediction and "co...
   Most decisive rebuttal noted: A's R2 directly answered B's pressure on discussion value and governance, reframing both as flowing from the same structural invalidity without widening the debate.

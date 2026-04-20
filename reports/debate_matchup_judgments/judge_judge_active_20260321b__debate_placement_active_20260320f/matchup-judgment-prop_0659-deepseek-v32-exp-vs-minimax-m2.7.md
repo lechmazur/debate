@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0659__deepseek-v32-exp__minimax-m2.7__tpl_placement_active_20260320f`
 - topic_id: `prop_0659`
-- matchup: **Deepseek V3.2** vs **MiniMax-M2.7**
+- matchup: **DeepSeek V3.2** vs **MiniMax-M2.7**
 - overall judged result (normalized): **MiniMax-M2.7**
 - overall judged result (raw): **MiniMax-M2.7**
 - mean entertainment: `7.67 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `-1.44`
+- mean signed normalized margin for `DeepSeek V3.2`: `-1.44`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0659__deepseek-v32-exp__minimax-m2.7__s0__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **MiniMax-M2.7**
-- [Debate B transcript](../../../transcripts/prop_0659__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **MiniMax-M2.7**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0659__deepseek-v32-exp__minimax-m2.7__s0__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **MiniMax-M2.7**
+- [Debate B transcript](../../../transcripts/prop_0659__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **MiniMax-M2.7**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0659__deepseek-v32-exp__minimax-m2.7__tpl_placement_active_20260320f` or topic `prop_0659`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0659__deepseek-v32-exp__minimax-m2.7__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0659__deepseek-v32-exp__minimax-m2.7__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **MiniMax-M2.7**
+- roles: PRO = **DeepSeek V3.2**, CON = **MiniMax-M2.7**
 - judged result: Unanimous `3-0` for **MiniMax-M2.7**.
 - entertainment scores: `7`, `9`, `8`
 - mean signed raw margin (PRO+): `-1.40`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0659__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0659__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **MiniMax-M2.7**, CON = **Deepseek V3.2**
+- roles: PRO = **MiniMax-M2.7**, CON = **DeepSeek V3.2**
 - judged result: Unanimous `3-0` for **MiniMax-M2.7**.
 - entertainment scores: `7`, `8`, `7`
 - mean signed raw margin (PRO+): `+1.33`

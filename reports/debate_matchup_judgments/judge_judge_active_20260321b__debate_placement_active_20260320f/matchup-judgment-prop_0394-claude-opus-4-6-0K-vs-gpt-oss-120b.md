@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +2.2 | +1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +2.0 | +1.60 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by dismantling Side A's maximalist framing of the motion's costs and administrative burdens. Side B effectively showed that baseline accessibility using built-in tools is highly feasible, and cleanly won the principle that imperfect default access is far superior to...
   Most decisive rebuttal noted: Side B's Rebuttal 2 brilliantly flipped the caption-quality argument by noting that imperfect auto-captions are improvable, whereas the status quo leaves students with nothing, turning Side A's "universal harm" point into proof of universal reach.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by framing the presumption as default inclusion with clear exceptions, stressing universal design benefits, and directly rebutting costs/bureaucracy as implementation excuses comparable to ramps; Side A relied on brittle specific cost figures and admin-overhead clai...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by framing the presumption as default inclusion with clear exceptions, stressing universal design benefits, and directly rebutting costs/bureaucracy as implementation excuses comparable to ramps; Side A relied on brittle specific cost figures and admin-overhead clai...
   Most decisive rebuttal noted: B4 directly answered both pressure questions on marginal cost and bureaucracy scope, collapsing A's live routes on scale and paperwork.
 - **Qwen3.5-397B-A17B**: Side A wins by successfully framing the debate around the burden of proof (institution justifies exclusion vs. student justifies access) and maintaining better epistemic discipline. Side A avoided brittle precision, relying on plausible general knowledge about existing tools (...
   Most decisive rebuttal noted: Side A Rebuttal 2 (Turn 7) decisively dismantled Side B's cost and bureaucracy claims by redefining the accessibility floor as existing built-in tools and characterizing the exemption process as a simple explanation rather than a review board.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -2.5 | -2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 5.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 5.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by systematically turning Side B's own mitigations against them. Side A effectively demonstrated that the psychological chilling effect of recording remains regardless of login walls, and brilliantly weaponized Side B's claim that exemptions would require "published...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (and subsequent Closing) identifying that Side B's rigorous exemption process (requiring peer review and published research) perfectly proved Side A's point about bureaucratic friction.
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON built the clearer path by showing the "presumption" plus "strong pedagogical reason" test becomes a burdensome mandate that chills risk-taking in Socratic, clinical, and studio settings; B's own R2 description of required published research and peer review confirmed the fr...
+- **Grok 4.20 0309 (Reasoning)**: CON built the clearer path by showing the "presumption" plus "strong pedagogical reason" test becomes a burdensome mandate that chills risk-taking in Socratic, clinical, and studio settings; B's own R2 description of required published research and peer review confirmed the fr...
   Most decisive rebuttal noted: A's R2 and closing used B's exemption-process description against them to prove the escape valve was illusory, damaging PRO's core presumption claim.
 - **Qwen3.5-397B-A17B**: Side B wins on the critical procedural clash regarding the exemption mechanism. While Side A built a strong moral case for equity, they inadvertently conceded in Rebuttal 2 that opting out would require 'published research' and 'peer-reviewed justification.' Side B decisively...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 8), specifically the argument that Side A's described exemption process (requiring published research) sets a bar no ordinary instructor can meet, rendering the 'presumption' a compulsory mandate.

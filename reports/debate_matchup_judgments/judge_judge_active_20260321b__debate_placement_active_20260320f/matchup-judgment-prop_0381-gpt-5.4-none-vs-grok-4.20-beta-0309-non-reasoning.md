@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0381__gpt-5.4-none__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0381`
-- matchup: **GPT-5.4 (no reasoning)** vs **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- matchup: **GPT-5.4 (no reasoning)** vs **Grok 4.20 0309 (Non-Reasoning)**
 - overall judged result (normalized): **GPT-5.4 (no reasoning)**
 - overall judged result (raw): **GPT-5.4 (no reasoning)**
 - mean entertainment: `7.00 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0381__gpt-5.4-none__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (no reasoning)**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0381__grok-4.20-beta-0309-non-reasoning__gpt-5.4-none__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **GPT-5.4 (no reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0381__gpt-5.4-none__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (no reasoning)**, CON = **Grok 4.20 0309 (Non-Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0381__grok-4.20-beta-0309-non-reasoning__gpt-5.4-none__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **GPT-5.4 (no reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0381__gpt-5.4-none__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f` or topic `prop_0381`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0381__gpt-5.4-none__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0381__gpt-5.4-none__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (no reasoning)**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- roles: PRO = **GPT-5.4 (no reasoning)**, CON = **Grok 4.20 0309 (Non-Reasoning)**
 - judged result: Unanimous `3-0` for **GPT-5.4 (no reasoning)**.
 - entertainment scores: `6`, `7`, `6`
 - mean signed raw margin (PRO+): `+1.93`
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0381__grok-4.20-beta-0309-non-reasoning__gpt-5.4-none__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0381__grok-4.20-beta-0309-non-reasoning__gpt-5.4-none__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **GPT-5.4 (no reasoning)**
-- judged result: Split `2-1` for **Grok 4.20 Beta 0309 (Non-Reasoning)**.
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **GPT-5.4 (no reasoning)**
+- judged result: Split `2-1` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `7`, `9`, `7`
 - mean signed raw margin (PRO+): `+0.67`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | -1.0 | -1.39 | 7.0 |
-| Gemini 3.1 Pro Preview | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.5 | +1.33 | 9.0 |
-| Qwen3.5-397B-A17B | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.5 | +1.20 | 7.0 |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | +1.5 | +1.33 | 9.0 |
+| Qwen3.5-397B-A17B | Grok 4.20 0309 (Non-Reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 

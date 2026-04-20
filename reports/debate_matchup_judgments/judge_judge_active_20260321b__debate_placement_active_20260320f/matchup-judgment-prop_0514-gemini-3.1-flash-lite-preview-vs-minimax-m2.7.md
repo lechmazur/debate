@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | -1.1 | -1.53 | 7.0 |
 | GPT-5.4 (high reasoning) | MiniMax-M2.7 | -1.2 | -1.32 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Flash-Lite Preview | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Flash-Lite Preview | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: CON's Rebuttal 1 systematically dismantling PRO's HL7/FHIR examples as proof of frictionless interoperability, then CON's Rebuttal 2 exploiting PRO's own "hire an expert" answer as a direct concession of the integration burden CON had warned about from the start—together these...
 - **GPT-5.4 (high reasoning)**: A won by making the key comparison more concrete: open standards may sound liberating, but B never showed they reliably produce practical exit, real competition, or lower total burden in schools and hospitals with limited IT capacity. A consistently argued that accountability,...
   Most decisive rebuttal noted: A’s standards-drift and practicality push was decisive: after A argued that HL7/FHIR-style compliance still varies and migrations remain costly, B’s answer that institutions could “hire an expert” to bridge gaps largely conceded A’s core point that open standards shift integra...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the cleaner comparative case by showing lock-in creates genuine monopoly leverage that contracts alone cannot fix, reframing open standards as essential agency rather than complexity burden. Side B offered strong operational realism on integration costs but never...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the cleaner comparative case by showing lock-in creates genuine monopoly leverage that contracts alone cannot fix, reframing open standards as essential agency rather than complexity burden. Side B offered strong operational realism on integration costs but never...
   Most decisive rebuttal noted: A's A4.1/A4.2 directly converted B's transition-cost pressure into an investment in leverage while exposing that "single point of accountability" equals single point of failure.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | +1.5 | +2.09 | 7.0 |
 | GPT-5.4 (high reasoning) | MiniMax-M2.7 | +1.5 | +1.66 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Side A's rebuttal 1 inversion of the "single throat to choke" argument [A2.4–A2.5]: A turned CON's core accountability claim into a vulnerability argument, showing that zero exit options mean zero negotiating leverage, and that open standards create real accountability precise...
 - **GPT-5.4 (high reasoning)**: B wins by making the motion easier to judge as written. A’s best point was that shared standards do not automatically produce seamless workflow integration, but A repeatedly treated the proposition as if it mandated a fragmented DIY stack; B more persuasively argued that procu...
   Most decisive rebuttal noted: B’s second rebuttal was the key exchange: it directly answered A’s pressure by explaining that responsibility can be built into standards-based procurement through SLAs and conformance testing, then turned switching-costs against A by arguing that costly migration makes preser...
-- **Grok 4.20 Beta 0309 (Reasoning)**: A built the clearer path to victory by reframing around governance/leverage vs. illusory simplicity, directly turning B's "single throat" and capacity arguments into evidence of dependency that harms the very institutions B sought to protect; B offered solid practical objectio...
+- **Grok 4.20 0309 (Reasoning)**: A built the clearer path to victory by reframing around governance/leverage vs. illusory simplicity, directly turning B's "single throat" and capacity arguments into evidence of dependency that harms the very institutions B sought to protect; B offered solid practical objectio...
   Most decisive rebuttal noted: A's R1 and R2 turns on "single throat to choke" as creating zero leverage rather than accountability, which B never squarely rebutted and A crystallized in closing.

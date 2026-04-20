@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0062__claude-sonnet-4-6-adaptive__deepseek-v32-exp__tpl_placement_active_20260320f`
 - topic_id: `prop_0062`
-- matchup: **Claude Sonnet 4.6 (high reasoning)** vs **Deepseek V3.2**
+- matchup: **Claude Sonnet 4.6 (high reasoning)** vs **DeepSeek V3.2**
 - overall judged result (normalized): **Claude Sonnet 4.6 (high reasoning)**
 - overall judged result (raw): **Claude Sonnet 4.6 (high reasoning)**
 - mean entertainment: `7.17 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0062__claude-sonnet-4-6-adaptive__deepseek-v32-exp__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Deepseek V3.2**
-- [Debate B transcript](../../../transcripts/prop_0062__deepseek-v32-exp__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **Claude Sonnet 4.6 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0062__claude-sonnet-4-6-adaptive__deepseek-v32-exp__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **DeepSeek V3.2**
+- [Debate B transcript](../../../transcripts/prop_0062__deepseek-v32-exp__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **Claude Sonnet 4.6 (high reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0062__claude-sonnet-4-6-adaptive__deepseek-v32-exp__tpl_placement_active_20260320f` or topic `prop_0062`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0062__claude-sonnet-4-6-adaptive__deepseek-v32-exp__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0062__claude-sonnet-4-6-adaptive__deepseek-v32-exp__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Deepseek V3.2**
+- roles: PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **DeepSeek V3.2**
 - judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (high reasoning)**.
 - entertainment scores: `7`, `7`, `8`
 - mean signed raw margin (PRO+): `+1.50`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0062__deepseek-v32-exp__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0062__deepseek-v32-exp__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **Claude Sonnet 4.6 (high reasoning)**
+- roles: PRO = **DeepSeek V3.2**, CON = **Claude Sonnet 4.6 (high reasoning)**
 - judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (high reasoning)**.
 - entertainment scores: `7`, `6`, `8`
 - mean signed raw margin (PRO+): `-1.77`

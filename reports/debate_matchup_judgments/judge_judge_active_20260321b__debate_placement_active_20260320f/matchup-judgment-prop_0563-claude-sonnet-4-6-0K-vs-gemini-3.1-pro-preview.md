@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Gemini 3.1 Pro Preview | -1.2 | -1.20 | 8.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | +1.0 | +0.80 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by clearer comparative weighing of the time-sensitive Taiwan threat against the proposition's explicit concession on reduced resources for other priorities; repeated emphasis on finite near-term munitions and the short decision window neutralized PRO's scalability a...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by clearer comparative weighing of the time-sensitive Taiwan threat against the proposition's explicit concession on reduced resources for other priorities; repeated emphasis on finite near-term munitions and the short decision window neutralized PRO's scalability a...
   Most decisive rebuttal noted: Side A's A4 turn directly rebutted the alleged contradiction by stressing the time constraint on industrial expansion, forcing PRO into an unresolvable tension between fixed vs flexible resources.
 - **Kimi K2.5 Thinking**: Side B (CON) won by clearly establishing that the explicit tradeoff in the proposition—accepting reduced resources for other priorities—creates an acute, time-sensitive vulnerability in the Indo-Pacific theater that outweighs the strategic benefits of institutionalized reliabi...
   Most decisive rebuttal noted: Side B's answer to Side A's first pressure question regarding diplomatic leverage (Turn 8, A1), where CON argued that a standing commitment guarantees a forever war by stripping the US of the leverage necessary to compel Ukrainian strategic realism and a negotiated settlement,...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.2 | +1.28 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | -1.3 | -1.30 | 8.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +1.2 | +0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the stronger path by showing a standing commitment is net resource-preserving: it contains Russia cheaply now, avoids a far larger European garrison later, and maintains global credibility that aids Indo-Pacific deterrence. Side A's "blank check" and "no limits" a...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the stronger path by showing a standing commitment is net resource-preserving: it contains Russia cheaply now, avoids a far larger European garrison later, and maintains global credibility that aids Indo-Pacific deterrence. Side A's "blank check" and "no limits" a...
   Most decisive rebuttal noted: B's R2 answers to A's pressure questions on costs and strength, followed by the pivot to what happens post-abandonment, which crystallized that selectivity would drain more resources from Asia than the commitment itself.
 - **Kimi K2.5 Thinking**: Side B won by successfully exposing that Side A could not identify a limiting principle for the standing commitment beyond nuclear deterrent degradation, effectively turning the proposition into an unlimited obligation. While Side A made a strong consequentialist case that aba...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing successfully framed Side A's position as a blank check with no ceiling, using Side A's own admission that only nuclear deterrent degradation would be too high a price. This rebuttal transformed the resource trade-off debate from a simple cost-be...

@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +3.5 | +4.87 | 5.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +4.5 | +4.00 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +3.0 | +3.20 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +3.0 | +3.20 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7) was the most decisive exchange. Side A turned Side B's own pressure questions against CON, showing that B's Q1 (lag in digital feedback) directly confirmed PRO's thesis that remote channels throttle the immediate calibration apprenticeship requires...
 - **Gemini 3.1 Pro Preview**: Side B suffered a catastrophic prompt-adherence failure halfway through the debate. Starting in the Pressure Questions round, Side B began attacking its own case, and by Rebuttal 2 and Closing, it was explicitly arguing for Side A and stating that the CON position fails. Side...
   Most decisive rebuttal noted: Side A's Rebuttal 2, which hilariously and effectively weaponized Side B's confused pressure questions as full concessions of the PRO case.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built and defended a clear causal story on lost tacit knowledge, unscripted sponsorship, and underreported harm that B never neutralized. B's pressure questions hurt their own case, rebuttal 2 was clipped and internally contradictory, and their closing argued for the pr...
+- **Grok 4.20 0309 (Reasoning)**: Side A built and defended a clear causal story on lost tacit knowledge, unscripted sponsorship, and underreported harm that B never neutralized. B's pressure questions hurt their own case, rebuttal 2 was clipped and internally contradictory, and their closing argued for the pr...
   Most decisive rebuttal noted: A's Rebuttal 2 directly leveraged B's own questions on lag and masking to expose CON's narrative contradictions, collapsing B's adaptability claims.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | -1.5 | -2.09 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.0 | -1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -2.0 | -2.13 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -2.0 | -2.13 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: CON's exploitation of PRO's A2.4 concession in B2.3—turning "many companies have been slow to adapt" into an indictment of implementation and management failure rather than the remote-work modality—was the most decisive rebuttal exchange. CON maintained and deepened this point...
 - **Gemini 3.1 Pro Preview**: Side B won by systematically dismantling Side A's premise that "organic" office interactions were inherently valuable, reframing the "watercooler" as an exclusionary "proximity lottery." Side A made a strong tactical push in Rebuttal 2 by arguing that if remote work exacerbate...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (B4.3) cleanly neutralized Side A's strongest point by arguing that exposing bad management equals diagnosability, not vulnerability, and that the office "safety net" was often just the illusion of mentorship.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by weaponizing Side A's concession on slow adaptation to reframe harms as managerial negligence exposed (not caused) by remote work, plus clearer equity comparison against the "proximity lottery." Side B gave sharper weighing, direct pressure answers, and progressio...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by weaponizing Side A's concession on slow adaptation to reframe harms as managerial negligence exposed (not caused) by remote work, plus clearer equity comparison against the "proximity lottery." Side B gave sharper weighing, direct pressure answers, and progressio...
   Most decisive rebuttal noted: B's handling of the "slow to adapt" concession across rebuttals, turning it into evidence that problems predated remote work and are now fixable.

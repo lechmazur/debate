@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (no reasoning) | +1.6 | +1.77 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
 - **GPT-5.4 (high reasoning)**: A gave the cleaner path to the motion by focusing on functional equivalence and the lower proposition-level burden of antitrust scrutiny, not final cartel conviction. Its best work was showing that pooled proprietary data plus shared pricing outputs can act like a hub-and-spok...
   Most decisive rebuttal noted: A’s response that CON was demanding a formal binding agreement the motion did not require—and that a common consultant/algorithm pooling rivals’ private data can itself be the coordinating mechanism—was the decisive rebuttal exchange.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by establishing functional equivalence: data pooling plus high compliance creates concerted action under antitrust's circumstantial standard, neutralizing CON's "no binding agreement" burden via the consultant analogy and hub-and-spoke framing; CON remained repetitive on...
+- **Grok 4.20 0309 (Reasoning)**: B won by establishing functional equivalence: data pooling plus high compliance creates concerted action under antitrust's circumstantial standard, neutralizing CON's "no binding agreement" burden via the consultant analogy and hub-and-spoke framing; CON remained repetitive on...
   Most decisive rebuttal noted: B's R2 directly answered the consultant and payoff-structure questions by showing mutual awareness through shared data suffices without formal retaliation, collapsing CON's passivity distinction.
 - **Qwen3.5-397B-A17B**: Side A wins by successfully framing the algorithm as a "facilitating mechanism" that substitutes independent decision-making with coordinated output, aligning with antitrust principles on information exchange. Side A won the critical "human consultant" analogy clash; while Sid...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7) decisively defined the hub-and-spoke arrangement and neutralized Side B's "no retaliation" argument by explaining that antitrust law punishes the mechanism of coordination, not just enforceable contracts.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.2 | +1.32 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
 - **GPT-5.4 (high reasoning)**: Side A gave the stronger substantive account of why shared rent-setting software can amount to hub-and-spoke coordination: pooling nonpublic competitor data through a common intermediary and generating synchronized pricing outputs is meaningfully closer to collusion than to or...
   Most decisive rebuttal noted: Side A’s A1/A2 in Rebuttal 2 was decisive: it answered B’s hotel-software analogy by distinguishing public/aggregated signals from real-time proprietary competitor data, and clarified that “scrutiny as if direct coordination” means applying price-fixing analysis, not automatic...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by exposing that PRO's answers require proving knowing participation in a scheme (not mere tool use), which matches existing targeted enforcement rather than the proposition's categorical "as if coordinating directly" rule; A's industry analogies and vacancy discipl...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by exposing that PRO's answers require proving knowing participation in a scheme (not mere tool use), which matches existing targeted enforcement rather than the proposition's categorical "as if coordinating directly" rule; A's industry analogies and vacancy discipl...
   Most decisive rebuttal noted: A's Rebuttal 2 on PRO's concession that subscription alone is insufficient, directly collapsing the proposition's wording into CON's targeted approach.
 - **Qwen3.5-397B-A17B**: Side B won the decisive clash on the legal standard and the necessity of the proposition. While Side A built a strong conceptual case around the "hub-and-spoke" conspiracy model and successfully distinguished proprietary lease data from public hotel data, Side B effectively ex...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing combination, which identified that Side A's "plus factors" defense was actually an endorsement of existing case-specific enforcement rather than the categorical scrutiny demanded by the motion.

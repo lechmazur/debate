@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Gemini 3.1 Flash-Lite Preview | +1.2 | +1.67 | 7.0 |
 | GPT-5.4 (high reasoning) | Qwen3.5-397B-A17B | -1.3 | -1.43 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Qwen3.5-397B-A17B | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Qwen3.5-397B-A17B | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's Rebuttal 2 answering CON's pressure questions: the distinction between privacy and impunity (A2) was sharp and direct, showing that privacy enables accountability rather than undermining it—because citizens need protected space to organize and dissent before the state ca...
 - **GPT-5.4 (high reasoning)**: B won by making the cleaner comparative case that security is a prerequisite for any rights to function, then narrowing the tradeoff to targeted, judicially constrained intrusion rather than the total-surveillance world A kept attacking. A had a strong principled case that pri...
   Most decisive rebuttal noted: B’s response to A’s pressure questions was the decisive exchange: by offering “strict necessity and judicial authorization” plus rule-of-law safeguards, B blunted A’s authoritarian slippery-slope and left A looking like it was still rebutting mass surveillance rather than B’s...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A constructed the clearer comparative case that security is the prerequisite container for any rights including privacy, directly neutralizing panopticon fears via rule-of-law mechanisms and existence-before-expression weighing; Side B's answers to pressure were solid but...
+- **Grok 4.20 0309 (Reasoning)**: Side A constructed the clearer comparative case that security is the prerequisite container for any rights including privacy, directly neutralizing panopticon fears via rule-of-law mechanisms and existence-before-expression weighing; Side B's answers to pressure were solid but...
   Most decisive rebuttal noted: Side A's A1/A2 opening to Rebuttal 2 directly dispatched B's state-abuse questions with judicial-authorization thresholds and rule-of-law checks, collapsing the false-dilemma framing.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Qwen3.5-397B-A17B | +1.5 | +2.09 | 7.0 |
 | GPT-5.4 (high reasoning) | Qwen3.5-397B-A17B | +1.0 | +1.10 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 8.0 |
+| Grok 4.20 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 8.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B's Rebuttal 1 [B2.6] introduced the structural asymmetry: "Security failures are tragic events we recover from; privacy failures are structural conditions we inhabit." This comparative weighing framing—recoverable tragedy versus inhabitable condition—was the single most decis...
 - **GPT-5.4 (high reasoning)**: A won by tying the motion more tightly to the phrase “free society” and by giving the cleaner comparative: security can preserve order, but privacy is what keeps that order free rather than supervisory. The key practical move was A’s distinction between targeted, warrant-based...
   Most decisive rebuttal noted: A’s Rebuttal 2 answer that the state can protect people through targeted investigation, warrants, and probable cause—without omnipresent surveillance—most effectively undercut B’s claim that privacy-first necessarily sacrifices security.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built a clearer path to victory by directly tying "free society" to autonomy over mere survival, using memorable analogies (prison/zoo/open field) that framed the stakes and neutralized CON's foundation claim. B adapted across rounds, sharply distinguished targeted warr...
+- **Grok 4.20 0309 (Reasoning)**: Side B built a clearer path to victory by directly tying "free society" to autonomy over mere survival, using memorable analogies (prison/zoo/open field) that framed the stakes and neutralized CON's foundation claim. B adapted across rounds, sharply distinguished targeted warr...
   Most decisive rebuttal noted: B's R2 A1/A2 distinction between warrants/probable cause and omnipresence directly damaged CON's shield analogy and left the tyranny threshold unanswered.

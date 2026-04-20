@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0057__glm-5__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0057`
-- matchup: **GLM-5** vs **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- matchup: **GLM-5** vs **Grok 4.20 0309 (Non-Reasoning)**
 - overall judged result (normalized): **GLM-5**
 - overall judged result (raw): **GLM-5**
 - mean entertainment: `7.00 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0057__glm-5__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0057__grok-4.20-beta-0309-non-reasoning__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **GLM-5**
+- [Debate A transcript](../../../transcripts/prop_0057__glm-5__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **Grok 4.20 0309 (Non-Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0057__grok-4.20-beta-0309-non-reasoning__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0057__glm-5__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f` or topic `prop_0057`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0057__glm-5__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0057__glm-5__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GLM-5**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- roles: PRO = **GLM-5**, CON = **Grok 4.20 0309 (Non-Reasoning)**
 - judged result: Unanimous `3-0` for **GLM-5**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.30`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0057__grok-4.20-beta-0309-non-reasoning__glm-5__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0057__grok-4.20-beta-0309-non-reasoning__glm-5__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **GLM-5**
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **GLM-5**
 - judged result: Unanimous `3-0` for **GLM-5**.
 - entertainment scores: `7`, `7`, `8`
 - mean signed raw margin (PRO+): `-1.10`

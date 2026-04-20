@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | +1.2 | +1.20 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.2 | -0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by clarifying that a "strongly shaped" rating system misdirects rather than informs on safety, while creating enforcement leverage for reform that CON's institutional promises lack; B directly answered pressures on thresholds and substitutes with data-driven limits...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by clarifying that a "strongly shaped" rating system misdirects rather than informs on safety, while creating enforcement leverage for reform that CON's institutional promises lack; B directly answered pressures on thresholds and substitutes with data-driven limits...
   Most decisive rebuttal noted: B4's A1/A2 answers showed the systemic (not self-certified) standard blocks abuse claims while preserving conduct metrics, neutralizing CON's shield-for-bad-actors route.
 - **Kimi K2.5 Thinking**: PRO wins by successfully defending a narrow, workable interpretation of the proposition and showing that CON's alternative leaves a harmful gap. PRO neutralized CON's "unworkable standard" objection by clarifying that "strongly shaped" requires statistical proof of systemic di...
   Most decisive rebuttal noted: PRO's answer in Rebuttal 2 (A4.1-A4.2) establishing that the "strongly shaped" threshold requires demonstrable statistical proof (platform-held demographic data, textual analysis) rather than worker self-certification, directly neutralizing CON's slippery-slope concern while m...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by keeping the definitional and implementation burdens on PRO live across all speeches; PRO never supplied a workable trigger, decider, or threshold for "strongly shaped," allowing A to frame the proposal as an unadministerable slogan rather than policy while showi...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by keeping the definitional and implementation burdens on PRO live across all speeches; PRO never supplied a workable trigger, decider, or threshold for "strongly shaped," allowing A to frame the proposal as an unadministerable slogan rather than policy while showi...
   Most decisive rebuttal noted: A's [A4.5]-[A4.6] directly exploits PRO's shifting answers on adjudication, crystallizing the mechanism gap that PRO's closing then ignores.
 - **Kimi K2.5 Thinking**: Side B wins because Side A never resolved the fatal administrative feasibility objection. While A successfully established the moral hazard of contaminated ratings ("outsourced punishment"), they failed to specify who determines when a system is "strongly shaped" by bias, by w...
   Most decisive rebuttal noted: Side B's Rebuttal 2 argument [B4.5-B4.6] that "A right that depends on an undefined adjudication process is not a right—it is a slogan," exposing that A's shifting standards (systemic patterns, market-level attachment, platform detection) never answered the operational questio...

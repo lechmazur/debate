@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.2 | -1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer, more decisive case that cartels' territorial control, diversification, and ability to adapt (raising existing extortion, redirecting coercion) mean cannabis legalization fails as a strategy to meaningfully weaken organized crime. Side B's revenue-cut...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer, more decisive case that cartels' territorial control, diversification, and ability to adapt (raising existing extortion, redirecting coercion) mean cannabis legalization fails as a strategy to meaningfully weaken organized crime. Side B's revenue-cut...
   Most decisive rebuttal noted: A's R1 and R2 directly damaged B's partial-revenue claim by showing it leaves core coercive apparatus intact; B's answers to pressure conceded low bar for success.
 - **Kimi K2.5 Thinking**: CON wins by establishing that "weakening organized crime" in the Latin American context requires dismantling territorial control and coercive governance, not merely reducing one revenue stream. PRO conceded that legal markets might only capture "half" of demand and defined wea...
   Most decisive rebuttal noted: CON's pressure question Q1 (Turn 6) exposing the ambiguity in PRO's "half the market" threshold, followed by CON's Rebuttal 2 answer A1 explaining how criminal substitution works at the margin (raising quotas on existing extortion targets rather than requiring infinite new vic...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.0 | +1.00 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B built clearer comparative case: monopoly under prohibition vs partial parasitism in regulated market is net weakening; answered state-capacity and violence-displacement pressures directly while showing CON's own avocado example undercuts their position. CON's local-cash-flow...
+- **Grok 4.20 0309 (Reasoning)**: B built clearer comparative case: monopoly under prohibition vs partial parasitism in regulated market is net weakening; answered state-capacity and violence-displacement pressures directly while showing CON's own avocado example undercuts their position. CON's local-cash-flow...
   Most decisive rebuttal noted: B's B4.1-B4.6 directly dismantled visibility-as-vulnerability and 1:1 substitution claims, reframing state weakness as reason to stop gifting cartel monopoly.
 - **Kimi K2.5 Thinking**: PRO won by establishing a clear comparative framework: moving organized crime from monopoly ownership of the cannabis market to parasitic infiltration of a legal market constitutes weakening, even if imperfect. While CON landed strong arguments about cartels "outsourcing" oper...
   Most decisive rebuttal noted: The exchange over whether cartels become "parasites" (PRO) or "perfectly adapted risk-outsourcers" (CON). PRO argued that losing monopoly control to become parasites on a legal market diminishes power, while CON countered that forcing civilians to bear operational risks while...

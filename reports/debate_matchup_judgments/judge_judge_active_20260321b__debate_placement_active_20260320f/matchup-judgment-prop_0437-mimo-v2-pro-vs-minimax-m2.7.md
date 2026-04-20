@@ -32,14 +32,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | MiniMax-M2.7 | +2.0 | +1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | +1.5 | +1.60 | 6.0 |
 | Qwen3.5-397B-A17B | MiniMax-M2.7 | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by successfully framing implementation and accessibility issues as solvable design challenges rather than fatal flaws. Side B relied heavily on the claim that flexible use is uniquely impossible to enforce, which Side A countered by pointing to existing municipal sy...
   Most decisive rebuttal noted: Side A's Rebuttal 2 neutralized the accessibility argument by pointing out that pre-pandemic sidewalks were not "accessible paradises" and that ADA compliance is an argument for strong design standards, not a categorical ban.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the cleaner comparative case by framing the pandemic as decisive natural experiment evidence of vitality and survival benefits that outweigh manageable design/enforcement issues. Side A raised equity concerns for disabled/residents but failed to neutralize the liv...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the cleaner comparative case by framing the pandemic as decisive natural experiment evidence of vitality and survival benefits that outweigh manageable design/enforcement issues. Side A raised equity concerns for disabled/residents but failed to neutralize the liv...
   Most decisive rebuttal noted: B's Rebuttal 2 reframing accessibility and enforcement as solvable design extensions rather than fatal flaws, directly damaging A's live route on equity and burden.
 - **Qwen3.5-397B-A17B**: Side B wins on the strength of their "failed status quo" framing and the "natural experiment" evidence, which forced Side A into a defensive position. Side B effectively neutralized Side A's accessibility and enforcement concerns by reframing them as solvable design challenges...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 7) decisively answered the accessibility pressure by noting pre-pandemic sidewalks also had barriers and framing accessibility as a design standard issue within flexible dining, not a reason for prohibition.

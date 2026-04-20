@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.2 | -1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.2 | -1.28 | 7.0 |
 | MiniMax-M2.7 | GPT-5.4 (high reasoning) | -1.0 | -1.33 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer winning path by consistently exploiting the motion's conceded diversion to frame a stark triage choice: certain near-term prevention versus speculative spillovers. B neutralized PRO's leverage and flagship arguments by showing governments should target...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer winning path by consistently exploiting the motion's conceded diversion to frame a stark triage choice: certain near-term prevention versus speculative spillovers. B neutralized PRO's leverage and flagship arguments by showing governments should target...
   Most decisive rebuttal noted: B's Rebuttal 2 directly dismantled the "flagship is required" claim, exposing it as an admission that public policy would chase spectacle rather than need, which PRO never repaired.
 - **MiniMax-M2.7**: Side B won the decisive clash on spectacle versus live-species triage. While Side A effectively argued that de-extinction attracts new private capital and generates transferable technology, they conceded too much: that the technology transfers, that private money is attracted,...
   Most decisive rebuttal noted: B2.4 versus A2.4-A2.5: Side A claimed only a flashy flagship recruits elite talent and capital, which Side B turned into an indictment of spectacle-driven policy. This exchange crystallized the core dispute over whether government legitimacy should follow investor excitement o...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 | MiniMax-M2.7 | Claude Sonnet 4.6 (no reasoning) | -0.6 | -0.80 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by consistently centering the motion's "even when it diverts" qualifier, the real sequencing problem of immediate irreversible losses, and the unnecessary costly wrapper for tools that could be funded directly. Side A offered plausible R&amp;D spillovers but relied...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by consistently centering the motion's "even when it diverts" qualifier, the real sequencing problem of immediate irreversible losses, and the unnecessary costly wrapper for tools that could be funded directly. Side A offered plausible R&amp;D spillovers but relied...
   Most decisive rebuttal noted: B's Rebuttal 2 on earmarking as mere hope rather than guarantee, exposing that PRO must assume ideal conditions the motion's baseline diversion does not provide.
 - **MiniMax-M2.7**: Side B won by making the motion's qualifier—the "even when" language about diverting resources—the decisive issue and keeping it live through the entire debate. While Side A built a coherent R&D argument with plausible spillover claims, Side B's sharpest move in Rebuttal 2 was...
   Most decisive rebuttal noted: Side B's Rebuttal 2 identification of Side A's earmarking/conditional-funding argument as an implicit concession that diversion is the baseline, not an edge case. This reframed Side A's strongest defense as evidence for Side B's core claim rather than a response to it.

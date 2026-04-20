@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +3.0 | +2.40 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins on clearer comparative weighing of global irreversible climate harms against localized procedural ones, stronger adaptation to pressure questions via consolidated substantive standards, and fewer execution penalties from clippings. Side A repeatedly failed to neutr...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins on clearer comparative weighing of global irreversible climate harms against localized procedural ones, stronger adaptation to pressure questions via consolidated substantive standards, and fewer execution penalties from clippings. Side A repeatedly failed to neutr...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions with a limiting principle on substantive vs procedural review, damaging CON's legitimacy and justice routes.
 - **Kimi K2.5 Thinking**: PRO successfully defended the asymmetric tradeoff between global climate harms and localized siting risks, while providing a coherent limiting principle (consolidated substantive review with mandatory standards) that distinguished procedural redundancy from environmental prote...
   Most decisive rebuttal noted: The exchange over limiting principles (B4.1 answering A3.1 and A4.1 responding), where PRO distinguished substantive standards from procedural redundancy, forcing CON to rely on an implausible distinction between "duplication" and legitimate review that PRO exposed as function...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the cleaner comparative case that delay itself imposes unrecoverable environmental harm via prolonged fossil use while preserving one meaningful review plus targeted judicial check; this directly neutralized CON's asymmetry and "no mechanism" pressure via the cons...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the cleaner comparative case that delay itself imposes unrecoverable environmental harm via prolonged fossil use while preserving one meaningful review plus targeted judicial check; this directly neutralized CON's asymmetry and "no mechanism" pressure via the cons...
   Most decisive rebuttal noted: B's Rebuttal 2 opening with direct A1/A2 answers that preserved error-correction while eliminating attrition vetoes, then flipped the permanent-damage asymmetry by counting lost years of emissions.
 - **Kimi K2.5 Thinking**: CON won by exposing a fatal incoherence in PRO's mechanism. When pressed to explain how "streamlining" would distinguish redundant challenges from genuine error-correction, and what recourse communities would retain, PRO consistently reintroduced the very litigation pathways t...
   Most decisive rebuttal noted: CON's Rebuttal 2 (A4) exposure that PRO's "streamlined" framework merely recreates litigation: when asked what recourse remains after pathways are cut, PRO answered residents can "challenge adequacy for actual legal defects" and "seek remand"—which is litigation. This undermin...

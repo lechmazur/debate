@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.2 | +1.20 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: A built clearer route by neutralizing urgency via standard due-process interim exceptions, showing categorical reasons avoid gaming while aiding innocents, and reframing burdens as scalable; B's rigidity critique and small-platform claims were not squarely answered after press...
+- **Grok 4.20 0309 (Reasoning)**: A built clearer route by neutralizing urgency via standard due-process interim exceptions, showing categorical reasons avoid gaming while aiding innocents, and reframing burdens as scalable; B's rigidity critique and small-platform claims were not squarely answered after press...
   Most decisive rebuttal noted: A's A1/A2 in Rebuttal 2 directly exposed B's misreading of "before" and false dilemma on reasons specificity, collapsing B's core urgency and gaming routes.
 - **Kimi K2.5 Thinking**: PRO (Side B) successfully neutralized CON's central objections by demonstrating that due-process frameworks inherently accommodate emergency suspensions with post-deprivation review, defeating CON's literalist "before" argument. PRO also resolved the "gaming" dilemma by showin...
   Most decisive rebuttal noted: PRO's response to CON's urgency objection (Turn 3, B2.2 and Turn 7, B4.1): demonstrating that "before" in due-process contexts universally permits emergency interim suspensions followed by expedited review, thus interpreting the motion as written rather than conceding to CON's...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.2 | -1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.2 | -1.28 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -2.5 | -2.00 | 6.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B prevailed by demonstrating that mandated procedure would inevitably invite substantive regulatory review of content decisions, creating a permanent government foothold. They directly answered PRO's key pressure on post-emergency bans by defending private editorial judgm...
+- **Grok 4.20 0309 (Reasoning)**: Side B prevailed by demonstrating that mandated procedure would inevitably invite substantive regulatory review of content decisions, creating a permanent government foothold. They directly answered PRO's key pressure on post-emergency bans by defending private editorial judgm...
   Most decisive rebuttal noted: CON's B4 exchange showing how verifying "adequate reasons" and "genuine appeals" requires substantive inquiry, rebutting A's procedural/substantive distinction and damaging the core modesty claim.
 - **Kimi K2.5 Thinking**: CON wins by demonstrating that PRO's "modest procedural" mandate necessarily collapses into substantive state review of content decisions. While PRO successfully frames unaccountable platform power as intuitively problematic, they never overcome CON's structural argument that...
   Most decisive rebuttal noted: CON's answer to PRO's pressure questions in Rebuttal 2 (A4), particularly the argument that "Was this reason pretextual?" is a substantive inquiry dressed in procedural clothing, and that uniform mandates ironically destroy the competitive pressure that drives platforms to imp...

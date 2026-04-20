@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.2 | +1.28 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +1.0 | +0.80 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by demonstrating policy distortions drive concentration, highlighting real costs of inaction (housing strain, resilience risks, social despair), and using grounded examples like post-2020 broadband effects and German models. Side A scor...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by demonstrating policy distortions drive concentration, highlighting real costs of inaction (housing strain, resilience risks, social despair), and using grounded examples like post-2020 broadband effects and German models. Side A scor...
   Most decisive rebuttal noted: B's closing on Tokyo vs. Western zoning failures crystallized why CON's metro-management solution is weaker than PRO's targeted viability investments.
 - **Kimi K2.5 Thinking**: Side A wins by establishing that economic geography is shaped by policy choices rather than natural law, and that strategic investment (broadband, regional research partnerships) differs meaningfully from failed legacy subsidies. While Side B offered strong agglomeration theor...
   Most decisive rebuttal noted: Side A's pressure question challenging Side B's use of Hurricane Katrina as proof that concentration enables recovery, exposing the permanent population loss in New Orleans as evidence against resilient urban concentration.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.2 | +1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by maintaining focus on human costs for immobile residents and clarifying viability as functional infrastructure rather than reversal of trends; A's arguments were damaged by clipped speeches and overclaiming concessions on definitions.
+- **Grok 4.20 0309 (Reasoning)**: B won by maintaining focus on human costs for immobile residents and clarifying viability as functional infrastructure rather than reversal of trends; A's arguments were damaged by clipped speeches and overclaiming concessions on definitions.
   Most decisive rebuttal noted: B's Rebuttal 1 exposing circularity in revealed preferences and immobile populations, which A never fully neutralized.
 - **Kimi K2.5 Thinking**: Side A wins because it successfully defended a coherent interpretation of "economic viability" as maintaining functional communities with basic infrastructure and services, while exposing that Side B's mobility solution abandons the immobile majority. Side B committed a signif...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7), which directly answered pressure questions with A1/A2 labels, crystallized the decisive clash around the immobile population (elderly, caregivers, trapped homeowners) and established that "viability" means functional infrastructure rather than rev...

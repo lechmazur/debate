@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +1.5 | +2.09 | 7.0 |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.4 | +1.54 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.8 | +1.92 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's pressure question Q2—challenging CON's claim that "if the count is trusted, we can vote out the corrupt" by asking what mechanism a ballot actually uses to sever financial ties between regulators and industry—was the most decisive exchange. CON's answer (voters can pass...
 - **GPT-5.4 (high reasoning)**: A won by keeping the debate anchored to the motion’s present-tense, aggregate comparison in wealthy democracies: actual outright voter fraud was framed as rare and episodic, while legal corruption and capture were shown as constant, visible enough, and more likely to produce d...
   Most decisive rebuttal noted: A’s pressure on B’s claim that “if the count is trusted, we can vote out the corrupt” was the decisive exchange: B answered abstractly that voters could pass reforms, while A persuasively replied that capture survives across administrations and makes the ballot feel decorative...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer, more decisive path by demonstrating that pervasive regulatory capture produces chronic, structural demobilization and the conviction that votes are meaningless, outweighing CON's theoretical "foundation" claims about rare fraud. A directly answered pr...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer, more decisive path by demonstrating that pervasive regulatory capture produces chronic, structural demobilization and the conviction that votes are meaningless, outweighing CON's theoretical "foundation" claims about rare fraud. A directly answered pr...
   Most decisive rebuttal noted: Side A's R2 directly dismantled B's "trusted count enables fixing capture" by showing capture persists across elections as experienced reality, forcing withdrawal rather than "waiting for next time" and making chronic damage heavier.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Qwen3.5-397B-A17B | +1.0 | +1.39 | 7.0 |
 | GPT-5.4 (high reasoning) | Qwen3.5-397B-A17B | +1.4 | +1.54 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: PRO's opening definitional challenge in Rebuttal 1 [B2.1–B2.2]—distinguishing actual outright fraud from beliefs about fraud and calling CON's conflation a category error—was the most decisive exchange. PRO then compounded this in Rebuttal 2 by answering CON's own pressure que...
 - **GPT-5.4 (high reasoning)**: A won by making the central clash easy to judge: the motion compares legal corruption to outright voter fraud, and B’s biggest impacts came from beliefs and false allegations about fraud rather than fraud itself. A pressed that distinction cleanly across rounds, answered press...
   Most decisive rebuttal noted: A’s repeated “category error” rebuttal—that B was proving the harms of fraud allegations and misinformation, not actual outright voter fraud—was the most decisive exchange.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by enforcing the motion's literal wording on "outright voter fraud" as rare actual acts rather than beliefs or allegations, directly answering B's pressure via the conceded rarity, and showing systemic capture creates terminal resignation that renders elections pla...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by enforcing the motion's literal wording on "outright voter fraud" as rare actual acts rather than beliefs or allegations, directly answering B's pressure via the conceded rarity, and showing systemic capture creates terminal resignation that renders elections pla...
   Most decisive rebuttal noted: A's Q1/Q2 and A4.1-A4.2 turn B's own admission of fraud's negligibility into proof that capture does more damage.

@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.7 | +1.81 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.7 | +1.81 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by establishing a relentless comparative baseline: conventional mutagenesis creates thousands of random mutations with zero molecular screening, while gene editing creates precise changes. Side B's defense of this inconsistency—calling mutagenesis a 'historical loop...
   Most decisive rebuttal noted: Side A's Rebuttal 2 and Closing brilliantly leveraged the mutagenesis comparison to prove that streamlined gene-editing rules actually impose higher scrutiny than the widely accepted conventional baseline.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A won by crystallizing the decisive mutagenesis inconsistency: CON never explained why thousands of random mutations require zero screening while far fewer targeted edits demand full GMO review, dismissing it only as a "loophole" without closing it. This left CON's risk claims...
+- **Grok 4.20 0309 (Reasoning)**: A won by crystallizing the decisive mutagenesis inconsistency: CON never explained why thousands of random mutations require zero screening while far fewer targeted edits demand full GMO review, dismissing it only as a "loophole" without closing it. This left CON's risk claims...
   Most decisive rebuttal noted: A's A1/A2 in Rebuttal 2 directly answering B's off-target and verification pressure by resetting the baseline to what mutagenesis already accepts without molecular checks.
 - **Kimi K2.5 Thinking**: PRO (Side B) wins by exposing a fatal asymmetry in CON's framework: CON demands extensive molecular screening for gene editing while admitting that mutagenesis (which introduces thousands of uncharacterized random mutations) operates under a "historical loophole" with zero scr...
   Most decisive rebuttal noted: PRO's rebuttal and closing treatment of the mutagenesis comparison, which forced CON to admit that mutagenized crops represent a "historical loophole" that they would not extend to gene editing, thereby revealing that CON's safety standard is inconsistently applied based on th...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.6 | -1.60 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by decisively neutralizing Side A's two main arguments. B countered the cost/monopoly argument by proposing fee waivers, effectively solving the barrier to entry without dropping safety standards. More importantly, B successfully leveraged A's own enforcement mechan...
   Most decisive rebuttal noted: Side B's second rebuttal, which brilliantly turned Side A's "process audit" answer into a demonstration of how streamlined rules would replace vital safety testing with mere compliance policing.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by neutralizing PRO's central mutagenesis comparison as "race to the bottom" rather than justification, offering targeted funding alternatives to the monopoly claim, and highlighting that process audits trade front-end safety data for after-the-fact enforcement inad...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by neutralizing PRO's central mutagenesis comparison as "race to the bottom" rather than justification, offering targeted funding alternatives to the monopoly claim, and highlighting that process audits trade front-end safety data for after-the-fact enforcement inad...
   Most decisive rebuttal noted: B's R1 directly dismantling the mutagenesis analogy by contrasting random/slow filtering with targeted/fast market entry, which PRO never fully overcame.
 - **Kimi K2.5 Thinking**: CON wins by exposing a fatal structural flaw in PRO's proposal: streamlined rules for gene-edited crops cannot verify compliance without either (1) being unenforceable (if the edits are truly "indistinguishable" from conventional breeding) or (2) shifting regulatory burden fro...
   Most decisive rebuttal noted: The verification exchange beginning with CON's Pressure Question Q1 (Turn 6) asking how regulators verify compliance if edits are "indistinguishable" from conventional breeding, PRO's inadequate "process audit" response (Turn 7), and CON's devastating reply (Turn 8) that this...

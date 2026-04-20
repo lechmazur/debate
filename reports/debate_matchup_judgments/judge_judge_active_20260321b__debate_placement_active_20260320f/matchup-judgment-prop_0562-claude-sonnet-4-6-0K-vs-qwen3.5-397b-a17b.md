@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.4 | +1.54 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: B’s pressure on A’s “hard ceiling” claim was decisive: after asking for an example where more enforcement durably reduced irregular migration, B used A’s weak Australia response to show CON had assertion on deterrence but not a convincing comparative proof.
 - **Gemini 3.1 Pro Preview**: Side A won by presenting a more robust causal mechanism and defending it well against pressure. Side A's argument that employer accountability ensures high return rates successfully neutralized Side B's "scalability/overstay" critique. Furthermore, Side A effectively dismantle...
   Most decisive rebuttal noted: Side A's A4.1 and A5.5 dismantled Side B's core "overstay at scale" argument by explaining how employer accountability structures make collusion economically irrational.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clarifying the labor-demand root cause, directly answering A's scalability pressure via employer-accountability mechanisms that align incentives at scale, and exposing CON's failure to provide a replicable enforcement example that durably shrinks irregular stocks...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clarifying the labor-demand root cause, directly answering A's scalability pressure via employer-accountability mechanisms that align incentives at scale, and exposing CON's failure to provide a replicable enforcement example that durably shrinks irregular stocks...
   Most decisive rebuttal noted: B's Rebuttal 2 opened with explicit A1/A2 answers that collapsed CON's two pillars and noted the unanswered Q1 on enforcement examples.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.1 | -1.21 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Most decisive was A’s second rebuttal turning B’s “visibility enables targeted enforcement on bad actors” claim: A used it to argue that even on B’s model, pathways depend on enforcement to reduce the remaining irregular population, which undercut B’s claim of comparative supe...
 - **Gemini 3.1 Pro Preview**: Side B won by exposing a structural contradiction in Side A's case and dominating the comparative weighing. B successfully established that legal pathways cannot resolve distress migration or overstays without relying on the very enforcement they are supposed to replace. When...
   Most decisive rebuttal noted: Side B's Rebuttal 2, which caught Side A's argument that pathways enable "targeted enforcement" and used it to collapse Side A's comparative case.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by consistently centering labor demand as the dominant driver of irregular flows and showing legal pathways remove the incentive at source, producing a net subtraction from the irregular population. Side A's distress-migration and migra...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by consistently centering labor demand as the dominant driver of irregular flows and showing legal pathways remove the incentive at source, producing a net subtraction from the irregular population. Side A's distress-migration and migra...
   Most decisive rebuttal noted: B's R2 answers converted A's overstay pressure into an advantage for tracked versus untracked flows; A's attempted concession hit was recovered from in B's closing by distinguishing administrative tracking from border militarization.

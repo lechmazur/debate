@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | +2.5 | +2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins by maintaining strict discipline over the proposition's precise wording ("routine condition") and capitalizing on a major unforced error by Side B. In the Pressure Questions round, Side B loses track of the flow, falsely accusing Side A of dismissing web portals (w...
   Most decisive rebuttal noted: Side A's Closing, which brilliantly frames Side B's reliance on "future legal constraints" as a concession that the practice is too prone to abuse to be a routine default.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B made the clearer, more consistent case for the proposition by centering the unique intimacy of personal phones, economic coercion at large employers, and the non-routine default, while directly distinguishing from other conditions and using Side A's harm-concession agai...
+- **Grok 4.20 0309 (Reasoning)**: Side B made the clearer, more consistent case for the proposition by centering the unique intimacy of personal phones, economic coercion at large employers, and the non-routine default, while directly distinguishing from other conditions and using Side A's harm-concession agai...
   Most decisive rebuttal noted: Side B's R2 and closing effectively reframed Side A's concession on needing legal remedies for harms as validation of the proposition's "not routine" default, while maintaining the device-intimacy distinction.
 - **Qwen3.5-397B-A17B**: Side B wins on superior weighing and logical precision in the late rounds. While Side A built a compelling moral case around phone intimacy and coercion, Side B successfully neutralized the core "unique category" claim with the personal laptop/VPN analogy, forcing Side A onto...
   Most decisive rebuttal noted: Side B Rebuttal 2 [B4.3] introducing the personal laptop/VPN analogy to collapse Side A's "unique category" claim regarding employer software on personal hardware.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | -2.0 | -1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.44 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by successfully defanging Side A's core privacy harms using superior technical grounding (explaining the shift from full-device MDMs to modern, containerized work profiles) and by consistently winning the comparative clash. Side B's analogies to other routine employ...
   Most decisive rebuttal noted: Side B's closing dismantled Side A's definition of "routine," noting that "careful and routine coexist constantly. Surgeons perform routine procedures carefully," effectively neutralizing Side A's final structural argument.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by maintaining focus on personal device ownership, 24/7 coercion, and viable alternatives; turned CON's safeguards/regulatory points into concessions that routine expectations should not be normalized. Clips penalized both but B adapted clash more cleanly.
+- **Grok 4.20 0309 (Reasoning)**: B won by maintaining focus on personal device ownership, 24/7 coercion, and viable alternatives; turned CON's safeguards/regulatory points into concessions that routine expectations should not be normalized. Clips penalized both but B adapted clash more cleanly.
   Most decisive rebuttal noted: B4 showing CON's careful implementation descriptions prove routine unscrutinized use is the exact overreach targeted.
 - **Qwen3.5-397B-A17B**: Side A won the decisive definitional clash over the word "routine." By framing "routine" as an unscrutinized default that bypasses negotiation, Side A successfully neutralized Side B's best analogies (background checks, surgeons). Side A's closing turn—that background checks b...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7), specifically A4.4, which framed "careful and routine are opposites." This directly undermined Side B's entire strategy of arguing for regulated routine practices and set up Side A's winning closing argument.

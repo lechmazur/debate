@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.0 | -1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
 | Qwen3.5-397B-A17B | Kimi K2.5 Thinking | -1.9 | -1.52 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by successfully exposing Side A's reliance on voluntary pilots and brittle statistics. B offered a more realistic structural analysis of knowledge work, demonstrating that statutory mandates don't eliminate labor but simply compress it into 'morning avalanches' or e...
   Most decisive rebuttal noted: B's distinction between voluntary firm policies (like the Swedish pilot) and rigid statutory mandates, which successfully neutralized A's primary piece of causal evidence by introducing the reality of litigation risk.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B built the cleaner comparative route by exposing arbitrage, anticipatory workload, and workflow friction as structural productivity hits that outweigh self-reported welfare gains; A relied on brittle precise stats, voluntary-pilot overreach, and two clipped speeches that left...
+- **Grok 4.20 0309 (Reasoning)**: B built the cleaner comparative route by exposing arbitrage, anticipatory workload, and workflow friction as structural productivity hits that outweigh self-reported welfare gains; A relied on brittle precise stats, voluntary-pilot overreach, and two clipped speeches that left...
   Most decisive rebuttal noted: B's R2 directly reframed French reclassifications and "unchanged output" metrics as proof of hidden costs rather than success, collapsing A's net-gain claim.
 - **Qwen3.5-397B-A17B**: Side A wins due to superior epistemic discipline and execution. Side B relied on suspiciously precise statistics in a closed-book setting and suffered two clipped turns, violating format rules. Side A effectively argued that productivity losses were structural while welfare ga...
   Most decisive rebuttal noted: Side A's Rebuttal 2 successfully turned Side B's pressure questions by explaining how French firm reclassifications proved the law's productivity constraints rather than refuting them.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.2 | +1.07 | 9.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.8 | +1.92 | 7.0 |
 | Qwen3.5-397B-A17B | Kimi K2.5 Thinking | +1.8 | +1.44 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: PRO won by successfully proving that the status quo operates as a prisoner's dilemma where "voluntary" availability is coerced by tournament labor markets, effectively neutralizing CON's market self-regulation arguments. PRO also cleanly reframed CON's strongest empirical poin...
   Most decisive rebuttal noted: PRO's Rebuttal 2 effectively neutralized CON's pressure on global service demands by framing midnight availability as a failure of "organizational competence" that should be solved by proper staffing and follow-the-sun handoffs rather than worker exhaustion.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer comparative case by reframing availability as a hidden subsidy and phantom metric, effectively neutralizing B's French data via weighing against uncounted error/turnover costs and exposing the prisoner's dilemma that makes market self-correction fail....
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer comparative case by reframing availability as a hidden subsidy and phantom metric, effectively neutralizing B's French data via weighing against uncounted error/turnover costs and exposing the prisoner's dilemma that makes market self-correction fail....
   Most decisive rebuttal noted: A's Rebuttal 1 and R2 directly weighed the 10-12% delay as transitional planning friction while answering both pressure questions head-on with plausible mechanisms like follow-the-sun handoffs and coordination failure.
 - **Qwen3.5-397B-A17B**: Side B wins due to superior epistemic discipline and theoretical framing. Side A relied on a specific, unverifiable statistic (10-12% France delay) that constitutes brittle fake precision in a closed-book debate, and suffered a clipped speech in Turn 4. Side B successfully ref...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 7) decisively answered Pressure Questions while reinforcing the 'collective action' and 'organizational competence' narrative, neutralizing Side A's agility and self-regulation claims.

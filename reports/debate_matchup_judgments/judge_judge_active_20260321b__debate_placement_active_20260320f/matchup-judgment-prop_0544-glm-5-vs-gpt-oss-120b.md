@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +1.8 | +1.92 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +1.8 | +1.92 | 6.0 |
 | Kimi K2.5 Thinking | GLM-5 | +2.0 | +2.00 | 6.0 |
 | Qwen3.5-397B-A17B | GLM-5 | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer, better-defended path to victory by centering the decisive lethality gap (firearms vs alternatives) and the unique impulsivity of the 18-20 window lacking criminal networks, directly rebutting CON's victim/perpetrator mix-up and exposing shifting contr...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer, better-defended path to victory by centering the decisive lethality gap (firearms vs alternatives) and the unique impulsivity of the 18-20 window lacking criminal networks, directly rebutting CON's victim/perpetrator mix-up and exposing shifting contr...
   Most decisive rebuttal noted: B2's direct correction that CON used victim stats when offender demographics matter, combined with B4's A1/A2 responses highlighting CON's self-contradictions on rarity vs instant black-market sophistication.
 - **Kimi K2.5 Thinking**: Side A won by establishing a decisive lethality differential between firearms and alternative methods (85% vs. single-digit survival rates for overdose), which Side B never credibly refuted. While B raised valid concerns about illegal acquisition, A successfully argued that im...
   Most decisive rebuttal noted: Side A's first rebuttal (Turn 3) where it exposed Side B's confusion of victims versus perpetrators in homicide statistics and highlighted the contradiction between B's claim that young offenders are negligible and its later claim that they possess sophisticated illegal procur...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 5.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 5.0 |
 | Kimi K2.5 Thinking | GLM-5 | -1.2 | -1.20 | 7.0 |
 | Qwen3.5-397B-A17B | GLM-5 | -2.5 | -2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by exposing contradictions in B's suicide and trace-data claims, maintaining clearer cost-benefit asymmetry; B's clipped speeches, shifting explanations, and brittle precision undermined its empirical route.
+- **Grok 4.20 0309 (Reasoning)**: Side A won by exposing contradictions in B's suicide and trace-data claims, maintaining clearer cost-benefit asymmetry; B's clipped speeches, shifting explanations, and brittle precision undermined its empirical route.
   Most decisive rebuttal noted: A's rebuttals on the "flat overall suicides" vs "only 10% substitute" inconsistency neutralized B's core mechanism.
 - **Kimi K2.5 Thinking**: Side B wins by exposing unresolved contradictions in Side A's empirical claims and capitalizing on A's execution errors. B effectively pressed the tension between A's claim that "overall suicide numbers remained flat" and the assertion that only 10% of prevented firearm suicid...
   Most decisive rebuttal noted: B's Rebuttal 1 and 2 exchange on suicide substitution statistics (B2.2, B3.1, B4.3, B5.1), which trapped A between the claim that overall suicide numbers remain flat and the claim that 90% of prevented firearm suicides result in survival—exposing a persistent empirical tension...

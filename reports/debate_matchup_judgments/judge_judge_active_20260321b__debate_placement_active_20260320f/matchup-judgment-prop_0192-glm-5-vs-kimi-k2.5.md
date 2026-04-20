@@ -33,7 +33,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +1.0 | +1.39 | 7.0 |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.4 | +1.54 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -41,5 +41,5 @@
   Most decisive rebuttal noted: PRO's first rebuttal [A2.1] using infants and the permanently cognitively disabled to show that CON's duty-based framework provides no principle separating these humans from self-aware elephants except species membership. This forced CON onto a weaker community-structure defen...
 - **GPT-5.4 (high reasoning)**: B gave the cleaner path to the motion. The key move was collapsing A’s “personhood requires reciprocal duties/community” standard with the infant and profoundly disabled comparison, then answering the practical objection with guardianship and ordinary judicial balancing. A’s r...
   Most decisive rebuttal noted: B’s most decisive rebuttal was the duties clash: rights do not depend on accountability, as shown by human non-agents, and guardianship already exists to make such rights enforceable, undercutting A’s main conceptual framework.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by crystallizing the inconsistency in CON's reciprocity/community test: infants and disabled humans lack duties yet retain personhood via guardianship, exposing CON's distinction as species membership in disguise. A directly answered B's pressure on standing and con...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by crystallizing the inconsistency in CON's reciprocity/community test: infants and disabled humans lack duties yet retain personhood via guardianship, exposing CON's distinction as species membership in disguise. A directly answered B's pressure on standing and con...
   Most decisive rebuttal noted: A's R2 and closing directly dismantled CON's infant/disabled distinction by showing guardianship mechanisms already exist and can extend without collapsing the legal category.

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.2 | +1.28 | 7.0 |
 | Kimi K2.5 Thinking | Gemini 3.1 Pro Preview | -1.6 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by keeping the decisive comparator clash ("vs unstructured self-triage and ER defaults right now") live and unanswered; the authority contradiction pressure lands cleanly and forces B into an unresolved tension on whether tools are influential enough to panic yet t...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by keeping the decisive comparator clash ("vs unstructured self-triage and ER defaults right now") live and unanswered; the authority contradiction pressure lands cleanly and forces B into an unresolved tension on whether tools are influential enough to panic yet t...
   Most decisive rebuttal noted: A's Q1 exposing B's simultaneous "too authoritative" and "lacks credibility" claims, met by B's A1 but left mechanically inconsistent on why official status would only trigger escalation not reassurance.
 - **Kimi K2.5 Thinking**: Side A (CON) successfully established that liability structures inherently force "approved" AI triage tools into defensive over-escalation, converting the front-door bottleneck into an emergency department flood. They demonstrated that regulatory approval prioritizes safety (s...
   Most decisive rebuttal noted: Side A's response to Side B's "compared to what" framing (A4.2, A5.4), arguing that official health system endorsement transforms patient anxiety into institutional mandates to visit the ER, whereas unstructured web searches allow patients to exercise common sense—directly tur...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.2 | -1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +1.2 | +0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: A built clearer path by weighing AI against actual status-quo bottlenecks and shortages rather than hypothetical perfect nurses; directly answered B's core tension by separating routine volume from ambiguous cases, showing net ER relief while preserving escalation; B's irrecon...
+- **Grok 4.20 0309 (Reasoning)**: A built clearer path by weighing AI against actual status-quo bottlenecks and shortages rather than hypothetical perfect nurses; directly answered B's core tension by separating routine volume from ambiguous cases, showing net ER relief while preserving escalation; B's irrecon...
   Most decisive rebuttal noted: A's A4.1-A4.2 directly resolved B's over-triage vs diversion contradiction by quantifying most demand as clear-cut routine complaints, preserving human capacity downstream.
 - **Kimi K2.5 Thinking**: CON wins by exposing a fatal tension in PRO's case that survives the exchange. PRO needed AI to simultaneously over-triage dangerous symptoms (to ensure safety) and divert massive volumes to home care (to reduce ER overcrowding). CON successfully pressed that these goals pull...
   Most decisive rebuttal noted: CON's exposure of the irreconcilable tension between PRO's dual promises: that AI would be "programmed to over-triage" life-threatening symptoms (flooding ERs with false positives) while simultaneously diverting "the vast volume of obvious, routine complaints" to reduce ER ove...

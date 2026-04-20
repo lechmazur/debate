@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | +2.5 | +2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.7 | +1.81 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.7 | +1.81 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +1.8 | +1.44 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins by strictly adhering to the resolution's text and expertly penalizing Side B for blurring it. The motion specifically compares legal pathways to "border enforcement." Side B builds a strong case for deterrence, but relies heavily on interior enforcement mechanisms—...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A2), which devastatingly points out that Side B's reliance on employer sanctions is a defense of workplace enforcement, not the "border enforcement" specified in the motion.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the cleaner comparative case by repeatedly sharpening that the motion pits legal pathways against border enforcement specifically. CON broadened "enforcement" to workplace sanctions and overstay tracking (tools that complement legal pathways), allowing A to show b...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the cleaner comparative case by repeatedly sharpening that the motion pits legal pathways against border enforcement specifically. CON broadened "enforcement" to workplace sanctions and overstay tracking (tools that complement legal pathways), allowing A to show b...
   Most decisive rebuttal noted: A's R2 and closing exposed that CON's own examples of "working" enforcement were non-border tools, collapsing CON's substitution and complementarity claims into support for the PRO position.
 - **Qwen3.5-397B-A17B**: Side B (PRO) wins by successfully controlling the definition of "enforcement" relative to the motion. While Side A (CON) made a strong scope argument (visas don't cover asylum/family/year-round), they frequently defended workplace sanctions and overstay tracking as their prima...
   Most decisive rebuttal noted: Side B Rebuttal 2 (Turn 7). It directly answered the pressure questions and executed a decisive turn by distinguishing border enforcement from workplace enforcement, showing that Side A's effective tools actually support Side B's proposal rather than competing with it.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | +1.2 | +0.96 | 5.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins by cleanly winning the comparative framework. Side A effectively narrowed the debate to the motion's explicit focus on 'border enforcement', repeatedly catching Side B relying on 'interior enforcement' (like employer sanctions and exit tracking) to cover gaps like...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A4.3/A4.4), which devastatingly pointed out that Side B was "smuggling all enforcement into one bucket" to defend against the failures of border enforcement.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by keeping the central clash sharp: legal pathways substitute for the labor-market pull that actually generates most irregularity in seasonal/sectoral sectors, while border enforcement only displaces or hardens routes without addressing the employer demand that recr...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by keeping the central clash sharp: legal pathways substitute for the labor-market pull that actually generates most irregularity in seasonal/sectoral sectors, while border enforcement only displaces or hardens routes without addressing the employer demand that recr...
   Most decisive rebuttal noted: A's Rebuttal 2 cleanly disposed of B's pressure on overstays and the US example by contrasting realistic legal repeat-access incentives against mere route suppression, crystallizing why substitution outperforms displacement on the live comparison.
 - **Qwen3.5-397B-A17B**: Side B (PRO) wins on comparative weighing and topical fidelity. While Side A (CON) landed strong blows on implementation reality (guest worker programs coexisting with irregularity), Side B successfully isolated that the motion specifies "border enforcement," not interior enfo...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 7) was decisive. By answering the pressure questions directly (A1/A2) and distinguishing between "border crackdowns" and "administrative follow-through," Side B neutralized Side A's attempt to conflate all enforcement. This preserved Side B's comparat...

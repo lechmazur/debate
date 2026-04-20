@@ -3,9 +3,9 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0117__gemini-3.1-flash-lite-preview__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0117`
-- matchup: **Gemini 3.1 Flash-Lite Preview** vs **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- overall judged result (normalized): **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- overall judged result (raw): **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- matchup: **Gemini 3.1 Flash-Lite Preview** vs **Grok 4.20 0309 (Non-Reasoning)**
+- overall judged result (normalized): **Grok 4.20 0309 (Non-Reasoning)**
+- overall judged result (raw): **Grok 4.20 0309 (Non-Reasoning)**
 - mean entertainment: `6.67 / 10`
 - mean signed normalized margin for `Gemini 3.1 Flash-Lite Preview`: `-1.37`
 - judgment rows: `6`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0117__gemini-3.1-flash-lite-preview__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0117__grok-4.20-beta-0309-non-reasoning__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Gemini 3.1 Flash-Lite Preview**
+- [Debate A transcript](../../../transcripts/prop_0117__gemini-3.1-flash-lite-preview__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **Grok 4.20 0309 (Non-Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0117__grok-4.20-beta-0309-non-reasoning__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Gemini 3.1 Flash-Lite Preview**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0117__gemini-3.1-flash-lite-preview__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f` or topic `prop_0117`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0117__gemini-3.1-flash-lite-preview__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0117__gemini-3.1-flash-lite-preview__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- judged result: Unanimous `3-0` for **Grok 4.20 Beta 0309 (Non-Reasoning)**.
+- roles: PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **Grok 4.20 0309 (Non-Reasoning)**
+- judged result: Unanimous `3-0` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `-1.07`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | -1.5 | -2.09 | 6.0 |
-| GPT-5.4 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | -1.1 | -1.21 | 7.0 |
-| Qwen3.5-397B-A17B | Grok 4.20 Beta 0309 (Non-Reasoning) | -0.6 | -0.48 | 7.0 |
+| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | -1.5 | -2.09 | 6.0 |
+| GPT-5.4 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | -1.1 | -1.21 | 7.0 |
+| Qwen3.5-397B-A17B | Grok 4.20 0309 (Non-Reasoning) | -0.6 | -0.48 | 7.0 |
 
 ### Judge Notes
 
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0117__grok-4.20-beta-0309-non-reasoning__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0117__grok-4.20-beta-0309-non-reasoning__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Gemini 3.1 Flash-Lite Preview**
-- judged result: Unanimous `3-0` for **Grok 4.20 Beta 0309 (Non-Reasoning)**.
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Gemini 3.1 Flash-Lite Preview**
+- judged result: Unanimous `3-0` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.30`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.5 | +2.09 | 6.0 |
-| GPT-5.4 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.4 | +1.54 | 7.0 |
-| Qwen3.5-397B-A17B | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.0 | +0.80 | 7.0 |
+| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | +1.5 | +2.09 | 6.0 |
+| GPT-5.4 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | +1.4 | +1.54 | 7.0 |
+| Qwen3.5-397B-A17B | Grok 4.20 0309 (Non-Reasoning) | +1.0 | +0.80 | 7.0 |
 
 ### Judge Notes
 

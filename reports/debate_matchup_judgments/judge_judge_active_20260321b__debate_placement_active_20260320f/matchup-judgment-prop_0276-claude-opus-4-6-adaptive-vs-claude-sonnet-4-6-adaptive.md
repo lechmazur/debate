@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (high reasoning) | +1.4 | +1.54 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | +2.8 | +2.49 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s pressure on misclassification/non-filing paid off when B admitted automatic burden reversal makes gaming harder; A then crystallized that B was defending an easier-to-game system while only proposing to make complaining slightly easier.
 - **Gemini 3.1 Pro Preview**: Side A won decisively by maintaining a consistent framework, providing a clear structural fix to the EC 261 litigation problem (enumerated exceptions), and capitalizing on Side B's fatal concession in Rebuttal 2 that the proposed system would make gaming harder.
   Most decisive rebuttal noted: Side A's Closing brilliantly caught Side B's Rebuttal 2 concession that reversing the burden of proof makes gaming harder, exposing the incoherence of using that fact to defend the status quo.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clarifying the core inequity of forcing passengers to chase known airline liability through friction-heavy complaints while holding all data; they neutralized CON's classification and incentive attacks via presumptive-liability refinement with enumerated exceptio...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clarifying the core inequity of forcing passengers to chase known airline liability through friction-heavy complaints while holding all data; they neutralized CON's classification and incentive attacks via presumptive-liability refinement with enumerated exceptio...
   Most decisive rebuttal noted: B's closing exposing CON's incoherence at [A4.1] on reversal making gaming harder yet still opposing the fix.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.3 | +1.43 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: A’s first rebuttal was the key turn: B’s definitional and litigation objections were recast as status-quo problems, with A arguing the real question is not whether disputes exist but whether passengers or airlines should bear the cost of fighting them.
 - **Gemini 3.1 Pro Preview**: Side A won by effectively framing all of Side B's practical objections (definitional disputes, administrative burden) as existing problems that currently fall unfairly on the passenger. Side B made strong points about airlines controlling data logs and socializing costs, but S...
   Most decisive rebuttal noted: Side A's argument in Rebuttal 2 that market competition will discipline passive cost pass-through, as tighter-running airlines will have lower payout liabilities and can offer cheaper fares.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B constructed the cleaner comparative case by consistently reframing every objection as a status-quo problem whose burden falls on passengers today; direct answers to pressure questions turned CON's EU 261 critique into evidence that automation must be strengthened rather...
+- **Grok 4.20 0309 (Reasoning)**: Side B constructed the cleaner comparative case by consistently reframing every objection as a status-quo problem whose burden falls on passengers today; direct answers to pressure questions turned CON's EU 261 critique into evidence that automation must be strengthened rather...
   Most decisive rebuttal noted: B4 directly converted A's claims-firm attack and "broken enforcement" concession into proof that true automaticity is missing, collapsing A's empirical foundation while preserving B's burden-allocation frame.

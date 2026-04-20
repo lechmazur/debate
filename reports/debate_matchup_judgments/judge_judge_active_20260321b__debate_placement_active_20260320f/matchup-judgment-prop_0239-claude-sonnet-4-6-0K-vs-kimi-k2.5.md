@@ -33,7 +33,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.3 | +1.43 | 8.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.2 | +1.07 | 9.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -41,5 +41,5 @@
   Most decisive rebuttal noted: A’s second rebuttal was decisive: it answered B’s pressure directly and showed that deciding what counts as duress, valid scope, or preserved agency already imports external ethics, undercutting B’s claim that consent by itself is sufficient.
 - **Gemini 3.1 Pro Preview**: Side A won by successfully exposing the circularity in Side B's "thick" conception of consent. A persuasively argued that B could only maintain its framework by covertly importing external moral values (like harm prevention and civic equality) and relabeling them as "proxy-con...
   Most decisive rebuttal noted: A's Rebuttal 2 decisively neutralized B's framework by showing that B's criteria for valid consent are "parasitic" on independent moral theories about exploitation and justice, effectively proving that consent acts as a register for these conclusions rather than their source.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the stronger case by consistently demanding and never receiving an example of fully genuine consent paired with an unethical transaction. All of PRO's examples were successfully reframed as defective consent cases (duress, missing third-party consent, eroded preco...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the stronger case by consistently demanding and never receiving an example of fully genuine consent paired with an unethical transaction. All of PRO's examples were successfully reframed as defective consent cases (duress, missing third-party consent, eroded preco...
   Most decisive rebuttal noted: B4 and B5: CON's direct answers to pressure plus closing crystallization that PRO offered zero genuine-consent unethical cases decisively neutralized PRO's core objections.

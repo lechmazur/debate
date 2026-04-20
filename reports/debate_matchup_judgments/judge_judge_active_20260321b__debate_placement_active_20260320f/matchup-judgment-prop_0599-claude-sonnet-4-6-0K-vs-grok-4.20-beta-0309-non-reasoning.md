@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0599__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0599`
-- matchup: **Claude Sonnet 4.6 (no reasoning)** vs **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- matchup: **Claude Sonnet 4.6 (no reasoning)** vs **Grok 4.20 0309 (Non-Reasoning)**
 - overall judged result (normalized): **Claude Sonnet 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Sonnet 4.6 (no reasoning)**
 - mean entertainment: `7.67 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0599__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0599__grok-4.20-beta-0309-non-reasoning__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Claude Sonnet 4.6 (no reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0599__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Grok 4.20 0309 (Non-Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0599__grok-4.20-beta-0309-non-reasoning__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Claude Sonnet 4.6 (no reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0599__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f` or topic `prop_0599`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0599__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0599__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Grok 4.20 0309 (Non-Reasoning)**
 - judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (no reasoning)**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `+2.17`
@@ -49,14 +49,14 @@
 
 - debate_id: `prop_0599__grok-4.20-beta-0309-non-reasoning__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0599__grok-4.20-beta-0309-non-reasoning__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Claude Sonnet 4.6 (no reasoning)**
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Claude Sonnet 4.6 (no reasoning)**
 - judged result: Split `2-1` for **Claude Sonnet 4.6 (no reasoning)**.
 - entertainment scores: `8`, `8`, `8`
 - mean signed raw margin (PRO+): `-0.17`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Gemini 3.1 Pro Preview | Grok 4.20 Beta 0309 (Non-Reasoning) | +2.5 | +2.22 | 8.0 |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | +2.5 | +2.22 | 8.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.50 | 8.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.20 | 8.0 |
 

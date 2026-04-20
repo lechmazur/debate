@@ -33,7 +33,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GLM-5 | -1.0 | -1.39 | 7.0 |
 | GPT-5.4 (high reasoning) | GLM-5 | -1.4 | -1.54 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -41,5 +41,5 @@
   Most decisive rebuttal noted: Side B's asymmetry argument in Rebuttal 1 (B2.2) and Rebuttal 2 (B4.1–4.2): "Getting a note approved requires cross-ideological agreement; blocking one requires only a determined faction to refuse—a veto, not a competition." This was the most decisive rebuttal in the debate be...
 - **GPT-5.4 (high reasoning)**: A won by making the decisive comparative clearer: community-note systems are structurally weakest on the most contested, highest-stakes political falsehoods because blocking consensus is easier than achieving it, while takedowns still reduce exposure on the mainstream platform...
   Most decisive rebuttal noted: A’s response that consensus systems give bad actors a built-in veto, whereas mass-report abuse of takedowns is at least patchable, was the sharpest exchange; B’s answer effectively conceded that some falsehoods would just remain visible without attached context.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clarifying the decisive asymmetry: obstruction is structurally easier than consensus in notes, leaving highest-stakes misinformation uncorrected exactly where prevention matters most; PRO never neutralized this or the timing of irreversible harms like voter suppr...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clarifying the decisive asymmetry: obstruction is structurally easier than consensus in notes, leaving highest-stakes misinformation uncorrected exactly where prevention matters most; PRO never neutralized this or the timing of irreversible harms like voter suppr...
   Most decisive rebuttal noted: B4 directly damaged PRO's manipulation and migration routes by showing veto power is built-in and most users do not migrate, shifting burden back to legitimacy of prevention over reaction.

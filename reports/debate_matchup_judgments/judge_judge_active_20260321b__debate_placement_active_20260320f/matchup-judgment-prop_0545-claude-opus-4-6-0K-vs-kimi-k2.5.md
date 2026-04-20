@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (no reasoning) | +1.0 | +1.10 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.4 | -2.13 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.2 | +1.28 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: The key clash was CON’s “authorization is not transplantation” rebuttal versus PRO’s answer that infrastructure and defaults can both matter, and that CON still failed to show opt-out does not produce a measurable positive effect.
 - **Gemini 3.1 Pro Preview**: Side B won by decisively capturing both the empirical and ethical clashes, while Side A suffered significant execution costs from clipping three speeches. Empirically, B successfully argued that infrastructure is the true bottleneck, neutralizing A's Wales example by sharply d...
   Most decisive rebuttal noted: Side B's Rebuttal 2, which caught Side A's reliance on Wales's "consent rates" to argue that without parallel infrastructure, extra authorizations simply hit surgical bottlenecks and fail to increase actual transplants.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A built clearer comparative path by showing consistent directional increases across multiple countries with varying infrastructure, directly answering CON's pressure on decline examples, and neutralizing ethics via working vetoes and framing relief; CON's infrastructure point...
+- **Grok 4.20 0309 (Reasoning)**: A built clearer comparative path by showing consistent directional increases across multiple countries with varying infrastructure, directly answering CON's pressure on decline examples, and neutralizing ethics via working vetoes and framing relief; CON's infrastructure point...
   Most decisive rebuttal noted: A's R2/A4 direct answers on family consultation and Wales/Belgium gains exposed CON's retreat to "not Spanish-level" while preserving measurable-increase standard.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (no reasoning) | -1.3 | -1.43 | 8.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -2.3 | -2.04 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s most decisive rebuttal was to A4.3: once A said uninformed silence causes “no cognizable harm” because the dead are not injured, B answered that this destroys any principled consent standard and shows the ethical-cost claim is not solved but denied away.
 - **Gemini 3.1 Pro Preview**: Side B wins by effectively cornering Side A on the proposition's strict requirement that ethical violations must not increase. When B presses the fact that uninformed silence from marginalized groups cannot constitute valid consent, A bites a fatal bullet by arguing that posth...
   Most decisive rebuttal noted: Side B's Closing, which devastatingly points out that Side A's defense ("the dead cannot be harmed") abolishes the ethical framework for consent altogether rather than proving the policy avoids ethical violations.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by exposing that A's defense ultimately treats the dead as unharmable, detonating any principled consent framework and revealing ethical violations for uninformed groups via coerced defaults; this neutralized the triple guarantee while A's rate claims remained confo...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by exposing that A's defense ultimately treats the dead as unharmable, detonating any principled consent framework and revealing ethical violations for uninformed groups via coerced defaults; this neutralized the triple guarantee while A's rate claims remained confo...
   Most decisive rebuttal noted: B's closing reductio using A's own "no injury to the deceased" line to collapse the ethical case.

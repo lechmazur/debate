@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by clarifying the decisive asymmetry: structural learning harms (distributed practice, fatigue, equity impacts on vulnerable students) are reliable and concentrated while district benefits are modest, conditional, and frequently eroded by mitigation costs. Side B's...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by clarifying the decisive asymmetry: structural learning harms (distributed practice, fatigue, equity impacts on vulnerable students) are reliable and concentrated while district benefits are modest, conditional, and frequently eroded by mitigation costs. Side B's...
   Most decisive rebuttal noted: A's Rebuttal 2 showing confounders cut both ways and that CON requires an unbroken chain of optimistic conditions while PRO needs only one reliable harm mechanism.
 - **Kimi K2.5 Thinking**: PRO wins by establishing a structural, asymmetric harm: four-day weeks reliably reduce distributed instructional time and impose cognitive fatigue on children—harms that fall disproportionately on vulnerable students—while CON's benefits (savings, retention) remain contingent,...
   Most decisive rebuttal noted: PRO's dismantling of the mitigation-cost contradiction (A2.6, A4.4-A4.5), demonstrating that off-day supports necessary to protect vulnerable students consume the very savings used to justify the policy, leaving CON's case with either unmitigated equity harms or no net fiscal...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.2 | -1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.2 | -1.28 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.3 | +1.30 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -1.2 | -0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by keeping the burden on PRO to prove harms clearly exceed helps, showing mixed/small learning effects (which PRO repeatedly conceded) do not outweigh concrete rural savings and retention gains that prevent worse staffing-driven learning losses. Side B better crysta...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by keeping the burden on PRO to prove harms clearly exceed helps, showing mixed/small learning effects (which PRO repeatedly conceded) do not outweigh concrete rural savings and retention gains that prevent worse staffing-driven learning losses. Side B better crysta...
   Most decisive rebuttal noted: B's B4 turn directly took PRO's "mixed/uneven" concession [A4.2] and turned it against the burden, showing both ledgers modest yet PRO still claiming lexical priority not present in the motion.
 - **Kimi K2.5 Thinking**: Side A wins by successfully framing the comparative weighing around the core mission of schools. While Side B demonstrated that four-day weeks provide real operational benefits (budget relief, applicant pools), Side A showed that these benefits are indirect, marginal, and do n...
   Most decisive rebuttal noted: Side A's second rebuttal response to Side B's staffing argument (A4.3), distinguishing between "larger applicant pools" and actually solving vacancies or improving teaching, while noting that students pay for this adult perk with lost instructional time.

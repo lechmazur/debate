@@ -32,14 +32,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GLM-5 | -2.0 | -1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GLM-5 | -2.5 | -2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A decisively wins by exposing a fatal contradiction in Side B's architecture. B anchors their case on the absolute difference between strong anonymity ("the record does not exist") and A's judicial oversight ("surveillance with paperwork"). However, when pressed on how to...
   Most decisive rebuttal noted: A's Rebuttal 2, which successfully argues that B's proposed solutions to digital smurfing require the same identity-linked metadata retention that B explicitly rejected in earlier rounds.
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO constructed the clearer comparative case: privacy-by-default architecture for ordinary transactions versus CON's identity-linked surveillance that depends on institutional quality. PRO neutralized smurfing via cash equivalence plus digital pattern tools, exposed the jurisd...
+- **Grok 4.20 0309 (Reasoning)**: PRO constructed the clearer comparative case: privacy-by-default architecture for ordinary transactions versus CON's identity-linked surveillance that depends on institutional quality. PRO neutralized smurfing via cash equivalence plus digital pattern tools, exposed the jurisd...
   Most decisive rebuttal noted: B's R1 dismantled the "we are replacing cash to close gaps" premise and false binary, forcing CON onto defensive terrain that persisted.
 - **Qwen3.5-397B-A17B**: Side A wins on both substance and procedure. Substantively, Side A successfully turned Side B's technical defense in Rebuttal 2, demonstrating that pattern detection for structuring inherently requires data collection, contradicting Side B's claim of 'no record.' Procedurally,...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 8) was decisive. They exposed that Side B's proposed 'pattern detection' for structuring requires tracking behavioral metadata, which undermines Side B's core claim that 'the record does not exist.' This turned Side B's technical solution into a conce...

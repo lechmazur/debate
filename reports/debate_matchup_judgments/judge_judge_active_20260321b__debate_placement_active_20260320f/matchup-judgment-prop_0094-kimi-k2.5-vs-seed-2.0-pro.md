@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | ByteDance Seed2.0 Pro | -0.8 | -1.11 | 7.0 |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.6 | +1.77 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A4's pivot to existing safeguards (immediate suspension authority, fleet kill switches, congestion-triggered drawdown protocols) directly undermines B's irreversibility frame. Rather than accepting the premise that deployment is irreversible, A claims the harms are mitigable w...
 - **GPT-5.4 (high reasoning)**: A won by giving the cleaner decision rule under uncertainty: temporary geofences/caps still allow learning through controlled expansion, while avoiding potentially irreversible curb, safety, and labor harms before rules are ready. B’s best case was that scale is needed for dat...
   Most decisive rebuttal noted: A’s A1/A2 response was decisive: it undercut B’s core “no scale, no rules” thesis by arguing cities can model surges, closures, and labor transition needs through simulations, existing data, and gradual cap increases without saturating dense downtowns first.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer path to victory by showing small pilots cannot generate representative data on dynamic routing, surge events, or net job creation, while demonstrating that immediate technical and regulatory mitigations (kill-switches, suspension rules, drawdown protoc...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer path to victory by showing small pilots cannot generate representative data on dynamic routing, surge events, or net job creation, while demonstrating that immediate technical and regulatory mitigations (kill-switches, suspension rules, drawdown protoc...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answered B's pressure on reversibility with existing fleet controls and curb-capacity data, collapsing B's core irreversibility asymmetry; B's closing could not restore it.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | -1.5 | -2.09 | 7.0 |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | -1.3 | -1.43 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Side A's first rebuttal (A2.1–A2.4): A inverted B's San Francisco evidence by arguing that small pilots accumulate too little traffic to force systemic curb redesign, whereas scale + mandatory rules creates real political pressure. The observation that "geofencing does not sol...
 - **GPT-5.4 (high reasoning)**: B won by more directly attacking the necessity of caps, which was the core burden of the motion. B argued that permits, telemetry mandates, and per-mile fees can be imposed without artificial scarcity, and that scale is what generates the data, revenue, and political urgency A...
   Most decisive rebuttal noted: B’s most decisive rebuttal was that caps do not create regulatory power: cities can condition operation on reporting, taxes, and curb access at any fleet size, and revoking a large urban operation can be more credible leverage than managing a scarce pilot.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer path to victory by showing caps provide real leverage to force missing curb/labor/safety rules before costs hit residents, directly answering A's pressures on enforcement and data in Rebuttal 2 while A evaded B's leverage questions and suffered a clipp...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer path to victory by showing caps provide real leverage to force missing curb/labor/safety rules before costs hit residents, directly answering A's pressures on enforcement and data in Rebuttal 2 while A evaded B's leverage questions and suffered a clipp...
   Most decisive rebuttal noted: B's Rebuttal 2 opening A1/A2 directly contrasted paper authority vs. credible revocation leverage from limited slots, damaging A's core scale-creates-rules claim.

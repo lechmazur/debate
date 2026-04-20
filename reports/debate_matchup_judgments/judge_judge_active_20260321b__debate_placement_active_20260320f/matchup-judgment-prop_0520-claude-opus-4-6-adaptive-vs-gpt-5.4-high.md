@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | +1.5 | +1.50 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.2 | -0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A constructed the clearer path by showing labor-market testing adds delay without forcing wage/condition improvements (unanswered core mechanism), while faster recognition unlocks talent amid real shortages without rubber-stamping. Side B's limiting-principle pressure was...
+- **Grok 4.20 0309 (Reasoning)**: Side A constructed the clearer path by showing labor-market testing adds delay without forcing wage/condition improvements (unanswered core mechanism), while faster recognition unlocks talent amid real shortages without rubber-stamping. Side B's limiting-principle pressure was...
   Most decisive rebuttal noted: A's [A2.2-A2.3] and closing exposure that testing leaves the offered wage unchanged, neutralizing B's discipline claim.
 - **Kimi K2.5 Thinking**: PRO wins by exposing that labor-market testing fails at its core purpose. CON argued testing protects wages and labor standards, but PRO's pressure question at B3.1 and rebuttal at B4.5 demonstrated that testing only verifies local advertising, not wage adequacy—employers stil...
   Most decisive rebuttal noted: PRO's rebuttal of the wage-suppression argument (B2.1-B2.3, crystallized at B4.5), showing that labor-market testing adds bureaucratic delay without changing the wage offer, since employers simply confirm no locals applied at the current rate rather than being forced to raise it.
@@ -56,12 +56,12 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the cleaner comparative case by showing credential recognition directly tests the right question (competence) while labor-market testing is a mismatched proxy for wage/safety issues better solved by other tools; B's systemic warnings were real but did not neutrali...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the cleaner comparative case by showing credential recognition directly tests the right question (competence) while labor-market testing is a mismatched proxy for wage/safety issues better solved by other tools; B's systemic warnings were real but did not neutrali...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answered B's pressure by naming the concrete paperwork-to-exam shift and arguing testing is not a reliable ex-ante safeguard, sharpening the precision weighing that survived to closing.
 - **Qwen3.5-397B-A17B**: Side A wins primarily due to superior execution and completion. Side B had three speeches clipped for exceeding word limits, including the Closing, which ended mid-sentence and failed to crystallize the final vote. Side A had only one clipped speech and delivered a complete, c...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7) was decisive. By answering A1 and A2 directly, they specified exactly how to achieve speed (cutting paper review, keeping exams) and dismantled Side B's claim that labor testing is a reliable wage safeguard, reframing it as bureaucratic paperwork t...

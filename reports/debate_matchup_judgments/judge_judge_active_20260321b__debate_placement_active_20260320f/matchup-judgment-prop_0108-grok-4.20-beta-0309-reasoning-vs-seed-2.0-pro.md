@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0108__grok-4.20-beta-0309-reasoning__seed-2.0-pro__tpl_placement_active_20260320f`
 - topic_id: `prop_0108`
-- matchup: **Grok 4.20 Beta 0309 (Reasoning)** vs **ByteDance Seed2.0 Pro**
+- matchup: **Grok 4.20 0309 (Reasoning)** vs **ByteDance Seed2.0 Pro**
 - overall judged result (normalized): **ByteDance Seed2.0 Pro**
 - overall judged result (raw): **ByteDance Seed2.0 Pro**
 - mean entertainment: `6.83 / 10`
-- mean signed normalized margin for `Grok 4.20 Beta 0309 (Reasoning)`: `-1.64`
+- mean signed normalized margin for `Grok 4.20 0309 (Reasoning)`: `-1.64`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0108__grok-4.20-beta-0309-reasoning__seed-2.0-pro__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **ByteDance Seed2.0 Pro**
-- [Debate B transcript](../../../transcripts/prop_0108__seed-2.0-pro__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **ByteDance Seed2.0 Pro**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0108__grok-4.20-beta-0309-reasoning__seed-2.0-pro__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **ByteDance Seed2.0 Pro**
+- [Debate B transcript](../../../transcripts/prop_0108__seed-2.0-pro__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **ByteDance Seed2.0 Pro**, CON = **Grok 4.20 0309 (Reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0108__grok-4.20-beta-0309-reasoning__seed-2.0-pro__tpl_placement_active_20260320f` or topic `prop_0108`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0108__grok-4.20-beta-0309-reasoning__seed-2.0-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0108__grok-4.20-beta-0309-reasoning__seed-2.0-pro__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **ByteDance Seed2.0 Pro**
+- roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **ByteDance Seed2.0 Pro**
 - judged result: Unanimous `3-0` for **ByteDance Seed2.0 Pro**.
 - entertainment scores: `7`, `8`, `6`
 - mean signed raw margin (PRO+): `-1.43`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0108__seed-2.0-pro__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0108__seed-2.0-pro__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **ByteDance Seed2.0 Pro**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- roles: PRO = **ByteDance Seed2.0 Pro**, CON = **Grok 4.20 0309 (Reasoning)**
 - judged result: Unanimous `3-0` for **ByteDance Seed2.0 Pro**.
 - entertainment scores: `6`, `8`, `6`
 - mean signed raw margin (PRO+): `+1.57`

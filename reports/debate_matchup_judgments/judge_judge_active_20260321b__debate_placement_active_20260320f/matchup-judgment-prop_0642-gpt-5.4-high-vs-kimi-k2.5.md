@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | +1.5 | +2.09 | 6.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's A1 answer in Rebuttal 2 was the most decisive exchange. CON's pressure question exposed a real tension: either the cap is meaningless (set above market) or it creates artificial scarcity (set below). PRO's direct response — that a cap can be set above ordinary market dem...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully framing minimums as a blunt, disproportionate tool ("planning by panic") that actively worsens the car dependency Side A relied on as a premise. Side B also cleanly exploited a contradiction in Side A's case regarding developer incentives, showing th...
   Most decisive rebuttal noted: Side B's Q1 exposed a crucial tension: Side A argued that underbuilding causes "existential" vacancy threats, but also claimed developers will systematically underbuild to "privatize the gain," failing to explain why developers would reliably make choices that doom their own p...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B constructed the clearer comparative case: minimums guarantee citywide oversupply and entrench car dependence even in auto-centric areas, while maximums serve as flexible guardrails allowing market-driven parking plus targeted street fixes for spillover. Side A’s externa...
+- **Grok 4.20 0309 (Reasoning)**: Side B constructed the clearer comparative case: minimums guarantee citywide oversupply and entrench car dependence even in auto-centric areas, while maximums serve as flexible guardrails allowing market-driven parking plus targeted street fixes for spillover. Side A’s externa...
   Most decisive rebuttal noted: B’s [B2.3] and [B4.3] exchanges reframed spillover and capacity limits as reasons for targeted tools rather than universal overbuilding, exposing CON’s reliance on worst-case local problems to justify global mandates.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | -1.2 | -1.67 | 7.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: CON's Rebuttal 2 [A4.3–A4.5]: After PRO answered CON's Q1 with a metro-average cap ("near one per unit") and answered Q2 with an unqualified "yes" to maximums even without enforcement, CON immediately used both answers as concrete proof of its thesis. The metro-average cap is...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively reframing maximums as rigid ceilings that create artificial scarcity and spillover in car-dependent regions, rather than "flexibility." Side A's use of Pressure Questions was masterful, forcing Side B to commit to a "metro-average cap" and accept maxi...
   Most decisive rebuttal noted: Side A's Rebuttal 2 directly leveraged Side B's Pressure Question answers to prove that a "metro average" cap mathematically guarantees a planned shortage for any building with above-average demand.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) wins by making the decisive comparative case for car-dependent regions: maximums invert regulation into planned scarcity when demand is real and site-specific, as PRO’s own metro-average cap and enforcement concession revealed. A neutralized the political-stickine...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) wins by making the decisive comparative case for car-dependent regions: maximums invert regulation into planned scarcity when demand is real and site-specific, as PRO’s own metro-average cap and enforcement concession revealed. A neutralized the political-stickine...
   Most decisive rebuttal noted: A’s Rebuttal 2 directly weaponized B’s A1/A2 answers on the metro cap and enforcement, collapsing B’s flexibility claim into acknowledged shortage and showing why the motion fails even on B’s terms.

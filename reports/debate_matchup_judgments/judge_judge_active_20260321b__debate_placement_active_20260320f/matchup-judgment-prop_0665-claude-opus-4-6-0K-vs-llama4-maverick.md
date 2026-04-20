@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +3.2 | +3.41 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +3.2 | +3.41 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +4.0 | +4.00 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +4.5 | +3.60 | 4.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won decisively. Side A opened with standard germline/safety objections but then collapsed in Rebuttal 2 and Closing by conceding that treatments are decades away, that prevention should not be delayed, and that MRT meets regulatory standards—explicitly advancing PRO's o...
+- **Grok 4.20 0309 (Reasoning)**: Side B won decisively. Side A opened with standard germline/safety objections but then collapsed in Rebuttal 2 and Closing by conceding that treatments are decades away, that prevention should not be delayed, and that MRT meets regulatory standards—explicitly advancing PRO's o...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered A's pressure questions on uncertainty and alternatives then crystallized the collapse; B's Closing explicitly quoted A's self-undermining concessions.
 - **Kimi K2.5 Thinking**: Side B committed a catastrophic error in their final two speeches by arguing the PRO position instead of CON, explicitly concluding that "Public health systems should fund MRT" and referring to "CON's case" in the third person. Even prior to this concession, Side A established...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7) decisively collapsed CON's two pillars: first by demonstrating that mitochondrial carryover was a manageable technical issue rather than a disqualifying flaw, and second by forcefully establishing that "supporting families" without prevention meant...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.8 | -1.92 | 5.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.8 | -1.92 | 5.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -2.0 | -2.00 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by maintaining a clear comparative frame on scarcity, evidence limits, germline ethics, and opportunity cost that Side B never squarely neutralized. B's appeals to severity and "fund both" evaded the required prioritization; multiple clipped turns hurt execution on...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by maintaining a clear comparative frame on scarcity, evidence limits, germline ethics, and opportunity cost that Side B never squarely neutralized. B's appeals to severity and "fund both" evaded the required prioritization; multiple clipped turns hurt execution on...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answered B's pressure questions then showed why "fund both" and "frameworks can evolve" dodge the live burdens of budget constraints and premature public commitment to heritable changes.
 - **Kimi K2.5 Thinking**: Side B (CON) won by successfully framing the debate around the reality of scarcity and unresolved ethical thresholds. Side A failed to answer two decisive pressures: first, the germline modification concern (dismissing it as "not decisive" and suggesting we "fund now, figure o...
   Most decisive rebuttal noted: Side B's response to Side A's Pressure Questions and subsequent rebuttal on opportunity cost (Q2 in Turn 6 and B4.7-B4.8), where Side B exposed Side A's "fund both" argument as a refusal to engage with scarcity, and Side B's sustained pressure on the germline modification issu...

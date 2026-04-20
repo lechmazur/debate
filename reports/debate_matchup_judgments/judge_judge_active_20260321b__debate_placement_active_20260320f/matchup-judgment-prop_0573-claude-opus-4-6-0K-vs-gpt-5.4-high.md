@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.2 | -1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +0.7 | +0.56 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger path by showing standardized baseline data is prerequisite for any verification tool (including CON's alternatives) to function; CON never neutralized how creators can detect discrepancies or suspect fraud without it. CON scored on breadth and downstr...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger path by showing standardized baseline data is prerequisite for any verification tool (including CON's alternatives) to function; CON never neutralized how creators can detect discrepancies or suspect fraud without it. CON scored on breadth and downstr...
   Most decisive rebuttal noted: A's R2 directly answering B's questions while reiterating that CON's tools require prior suspicion CON never explained how to obtain without baseline data.
 - **Kimi K2.5 Thinking**: CON demonstrated that the proposition is structurally misfit: it is overinclusive (mandating sharing of granular market intelligence with major rightsholders and intermediaries who can exploit it) and underinclusive (failing to address downstream opacity from labels and distri...
   Most decisive rebuttal noted: The exchange over whether the mandate helps small creators or primarily empowers major rightsholders, where CON showed that PRO's "legal interest" limitation necessarily includes major labels and publishers, neutralizing PRO's equity argument and exposing the mandate as a tool...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +2.0 | +2.13 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +2.0 | +2.13 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +3.5 | +2.80 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: A won by clarifying that platforms already define metrics unilaterally; standardization converts hidden leverage into accountable reporting without forcing uniform models. A directly answered pressure questions, neutralized distortion/capture claims via comparison to status-qu...
+- **Grok 4.20 0309 (Reasoning)**: A won by clarifying that platforms already define metrics unilaterally; standardization converts hidden leverage into accountable reporting without forcing uniform models. A directly answered pressure questions, neutralized distortion/capture claims via comparison to status-qu...
   Most decisive rebuttal noted: A's R2/A1-A2 exposing that no single field inherently distorts models (platforms already choose definitions privately) while contrasting routine disclosure vs occasional audits.
 - **Kimi K2.5 Thinking**: Side B (PRO) won by maintaining a consistent, coherent frame about information asymmetry and "who controls the meter." They successfully distinguished standardized reporting from standardized compensation models, and demonstrated that ongoing transparency is superior to occasi...
   Most decisive rebuttal noted: Side B's second rebuttal (Turn 7), which directly answered Side A's pressure questions about regulatory capture and barriers to entry, then turned the definitional debate by noting Side A could not identify a single field that could not be disclosed without changing the underl...

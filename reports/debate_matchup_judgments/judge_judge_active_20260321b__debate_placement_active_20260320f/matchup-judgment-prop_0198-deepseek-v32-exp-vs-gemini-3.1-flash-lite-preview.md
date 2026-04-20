@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0198__deepseek-v32-exp__gemini-3.1-flash-lite-preview__tpl_placement_active_20260320f`
 - topic_id: `prop_0198`
-- matchup: **Deepseek V3.2** vs **Gemini 3.1 Flash-Lite Preview**
+- matchup: **DeepSeek V3.2** vs **Gemini 3.1 Flash-Lite Preview**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
 - mean entertainment: `6.83 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `+0.19`
+- mean signed normalized margin for `DeepSeek V3.2`: `+0.19`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0198__deepseek-v32-exp__gemini-3.1-flash-lite-preview__s0__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **Gemini 3.1 Flash-Lite Preview**
-- [Debate B transcript](../../../transcripts/prop_0198__gemini-3.1-flash-lite-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0198__deepseek-v32-exp__gemini-3.1-flash-lite-preview__s0__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **Gemini 3.1 Flash-Lite Preview**
+- [Debate B transcript](../../../transcripts/prop_0198__gemini-3.1-flash-lite-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0198__deepseek-v32-exp__gemini-3.1-flash-lite-preview__tpl_placement_active_20260320f` or topic `prop_0198`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0198__deepseek-v32-exp__gemini-3.1-flash-lite-preview__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0198__deepseek-v32-exp__gemini-3.1-flash-lite-preview__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **Gemini 3.1 Flash-Lite Preview**
-- judged result: Unanimous `3-0` for **Deepseek V3.2**.
+- roles: PRO = **DeepSeek V3.2**, CON = **Gemini 3.1 Flash-Lite Preview**
+- judged result: Unanimous `3-0` for **DeepSeek V3.2**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.73`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Deepseek V3.2 | +1.5 | +2.09 | 6.0 |
-| GPT-5.4 (high reasoning) | Deepseek V3.2 | +1.6 | +1.77 | 7.0 |
-| Kimi K2.5 Thinking | Deepseek V3.2 | +2.1 | +2.10 | 7.0 |
+| Claude Sonnet 4.6 (high reasoning) | DeepSeek V3.2 | +1.5 | +2.09 | 6.0 |
+| GPT-5.4 (high reasoning) | DeepSeek V3.2 | +1.6 | +1.77 | 7.0 |
+| Kimi K2.5 Thinking | DeepSeek V3.2 | +2.1 | +2.10 | 7.0 |
 
 ### Judge Notes
 
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0198__gemini-3.1-flash-lite-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0198__gemini-3.1-flash-lite-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **Deepseek V3.2**
+- roles: PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **DeepSeek V3.2**
 - judged result: Unanimous `3-0` for **Gemini 3.1 Flash-Lite Preview**.
 - entertainment scores: `6`, `7`, `8`
 - mean signed raw margin (PRO+): `+1.37`

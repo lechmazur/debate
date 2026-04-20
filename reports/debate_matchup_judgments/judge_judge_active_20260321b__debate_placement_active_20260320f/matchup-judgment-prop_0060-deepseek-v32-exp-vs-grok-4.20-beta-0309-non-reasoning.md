@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0060__deepseek-v32-exp__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0060`
-- matchup: **Deepseek V3.2** vs **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- overall judged result (normalized): **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- overall judged result (raw): **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- matchup: **DeepSeek V3.2** vs **Grok 4.20 0309 (Non-Reasoning)**
+- overall judged result (normalized): **Grok 4.20 0309 (Non-Reasoning)**
+- overall judged result (raw): **Grok 4.20 0309 (Non-Reasoning)**
 - mean entertainment: `6.83 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `-1.07`
+- mean signed normalized margin for `DeepSeek V3.2`: `-1.07`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0060__deepseek-v32-exp__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0060__grok-4.20-beta-0309-non-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0060__deepseek-v32-exp__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **Grok 4.20 0309 (Non-Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0060__grok-4.20-beta-0309-non-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0060__deepseek-v32-exp__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f` or topic `prop_0060`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0060__deepseek-v32-exp__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0060__deepseek-v32-exp__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- judged result: Split `2-1` for **Grok 4.20 Beta 0309 (Non-Reasoning)**.
+- roles: PRO = **DeepSeek V3.2**, CON = **Grok 4.20 0309 (Non-Reasoning)**
+- judged result: Split `2-1` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `-0.33`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.4 (high reasoning) | Deepseek V3.2 | +1.4 | +1.54 | 7.0 |
-| Gemini 3.1 Pro Preview | Grok 4.20 Beta 0309 (Non-Reasoning) | -1.2 | -1.07 | 8.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Non-Reasoning) | -1.2 | -1.20 | 7.0 |
+| GPT-5.4 (high reasoning) | DeepSeek V3.2 | +1.4 | +1.54 | 7.0 |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | -1.2 | -1.07 | 8.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Non-Reasoning) | -1.2 | -1.20 | 7.0 |
 
 ### Judge Notes
 
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0060__grok-4.20-beta-0309-non-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0060__grok-4.20-beta-0309-non-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Deepseek V3.2**
-- judged result: Unanimous `3-0` for **Grok 4.20 Beta 0309 (Non-Reasoning)**.
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **DeepSeek V3.2**
+- judged result: Unanimous `3-0` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `7`, `6`, `6`
 - mean signed raw margin (PRO+): `+1.93`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.4 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.6 | +1.77 | 6.0 |
-| Gemini 3.1 Pro Preview | Grok 4.20 Beta 0309 (Non-Reasoning) | +2.6 | +2.31 | 7.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.6 | +1.60 | 6.0 |
+| GPT-5.4 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | +1.6 | +1.77 | 6.0 |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | +2.6 | +2.31 | 7.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Non-Reasoning) | +1.6 | +1.60 | 6.0 |
 
 ### Judge Notes
 

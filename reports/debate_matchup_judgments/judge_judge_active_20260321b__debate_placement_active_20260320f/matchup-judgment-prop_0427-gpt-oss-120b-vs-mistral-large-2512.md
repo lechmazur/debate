@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-OSS-120B | +2.0 | +2.13 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-OSS-120B | +2.0 | +2.13 | 6.0 |
 | Kimi K2.5 Thinking | GPT-OSS-120B | +2.0 | +2.00 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-OSS-120B | +2.0 | +1.60 | 5.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A maintained a consistent, comparative case that in-person programs deliver embodied practice, durable bonds, and measurable cost savings on violence and isolation that literacy campaigns cannot match; Side B raised fair accessibility objections but lost ground through in...
+- **Grok 4.20 0309 (Reasoning)**: Side A maintained a consistent, comparative case that in-person programs deliver embodied practice, durable bonds, and measurable cost savings on violence and isolation that literacy campaigns cannot match; Side B raised fair accessibility objections but lost ground through in...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answered B's pressure on skill transfer and access, then crystallized why supervised rehearsal outperforms one-off digital modules on the proposition's core metrics.
 - **Kimi K2.5 Thinking**: Side A wins decisively on the durability of effects and the mechanism for reducing physical violence. While Side B effectively argued for the scalability and inclusivity of digital literacy for certain marginalized groups, they suffered a critical contradiction between their R...
   Most decisive rebuttal noted: Side B's concession in Rebuttal 2 [B4.4] that in-person skills persist ("don't unlearn conflict resolution when the program ends"), which contradicted their earlier "displacement" theory and undermined their core attack on program durability.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-OSS-120B | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-OSS-120B | -1.5 | -1.60 | 6.0 |
 | Kimi K2.5 Thinking | GPT-OSS-120B | -1.8 | -1.80 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-OSS-120B | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins on cleaner comparative weighing of scale, equity and opportunity cost; these neutralize PRO's depth claims as live policy route. A relies on ungrounded specifics (cities, 20-30% drops) violating evidence rules and fails to resolve reach burdens; multiple clipped tu...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins on cleaner comparative weighing of scale, equity and opportunity cost; these neutralize PRO's depth claims as live policy route. A relies on ungrounded specifics (cities, 20-30% drops) violating evidence rules and fails to resolve reach burdens; multiple clipped tu...
   Most decisive rebuttal noted: B4's A1 directly attributes outcome gaps to confounders (poverty, policing) rather than literacy failure, collapsing A's pressure on rising rates.
 - **Kimi K2.5 Thinking**: CON won by demonstrating that scalability, equity, and cost-effectiveness are decisive criteria for public health interventions. While PRO effectively framed youth programs as "offensive" solutions that build real community versus the "defensive" nature of literacy campaigns,...
   Most decisive rebuttal noted: CON's quantification in B4.3 that even aggressively expanded municipal sports leagues reach "well under 1%" of the at-risk pool, which decisively undermined PRO's claim that such programs could achieve meaningful universal impact and exposed the scalability ceiling that PRO's...

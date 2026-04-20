@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.3 | +1.43 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.1 | +1.17 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.1 | +1.17 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s most decisive rebuttal was that B’s alternatives still require forecasting targets and mainly fund possibilities rather than an approved antibiotic, so uncertainty is not a unique indictment of AMCs and does not justify refusing to permit them.
 - **Gemini 3.1 Pro Preview**: Side B won by establishing a strong, unrefuted structural rationale for AMCs (the reserve logic) and systematically neutralizing Side A's offense. B effectively demonstrated that A's proposed alternatives suffer from the exact same prediction vulnerabilities that A used to att...
   Most decisive rebuttal noted: Side B's second rebuttal, which pointed out that every alternative Side A endorsed (prizes, milestones) also requires predicting resistance targets, decisively collapsing Side A's main differentiating argument.
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO built the clearer path by showing AMCs fix the specific market failure (reserve-use revenue collapse) and produce approved drugs where alternatives only offer possibilities; CON's uncertainty critique was neutralized by the point that prediction problems affect every tool...
+- **Grok 4.20 0309 (Reasoning)**: PRO built the clearer path by showing AMCs fix the specific market failure (reserve-use revenue collapse) and produce approved drugs where alternatives only offer possibilities; CON's uncertainty critique was neutralized by the point that prediction problems affect every tool...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions while exposing CON's selective application of "prediction is fatal" to AMCs but not prizes/direct funding.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.6 | -1.77 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.1 | -1.17 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.1 | -1.17 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Most decisive was B’s repeated turn that A’s own case only works if delinkage and access safeguards are built in, while the motion merely permits high-priced AMCs without mandating them.
 - **Gemini 3.1 Pro Preview**: Side A won by maintaining strict textual discipline regarding the motion's "high unit prices" clause. A successfully proved that B's defense relied on ideal safeguards (delinkage, upfront prizes) that contradicted the per-unit wording of the prompt, and A effectively framed B'...
   Most decisive rebuttal noted: Side A's Rebuttal 2 systematically categorizing B's answers as deferrals ("We can fix that later", "Separate problem", "Unproven") to demonstrate that B was advocating for a blank check without structural safeguards.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by repeatedly sharpening the motion "as written," showing PRO kept defending idealized AMCs with delinkage and safeguards the text does not require. A's rebuttals converted PRO's "can and should" language into concessions; PRO's "fix it later" answers failed to neut...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by repeatedly sharpening the motion "as written," showing PRO kept defending idealized AMCs with delinkage and safeguards the text does not require. A's rebuttals converted PRO's "can and should" language into concessions; PRO's "fix it later" answers failed to neut...
   Most decisive rebuttal noted: A's Rebuttal 1 and A1 in Rebuttal 2, which framed PRO as shadowboxing a better motion than the one on the table.

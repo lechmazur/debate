@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | -1.8 | -1.60 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.92 | 7.0 |
 | MiniMax-M2.7 | GPT-5.4 (no reasoning) | -0.7 | -0.93 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins by drawing a sharp, durable distinction between supporting people (basic services) and subsidizing places (economic viability). Side B relies heavily on the tactical claim that Side A's support for rural welfare concedes the motion, but Side A systematically disman...
   Most decisive rebuttal noted: Side A's Rebuttal 1 decisively decouples basic welfare provision from the proposition's mandate of ensuring local "economic viability," effectively neutralizing Side B's primary offensive strategy.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by maintaining the key distinction between welfare support and place-preservation while showing CON's concessions on services and selective investment effectively accepted "doing more" under the motion; B answered pressure questions directly and framed the status quo as...
+- **Grok 4.20 0309 (Reasoning)**: B won by maintaining the key distinction between welfare support and place-preservation while showing CON's concessions on services and selective investment effectively accepted "doing more" under the motion; B answered pressure questions directly and framed the status quo as...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions with A1/A2 and reframed the clash as choosing which geographic pattern to incentivize rather than intervention vs laissez-faire.
 - **MiniMax-M2.7**: CON maintained a principled distinction between welfare provision for people versus economic preservation of places throughout the debate, and this distinction held up under pressure. PRO's central rebuttal—that CON's endorsement of services like broadband and clinics constitu...
   Most decisive rebuttal noted: CON's response in Rebuttal 2 (A4.1-4.2) directly answered PRO's pressure questions with a principled line: support people's access to decent lives without promising every place a self-sustaining economy. This maintained the core distinction—welfare versus place-preservation—th...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | -2.2 | -1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 6.0 |
 | MiniMax-M2.7 | Claude Sonnet 4.6 (high reasoning) | -1.5 | -2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A won by making a brilliant conceptual distinction between funding person-centered services (which A supports) and subsidizing place-based economic structures (which A opposes). Side B struggled to prove that the latter is historically achievable, and A effectively charac...
   Most decisive rebuttal noted: Side A's second rebuttal cleanly neutralized Side B's emotional appeals by distinguishing between abandoning people and abandoning local commercial structures, exposing Side B's conflation of the two.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by consistently clarifying and defending the people-vs-places distinction, pressing PRO on vague thresholds/costs, and showing past place-based efforts underperform while person-centered alternatives are more efficient. B's viability reframe was sharp but never ful...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by consistently clarifying and defending the people-vs-places distinction, pressing PRO on vague thresholds/costs, and showing past place-based efforts underperform while person-centered alternatives are more efficient. B's viability reframe was sharp but never ful...
   Most decisive rebuttal noted: A's Rebuttal 1 and 2 directly collapsed PRO's viability/services conflation, answering pressure questions cleanly while reinforcing that PRO must win both services and sustained economic structure (which evidence suggests it cannot).
 - **MiniMax-M2.7**: Side A (CON) won the debate's most decisive analytical distinction and held it throughout. Their core argument—that "keeping services accessible to people" and "sustaining the economic viability of places as places" are genuinely different policy goals carrying different costs...
   Most decisive rebuttal noted: Side A's A2.2 in Rebuttal 1: "Conflating 'keep services accessible to people' with 'maintain economic viability as places' is precisely PRO's core error, and they have been running that confusion since the opening." This cleanly crystallized the central distinction that Side B...

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by showing status-quo externalities impose uncompensated harm on the poor and that imperfect pricing plus rebates beats inaction; A raised precision and regressivity concerns but never neutralized the comparative weighing or explained why targeted rules would succeed whe...
+- **Grok 4.20 0309 (Reasoning)**: B won by showing status-quo externalities impose uncompensated harm on the poor and that imperfect pricing plus rebates beats inaction; A raised precision and regressivity concerns but never neutralized the comparative weighing or explained why targeted rules would succeed whe...
   Most decisive rebuttal noted: B4's A1/A2 answers reframing rebates as normal fiscal policy and contrasting visible revenue with status-quo invisible costs on poor communities.
 - **Kimi K2.5 Thinking**: PRO successfully defended the motion by framing the choice as between visible price pain with compensatory revenue versus invisible environmental and health costs that poor households already bear uncompensated under the status quo. CON's calculability objections were adequate...
   Most decisive rebuttal noted: PRO's second rebuttal (B4) establishing the asymmetry that poor communities currently absorb meat's externalities through climate damage and health costs with zero compensation, whereas the proposed tax generates revenue that can be returned, making the status quo more regress...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.8 | +1.92 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +2.0 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the stronger path by consistently framing the choice as honest pricing plus targeted aid versus hidden regressive costs that poor households pay through health, pollution, and taxes. Side A’s regulation alternative was damaged by conceding residual externalities r...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the stronger path by consistently framing the choice as honest pricing plus targeted aid versus hidden regressive costs that poor households pay through health, pollution, and taxes. Side A’s regulation alternative was damaged by conceding residual externalities r...
   Most decisive rebuttal noted: B’s Rebuttal 2 directly took CON’s government-competence distinction (regulation easy, transfers hard) and flipped it, showing regulation also requires competent agencies while leaving the price-distortion subsidy intact; B’s closing crystallized the residual-cost concession.
 - **Kimi K2.5 Thinking**: CON wins by demonstrating that PRO's case requires an implausible chain of implementation successes—complex differentiated tax rates, accurate externality calculations, and flawless compensatory transfers—while historical evidence shows governments reliably fail at redistribut...
   Most decisive rebuttal noted: CON's answer to PRO's pressure question Q2 (Turn 8, A4.3-A4.4), distinguishing between the binary, auditable nature of production regulation versus the complex, means-tested administrative burden of redistribution, supported by historical examples like the UK sugar levy where...

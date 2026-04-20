@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.3 | +1.39 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.3 | +1.39 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by exposing and maintaining the central contradiction in B's case: widespread evasion cannot coexist with crippling shortages. B's "uneven absorption" reply concedes reduction in formal unauthorized employment while labor markets adjust via wages and existing channe...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by exposing and maintaining the central contradiction in B's case: widespread evasion cannot coexist with crippling shortages. B's "uneven absorption" reply concedes reduction in formal unauthorized employment while labor markets adjust via wages and existing channe...
   Most decisive rebuttal noted: A's Rebuttal 1 on the mutual undercutting of B's evasion vs. shortage claims, carried through closing.
 - **Kimi K2.5 Thinking**: Side A wins by successfully grounding the debate in state-level precedent and reframing Side B's "uneven absorption" theory as a description of the proposition being true—formal unauthorized employment meaningfully falls while markets adjust. Side B offered a sophisticated the...
   Most decisive rebuttal noted: Side A's Closing [A5.2] capturing that Side B's resolution of the "evasion vs. shortages" contradiction—"uneven absorption" where workers move to shadow channels—actually concedes that formal unauthorized employment meaningfully declines, which satisfies the proposition's burden.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A constructed the clearer path to the proposition by showing cumulative reduction via universal new-hire screening plus turnover, while distinguishing why evasion and pre-screening are narrower and less scalable than claimed; B's "all three must hold" and late contradicti...
+- **Grok 4.20 0309 (Reasoning)**: Side A constructed the clearer path to the proposition by showing cumulative reduction via universal new-hire screening plus turnover, while distinguishing why evasion and pre-screening are narrower and less scalable than claimed; B's "all three must hold" and late contradicti...
   Most decisive rebuttal noted: A's R2 cleanly separated "hard to replace at current wages" from "large persistent nationwide shortage" while showing pre-hire avoidance is not the path of least resistance, blunting B's pressure and contradiction.
 - **Kimi K2.5 Thinking**: CON successfully undermined the proposition's three-part burden by demonstrating that mandatory E-Verify would likely cause a large increase in discrimination through rational employer pre-screening of applicants vulnerable to tentative nonconfirmations. CON's framing of an in...
   Most decisive rebuttal noted: CON's exposure of PRO's internal contradiction regarding enforcement risk (B4.4, B5.1-B5.3), showing PRO could not consistently argue that distant legal risk would deter employer restructuring while also claiming it would deter pre-hire discrimination.

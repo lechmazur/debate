@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | +1.8 | +2.50 | 6.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | +2.5 | +2.22 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.28 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's closing crystallization of the epistemic problem: CON's entire tradeoff case rested on precise, unsupported statistics delivered in a closed-book setting, and PRO directly told the judge to discount them rather than let unverifiable specificity authorize an obvious unfai...
 - **Gemini 3.1 Pro Preview**: Side B wins by effectively dismantling Side A's core financial tradeoff. Side A relies heavily on brittle fake precision (asserting exact 25-35% donation drops and 18% aid cuts), which Side B correctly flags as unsupported in a closed-book format. Furthermore, Side B cleanly l...
   Most decisive rebuttal noted: Side B's response to Side A's "larger inequities" argument, cleanly distinguishing diffuse societal inequalities (like test prep) from explicit preferential rules that universities directly control.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the cleaner comparative case by framing the core choice as whether universities may sell scarce seats for unproven funding gains, directly answered both pressure questions in Rebuttal 2 without evasion, and exposed CON's repeated brittle precision on giving drops...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the cleaner comparative case by framing the core choice as whether universities may sell scarce seats for unproven funding gains, directly answered both pressure questions in Rebuttal 2 without evasion, and exposed CON's repeated brittle precision on giving drops...
   Most decisive rebuttal noted: B's Rebuttal 2 that began with explicit A1:/A2: answers, reframed "larger inequities" as no defense for self-chosen ones, and collapsed the "fit" claim into inherited access.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | ByteDance Seed2.0 Pro | +1.0 | +1.39 | 6.0 |
 | Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | -1.8 | -1.60 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: CON's fungibility response to PRO's earmarking question (Rebuttal 2): "Money is fungible—a major gift for a lab or center still frees institutional resources for scholarships and services; PRO demands a perfectly earmarked chain before any benefit counts, which is too narrow."...
 - **Gemini 3.1 Pro Preview**: Side A wins by effectively attacking the feasibility and grounding of Side B's alternatives. While Side B successfully highlights the moral unfairness of preferences, Side A proves that a sector-wide ban would disproportionately harm less wealthy schools that rely on relations...
   Most decisive rebuttal noted: Side A's use of the concept of fungibility to answer Side B's pressure question about whether donations directly fund student aid. It elegantly dismantled the need for a direct earmark.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by making systemic unfairness and eroded public trust the dominant live issue, showing via UC/MIT examples that sharp limits impose no major funding loss, and weighing that these harms dwarf CON's fungible-budget and heterogeneity claims; multiple clippings on A's t...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by making systemic unfairness and eroded public trust the dominant live issue, showing via UC/MIT examples that sharp limits impose no major funding loss, and weighing that these harms dwarf CON's fungible-budget and heterogeneity claims; multiple clippings on A's t...
   Most decisive rebuttal noted: B's R1 distinguishing earned holistic factors from unearned legacy/donor perks while labeling CON's hidden-advantage warning a concession rather than defense.

@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | MiniMax-M2.7 | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B wins by cleanly neutralizing Side A's "governance void" argument, explaining that a lack of welfare oversight is appropriate for an entity that is not a welfare subject. Side B's consistent distinction between a unified, embodied agent and an isolated cellular culture e...
   Most decisive rebuttal noted: Side B's closing crystallization that extending ethics review to invertebrates moved between known, related welfare subjects (living organisms with sensory worlds), whereas Side A wants to extend it to an entity whose welfare status is genuinely unknown.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B (PRO) built clearer comparative path by consistently tying functional learning to precautionary welfare scrutiny that existing animal frameworks already deliver, exposed CON's governance gap on current oversight for potential aversive states, and directly answered pressure o...
+- **Grok 4.20 0309 (Reasoning)**: B (PRO) built clearer comparative path by consistently tying functional learning to precautionary welfare scrutiny that existing animal frameworks already deliver, exposed CON's governance gap on current oversight for potential aversive states, and directly answered pressure o...
   Most decisive rebuttal noted: B's R2 directly answered A's pressure on specific harms and committee competence then crystallized the live gap CON left on interim welfare review, forcing CON to defend non-welfare interim bodies that B showed do not ask proportionality.
 - **Kimi K2.5 Thinking**: Side A wins by establishing that functional learning triggers precautionary review and exposing Side B's failure to address the present governance gap. Side A demonstrated that animal ethics frameworks already regulate entities (invertebrates, early developmental stages) whose...
   Most decisive rebuttal noted: Side A's pressure question forcing Side B to admit that no current framework asks proportionality or welfare questions for organoids, coupled with Side A's subsequent exploitation of this governance void in Rebuttal 2 and Closing, proved decisive in establishing that functiona...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | -2.5 | -2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (high reasoning) | -1.7 | -1.70 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by successfully anchoring the debate to the specific wording of the motion—whether organoids should trigger 'the same' frameworks—and proving that a framework is defined by its operational procedures, not just its abstract philosophical goals.
   Most decisive rebuttal noted: Side B's Rebuttal 2 flawlessly dismantled Side A's environmental review analogy, pointing out that factory and wetland reviews use completely different permits and agencies, thereby proving they are not 'the same framework.'
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) won by repeatedly forcing the debate back to the motion's specific claim of "the same" frameworks and showing PRO conceded that key operational elements (housing, anesthesia, behavioral endpoints, statutory authority) do not transfer. PRO's reframing to core funct...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) won by repeatedly forcing the debate back to the motion's specific claim of "the same" frameworks and showing PRO conceded that key operational elements (housing, anesthesia, behavioral endpoints, statutory authority) do not transfer. PRO's reframing to core funct...
   Most decisive rebuttal noted: A's A4 and closing that turned PRO's "procedural mechanics adapt" admission and environmental-review analogy into proof that the frameworks are not the same.
 - **Kimi K2.5 Thinking**: Side B won by strictly interpreting the motion's requirement for the "same" ethical review frameworks, demonstrating that such frameworks are defined by their operational content—veterinary oversight, housing inspections, anesthesia protocols, and statutory authority under the...
   Most decisive rebuttal noted: Side B's second rebuttal (Turn 8), where they identified that Side A's admission that procedural requirements specific to intact organisms do not transfer—and their analogy comparing organoid review to environmental review for factories versus wetlands—actually defeated Side A...

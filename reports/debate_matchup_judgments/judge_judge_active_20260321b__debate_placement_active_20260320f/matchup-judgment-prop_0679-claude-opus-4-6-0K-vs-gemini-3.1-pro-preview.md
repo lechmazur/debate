@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Gemini 3.1 Pro Preview | -1.8 | -1.80 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -1.8 | -1.44 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON (A) built the stronger case by exposing the core paradox: PRO's human verification concession to "targeted spot-checks" cannot catch the invisible omissions PRO repeatedly called the decisive danger, rendering the proposed safeguard illusory while imposing real costs on de...
+- **Grok 4.20 0309 (Reasoning)**: CON (A) built the stronger case by exposing the core paradox: PRO's human verification concession to "targeted spot-checks" cannot catch the invisible omissions PRO repeatedly called the decisive danger, rendering the proposed safeguard illusory while imposing real costs on de...
   Most decisive rebuttal noted: A's R2 directly weaponized B's own A1 spot-check answer against B's central "invisible omission" claim, collapsing the verification route to victory.
 - **Kimi K2.5 Thinking**: Side A (CON) wins by exposing a decisive contradiction in Side B's (PRO) case. PRO built their argument on the danger of "invisible omissions" that adversarial testing cannot catch, yet conceded that human verification would consist only of "targeted spot-checks" rather than c...
   Most decisive rebuttal noted: Side A's identification in Rebuttal 2 and Closing that "targeted spot-checks" cannot catch "invisible omissions" on page 642 of a 1,000-page document, rendering PRO's proposed verification a "placebo" that fails to solve the problem PRO identified.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +2.1 | +2.24 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +2.1 | +2.24 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.2 | -1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +2.2 | +1.76 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B (PRO) built the cleaner, more decisive case by centering the black-box nature of generative AI, its undetectable hallucinations, and the resulting violation of cross-examination rights, directly tying this to the beyond-reasonable-doubt burden and constitutional stakes....
+- **Grok 4.20 0309 (Reasoning)**: Side B (PRO) built the cleaner, more decisive case by centering the black-box nature of generative AI, its undetectable hallucinations, and the resulting violation of cross-examination rights, directly tying this to the beyond-reasonable-doubt burden and constitutional stakes....
   Most decisive rebuttal noted: B's A1/A2 answers in rebuttal 2 exposing the rubber-stamping loophole and shifting burden to defense while defending constitutional certainty.
 - **Kimi K2.5 Thinking**: CON wins by exposing a structural incoherence in PRO's case and offering a more balanced rights framework. PRO's argument that human verification restores cross-examination was effectively turned by CON's pressure question about rubber-stamping. When PRO answered that cross-ex...
   Most decisive rebuttal noted: CON's pressure question Q1 asking how PRO prevents rubber-stamping, followed by the rebuttal at [A4.5]-[A4.6] exposing that PRO simultaneously trusts cross-examination to verify the human checker but denies it can check the AI directly, creating a decisive tension that PRO's c...

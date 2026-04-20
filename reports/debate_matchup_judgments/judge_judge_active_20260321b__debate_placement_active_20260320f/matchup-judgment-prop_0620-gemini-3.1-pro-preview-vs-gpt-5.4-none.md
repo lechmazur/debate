@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (no reasoning) | -1.0 | -1.00 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clarifying the decisive burden-of-proof clash: extraction must be justified ex ante because post-collection regulation of shadow brokers is unenforceable. B directly answered A's limiting-principle pressure with a workable internal-vs-external distinction, flippe...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clarifying the decisive burden-of-proof clash: extraction must be justified ex ante because post-collection regulation of shadow brokers is unenforceable. B directly answered A's limiting-principle pressure with a workable internal-vs-external distinction, flippe...
   Most decisive rebuttal noted: B's Rebuttal 2 (A1/A2 format) neutralized the limiting-principle questions while labeling CON's consent skepticism as paternalism, collapsing A's core route to victory on regulatory nuance.
 - **Kimi K2.5 Thinking**: Side A (CON) wins by exposing a fatal overbreadth in the motion that Side B (PRO) could not resolve. PRO successfully established harms from covert surveillance and the practical impossibility of policing shadow brokers post-collection, but their case relied on treating "large...
   Most decisive rebuttal noted: Side A’s rebuttal in Turn 8 [A4.4] and crystallization in the Closing [A5.1-A5.3] that PRO never defended the motion as written, instead continually narrowing "large-scale harvesting" to the worst cases of cross-site surveillance while the actual proposition sweeps in legitima...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Gemini 3.1 Pro Preview | -1.2 | -1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -2.0 | -1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by keeping the core clash on meaningful ex-ante consent versus irreversible extraction; they directly answered the monopoly/paywall pressures, reframed "free" as subsidized by uncompensated privacy loss, and showed why downstream misuse rules fail once dossiers exis...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by keeping the core clash on meaningful ex-ante consent versus irreversible extraction; they directly answered the monopoly/paywall pressures, reframed "free" as subsidized by uncompensated privacy loss, and showed why downstream misuse rules fail once dossiers exis...
   Most decisive rebuttal noted: B's R2 A1/A2 directly took A's monopoly and paywall questions, conceded large platforms' first-party edge but pivoted it into an argument for broader limits rather than preserving third-party tracking, collapsing A's "entrenchment" route.
 - **Kimi K2.5 Thinking**: CON (Side A) wins by demonstrating that PRO's presumptive ban causes severe, regressive collateral damage that PRO fails to resolve. CON effectively leverages PRO's concession that massive platforms would "obtain more consent" [B4.1] to show the policy would entrench monopolie...
   Most decisive rebuttal noted: CON's second rebuttal (Turn 8), which crystallized the monopoly problem by highlighting PRO's concession that platforms would secure more consent, and framed the choice as an elitist trade-off forcing lower-income users to "pay" with money instead of privacy, effectively neutr...

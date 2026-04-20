@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | -1.2 | -0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO built the stronger comparative case by framing lock-in as a "fee on inertia" that concedes value depends on consumer friction rather than worth, then narrowed the ask in Rebuttal 2 (pause/drop without losing rates, component-level only) to directly answer B's pressure whil...
+- **Grok 4.20 0309 (Reasoning)**: PRO built the stronger comparative case by framing lock-in as a "fee on inertia" that concedes value depends on consumer friction rather than worth, then narrowed the ask in Rebuttal 2 (pause/drop without losing rates, component-level only) to directly answer B's pressure whil...
   Most decisive rebuttal noted: PRO's A1/A2 in Rebuttal 2 reframing cross-subsidy as provider revenue protection rather than consumer benefit, directly answering both pressure questions and collapsing CON's budget-household claim.
 - **Kimi K2.5 Thinking**: Side B (PRO) won by successfully narrowing the proposition in Rebuttal 2 to a bounded, specific flexibility (pausing up to two months without rate forfeiture, dropping add-ons without full cancellation) rather than defending full à la carte atomization. This move defeated Side...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 7), where they defined the specific reconfiguration rights (2-month pause window, tier-level splitting) and conceded that tier prices might rise honestly, showing that paying only for seasonal use is fairer than forcing year-round subsidies, effective...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | +1.4 | +1.40 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (high reasoning) | +2.0 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON built the stronger comparative case on cross-subsidy mechanics and content financing stability; distinguished single-service vs bundle churn, answered pressures directly with interdependence and reasonable-effort line, and showed PRO's flexibility reform leads to higher pr...
+- **Grok 4.20 0309 (Reasoning)**: CON built the stronger comparative case on cross-subsidy mechanics and content financing stability; distinguished single-service vs bundle churn, answered pressures directly with interdependence and reasonable-effort line, and showed PRO's flexibility reform leads to higher pr...
   Most decisive rebuttal noted: B's Rebuttal 2 distinction in A1 between single-service churn and bundle fragmentation directly damaged PRO's "already flexible" consistency claim.
 - **Kimi K2.5 Thinking**: Side B wins by demonstrating that bundle economics can survive on transparent annual discounts rather than friction-based opacity, while Side A's prediction of industry destabilization relies on conflating convenient monthly reconfiguration with the abolition of cross-subsidie...
   Most decisive rebuttal noted: Side A's "structural interdependence" argument distinguishing bundle fragmentation from standalone cancellation (A4.1-A4.2), countered by Side B's reframing that this merely rebrands dependency on consumer inertia (B4.1-B4.3).

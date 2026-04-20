@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.3 | +1.30 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.44 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built clearer comparative weighing by showing CON's selective licensing and revocation-after-compromise admission actually support stricter regulation and prevention over late leverage; B's rerouting claims were materially damaged while live burdens on partner capacity...
+- **Grok 4.20 0309 (Reasoning)**: Side A built clearer comparative weighing by showing CON's selective licensing and revocation-after-compromise admission actually support stricter regulation and prevention over late leverage; B's rerouting claims were materially damaged while live burdens on partner capacity...
   Most decisive rebuttal noted: A's [A4.5] use of B's own "revocation usually comes after compromise" concession to flip the leverage argument into support for structural prevention.
 - **Kimi K2.5 Thinking**: PRO won by exposing a decisive tension in CON's case: CON argued for relying on "governed markets" and post-sale leverage to control abuse, yet conceded that "revocation usually comes after compromise, not before." PRO successfully framed this as "cleanup versus prevention," s...
   Most decisive rebuttal noted: PRO's response at [B4.5] leveraging CON's admission at [A2.5] that revocation "usually comes after compromise, not before," thereby recharacterizing CON's "governed market" leverage as post-hoc cleanup rather than prevention.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -1.2 | -0.96 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins on the live substitution and net-ledger clash: PRO never neutralized that stricter Western rules mostly relocate abuse to unaccountable vendors while losing leverage and allied intel options, leaving overall security worse; format clips hurt A more in key rebuttals.
+- **Grok 4.20 0309 (Reasoning)**: B wins on the live substitution and net-ledger clash: PRO never neutralized that stricter Western rules mostly relocate abuse to unaccountable vendors while losing leverage and allied intel options, leaving overall security worse; format clips hurt A more in key rebuttals.
   Most decisive rebuttal noted: B2 directly damaged PRO's "prevention" claim by showing relocation removes visibility without reducing abuse, preserving the core burden PRO failed to close.
 - **Kimi K2.5 Thinking**: Side A (CON) wins by exposing a decisive gap in Side B's (PRO) causal mechanism. While PRO effectively catalogued the dangers of commercial spyware blowback, they conceded that strict export controls would drive demand to unregulated vendors—a substitution problem that CON sho...
   Most decisive rebuttal noted: The exchange over "market shrinkage vs. market relocation" in Rebuttal 1 and Rebuttal 2. CON's framing that PRO's policy merely changes the vendor from "accountable Western" to "unaccountable offshore"—preserving the abuse while eliminating visibility—directly collapsed PRO's...

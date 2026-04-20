@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0278__deepseek-v32-exp__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f`
 - topic_id: `prop_0278`
-- matchup: **Deepseek V3.2** vs **Grok 4.20 Beta 0309 (Reasoning)**
+- matchup: **DeepSeek V3.2** vs **Grok 4.20 0309 (Reasoning)**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.17 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `+0.03`
+- mean signed normalized margin for `DeepSeek V3.2`: `+0.03`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0278__deepseek-v32-exp__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0278__grok-4.20-beta-0309-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0278__deepseek-v32-exp__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **Grok 4.20 0309 (Reasoning)**
+- [Debate B transcript](../../../transcripts/prop_0278__grok-4.20-beta-0309-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0278__deepseek-v32-exp__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f` or topic `prop_0278`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0278__deepseek-v32-exp__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0278__deepseek-v32-exp__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
-- judged result: Split `2-1` for **Deepseek V3.2**.
+- roles: PRO = **DeepSeek V3.2**, CON = **Grok 4.20 0309 (Reasoning)**
+- judged result: Split `2-1` for **DeepSeek V3.2**.
 - entertainment scores: `7`, `6`, `8`
 - mean signed raw margin (PRO+): `+0.23`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Deepseek V3.2 | +1.0 | +1.39 | 7.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Reasoning) | -1.5 | -1.50 | 6.0 |
-| Qwen3.5-397B-A17B | Deepseek V3.2 | +1.2 | +0.96 | 8.0 |
+| Claude Sonnet 4.6 (high reasoning) | DeepSeek V3.2 | +1.0 | +1.39 | 7.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Reasoning) | -1.5 | -1.50 | 6.0 |
+| Qwen3.5-397B-A17B | DeepSeek V3.2 | +1.2 | +0.96 | 8.0 |
 
 ### Judge Notes
 
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0278__grok-4.20-beta-0309-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0278__grok-4.20-beta-0309-reasoning__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Deepseek V3.2**
-- judged result: Split `2-1` for **Grok 4.20 Beta 0309 (Reasoning)**.
+- roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **DeepSeek V3.2**
+- judged result: Split `2-1` for **Grok 4.20 0309 (Reasoning)**.
 - entertainment scores: `6`, `8`, `8`
 - mean signed raw margin (PRO+): `+0.17`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 Beta 0309 (Reasoning) | +1.0 | +1.39 | 6.0 |
-| Kimi K2.5 Thinking | Deepseek V3.2 | -1.5 | -1.50 | 8.0 |
-| Qwen3.5-397B-A17B | Grok 4.20 Beta 0309 (Reasoning) | +1.0 | +0.80 | 8.0 |
+| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 0309 (Reasoning) | +1.0 | +1.39 | 6.0 |
+| Kimi K2.5 Thinking | DeepSeek V3.2 | -1.5 | -1.50 | 8.0 |
+| Qwen3.5-397B-A17B | Grok 4.20 0309 (Reasoning) | +1.0 | +0.80 | 8.0 |
 
 ### Judge Notes
 

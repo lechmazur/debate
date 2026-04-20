@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +1.7 | +1.81 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +1.7 | +1.81 | 6.0 |
 | MiniMax-M2.7 | GLM-5 | +2.0 | +2.67 | 6.0 |
 | Qwen3.5-397B-A17B | GLM-5 | +0.5 | +0.40 | 5.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins by pinning CON on the core proposition: CON explicitly conceded they would keep degree requirements even with zero performance difference (A4.3, B4.1), accepting arbitrary exclusion for hiring convenience. This neutralized CON's signal/efficiency arguments and crystalli...
+- **Grok 4.20 0309 (Reasoning)**: A wins by pinning CON on the core proposition: CON explicitly conceded they would keep degree requirements even with zero performance difference (A4.3, B4.1), accepting arbitrary exclusion for hiring convenience. This neutralized CON's signal/efficiency arguments and crystalli...
   Most decisive rebuttal noted: A's pressure Q1 exposed the key burden; CON's "yes" answer (B4.1) let A land the fatal concession in closing (A5.1), making the comparative case decisive.
 - **MiniMax-M2.7**: PRO (Side B) won because CON (Side A) made a fatal concession under pressure and could not recover. PRO's Turn 5 questions exposed a critical vulnerability: CON defended keeping degree requirements even where data showed zero performance difference between degree-holders and n...
   Most decisive rebuttal noted: PRO's Turn 5 pressure question—"if data showed zero performance difference, would you still defend the requirement?"—directly forced CON into a corner. CON's Turn 8 answer (yes, because screening efficiency justifies it) was honest but fatal: it reframed the debate from "degre...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Xiaomi MiMo V2 Pro | +1.2 | +1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Xiaomi MiMo V2 Pro | +1.2 | +1.28 | 6.0 |
 | MiniMax-M2.7 | Xiaomi MiMo V2 Pro | +1.5 | +2.00 | 7.0 |
 | Qwen3.5-397B-A17B | Xiaomi MiMo V2 Pro | +3.0 | +2.40 | 6.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins due to B's complete opening failure (rate-limit error), allowing A's meritocracy and direct-assessment case to stand unchallenged initially. B mounted a strong reactive defense on signaling, small-employer realities, and network bias replacing degrees, but A direct...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins due to B's complete opening failure (rate-limit error), allowing A's meritocracy and direct-assessment case to stand unchallenged initially. B mounted a strong reactive defense on signaling, small-employer realities, and network bias replacing degrees, but A direct...
   Most decisive rebuttal noted: B4's direct A1/A2 responses on assessment costs and subjectivity damaging disadvantaged applicants, though A4 attempted to counter on alternatives.
 - **MiniMax-M2.7**: Side B won on consistent execution and framing control across all five rounds. The decisive factor was Side A's catastrophic opening failure (Turn 2: 6 words due to rate limit), which left Side B's opening case largely unchallenged for the first substantial exchange. Although...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (B4.3-B4.5) best crystallized the central clash: "You rely on an inefficient proxy for quality, while I advocate for measuring quality directly. Your defense of the degree as a 'practical screening mechanism' is a defense of inherited privilege disguised as...

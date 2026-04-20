@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +1.8 | +2.50 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +4.2 | +3.73 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +2.1 | +2.24 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +2.1 | +2.24 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's exploitation of CON's self-contradiction was the decisive exchange. CON had already conceded [A2.1] that public metrics measure contagiousness rather than truth, while CON's own opening called them a "compass" for credibility [A1.1]. PRO named this tension explicitly in...
 - **Gemini 3.1 Pro Preview**: Side B wins decisively because Side A suffered from severe persona hallucination, explicitly attacking its own case and arguing for the PRO side in both its Pressure Questions and Closing speech. Side B remained consistent, capitalized on Side A's fatal self-contradictions, an...
   Most decisive rebuttal noted: Side B's Rebuttal 2, which seamlessly leveraged Side A's suicidal pressure questions to highlight the fatal contradiction in CON's "compass" analogy.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins by exposing the fatal concession that metrics measure contagiousness not truth, collapsing A's compass claim; B better weighs psych harm to vulnerable users against minor opt-in costs for pros, adapts cleanly, and avoids execution penalties from multiple clippings that...
+- **Grok 4.20 0309 (Reasoning)**: B wins by exposing the fatal concession that metrics measure contagiousness not truth, collapsing A's compass claim; B better weighs psych harm to vulnerable users against minor opt-in costs for pros, adapts cleanly, and avoids execution penalties from multiple clippings that...
   Most decisive rebuttal noted: B's Rebuttal 2 directly leverages A's own "contagiousness, not truth" line to destroy the credibility signal, then answers pressure by showing private dashboards suffice for pros.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | -1.2 | -1.67 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.2 | -1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.2 | -1.28 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: CON's Rebuttal 1 move at [A2.3]—distinguishing the speedometer from the engine—was the decisive exchange. PRO argued that visible metrics drive the outrage machine; CON responded that the outrage machine is powered by algorithmic amplification, not by the numbers themselves, a...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully arguing that hiding metrics addresses the symptom rather than the disease (the algorithm), and deprives users of crucial social proof. Side A's 'speedometer' analogy effectively neutralized B's claims about curbing sensationalism, while A's point tha...
   Most decisive rebuttal noted: A's argument that hiding metrics removes the 'speedometer from a runaway train' and replaces a fluid meritocracy with a rigid hierarchy of follower counts.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) built the cleaner comparative case: visible metrics supply democratic social-proof signals that help unknowns surface and let users assess credibility, while hiding them by default merely shifts reliance to worse static hierarchies (followers, badges) without fixi...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) built the cleaner comparative case: visible metrics supply democratic social-proof signals that help unknowns surface and let users assess credibility, while hiding them by default merely shifts reliance to worse static hierarchies (followers, badges) without fixi...
   Most decisive rebuttal noted: A's R2 and closing neutralized B's "target metrics not algorithms" pressure by showing metrics are diagnostic transparency users lose while the engine runs unchecked, preserving the core clash on discovery vs. coercion.

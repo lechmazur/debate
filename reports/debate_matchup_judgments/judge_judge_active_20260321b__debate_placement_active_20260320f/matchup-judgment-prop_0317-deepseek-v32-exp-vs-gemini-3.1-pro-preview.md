@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0317__deepseek-v32-exp__gemini-3.1-pro-preview__tpl_placement_active_20260320f`
 - topic_id: `prop_0317`
-- matchup: **Deepseek V3.2** vs **Gemini 3.1 Pro Preview**
+- matchup: **DeepSeek V3.2** vs **Gemini 3.1 Pro Preview**
 - overall judged result (normalized): **Gemini 3.1 Pro Preview**
 - overall judged result (raw): **Gemini 3.1 Pro Preview**
 - mean entertainment: `7.17 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `-1.67`
+- mean signed normalized margin for `DeepSeek V3.2`: `-1.67`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0317__deepseek-v32-exp__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f.md): PRO = **Deepseek V3.2**, CON = **Gemini 3.1 Pro Preview**
-- [Debate B transcript](../../../transcripts/prop_0317__gemini-3.1-pro-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0317__deepseek-v32-exp__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f.md): PRO = **DeepSeek V3.2**, CON = **Gemini 3.1 Pro Preview**
+- [Debate B transcript](../../../transcripts/prop_0317__gemini-3.1-pro-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0317__deepseek-v32-exp__gemini-3.1-pro-preview__tpl_placement_active_20260320f` or topic `prop_0317`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0317__deepseek-v32-exp__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0317__deepseek-v32-exp__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Deepseek V3.2**, CON = **Gemini 3.1 Pro Preview**
+- roles: PRO = **DeepSeek V3.2**, CON = **Gemini 3.1 Pro Preview**
 - judged result: Unanimous `3-0` for **Gemini 3.1 Pro Preview**.
 - entertainment scores: `7`, `7`, `8`
 - mean signed raw margin (PRO+): `-1.23`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0317__gemini-3.1-pro-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0317__gemini-3.1-pro-preview__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Deepseek V3.2**
+- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **DeepSeek V3.2**
 - judged result: Unanimous `3-0` for **Gemini 3.1 Pro Preview**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.63`

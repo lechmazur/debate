@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | -1.0 | -1.39 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | -0.9 | -0.72 | 8.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: This was a competitive, substantively serious debate. PRO built a strong sequencing argument—civilian institutions cannot function under cartel military supremacy, so force must precede reform—and grounded it in the Culiacán siege, a vivid and well-chosen example of cartels ef...
   Most decisive rebuttal noted: CON's exploitation of PRO's "indefinite military control" answer in Rebuttal 2 and the Closing. When PRO admitted that past offensives failed because they were temporary and that the solution requires sustained military control indefinitely, CON turned that concession into the...
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins on the decisive sequencing clash: security as prerequisite for institutions beats CON's "smarter coercion" after avoidance demonstrably produced consolidated parallel states. PRO directly answered B's pressure on falsifiability and repetition with sustained control; B's...
+- **Grok 4.20 0309 (Reasoning)**: A wins on the decisive sequencing clash: security as prerequisite for institutions beats CON's "smarter coercion" after avoidance demonstrably produced consolidated parallel states. PRO directly answered B's pressure on falsifiability and repetition with sustained control; B's...
   Most decisive rebuttal noted: A's R2 directly reframed splintering as less dangerous than mega-cartel sovereignty (Culiacán example) while answering B's Qs head-on; B's later "indefinite occupation" attack was sharp but undermined by format costs.
 - **Qwen3.5-397B-A17B**: Side B wins on the decisive strategic clash regarding the end-state of the proposed policy. By forcing Side A to admit in Rebuttal 2 that a harder approach requires indefinite military occupation of strongholds, Side B successfully argued that this proves the strategy cannot a...
   Most decisive rebuttal noted: Side B's Rebuttal 2 turned Side A's admission of indefinite military control into a concession that the strategy cannot restore normal governance.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | +1.2 | +1.67 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.1 | -1.17 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | -1.1 | -1.17 | 6.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | -2.0 | -1.60 | 8.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: Side A wins on three decisive comparative points. First, the definitional ground: PRO consistently held that "harder" means targeted, intelligence-led, comprehensive pressure rather than indiscriminate militarization, and CON never genuinely engaged this version—their rebuttal...
   Most decisive rebuttal noted: Side A's Rebuttal 1 identifying CON's bait-and-switch was the most decisive exchange. PRO correctly named that CON was attacking "all-out militarization" and "free-fire zones" rather than the sustained, intelligence-backed pressure actually proposed, then immediately turned th...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the cleaner comparative case by consistently tying harder security to the fragmentation trap that directly produces the extortion and local violence PRO condemns, using the 2006 record as live historical grounding. B answered pressure directly and showed why PRO's...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the cleaner comparative case by consistently tying harder security to the fragmentation trap that directly produces the extortion and local violence PRO condemns, using the 2006 record as live historical grounding. B answered pressure directly and showed why PRO's...
   Most decisive rebuttal noted: B's Rebuttal 2 directly linked offensive pressure to accelerated predation by splinter groups, neutralizing PRO's distinction between temporary vs permanent harms.
 - **Qwen3.5-397B-A17B**: Side B wins on argumentative turn and execution. B successfully turned PRO's harm scenario by arguing kinetic offensives inherently cause the extortion PRO seeks to solve (via fragmentation), anchored by the 2006 historical analogy. Crucially, Side A suffered significant clipp...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (Turn 8). It directly answered the Pressure Questions with required A1:/A2: labels and delivered the decisive turn: that military escalation creates the localized predation PRO decries, making PRO's solution the cause of the problem.

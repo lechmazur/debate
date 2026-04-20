@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | +1.2 | +1.07 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: PRO won by successfully framing the debate around the 'asymmetry of failure' and the economic incentives of capacity building. CON effectively highlighted the gray zone of classification and the risks of smuggling, but PRO's argument that a leaky ban still blocks more toxic wa...
   Most decisive rebuttal noted: PRO's argument that if both systems suffer from imperfect enforcement, a leaky ban defaults to keeping questionable shipments at home, whereas a leaky status quo defaults to exporting them.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by crystallizing the burden-reversal asymmetry: imperfect enforcement under a ban keeps waste at home rather than exporting poison, directly neutralizing CON's enforcement and capacity objections while highlighting CON's missing timeline for ending documented curren...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by crystallizing the burden-reversal asymmetry: imperfect enforcement under a ban keeps waste at home rather than exporting poison, directly neutralizing CON's enforcement and capacity objections while highlighting CON's missing timeline for ending documented curren...
   Most decisive rebuttal noted: PRO's R2 answers exposing that CON's "targeted" alternatives demand the same weak enforcement they criticize, plus closing's "leaky ban still blocks more" framing that made the choice clearer.
 - **Qwen3.5-397B-A17B**: Side A wins on the strength of the 'asymmetry of failure' weighing and the 'reverse burden of proof' mechanism. A demonstrated that a ban shifts the default from 'ship unless caught' to 'prove functionality or stay,' which blocks more waste even with imperfect enforcement. B r...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (Turn 7) answering the classification question by explaining how reversing the burden of proof to exporters blocks more toxic waste than the current inspection regime.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B won by effectively using the text of the proposition to neutralize Side A's strongest initial argument about regional capacity building. Side B then forced Side A to defend a complex bilateral regulatory alternative, which Side B neatly exposed as requiring the exact sa...
   Most decisive rebuttal noted: Side B's first rebuttal, which pointed out that Side A's preferred solution of "certified regional processing" is actually explicitly written into the proposition, instantly collapsing Side A's opening framing.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer, more decisive path by repeatedly forcing the core question of what actually deters uncertified dumping and showing CON's regulation-first model lacks an upstream liability shift. A integrated the proposition's own certified-regional carve-out, answere...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer, more decisive path by repeatedly forcing the core question of what actually deters uncertified dumping and showing CON's regulation-first model lacks an upstream liability shift. A integrated the proposition's own certified-regional carve-out, answere...
   Most decisive rebuttal noted: A's [A4.1]-[A4.6] directly answered B's pressure on compliance and livelihoods while exposing that CON's "trade conditionality" still needs the very walls A provides, settling the enforcement burden.
 - **Qwen3.5-397B-A17B**: Side A wins due to superior execution and clearer weighing on the enforcement mechanism. Side B suffered catastrophic format failures, with three speeches (Rebuttal 1, Rebuttal 2, Closing) clipped for exceeding word limits, leaving key arguments unfinished and the final impres...
   Most decisive rebuttal noted: Side A Rebuttal 2. It directly answered the Pressure Questions with A1:/A2: formatting, addressed the livelihood concern honestly, and introduced the decisive 'floor with no walls' framing that defined the rest of the debate.

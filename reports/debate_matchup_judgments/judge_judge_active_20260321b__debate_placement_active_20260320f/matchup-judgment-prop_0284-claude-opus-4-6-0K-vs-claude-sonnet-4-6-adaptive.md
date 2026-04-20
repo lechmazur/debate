@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (no reasoning) | +1.3 | +1.43 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +2.2 | +1.96 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s second rebuttal turning B’s own questions against the “existing law is enough” claim was the key exchange: it made the invisibility/enforcement gap vivid and forced B onto a narrower late audit-defense that did not fully displace the proposition’s case for disclosure.
 - **Gemini 3.1 Pro Preview**: Side A won by maintaining a consistent, proactive case and ruthlessly capitalizing on Side B's unforced errors. Side A successfully co-opted B's examples of beneficial pricing (student discounts, surge pricing) by pointing out they are already disclosed. Furthermore, Side B di...
   Most decisive rebuttal noted: Side A's Rebuttal 2 was devastating, pointing out that Side B's own Pressure Questions inadvertently articulated Side A's core argument that existing laws are unenforceable without disclosure.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B built the clearer path by exposing CON's evidentiary gap using CON's own pressure questions, showing existing law is a "dead letter" without disclosure while distinguishing consumer empowerment from mere regulatory audits. CON's regulatory-audit and collusion-risk counters w...
+- **Grok 4.20 0309 (Reasoning)**: B built the clearer path by exposing CON's evidentiary gap using CON's own pressure questions, showing existing law is a "dead letter" without disclosure while distinguishing consumer empowerment from mere regulatory audits. CON's regulatory-audit and collusion-risk counters w...
   Most decisive rebuttal noted: B4's A1/A2 turn that weaponized A's questions to prove the structural contradiction on enforcement triggers, narrowing the debate to whether invisible systems can ever be self-correcting.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.66 | 6.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: A’s first rebuttal was the decisive exchange: it turned B’s own examples into support for PRO by arguing disclosed discounts are not the target, then used B’s “flatten prices upward” warning as evidence that the contested practice relies on consumers not knowing what is happen...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively framing algorithmic pricing as an asymmetry problem and capitalizing on Side B's consistent word-limit violations (clipping). A's argument that disclosure is a necessary precondition for the very enforcement B advocated neutralized B's strongest legal...
   Most decisive rebuttal noted: A's argument in Rebuttal 2 that disclosure is not a substitute for enforcement, but the necessary precondition (paper trail) that makes disparate impact enforcement possible.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins by clarifying the core clash as covert extraction vs disclosed segmentation, directly exposing CON's category error in Rebuttal 1, forcing concessions on enforcement gaps and secrecy-dependent pricing, and answering pressure questions sharply while CON's multiple clippe...
+- **Grok 4.20 0309 (Reasoning)**: B wins by clarifying the core clash as covert extraction vs disclosed segmentation, directly exposing CON's category error in Rebuttal 1, forcing concessions on enforcement gaps and secrecy-dependent pricing, and answering pressure questions sharply while CON's multiple clippe...
   Most decisive rebuttal noted: B's Rebuttal 1 on category error (disclosed examples like student discounts defend a different practice than the covert opacity PRO targets) materially damaged CON's route to victory and set up all later weighing.

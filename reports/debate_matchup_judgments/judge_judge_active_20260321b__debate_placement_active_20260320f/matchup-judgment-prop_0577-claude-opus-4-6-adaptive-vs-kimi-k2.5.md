@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (high reasoning) | +1.1 | +1.21 | 8.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -1.8 | -1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: A’s most decisive rebuttal was turning B’s overstay argument back on them: if irregularity increasingly comes from overstays, then more border enforcement is beside the point, while legal pathways at least create documented, administratively trackable cases instead of invisibl...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully reframing the metric from "border crossings" to "net irregular population" and proving that legal pathways simply convert border crossers into visa overstayers. Side A comprehensively answered Side B's pressure regarding the economic logic of wage ga...
   Most decisive rebuttal noted: Side A's A2 in Turn 8, which explained that expected economic gain is probabilistic, perfectly answering why credible border enforcement deters migration while legal pathways succumb to wage-driven overstays.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by making net irregular population (not just crossing attempts) the decisive metric, showing legal pathways create hard-to-remove interior overstays while enforcement blocks at the chokepoint. Side B's wage-gap contradiction is not fully resolved and two of B's key...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by making net irregular population (not just crossing attempts) the decisive metric, showing legal pathways create hard-to-remove interior overstays while enforcement blocks at the chokepoint. Side B's wage-gap contradiction is not fully resolved and two of B's key...
   Most decisive rebuttal noted: Side A's A4 and A5 turns convert B's own overstay admission into proof that legal pathways relocate rather than reduce irregularity, while exposing the enforcement-vs-economics inconsistency.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Kimi K2.5 Thinking | +1.2 | +1.32 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (high reasoning) | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.2 | -1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.2 | -1.28 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: A’s response to B’s “enforcement is the active ingredient” frame was the key exchange: A pointed out that the comparator is increased border enforcement, and border controls still do not solve overstays or labor demand, so B’s dependency claim did not by itself beat the propos...
 - **Gemini 3.1 Pro Preview**: Side A wins by successfully demonstrating that Side B's proposed mechanism (legal pathways) fundamentally depends on Side A's mechanism (enforcement) to function. A convincingly argued that the incentive to not overstay a visa relies entirely on the credible threat of enforcem...
   Most decisive rebuttal noted: A's second rebuttal effectively flipped B's best example (Australia), proving that a guaranteed right to return only prevents overstays if enforcement is present to detect and punish violations.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by showing successful legal pathways (esp. Australia) require enforcement as the indispensable backbone for credible incentives and low overstays; this reframes PRO's own examples as proving complementarity rather than substitution superiority, leaving PRO without...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by showing successful legal pathways (esp. Australia) require enforcement as the indispensable backbone for credible incentives and low overstays; this reframes PRO's own examples as proving complementarity rather than substitution superiority, leaving PRO without...
   Most decisive rebuttal noted: A's A4/A5 exchange on Australia: enforcement makes the return guarantee credible; PRO's circularity claim collapses without it, neutralizing B's core substitution/incentive story.

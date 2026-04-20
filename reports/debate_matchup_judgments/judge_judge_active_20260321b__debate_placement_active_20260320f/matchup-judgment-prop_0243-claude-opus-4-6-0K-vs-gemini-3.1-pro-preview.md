@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +2.1 | +2.24 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +2.1 | +2.24 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +1.6 | +1.60 | 6.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer, live route to victory by centering the decisive observed substitution from zero-VMT modes (transit/walking) plus deadheading, which A never directly refuted. B neutralized A's parking/utilization/pressure-valve arguments as net losses or speculative c...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer, live route to victory by centering the decisive observed substitution from zero-VMT modes (transit/walking) plus deadheading, which A never directly refuted. B neutralized A's parking/utilization/pressure-valve arguments as net losses or speculative c...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered A's pressure on causation/taxis while reiterating that substitution from transit (not cars) flips all of CON's arguments into net adds; A never closed this gap.
 - **Kimi K2.5 Thinking**: Side B won by establishing that ride-hail primarily substituted for transit and walking rather than private car trips, directly adding net vehicle-miles to roads. Side A's defense relied on a speculative counterfactual—that ride-hail prevented mass car ownership—but failed to...
   Most decisive rebuttal noted: Side B's Rebuttal 2 distinction between per-mile efficiency and total fleet size ([B4.3]), noting that ride-hail exploded vehicle counts beyond traditional medallion caps, undermining Side A's claim that algorithmic dispatch merely replaced inefficient cruising.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.8 | +1.92 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Gemini 3.1 Pro Preview | +1.8 | +1.92 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +2.5 | +2.00 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by maintaining a tighter structural explanation of added VMT through deadheading, transit substitution, and curbside effects that Side A never squarely neutralized on net citywide terms; A's repeated clipping in later turns created execution costs that left the off...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by maintaining a tighter structural explanation of added VMT through deadheading, transit substitution, and curbside effects that Side A never squarely neutralized on net citywide terms; A's repeated clipping in later turns created execution costs that left the off...
   Most decisive rebuttal noted: B4's A1/A2 directly reframed A's net-addition and peak-hour parking points as still producing net VMT multipliers, collapsing A's central burden.
 - **Kimi K2.5 Thinking**: CON wins by exposing that PRO never proved the *net* worsening required by the motion. While PRO established plausible mechanisms (deadheading, transit substitution, curb friction), they treated ride-hail VMT as purely additive, ignoring that many passengers displaced private...
   Most decisive rebuttal noted: CON's response to the deadheading argument (A4.1-A4.2), demonstrating that during peak hours the relevant comparison is not "parked car vs. circling Uber" but "parking-search congestion vs. repositioning congestion," directly undermining PRO's core mathematical claim.

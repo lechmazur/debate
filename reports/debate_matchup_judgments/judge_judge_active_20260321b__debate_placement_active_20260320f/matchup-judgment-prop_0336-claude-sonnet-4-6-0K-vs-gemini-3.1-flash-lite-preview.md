@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +2.1 | +2.24 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +2.1 | +2.24 | 6.0 |
 | MiniMax-M2.7 | Gemini 3.1 Flash-Lite Preview | -1.5 | -2.00 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | +1.2 | +0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by keeping the debate on the motion's net-effects test, directly answering both sets of pressure questions with calibration arguments, and showing CON assumed inevitable bad AI without proving it outweighed large structural savings. CON repeated the hard-wall framing wit...
+- **Grok 4.20 0309 (Reasoning)**: B won by keeping the debate on the motion's net-effects test, directly answering both sets of pressure questions with calibration arguments, and showing CON assumed inevitable bad AI without proving it outweighed large structural savings. CON repeated the hard-wall framing wit...
   Most decisive rebuttal noted: B's Rebuttal 2 (A1/A2 + weighing) neutralized CON's economic-incentive contradiction by showing partial escalation still captures major savings while concentrating human judgment where needed.
 - **MiniMax-M2.7**: PRO correctly framed the debate as a net-effects question, and its comparison of AI to the actual median human agent (scripted, pressured, inconsistent) rather than an idealized human was strategically sound. However, CON landed the two most structurally decisive points that s...
   Most decisive rebuttal noted: The sharpest exchange was B2.1/B4.1 versus A4.1. CON argued that human agents under script pressure have a "soft boundary"—they can perceive when policy is failing and choose to deviate—while AI has a "hard wall" it cannot cross. PRO answered that edge cases simply escalate up...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.3 | -1.39 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | -1.3 | -1.39 | 7.0 |
 | MiniMax-M2.7 | Claude Sonnet 4.6 (no reasoning) | -1.2 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Flash-Lite Preview | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the cleaner comparative case by showing that trust and loyalty turn on high-stakes, ambiguous interactions where triage/routing reliably fails and scaled identical errors amplify harm; PRO's consistent answers and triage defense never neutralized this as the decis...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the cleaner comparative case by showing that trust and loyalty turn on high-stakes, ambiguous interactions where triage/routing reliably fails and scaled identical errors amplify harm; PRO's consistent answers and triage defense never neutralized this as the decis...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answered B's pressure, reframed the "hybrid" as a concession that surrenders the motion's net-benefit test on hard cases, and introduced the liability-multiplier weighing that B never squared.
 - **MiniMax-M2.7**: Side B won by sharper identification of the decisive clash and a more effective exploitation of PRO's concessions. The turning point was Side B's accurate observation that PRO's own argument for a hybrid model—AI handling volume while humans handle complexity—was a quiet conce...
   Most decisive rebuttal noted: The "liability multiplier" exchange in Rebuttal 2 was decisive. Side B argued that while human inconsistency produces scattered errors, AI inconsistency produces identical errors replicated across millions of interactions simultaneously—until a patch arrives. Side A's response...

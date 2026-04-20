@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +2.5 | +2.67 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +2.5 | +2.67 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (no reasoning) | +4.0 | +4.00 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | +2.0 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A stayed consistent on the core clash (use ≠ trust; early vivid harms shaped durable skepticism; stronger defaults reduce exactly the headline abuses that eroded stewardship perception). Side B's opening opposed the motion but later speeches repeatedly conceded that safeg...
+- **Grok 4.20 0309 (Reasoning)**: Side A stayed consistent on the core clash (use ≠ trust; early vivid harms shaped durable skepticism; stronger defaults reduce exactly the headline abuses that eroded stewardship perception). Side B's opening opposed the motion but later speeches repeatedly conceded that safeg...
   Most decisive rebuttal noted: A's Rebuttal 2 directly took CON's own admission that stronger defaults reduce severe harms and turned it into a conceded weighing victory: annoyance from consent gates is minor while preventable scandals are trust-poisoning.
 - **Kimi K2.5 Thinking**: Side A established a clear causal model: public trust tracks perceived stewardship and is path-dependent on early vivid harms (scams, fakes, hallucinations) more than mundane utility. Side B's opening presented a coherent counter-story about utility building trust, but collaps...
   Most decisive rebuttal noted: Side A's clarification in Rebuttal 1 distinguishing "stronger default safeguards" (blocking obvious abuse like nonconsensual intimate content and voice cloning) from "crippling" restrictions (A2.5), which forced Side B to accept that such safeguards would prevent trust-damagin...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.5 | -1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (no reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | -1.2 | -0.96 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B made the clearer comparative case on tradeoffs: stronger defaults reduce perceived competence and familiarity while distrust drivers extend beyond launch speed to AI capabilities themselves. Side A’s negativity-bias and “scar” framing was partially answered by evidence...
+- **Grok 4.20 0309 (Reasoning)**: Side B made the clearer comparative case on tradeoffs: stronger defaults reduce perceived competence and familiarity while distrust drivers extend beyond launch speed to AI capabilities themselves. Side A’s negativity-bias and “scar” framing was partially answered by evidence...
   Most decisive rebuttal noted: B’s Rebuttal 1 directly damaged PRO’s early-scandal-dominance route by showing repeated personal success outweighed headlines and that visibility reveals improvement, not only risk.
 - **Kimi K2.5 Thinking**: CON wins by exposing two decisive burdens that PRO could not overcome. First, CON successfully broadened the distrust landscape beyond hallucinations to include inherent capability concerns—deepfakes, surveillance, job displacement, and concentrated power—that slower shipping...
   Most decisive rebuttal noted: CON's Rebuttal 2 (B4) where they dismantle PRO's RAG solution as insufficiently broad to address non-factual harms (deepfakes, bias, surveillance) and reiterate that even this "best version" of safeguards cannot deliver the motion's promised trust increase because it reduces t...

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +2.5 | +2.50 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +2.0 | +1.60 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the clearer comparative case by repeatedly forcing the symmetry problem (individualized judgment required under both frameworks) and contrasting an enforceable floor against optional "discretion/hardship" mercy that cities can ignore. Side B's public-space burdens...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the clearer comparative case by repeatedly forcing the symmetry problem (individualized judgment required under both frameworks) and contrasting an enforceable floor against optional "discretion/hardship" mercy that cities can ignore. Side B's public-space burdens...
   Most decisive rebuttal noted: A's Rebuttal 2 directly defined "safe" as physical danger (not preference), showed CON's alternatives require the same judgments, and used the unanswered symmetry to collapse B's administrability objection.
 - **Kimi K2.5 Thinking**: Side A wins by establishing that an enforceable legal floor is necessary to prevent the specific catastrophic harm of towing-induced homelessness, while demonstrating that Side B's administrability objection collapses under a fatal symmetry problem. Side B's alternative of "di...
   Most decisive rebuttal noted: The symmetry argument on administrability (A4.5-4.6), where Side A exposed that Side B's proposed "hardship exemptions" and "targeted accommodation" require the same individualized, case-by-case judgments that Side B claimed made the "no safe alternative shelter" standard unwo...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.2 | -1.28 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | -1.2 | -1.28 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (no reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -0.8 | -0.64 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by showing PRO's "rebuttable presumption" is unworkable at street level, producing de facto immunity, concentrated neighborhood harms, and reduced pressure for real shelter; B's answers to pressure questions and rebuttals on enforcement realities neutralized PRO's s...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by showing PRO's "rebuttable presumption" is unworkable at street level, producing de facto immunity, concentrated neighborhood harms, and reduced pressure for real shelter; B's answers to pressure questions and rebuttals on enforcement realities neutralized PRO's s...
   Most decisive rebuttal noted: B's rebuttal to A's pressure questions exposing that the presumption cannot be rebutted at midnight, collapsing into blanket non-enforcement.
 - **Kimi K2.5 Thinking**: Side A wins by establishing a clearer moral and logical default: when verification of "no safe alternative" is uncertain, the cost of error favors preserving shelter over imposing punishment. Side A successfully narrows the proposition to protect only the status of sleeping in...
   Most decisive rebuttal noted: Side A's answers to Side B's pressure questions in Rebuttal 2 (Turn 7), specifically distinguishing that resident recourse lies in existing parking/nuisance rules rather than blanket punishment for sleeping, and that the line between welfare checks and harassment is standard p...

@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Gemini 3.1 Flash-Lite Preview | +1.6 | +1.77 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | -1.5 | -1.60 | 6.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Flash-Lite Preview | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
 - **GPT-5.4 (high reasoning)**: Side B wins by keeping the debate on the motion’s core: known recurring noise, party, and theft problems are material facts tenants should know before signing. B made the cleaner prevention-over-after-the-fact-recourse comparison and reasonably answered vagueness with standard...
   Most decisive rebuttal noted: Most decisive was B’s answer to A’s “existing quiet enjoyment law is enough” claim: post-harm lease disputes are not a substitute for pre-lease disclosure, because the whole point is to stop tenants from being trapped in a bad building in the first place.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the stronger comparative case by showing the mandate's vagueness and perpetual disclosure of even resolved issues would predictably worsen information asymmetry through reduced landlord documentation and higher costs passed to tenants; PRO never neutralized these...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the stronger comparative case by showing the mandate's vagueness and perpetual disclosure of even resolved issues would predictably worsen information asymmetry through reduced landlord documentation and higher costs passed to tenants; PRO never neutralized these...
   Most decisive rebuttal noted: A's [A4.1-A4.3] directly reframed PRO's "confession" charge into evidence that the rule itself creates the documentation problem it claims to solve, while proposing narrower existing mechanisms that avoid the mandate's flaws.
 - **Qwen3.5-397B-A17B**: Side B wins due to superior epistemic discipline and stronger late-game weighing. Side A repeatedly relied on specific, unverifiable statistics ("25% insurance hike", "$100 rent increase") across four speeches, which violates the grounding rules against brittle fake precision...
   Most decisive rebuttal noted: Side B's Closing turn on the "suppression of records" argument. It took Side A's prediction of bad landlord behavior and used it to justify the rule.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | ByteDance Seed2.0 Pro | +1.7 | +1.88 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | ByteDance Seed2.0 Pro | +1.2 | +0.96 | 7.0 |
 
 ### Judge Notes
 
 - **GPT-5.4 (high reasoning)**: B won by giving the cleaner, more concrete case: tenants are harmed by hidden, known livability problems, while disclosure can be limited to recurring documented issues landlords already track. A’s response stayed mostly on speculative lawsuit, stigma, and “landlords will stop...
   Most decisive rebuttal noted: B’s pressure questions and second rebuttal were decisive: they exposed that A’s liability story depended on pretending trivial informal complaints would be swept in, and once B narrowed the policy to formal, recurring tracked problems, A never gave a strong basis for the predi...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the stronger path by tying disclosure to landlords' existing operational records and thresholds, directly neutralizing subjectivity and litigation fears in rebuttal 2 while weighing concrete tenant harms (trapped leases, credit damage) against CON's speculative ri...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the stronger path by tying disclosure to landlords' existing operational records and thresholds, directly neutralizing subjectivity and litigation fears in rebuttal 2 while weighing concrete tenant harms (trapped leases, credit damage) against CON's speculative ri...
   Most decisive rebuttal noted: B's rebuttal 2 used required A1/A2 format to show internal standards eliminate lawsuit risk and that stopping documentation would create bigger problems, collapsing A's core burdens.
 - **Qwen3.5-397B-A17B**: Side B (PRO) won by successfully framing the debate around information asymmetry and basic fairness, while neutralizing Side A's core liability concerns. Side B's argument that landlords already categorize these issues for enforcement (making disclosure a matter of sharing exi...
   Most decisive rebuttal noted: Side B's first rebuttal (Turn 3) effectively turned the "subjectivity" argument by noting landlords already categorize these issues for enforcement (lease violations, fines), making disclosure a matter of sharing existing data rather than creating new standards.

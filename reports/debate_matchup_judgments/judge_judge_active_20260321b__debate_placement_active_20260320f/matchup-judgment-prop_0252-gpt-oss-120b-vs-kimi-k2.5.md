@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-OSS-120B | +0.8 | +1.11 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.5 | -2.22 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.3 | -1.39 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.3 | -1.39 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: PRO's A2/Rebuttal 2 underground-networks answer (A4.1) was the most decisive single exchange. CON had repeatedly warned that mandates drive internships into WhatsApp groups and alumni networks inaccessible to low-income candidates. PRO's response — that those informal networks...
 - **Gemini 3.1 Pro Preview**: Side A wins by cleanly winning the pressure exchange and offering stronger comparative mechanisms. Side A's counter-proposal of portable subsidies effectively answered B's concerns about access and inequality, while A successfully proved that B's bans would destroy opportuniti...
   Most decisive rebuttal noted: Side A's Rebuttal 2 directly neutralized Side B's pressure questions by explaining that portable subsidies create a structural incentive for employers to formalize roles, effectively countering the threat of "shadow networks."
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the cleaner comparative case by showing heavy restrictions risk net loss of opportunities for the disadvantaged via higher fixed costs and potential underground shifts, while portable subsidies fix access without burning the bridge. Side A's European precedent was...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the cleaner comparative case by showing heavy restrictions risk net loss of opportunities for the disadvantaged via higher fixed costs and potential underground shifts, while portable subsidies fix access without burning the bridge. Side A's European precedent was...
   Most decisive rebuttal noted: B4.1-B4.2 directly reframed subsidies as incentivizing formal public listings (vouchers lower marginal cost) while mandates force elimination or hiding, damaging A's transparency/legality claim and shifting the burden to why regulation expands access when it raises costs.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +2.0 | +2.78 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +2.0 | +1.78 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: A4.2: PRO's exposure of CON's internal contradiction on paid job availability. CON argued in B2.2 that abundant paid alternatives exist (to deny harm from restriction) but then argued in B4.1 and B5.1 that paid entry simply does not exist in key sectors (to argue restriction e...
 - **Gemini 3.1 Pro Preview**: Side B decisively won the debate by trapping Side A in a contradiction regarding the availability of paid entry-level jobs. Side B's pressure questions and subsequent rebuttal exposed that if paid jobs are abundant (as A claimed), restricting unpaid ones doesn't destroy opport...
   Most decisive rebuttal noted: Side B's second rebuttal brilliantly weaponized Side A's claim about abundant paid jobs to show that either candidates can easily shift to paid roles, or unpaid internships are depressing wages.
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins by exposing CON's contradiction on paid-job abundance, maintaining tighter grounding without fake stats, and crystallizing that CON's "scarce paid entry" admission proves the wage-theft and class-barrier case. B's clipped rebuttal, brittle precision, and failure to neut...
+- **Grok 4.20 0309 (Reasoning)**: A wins by exposing CON's contradiction on paid-job abundance, maintaining tighter grounding without fake stats, and crystallizing that CON's "scarce paid entry" admission proves the wage-theft and class-barrier case. B's clipped rebuttal, brittle precision, and failure to neut...
   Most decisive rebuttal noted: A's A4.2 directly flags B's shift from "abundant paid alternatives" to "paid jobs don't exist in those sectors," collapsing CON's opportunity-loss claim into confirmation of wage displacement.

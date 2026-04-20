@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | -1.0 | -1.39 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.3 | -1.39 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.3 | -1.39 | 6.0 |
 | Qwen3.5-397B-A17B | Baidu Ernie 5.0 | +1.0 | +0.80 | 7.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: CON (Side A) wins a clear but competitive debate on the strength of two arguments that PRO never fully neutralized. First, CON's core distinction—AEB intervenes rarely in acute emergencies; ISA governs ordinary driving continuously across every trip, sign ambiguity, and lane e...
   Most decisive rebuttal noted: CON's continuous-vs-acute distinction (A2.1, reinforced in A4.1): ISA governs every ordinary trip across sign ambiguity, ramps, and traffic flow rather than intervening in a narrow collision window. PRO compared ISA to AEB throughout the debate, but this comparison only works...
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clarifying why ISA differs from AEB (continuous vs acute intervention, frequent error surfaces) and exposing an unresolved override tradeoff plus motion ambiguity on warning vs limiting; A repeated "defaults good, lives matter" without neutralizing these distinct...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clarifying why ISA differs from AEB (continuous vs acute intervention, frequent error surfaces) and exposing an unresolved override tradeoff plus motion ambiguity on warning vs limiting; A repeated "defaults good, lives matter" without neutralizing these distinct...
   Most decisive rebuttal noted: B's R1 on frequency mattering for continuous controls and the override dilemma that A never stably resolved.
 - **Qwen3.5-397B-A17B**: Side A wins primarily on execution reliability. While Side B developed stronger logical distinctions (acute vs. continuous intervention, motion ambiguity), Side B suffered significant execution costs with two speeches clipped for length, including Turn 8 ending mid-sentence. S...
   Most decisive rebuttal noted: Turn 4 (Side B) introduced the "Override Dilemma" (easy override = weak safety, hard override = danger), which was the debate's strongest logical trap, even though the speech was clipped.
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (no reasoning) | +2.5 | +3.48 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: Side B (PRO) built and maintained a stronger path to victory across every dimension of the debate. Its core argument — that optional systems are systematically underused by the highest-risk drivers, creating a selection effect that concentrates protection on those who need it...
   Most decisive rebuttal noted: PRO's response to the "false activations cause systemic disablement" argument in Rebuttal 2 was the most decisive exchange. CON argued that drivers would permanently disable a misfiring ISA, erasing all safety benefits. PRO turned this cleanly: if imperfect calibration is the...
-- **Grok 4.20 Beta 0309 (Reasoning)**: A wins by clarifying overrideable defaults address routine inadvertent speeding (the dominant real risk) while preserving discretion for edges; B's emergency-delay and disablement attacks were neutralized by direct A1/A2 answers and comparative weighing that optionality fails...
+- **Grok 4.20 0309 (Reasoning)**: A wins by clarifying overrideable defaults address routine inadvertent speeding (the dominant real risk) while preserving discretion for edges; B's emergency-delay and disablement attacks were neutralized by direct A1/A2 answers and comparative weighing that optionality fails...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answers B's pressure questions then reframes the core clash as ordinary drift vs cinematic exceptions, collapsing B's agency argument.
 - **Qwen3.5-397B-A17B**: Side A won on superior weighing and consistency. A successfully framed the debate around high-frequency routine errors versus low-frequency emergencies, neutralizing B's "emergency delay" concern by emphasizing overrideable design. A's response to the disablement point was dec...
   Most decisive rebuttal noted: Side A's Rebuttal 2 effectively answered Pressure Questions with A1:/A2: format, turning the disablement argument by noting defaults reach risky drivers before they opt-out, whereas optional systems never reach them at all.

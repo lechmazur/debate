@@ -33,7 +33,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.66 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +1.8 | +1.60 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -41,5 +41,5 @@
   Most decisive rebuttal noted: Most decisive was B’s turn that A’s own “AI is triage” framing concedes the point: if a flag is only a signal, it cannot itself justify suspending benefits or visas; plus B’s later “who decides the emergency?” question exposed that A’s preauthorized thresholds still leave the...
 - **Gemini 3.1 Pro Preview**: Side B successfully neutralized Side A's primary argument (that requiring human review causes dangerous delays) by distinguishing between the speed of review and the absence of review, using strong analogies like warrants. Side A made a significant unforced error in Rebuttal 1...
   Most decisive rebuttal noted: Side B's Rebuttal 1, which seized on Side A's concession that AI flags are merely "triage signals" to argue that a signal alone cannot justify the concrete punishment of suspension.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A built the cleaner, more decisive case by maintaining that human authorization is the constitutional floor even for emergencies, using effective warrant/surgery analogies and directly answering pressure on resources/pretext; this neutralized CON's practicality and delay...
+- **Grok 4.20 0309 (Reasoning)**: Side A built the cleaner, more decisive case by maintaining that human authorization is the constitutional floor even for emergencies, using effective warrant/surgery analogies and directly answering pressure on resources/pretext; this neutralized CON's practicality and delay...
   Most decisive rebuttal noted: A's A4/A5 reframing of "who decides emergency" exposed that CON still required human judgment, collapsing the triage-without-review distinction.

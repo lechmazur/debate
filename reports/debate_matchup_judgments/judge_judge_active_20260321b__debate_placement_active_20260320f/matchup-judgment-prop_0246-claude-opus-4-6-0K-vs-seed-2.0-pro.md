@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | Claude Opus 4.6 (no reasoning) | +1.2 | +1.32 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +1.5 | +1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.7 | +1.81 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.7 | +1.81 | 7.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: B’s pressure on A’s claim that algorithms “hide” inflammatory content, followed by the rebuttal that snooze/downranking tools are separable from chronological ordering, was the decisive exchange: it stripped A of the main reason algorithmic feeds were supposedly less toxic.
 - **Gemini 3.1 Pro Preview**: Side A wins by maintaining a consistent causal theory: that algorithmic feed design acts as an accelerator and amplifier of existing human toxicity. Side A successfully rebutted Side B's "spam" argument by highlighting that chronological feeds allow for user agency (curation/u...
   Most decisive rebuttal noted: Side A’s rebuttal of the "spam" argument in [A2.2], which distinguished between a problem manageable via user curation versus one forced upon the user by algorithmic injection.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the stronger path by clarifying algorithms as a toxicity multiplier via engagement-driven amplification, injection of unwanted content, and lottery incentives; directly neutralized CON's spam/family and MMR examples by showing they worsen under algo feeds. CON's p...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the stronger path by clarifying algorithms as a toxicity multiplier via engagement-driven amplification, injection of unwanted content, and lottery incentives; directly neutralized CON's spam/family and MMR examples by showing they worsen under algo feeds. CON's p...
   Most decisive rebuttal noted: B's Rebuttal 2 on family content and MMR acceleration exposed how algo feeds amplify the exact problems CON highlighted, collapsing CON's "middle ground" and slow-spread-is-worse claims.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | GPT-5.4 (high reasoning) | ByteDance Seed2.0 Pro | +1.2 | +1.32 | 7.0 |
 | Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | ByteDance Seed2.0 Pro | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: B’s key rebuttal was the repeated “less, not none” comparison: A’s historical examples of toxic chronological-era platforms did not answer B’s central claim that algorithmic default feeds amplify the same toxic content far beyond follower networks and keep resurfacing it to or...
 - **Gemini 3.1 Pro Preview**: Side B successfully deconstructed the premise that chronological feeds act as a "containment" mechanism for toxicity. By pointing to platform-level features like Trending Topics, hashtags, and the organic virality of early platforms (using the clear example of Gamergate), Side...
   Most decisive rebuttal noted: Side B's rebuttal regarding the "ventilation fallacy"—that an intervention to address a symptom does not prove the symptom's cause—was a sophisticated and decisive take-down of Side A's reliance on platform moderation habits as evidence.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer comparative case that algorithmic feeds uniquely amplify un-opted-in toxic content via main-feed engagement optimization, directly answering pressures on virality and early toxicity by distinguishing default exposure from active seeking; Side A scored...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer comparative case that algorithmic feeds uniquely amplify un-opted-in toxic content via main-feed engagement optimization, directly answering pressures on virality and early toxicity by distinguishing default exposure from active seeking; Side A scored...
   Most decisive rebuttal noted: B's Rebuttal 2 (B4) directly dismantled A's Gamergate reach claim by contrasting niche/follower-limited exposure in chrono defaults vs. algo's routine broadcast to average users, preserving the "less toxic" burden.

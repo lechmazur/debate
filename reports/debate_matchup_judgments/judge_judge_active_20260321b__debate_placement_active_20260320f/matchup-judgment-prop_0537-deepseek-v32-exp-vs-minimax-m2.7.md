@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0537__deepseek-v32-exp__minimax-m2.7__tpl_placement_active_20260320f`
 - topic_id: `prop_0537`
-- matchup: **Deepseek V3.2** vs **MiniMax-M2.7**
+- matchup: **DeepSeek V3.2** vs **MiniMax-M2.7**
 - overall judged result (normalized): **MiniMax-M2.7**
 - overall judged result (raw): **Tie**
 - mean entertainment: `6.67 / 10`
-- mean signed normalized margin for `Deepseek V3.2`: `-0.68`
+- mean signed normalized margin for `DeepSeek V3.2`: `-0.68`
 - judgment rows: `3`
 - swap_complete: `0`
 - rating_eligible: `0`
@@ -16,7 +16,7 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0537__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **MiniMax-M2.7**, CON = **Deepseek V3.2**
+- [Debate A transcript](../../../transcripts/prop_0537__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md): PRO = **MiniMax-M2.7**, CON = **DeepSeek V3.2**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0537__deepseek-v32-exp__minimax-m2.7__tpl_placement_active_20260320f` or topic `prop_0537`.
 
@@ -24,7 +24,7 @@
 
 - debate_id: `prop_0537__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0537__minimax-m2.7__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **MiniMax-M2.7**, CON = **Deepseek V3.2**
+- roles: PRO = **MiniMax-M2.7**, CON = **DeepSeek V3.2**
 - judged result: Split `2-1` for **MiniMax-M2.7**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `+0.30`
@@ -33,7 +33,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | +1.5 | +2.09 | 6.0 |
 | GPT-5.4 (high reasoning) | MiniMax-M2.7 | +1.4 | +1.54 | 7.0 |
-| Qwen3.5-397B-A17B | Deepseek V3.2 | -2.0 | -1.60 | 7.0 |
+| Qwen3.5-397B-A17B | DeepSeek V3.2 | -2.0 | -1.60 | 7.0 |
 
 ### Judge Notes
 

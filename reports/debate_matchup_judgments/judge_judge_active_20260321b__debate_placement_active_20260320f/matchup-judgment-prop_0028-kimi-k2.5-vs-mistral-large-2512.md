@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | +2.0 | +2.78 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +3.5 | +3.11 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | +1.5 | +1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A2): Using Side B's own Germany pressure question, Side A demonstrated that identical job functions—cash handling, customer service—are performed without degree requirements through vocational tracks in Germany. This directly falsified Side B's "new comple...
 - **Gemini 3.1 Pro Preview**: Side B wins a dominant victory by maintaining a consistent, well-grounded case for signaling saturation and threshold creep, while Side A commits a fatal execution error. In the Pressure Questions round, Side A (CON) inexplicably asks questions from the PRO perspective, attack...
   Most decisive rebuttal noted: Side B's Rebuttal 2, which brilliantly accepts the premise of Side A's confused Pressure Questions to prove that Side A's own "new complexity" argument evaporates under the cross-national scrutiny Side A itself introduced.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A won by clarifying the decisive cross-national test (Germany vocational paths vs. degree creep for identical tasks) that neutralized CON's complexity claims, directly answering both pressure questions upfront, and maintaining focus on stratification and signaling saturat...
+- **Grok 4.20 0309 (Reasoning)**: Side A won by clarifying the decisive cross-national test (Germany vocational paths vs. degree creep for identical tasks) that neutralized CON's complexity claims, directly answering both pressure questions upfront, and maintaining focus on stratification and signaling saturat...
   Most decisive rebuttal noted: A's A4.2/A4.3 rebuttal using Germany's non-degree system to falsify B's skill-upgrading thesis for unchanged roles.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Kimi K2.5 Thinking | -1.3 | -1.81 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -1.5 | -1.33 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Kimi K2.5 Thinking | -1.5 | -1.60 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: Side B's pressure question B3.2—"if expansion manufactured purely artificial credential demand, why has the college wage premium persisted robustly for decades rather than collapsing toward zero as pure credential inflation would predict?"—was the debate's decisive exchange. S...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully arguing that economic transformation drove genuine skill requirements, effectively forcing Side B to walk back their opening claim that jobs had not fundamentally changed. Side A's comparative framing—that an 11% wage gap for first-generation student...
   Most decisive rebuttal noted: Side A's A1 response to Side B's first pressure question brilliantly turned the 11-18% first-generation wage gap into proof of expanded opportunity by comparing it to the historical alternative of total exclusion.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built the clearer comparative case: persistent wage premium despite mass supply directly undermines pure inflation, while new sectors and first-gen access show genuine opportunity gains outweighed harms. B answered pressure on nursing/mortality and wages more cleanly; A...
+- **Grok 4.20 0309 (Reasoning)**: Side B built the clearer comparative case: persistent wage premium despite mass supply directly undermines pure inflation, while new sectors and first-gen access show genuine opportunity gains outweighed harms. B answered pressure on nursing/mortality and wages more cleanly; A...
   Most decisive rebuttal noted: B4 on wage premium persistence exposing that pure inflation should have collapsed returns but did not.

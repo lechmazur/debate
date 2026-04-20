@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | +1.2 | +1.28 | 7.0 |
 | MiniMax-M2.7 | Claude Opus 4.6 (high reasoning) | +2.0 | +2.67 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (high reasoning) | +1.0 | +0.80 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B wins by clarifying and defending the "most"/institutional-design distinction as the motion's core, exposing the ratchet risk to human hours, and showing why quality of perceived connection outweighs raw hours. Side A offered pragmatic crisis response but never supplied...
+- **Grok 4.20 0309 (Reasoning)**: Side B wins by clarifying and defending the "most"/institutional-design distinction as the motion's core, exposing the ratchet risk to human hours, and showing why quality of perceived connection outweighs raw hours. Side A offered pragmatic crisis response but never supplied...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions while reframing CON's 4h-AI scenario as exactly why the "most" line must be drawn, damaging CON's route to victory on safeguards.
 - **MiniMax-M2.7**: PRO (B) won a clear but competitive debate by framing the distinction that mattered most: supplement versus institutional replacement. PRO's opening established the three harms (dignity, institutional incentive, clinical irreplaceability) and held that line throughout. CON's s...
   Most decisive rebuttal noted: PRO's A2 response to the institutional safeguard question [B4.3] was the pivotal exchange. When pressed on what prevents budget cuts to human hours once AI is accepted, CON offered "tiered care regulation" without explaining its enforcement mechanism. PRO immediately identifie...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.1 | -1.17 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (high reasoning) | -1.1 | -1.17 | 7.0 |
 | MiniMax-M2.7 | Claude Opus 4.6 (high reasoning) | -0.7 | -0.93 | 7.0 |
 | Qwen3.5-397B-A17B | Gemini 3.1 Pro Preview | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A made the cleaner comparative case by stressing immediate loneliness in truly understaffed settings, the narrow meaning of "most" companionship already absent, and the internal contradiction in Side B's own regulatory proposal that can coexist with AI. Side B's incentive...
+- **Grok 4.20 0309 (Reasoning)**: Side A made the cleaner comparative case by stressing immediate loneliness in truly understaffed settings, the narrow meaning of "most" companionship already absent, and the internal contradiction in Side B's own regulatory proposal that can coexist with AI. Side B's incentive...
   Most decisive rebuttal noted: A's R2 and closing exposing that Side B's proposed staffing mandates would still function alongside AI, collapsing the slippery-slope claim.
 - **MiniMax-M2.7**: Side A (CON) built the stronger path to victory by consistently reframing the core tension in ways that undermined Side B's live routes to victory. Side B's diagnostic-observation argument (that human companions naturally catch subtle medical warning signs) was the most compel...
   Most decisive rebuttal noted: Side B's diagnostic-observation argument [B1.4, B2.6, B4.5]—that human companions naturally notice subtle non-verbal warning signs (facial droops, winces, lethargy) that AI cannot detect—was the most important live point in the debate. Side A partially addressed it by distingu...

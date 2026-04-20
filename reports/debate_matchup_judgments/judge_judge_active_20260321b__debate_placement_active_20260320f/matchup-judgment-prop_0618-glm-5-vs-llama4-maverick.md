@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GLM-5 | +4.5 | +4.00 | 8.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | +2.0 | +2.13 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | +2.0 | +2.13 | 6.0 |
 | Qwen3.5-397B-A17B | GLM-5 | +2.2 | +1.76 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A secures a dominant victory by systematically dismantling Side B's objections and extracting a fatal concession. Side A effectively neutralized Side B's concerns about humanities and economic factors through the practical mechanisms of field-adjusted metrics and relative...
   Most decisive rebuttal noted: Side A's Closing brilliantly capitalized on Side B's fatal concessions from Rebuttal 2, finalizing the argument that imperfect accountability is definitively better than no accountability.
-- **Grok 4.20 Beta 0309 (Reasoning)**: PRO built the clearer path by forcing and then capitalizing on CON's explicit concessions that the status quo has no financial penalty for failure to graduate and does not protect vulnerable students. PRO repeatedly weighed that imperfect outcome accountability beats zero acco...
+- **Grok 4.20 0309 (Reasoning)**: PRO built the clearer path by forcing and then capitalizing on CON's explicit concessions that the status quo has no financial penalty for failure to graduate and does not protect vulnerable students. PRO repeatedly weighed that imperfect outcome accountability beats zero acco...
   Most decisive rebuttal noted: PRO's R2 and closing directly quoted and leveraged CON's R2 admission of no current financial penalty and failure to protect vulnerable students, collapsing CON's equity and accountability objections.
 - **Qwen3.5-397B-A17B**: Side B won by securing a critical concession on the core mechanism of the status quo. In Rebuttal 2, Side A admitted there is "no specific financial mechanism" penalizing universities for student failure under current enrollment funding, validating Side B's central premise tha...
   Most decisive rebuttal noted: Side B's Rebuttal 2 was decisive. It directly answered Pressure Questions with A1/A2 formatting, explained the relative comparison mechanism to address external factors, and highlighted Side A's failure to identify existing financial penalties, cementing the accountability adv...
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | GLM-5 | -2.8 | -2.49 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GLM-5 | -2.0 | -2.13 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GLM-5 | -2.0 | -2.13 | 7.0 |
 | Qwen3.5-397B-A17B | GLM-5 | -2.5 | -2.00 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B decisively won by identifying severe practical flaws in the proposition's metrics (incentivizing grade inflation, punishing schools that serve disadvantaged students, and penalizing low-paying but valuable careers) and forcing Side A into damaging concessions. When Side...
   Most decisive rebuttal noted: Side B's second rebuttal, which masterfully caught Side A in a trap: if transparency prevents gaming, the status quo is fine; if it doesn't, Side A's model fails.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by repeatedly showing PRO's own answers (weighted metrics, exceptions, multiple metrics, transparency that already exists) contradicted their opening claim of a "straightforward" policy and failed to defend the proposition as written. B's direct rebuttals neutralize...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by repeatedly showing PRO's own answers (weighted metrics, exceptions, multiple metrics, transparency that already exists) contradicted their opening claim of a "straightforward" policy and failed to defend the proposition as written. B's direct rebuttals neutralize...
   Most decisive rebuttal noted: B's Rebuttal 2 exposing that every PRO fix undermines the original simple metric, collapsing the case into the very complexity it promised to avoid.
 - **Qwen3.5-397B-A17B**: Side A won by successfully arguing that Side B abandoned the specific proposition in favor of a modified model requiring exceptions and nuance. Side A's core claim—that the proposed metrics create perverse incentives for grade inflation and cream-skimming admissions—was never...
   Most decisive rebuttal noted: Side A Rebuttal 2 (Turn 8) was decisive. It directly answered Side B's pressure questions while highlighting that Side B's reliance on transparency and multiple metrics contradicted their opening promise of a straightforward accountability model. This crystallized the clash ar...

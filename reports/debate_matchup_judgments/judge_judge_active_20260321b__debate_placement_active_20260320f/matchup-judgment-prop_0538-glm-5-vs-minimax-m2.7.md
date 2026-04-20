@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | -1.5 | -2.09 | 6.0 |
 | GPT-5.4 (high reasoning) | MiniMax-M2.7 | -1.0 | -1.10 | 3.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | -1.8 | -1.92 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | -1.8 | -1.92 | 6.0 |
 
 ### Judge Notes
 
@@ -42,7 +42,7 @@
   Most decisive rebuttal noted: Side B's harm-reversal on safety in Rebuttal 2 (A1): "when legitimate repair shops can purchase genuine parts and proper documentation, repairs become SAFER. The current system drives repairs underground, where technicians work without proper tools or training." This directly...
 - **GPT-5.4 (high reasoning)**: A wins on overall burden and continuity. B’s later speeches were sharper—especially on safety and the weakness of relying on revocable corporate programs—but B lost its opening and first rebuttal entirely, so the affirmative never fully built the positive case a national law r...
   Most decisive rebuttal noted: A’s scope/implementation push was ultimately most decisive: modern electronics repair involves software locks, component pairing, and diagnostic authorization, so B’s “reasonable access for purchase” answer never fully showed a workable national mandate.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A (CON) wins by establishing a consistent case on IP transfer, safety accountability gaps, and implementation complexity that B never neutralized. B's missed opening/rebuttal1 created an execution deficit; their late pressure answers were responsive but rested on auto ana...
+- **Grok 4.20 0309 (Reasoning)**: Side A (CON) wins by establishing a consistent case on IP transfer, safety accountability gaps, and implementation complexity that B never neutralized. B's missed opening/rebuttal1 created an execution deficit; their late pressure answers were responsive but rested on auto ana...
   Most decisive rebuttal noted: A's A1/A2 in Rebuttal 2 exposing why spec-sharing worsens counterfeiting at scale and why auto-electronics analogy fails on firmware pairing.
 
 ## Debate B
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | MiniMax-M2.7 | +2.5 | +3.48 | 5.0 |
 | GPT-5.4 (high reasoning) | MiniMax-M2.7 | +3.0 | +3.31 | 6.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | MiniMax-M2.7 | +1.7 | +1.81 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | MiniMax-M2.7 | +1.7 | +1.81 | 6.0 |
 
 ### Judge Notes
 
@@ -66,5 +66,5 @@
   Most decisive rebuttal noted: PRO's Rebuttal 2 answering the uncertified-battery safety objection: PRO turned CON's strongest live argument by noting (a) India already certifies automotive and pharmaceutical components through established standards bodies, providing a workable template, and (b) the status...
 - **GPT-5.4 (high reasoning)**: B wins clearly. A forfeited its opening and first rebuttal, so its only real path arrived late as a safety/enforcement objection. B answered that directly: the status quo already drives consumers into unsafe grey-market repair, so legal access to certified parts, tools, and do...
   Most decisive rebuttal noted: B’s most decisive rebuttal was that A compared an imperfect right-to-repair regime to an unrealistically safe status quo: if unsafe unofficial repairs already exist because authorized repair is inaccessible, certified independent repair under a law is more likely to reduce saf...
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins on stronger early framing of consumer harm/ownership, direct A1/A2 answers to pressure, and neutralization of late CON safety claims via status-quo comparison and regulatory precedent; A's missing opening + Rebuttal 1 are decisive execution costs that left their route u...
+- **Grok 4.20 0309 (Reasoning)**: B wins on stronger early framing of consumer harm/ownership, direct A1/A2 answers to pressure, and neutralization of late CON safety claims via status-quo comparison and regulatory precedent; A's missing opening + Rebuttal 1 are decisive execution costs that left their route u...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answers both pressure questions on safety/liability and capacity with concrete comparisons to existing Indian certification regimes and EU outcomes, collapsing CON's "concrete harm" into manageable design issues.

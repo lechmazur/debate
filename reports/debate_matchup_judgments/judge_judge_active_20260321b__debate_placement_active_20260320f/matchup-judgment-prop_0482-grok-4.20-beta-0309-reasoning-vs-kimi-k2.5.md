@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0482__grok-4.20-beta-0309-reasoning__kimi-k2.5__tpl_placement_active_20260320f`
 - topic_id: `prop_0482`
-- matchup: **Grok 4.20 Beta 0309 (Reasoning)** vs **Kimi K2.5 Thinking**
+- matchup: **Grok 4.20 0309 (Reasoning)** vs **Kimi K2.5 Thinking**
 - overall judged result (normalized): **Kimi K2.5 Thinking**
 - overall judged result (raw): **Kimi K2.5 Thinking**
 - mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Grok 4.20 Beta 0309 (Reasoning)`: `-1.12`
+- mean signed normalized margin for `Grok 4.20 0309 (Reasoning)`: `-1.12`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0482__grok-4.20-beta-0309-reasoning__kimi-k2.5__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Kimi K2.5 Thinking**
-- [Debate B transcript](../../../transcripts/prop_0482__kimi-k2.5__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **Kimi K2.5 Thinking**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0482__grok-4.20-beta-0309-reasoning__kimi-k2.5__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Kimi K2.5 Thinking**
+- [Debate B transcript](../../../transcripts/prop_0482__kimi-k2.5__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **Kimi K2.5 Thinking**, CON = **Grok 4.20 0309 (Reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0482__grok-4.20-beta-0309-reasoning__kimi-k2.5__tpl_placement_active_20260320f` or topic `prop_0482`.
 
@@ -25,14 +25,14 @@
 
 - debate_id: `prop_0482__grok-4.20-beta-0309-reasoning__kimi-k2.5__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0482__grok-4.20-beta-0309-reasoning__kimi-k2.5__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Reasoning)**, CON = **Kimi K2.5 Thinking**
+- roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Kimi K2.5 Thinking**
 - judged result: Split `2-1` for **Kimi K2.5 Thinking**.
 - entertainment scores: `7`, `8`, `7`
 - mean signed raw margin (PRO+): `-0.73`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 Beta 0309 (Reasoning) | +1.5 | +2.09 | 7.0 |
+| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 0309 (Reasoning) | +1.5 | +2.09 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.2 | -1.96 | 8.0 |
 | Qwen3.5-397B-A17B | Kimi K2.5 Thinking | -1.5 | -1.20 | 7.0 |
 
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0482__kimi-k2.5__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0482__kimi-k2.5__grok-4.20-beta-0309-reasoning__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Kimi K2.5 Thinking**, CON = **Grok 4.20 Beta 0309 (Reasoning)**
+- roles: PRO = **Kimi K2.5 Thinking**, CON = **Grok 4.20 0309 (Reasoning)**
 - judged result: Unanimous `3-0` for **Kimi K2.5 Thinking**.
 - entertainment scores: `7`, `8`, `8`
 - mean signed raw margin (PRO+): `+1.90`

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.1 | -1.10 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by clarifying the decisive clash: CON's core harm is unfalsifiable yet used to justify default exclusion, while courts already manage exceptions case-by-case and transparency via cameras provides unmediated democratic accountability that transcripts and summaries ca...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by clarifying the decisive clash: CON's core harm is unfalsifiable yet used to justify default exclusion, while courts already manage exceptions case-by-case and transparency via cameras provides unmediated democratic accountability that transcripts and summaries ca...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions, symmetrized unmeasurability, and reframed CON's test as a blank check for restriction.
 - **Kimi K2.5 Thinking**: CON won by demonstrating that the motion proposes a qualitative shift from open to broadcast proceedings, introducing distinct risks to trial accuracy that cannot be adequately managed through PRO's exceptions framework. CON successfully showed that behavioral chilling affects...
   Most decisive rebuttal noted: CON's response to PRO's transcript analogy (Turn 4, A2.3), distinguishing between the human impact of being quoted in text versus having one's face, voice, and emotional demeanor become indefinitely replayable video content, which undermined PRO's claim that cameras merely dup...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.60 | 7.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | -1.6 | -1.60 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | -1.5 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: B won by clarifying "most proceedings" allows targeted limits while showing CON overgeneralized hard cases into a pervasive ban; B's managed-transparency vs. mediated-opacity frame survived the exchange and better weighed accountability against manageable risks.
+- **Grok 4.20 0309 (Reasoning)**: B won by clarifying "most proceedings" allows targeted limits while showing CON overgeneralized hard cases into a pervasive ban; B's managed-transparency vs. mediated-opacity frame survived the exchange and better weighed accountability against manageable risks.
   Most decisive rebuttal noted: B's R1 and R2 directly neutralized CON's chilling-effect examples by noting many non-jury proceedings and existing protective mechanisms, leaving CON's "accumulation of exceptions" claim as repetition without new weighing.
 - **Kimi K2.5 Thinking**: CON (Side A) won by demonstrating that cameras introduce systemic behavioral distortions—witness chilling, performative advocacy, and juror intimidation—that occur at the source before any "management" can intervene. The decisive turn was CON's reframing of PRO's "managed tran...
   Most decisive rebuttal noted: CON's distinction between checkability and clipability (A4.4), demonstrating that while transcripts provide a checkable record for motivated citizens, cameras uniquely enable decontextualized clipping by unaccountable social media users, thereby undermining rather than enhanci...

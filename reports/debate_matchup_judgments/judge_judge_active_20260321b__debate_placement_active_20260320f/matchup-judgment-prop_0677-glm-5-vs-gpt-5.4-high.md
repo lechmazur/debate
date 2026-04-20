@@ -32,14 +32,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | -1.0 | -1.39 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.60 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 6.0 |
 
 ### Judge Notes
 
 - **Claude Sonnet 4.6 (high reasoning)**: Both sides argued capably, but CON edged out the exchange on the decisive late-round clash. PRO's most sustained rhetorical weapon was the "contradiction": if disclosure is worthless boilerplate, why would employers restructure to avoid triggering it? CON answered this cleanly...
   Most decisive rebuttal noted: CON's A1 in Rebuttal 2 resolving the "contradiction" charge: CON correctly distinguished between a notice being low-value to workers and being costly to firms, showing the two claims are compatible rather than self-defeating. PRO had built its late-round case around this alleg...
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON wins by showing the mandated notice is too generic to empower workers and too vague to enforce cleanly in layered software workflows; PRO's contradiction point is answered (low-value yet still risky) and PRO ultimately leans on regulators/audits rather than the notice itse...
+- **Grok 4.20 0309 (Reasoning)**: CON wins by showing the mandated notice is too generic to empower workers and too vague to enforce cleanly in layered software workflows; PRO's contradiction point is answered (low-value yet still risky) and PRO ultimately leans on regulators/audits rather than the notice itse...
   Most decisive rebuttal noted: CON's rebuttal of the "essential predicate" claim (notice adds little actionable info and PRO shifts to audits/whistleblowers) damages PRO's transparency route most directly.
 - **Kimi K2.5 Thinking**: CON wins by exposing a fatal dilemma in PRO's disclosure mandate: in complex, software-saturated workflows, "meaningful influence" is either indeterminate (leading to boilerplate warnings workers ignore) or easily gamed (via managerial rubber-stamps). PRO's "prerequisite for r...
   Most decisive rebuttal noted: CON's answer to PRO's pressure question Q1 (A3.1), distinguishing that disclosure can be low-value to workers yet high-cost to firms (litigation/reputational risk), thereby neutralizing the "if worthless, why evade?" catch-22 without contradiction.

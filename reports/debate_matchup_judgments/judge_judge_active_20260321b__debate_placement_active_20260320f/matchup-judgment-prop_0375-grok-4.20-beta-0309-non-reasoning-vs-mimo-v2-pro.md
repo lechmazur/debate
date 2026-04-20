@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260321b__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0375__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__tpl_placement_active_20260320f`
 - topic_id: `prop_0375`
-- matchup: **Grok 4.20 Beta 0309 (Non-Reasoning)** vs **Xiaomi MiMo V2 Pro**
-- overall judged result (normalized): **Grok 4.20 Beta 0309 (Non-Reasoning)**
-- overall judged result (raw): **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- matchup: **Grok 4.20 0309 (Non-Reasoning)** vs **Xiaomi MiMo V2 Pro**
+- overall judged result (normalized): **Grok 4.20 0309 (Non-Reasoning)**
+- overall judged result (raw): **Grok 4.20 0309 (Non-Reasoning)**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Grok 4.20 Beta 0309 (Non-Reasoning)`: `+0.47`
+- mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: `+0.47`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0375__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
-- [Debate B transcript](../../../transcripts/prop_0375__mimo-v2-pro__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **Xiaomi MiMo V2 Pro**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0375__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
+- [Debate B transcript](../../../transcripts/prop_0375__mimo-v2-pro__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md): PRO = **Xiaomi MiMo V2 Pro**, CON = **Grok 4.20 0309 (Non-Reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0375__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__tpl_placement_active_20260320f` or topic `prop_0375`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0375__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0375__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.20 Beta 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
-- judged result: Unanimous `3-0` for **Grok 4.20 Beta 0309 (Non-Reasoning)**.
+- roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
+- judged result: Unanimous `3-0` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `6`, `8`, `7`
 - mean signed raw margin (PRO+): `+1.73`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.2 | +1.67 | 6.0 |
-| Gemini 3.1 Pro Preview | Grok 4.20 Beta 0309 (Non-Reasoning) | +2.8 | +2.49 | 8.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Non-Reasoning) | +1.2 | +1.20 | 7.0 |
+| Claude Sonnet 4.6 (high reasoning) | Grok 4.20 0309 (Non-Reasoning) | +1.2 | +1.67 | 6.0 |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | +2.8 | +2.49 | 8.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Non-Reasoning) | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0375__mimo-v2-pro__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0375__mimo-v2-pro__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Xiaomi MiMo V2 Pro**, CON = **Grok 4.20 Beta 0309 (Non-Reasoning)**
+- roles: PRO = **Xiaomi MiMo V2 Pro**, CON = **Grok 4.20 0309 (Non-Reasoning)**
 - judged result: Split `2-1` for **Xiaomi MiMo V2 Pro**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `+0.80`
@@ -58,7 +58,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2 Pro | +1.0 | +1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2 Pro | +2.5 | +2.22 | 7.0 |
-| Kimi K2.5 Thinking | Grok 4.20 Beta 0309 (Non-Reasoning) | -1.1 | -1.10 | 7.0 |
+| Kimi K2.5 Thinking | Grok 4.20 0309 (Non-Reasoning) | -1.1 | -1.10 | 7.0 |
 
 ### Judge Notes
 

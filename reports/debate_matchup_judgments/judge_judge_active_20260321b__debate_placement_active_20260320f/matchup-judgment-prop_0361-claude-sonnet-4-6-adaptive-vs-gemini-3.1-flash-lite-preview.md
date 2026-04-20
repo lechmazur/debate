@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | MiniMax-M2.7 | Claude Sonnet 4.6 (high reasoning) | +1.3 | +1.73 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | +1.0 | +0.80 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B built a clearer live route to victory by centering the live pattern of challenges (history/LGBTQ books without graphic content) that CON never squared with its "it's the depictions not the identities" claim; B directly answered both pressure questions in the required fo...
+- **Grok 4.20 0309 (Reasoning)**: Side B built a clearer live route to victory by centering the live pattern of challenges (history/LGBTQ books without graphic content) that CON never squared with its "it's the depictions not the identities" claim; B directly answered both pressure questions in the required fo...
   Most decisive rebuttal noted: B's Rebuttal 2 (and closing) on the persistent pattern mismatch, which A never neutralized despite four opportunities to explain it.
 - **MiniMax-M2.7**: Side B won on the decisive issue: the pattern of targeted books. From the opening, B established that the targets—books about slavery, racial history, LGBTQ teenagers not depicting explicit content—don't match CON's claimed concern about sexual explicitness. A never adequately...
   Most decisive rebuttal noted: B's pressure questions at Turn 5 exposed A's vulnerability on two fronts simultaneously: (1) how does coordinated campaign + local board approval = genuine community judgment, and (2) why do non-sexually-explicit books about identity and history dominate challenge lists if con...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.60 | 7.0 |
 | MiniMax-M2.7 | Claude Sonnet 4.6 (high reasoning) | -0.6 | -0.80 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (high reasoning) | -1.0 | -0.80 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by exploiting the motion's own concession on age-inappropriate titles, offering a clear administrable threshold (oversight too far only when it bypasses formal review), and directly neutralizing B's chilling-effect and minority arguments as calls for better enforce...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by exploiting the motion's own concession on age-inappropriate titles, offering a clear administrable threshold (oversight too far only when it bypasses formal review), and directly neutralizing B's chilling-effect and minority arguments as calls for better enforce...
   Most decisive rebuttal noted: A's Turn 8 reframing of B's chilling-effect pressure as institutional failure (not proof challenges went too far) and the circular "broaden vs shrink" standard decisively damaged B's live route to victory.
 - **MiniMax-M2.7**: CON (Side A) won a narrow but real victory by maintaining a coherent analytical framework throughout the debate. While PRO's "chilling effect" argument had genuine rhetorical force and the access-inequality point for underserved students was compelling, CON consistently presse...
   Most decisive rebuttal noted: Side A's Rebuttal 2 at [A4.7] and [A4.8], where CON systematically dismantled PRO's threshold standards by showing that "professional curation" defers to credentialed insiders and "broadening access" renders all removals suspect. CON then crystallized the asymmetry: CON offere...

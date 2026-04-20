@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (no reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | +1.5 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side B won by establishing the unique continuous behavioral effect of predators that CON conceded no cost-effective alternative reproduces, reframing fairness as mitigation-plus-restoration rather than a local veto, and maintaining tighter comparison/weighing across rounds des...
+- **Grok 4.20 0309 (Reasoning)**: Side B won by establishing the unique continuous behavioral effect of predators that CON conceded no cost-effective alternative reproduces, reframing fairness as mitigation-plus-restoration rather than a local veto, and maintaining tighter comparison/weighing across rounds des...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answered pressure questions then used CON's own admission of no behavioral substitute to collapse the CON case in the closing.
 - **Kimi K2.5 Thinking**: Side A wins because Side B conceded the core ecological premise that there is "no known, cost-effective substitute" for the continuous behavioral effects of apex predators [B4.1-B4.2]. This admission validated Side A's argument that predators represent a unique, missing ecolog...
   Most decisive rebuttal noted: Side A's identification and exploitation of Side B's concession in Rebuttal 2 that there is no cost-effective substitute for the continuous top-down behavioral pressure of predators [B4.1-B4.2], which Side A crystallized in the closing as proof that the so-called alternatives...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.7 | -1.81 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | GPT-5.4 (no reasoning) | -1.7 | -1.81 | 7.0 |
 | Kimi K2.5 Thinking | GPT-5.4 (no reasoning) | -1.8 | -1.80 | 6.0 |
 | Qwen3.5-397B-A17B | GPT-5.4 (no reasoning) | -1.8 | -1.44 | 8.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: CON wins by showing PRO retreated from the motion's blunt "even when communities object" to a conditional, selective framework with thresholds, pilots, and "functional consent" that matches CON's position. CON's rebuttals neutralized the trophic-cascade overclaim and highlight...
+- **Grok 4.20 0309 (Reasoning)**: CON wins by showing PRO retreated from the motion's blunt "even when communities object" to a conditional, selective framework with thresholds, pilots, and "functional consent" that matches CON's position. CON's rebuttals neutralized the trophic-cascade overclaim and highlight...
   Most decisive rebuttal noted: A's R2 directly framing B's own A1/A2 answers as a concession that legitimacy requires buy-in, collapsing the motion's coercive core.
 - **Kimi K2.5 Thinking**: Side B wins by exposing that Side A retreated from the motion as written. The proposition requires defending reintroduction "even when rural communities... object," yet Side A's "calibrated risk-benefit threshold" and reliance on building "functional consent" through revenue-s...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (B4) and Closing (B5) exposing that Side A's "calibrated" safeguards and need for "functional consent" concede the debate by abandoning the motion's requirement to proceed "even when they object."

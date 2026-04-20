@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Opus 4.6 (no reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Opus 4.6 (no reasoning) | +1.2 | +1.20 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Opus 4.6 (no reasoning) | +2.0 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: A made the clearer comparative case by separating brand-driven distortion (conceded by B as causing suboptimal prescribing) from condition awareness that needs no brands. A answered B's pressures directly with mechanisms from other countries and channel-specific vulnerability;...
+- **Grok 4.20 0309 (Reasoning)**: A made the clearer comparative case by separating brand-driven distortion (conceded by B as causing suboptimal prescribing) from condition awareness that needs no brands. A answered B's pressures directly with mechanisms from other countries and channel-specific vulnerability;...
   Most decisive rebuttal noted: A's R2 and closing on B's suboptimal-shift concession plus "awareness without anchoring" reframe materially damaged B's net-benefit claim.
 - **Kimi K2.5 Thinking**: Side A established that mass-media pharmaceutical advertising causes suboptimal prescribing (conceded by B in B2.6) and successfully separated the benefit of disease awareness from the mechanism of brand-name promotion, showing that awareness campaigns do not require commercia...
   Most decisive rebuttal noted: Side A's first rebuttal (A2.2) dismantling the physician autonomy defense by noting the economic irrationality of massive advertising expenditure if physicians were truly immune to patient pressure, which forced B to concede that advertising does shift prescriptions suboptimal...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.2 | +1.28 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (no reasoning) | +1.2 | +1.28 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (no reasoning) | +1.8 | +1.80 | 7.0 |
 | Qwen3.5-397B-A17B | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by clarifying the structural incoherence between prescription gatekeeping and consumer demand generation, showing the branded/unbranded distinction is workable in practice and directly answering both pressure questions with surgical responses. Side B's under-treatm...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by clarifying the structural incoherence between prescription gatekeeping and consumer demand generation, showing the branded/unbranded distinction is workable in practice and directly answering both pressure questions with surgical responses. Side B's under-treatm...
   Most decisive rebuttal noted: A's Rebuttal 2 A1/A2 directly dismantled the regulatory-arbitrariness and "target the wrong variable" pressures while sharpening the drunk-driving analogy against B's untreated-disease framing.
 - **Kimi K2.5 Thinking**: Side A (PRO) successfully established that DTC advertising structurally undermines the prescription system's logic by manufacturing demand for specific branded products, creating a conflict between commercial persuasion and clinical judgment. They effectively rebutted Side B's...
   Most decisive rebuttal noted: Side A's response to Side B's physician firewall argument in Rebuttal 2 (A1/A2), where they explained that removing advertising is the surgical solution to artificial demand, contrasting mandatory prescribing protocols (blunt instruments that constrain physician judgment) with...

@@ -33,14 +33,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | +2.0 | +1.78 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | +1.5 | +1.60 | 6.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | +1.6 | +1.60 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side A wins by drawing a decisive, consistently applied distinction between assessing financial capacity (which belongs in underwriting/debt-to-income analysis) and assessing financial behavior (which is what credit reports do). Side B relies heavily on the argument that medic...
   Most decisive rebuttal noted: Side A's Rebuttal 1 and Rebuttal 2 sequence systematically dismantled Side B's capacity argument by categorizing it as an underwriting metric rather than a behavioral history, effectively neutralizing Side B's primary impact.
-- **Grok 4.20 Beta 0309 (Reasoning)**: Side A wins by maintaining a clear category-error distinction: credit reports predict voluntary behavioral patterns, not illness-driven events; industry reduction in weight shows medical debt adds noise, not signal. Side B conflates capacity (underwriting) with behavioral hist...
+- **Grok 4.20 0309 (Reasoning)**: Side A wins by maintaining a clear category-error distinction: credit reports predict voluntary behavioral patterns, not illness-driven events; industry reduction in weight shows medical debt adds noise, not signal. Side B conflates capacity (underwriting) with behavioral hist...
   Most decisive rebuttal noted: A's Rebuttal 2 directly answered B's pressure on industry retention by showing partial weight still concedes distortion, sharpening voluntary vs. any-debt clash.
 - **Kimi K2.5 Thinking**: Side A wins by establishing and defending the conceptual distinction between behavioral prediction (credit reports) and capacity assessment (underwriting). Side A demonstrated that credit reports function as instruments tracking voluntary financial commitments and repayment pa...
   Most decisive rebuttal noted: Side A's identification that Side B's "total debt burden" argument collapses credit reporting into a comprehensive liability registry rather than a behavioral instrument, exposing that Side B was defending a different financial tool than the one at issue (A4.5-A4.6, A5.2).
@@ -57,14 +57,14 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (high reasoning) | -2.8 | -2.49 | 7.0 |
-| Grok 4.20 Beta 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -2.1 | -2.24 | 7.0 |
+| Grok 4.20 0309 (Reasoning) | Claude Sonnet 4.6 (high reasoning) | -2.1 | -2.24 | 7.0 |
 | Kimi K2.5 Thinking | Claude Sonnet 4.6 (high reasoning) | -1.8 | -1.80 | 7.0 |
 
 ### Judge Notes
 
 - **Gemini 3.1 Pro Preview**: Side B wins by cleanly separating the involuntary origin of a medical crisis from the voluntary behavior of managing the resulting debt. Side A relies heavily on the moral unfairness of the healthcare system, but Side B successfully counters that lenders are measuring financia...
   Most decisive rebuttal noted: Side B's A1 in Rebuttal 2, which neutralizes Side A's point about systemic failures making repayment impossible by noting that a lender still has a critical need to know if a borrower has an unresolvable $50,000 liability.
-- **Grok 4.20 Beta 0309 (Reasoning)**: B wins by clarifying the central distinction between illness (unchosen) and post-illness behavior (chosen and predictive). CON consistently met burden to show medical debt carries signal about repayment management, shifted the debate to empirical prediction over moral framing,...
+- **Grok 4.20 0309 (Reasoning)**: B wins by clarifying the central distinction between illness (unchosen) and post-illness behavior (chosen and predictive). CON consistently met burden to show medical debt carries signal about repayment management, shifted the debate to empirical prediction over moral framing,...
   Most decisive rebuttal noted: B2.1-B2.10 and B4.1-B4.9: directly dismantled "non-behavioral marker" and "noise" claims while exposing PRO's voluntary/involuntary line as moral rather than predictive.
 - **Kimi K2.5 Thinking**: CON wins by successfully reframing the debate around post-crisis behavior rather than crisis origin. While PRO argued that medical debt is involuntary "noise," CON demonstrated that credit reporting measures how borrowers manage obligations after they arise—behavior that remai...
   Most decisive rebuttal noted: B4 (Rebuttal 2), where CON directly answered the pressure questions by exposing PRO's burden inversion on predictive value, distinguishing empirical credit assessment from moral healthcare critique, and highlighting the unanswered redistribution cost.
