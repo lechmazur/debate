@@ -17,7 +17,7 @@
 ## Source Links
 
 - [Debate A transcript](../../../transcripts/prop_0645__glm-5__gpt-5.4-high__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **GPT-5.4 (high reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0645__gpt-5.4-high__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **GLM-5**
+- Debate B transcript (transcript omitted from public bundle): PRO = **GPT-5.4 (high reasoning)**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0645__glm-5__gpt-5.4-high__tpl_placement_active_20260320f` or topic `prop_0645`.
 
@@ -48,7 +48,7 @@
 ## Debate B
 
 - debate_id: `prop_0645__gpt-5.4-high__glm-5__s1__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0645__gpt-5.4-high__glm-5__s1__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **GPT-5.4 (high reasoning)**, CON = **GLM-5**
 - judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
 - entertainment scores: `5`, `6`, `5`

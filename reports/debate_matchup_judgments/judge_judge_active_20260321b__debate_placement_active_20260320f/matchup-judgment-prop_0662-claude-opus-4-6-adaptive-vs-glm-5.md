@@ -16,7 +16,7 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0662__claude-opus-4-6-adaptive__glm-5__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.6 (high reasoning)**, CON = **GLM-5**
+- Debate A transcript (transcript omitted from public bundle): PRO = **Claude Opus 4.6 (high reasoning)**, CON = **GLM-5**
 - [Debate B transcript](../../../transcripts/prop_0662__glm-5__claude-opus-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **Claude Opus 4.6 (high reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0662__claude-opus-4-6-adaptive__glm-5__tpl_placement_active_20260320f` or topic `prop_0662`.
@@ -24,7 +24,7 @@
 ## Debate A
 
 - debate_id: `prop_0662__claude-opus-4-6-adaptive__glm-5__s0__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0662__claude-opus-4-6-adaptive__glm-5__s0__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **Claude Opus 4.6 (high reasoning)**, CON = **GLM-5**
 - judged result: Unanimous `3-0` for **Claude Opus 4.6 (high reasoning)**.
 - entertainment scores: `5`, `5`, `4`

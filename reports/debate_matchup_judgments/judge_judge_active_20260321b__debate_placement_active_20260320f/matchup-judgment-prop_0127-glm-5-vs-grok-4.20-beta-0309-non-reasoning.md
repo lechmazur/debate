@@ -17,7 +17,7 @@
 ## Source Links
 
 - [Debate A transcript](../../../transcripts/prop_0127__glm-5__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **Grok 4.20 0309 (Non-Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0127__grok-4.20-beta-0309-non-reasoning__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **GLM-5**
+- Debate B transcript (transcript omitted from public bundle): PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0127__glm-5__grok-4.20-beta-0309-non-reasoning__tpl_placement_active_20260320f` or topic `prop_0127`.
 
@@ -48,7 +48,7 @@
 ## Debate B
 
 - debate_id: `prop_0127__grok-4.20-beta-0309-non-reasoning__glm-5__s1__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0127__grok-4.20-beta-0309-non-reasoning__glm-5__s1__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **GLM-5**
 - judged result: Unanimous `3-0` for **Grok 4.20 0309 (Non-Reasoning)**.
 - entertainment scores: `6`, `7`, `7`

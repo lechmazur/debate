@@ -3,7 +3,7 @@
 - judge_template_id: `judge_active_20260321b`
 - debate_template_id: `placement_active_20260320f`
 - summary_model: `gpt-5.4-medium`
-- priority_roster: `/mnt/r/debate/rosters/qualitative_priority_debates.csv`
+- priority_roster: `rosters/qualitative_priority_debates.csv`
 - source: LLM summaries over saved full-transcript prompts, parsed from raw tagged outputs
 
 - parsed matchups: `19`

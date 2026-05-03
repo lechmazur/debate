@@ -16,15 +16,15 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0380__glm-5__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **Grok 4.20 0309 (Reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0380__grok-4.20-beta-0309-reasoning__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **GLM-5**
+- Debate A transcript (transcript omitted from public bundle): PRO = **GLM-5**, CON = **Grok 4.20 0309 (Reasoning)**
+- Debate B transcript (transcript omitted from public bundle): PRO = **Grok 4.20 0309 (Reasoning)**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0380__glm-5__grok-4.20-beta-0309-reasoning__tpl_placement_active_20260320f` or topic `prop_0380`.
 
 ## Debate A
 
 - debate_id: `prop_0380__glm-5__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0380__glm-5__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **GLM-5**, CON = **Grok 4.20 0309 (Reasoning)**
 - judged result: Unanimous `3-0` for **GLM-5**.
 - entertainment scores: `6`, `4`, `5`
@@ -48,7 +48,7 @@
 ## Debate B
 
 - debate_id: `prop_0380__grok-4.20-beta-0309-reasoning__glm-5__s1__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0380__grok-4.20-beta-0309-reasoning__glm-5__s1__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **GLM-5**
 - judged result: Unanimous `3-0` for **Grok 4.20 0309 (Reasoning)**.
 - entertainment scores: `4`, `5`, `5`

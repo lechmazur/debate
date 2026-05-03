@@ -14,17 +14,38 @@ Each evaluated matchup runs twice on the **same topic with sides swapped**. A th
 
 - Each bar is one model’s current **Bradley-Terry rating**.
 - Higher bars mean stronger judged debate performance.
-- The grey band behind each bar is the **plausible range** for that model’s rating.
-- The published order uses **Bradley-Terry**. Glicko-2 and rating deviation remain secondary diagnostics for scheduling and uncertainty, not the headline ranking.
+- Bradley-Terry is a relative within-pool rating centered near `1500`; it is not an absolute capability score.
+- The grey band behind each bar is the **95% robust confidence interval** for that model’s rating.
+- The published order uses **Bradley-Terry**.
 
 ---
 
 ## Current Snapshot
 
 - **22 rated models**
-- **1,273 completed debates in the current debate scope**
-- **653 rated side-swapped matchups in the clean aggregated slice**
-- **3,817 clean parsed judgment rows in that slice**
+- **1,273 completed debate artifacts in the current debate scope**
+- **653 side-swapped groups in the current status report before incomplete and excluded groups are removed**
+- **620 rating-eligible side-swapped matchups in the clean aggregated slice**
+- **1,240 clean rated debates and 3,718 parsed judgment rows in that slice**
+
+One side-swapped matchup means two debates on the same motion with PRO and CON roles reversed. Under a complete three-judge panel, that normally produces six judge rows across the two debates; the current clean slice is two parsed judge rows short of that maximum after filtering.
+
+The public transcript directory mirrors the clean completed debates that are safe to read directly. It currently has 1,253 transcript files because 20 completed judged debates are excluded from the public mirror after transcript-quality filtering.
+
+The stored rating table currently has 22 rated models. Most public chart views show the 20 chart-visible models after report-time suppression and chart-specific metadata filters.
+
+---
+
+## Reader Paths
+
+There are four useful ways to read this snapshot:
+
+1. **Fast ranking check**: start with the Bradley-Terry chart, then use the [full leaderboard table](#current-full-leaderboard) to see coverage for each model.
+2. **Design sanity check**: read the [pairwise heatmap](#pairwise-view), [judge sanity checks](#judge-sanity-checks), [cross-judge agreement heatmap](#cross-judge-agreement), [benchmark status](reports/debate_benchmark_status__judge_judge_active_20260321b__debate_placement_active_20260320f.md), [reliability diagnostics](#reliability-diagnostics), and [opinion-shift diagnostics](#opinion-shift-diagnostics) to see whether the headline ranking is being distorted by narrow matchups, judge disagreement, operational failures, or stance drift toward the side a model just argued.
+3. **Transcript-level read**: jump to the [worked examples](#worked-examples), then use the [matchup judgment index](reports/debate_matchup_judgments__judge_judge_active_20260321b__debate_placement_active_20260320f.md), [model profiles](reports/debate_model_profiles__judge_judge_active_20260321b__debate_placement_active_20260320f.md), and [qualitative comparison layer](#qualitative-comparison-layer) for broader transcript-driven patterns.
+4. **Quality/readability check**: use the [debate quality signal](#debate-quality-signal) and [entertainment report](reports/debate_entertainment_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md) to see which models produce debates judges found readable or engaging. This is diagnostic only and does not affect ratings.
+
+The chart bundle is meant to answer “who is ahead?” quickly. The worked examples and qualitative reports are meant to answer the more important follow-up: “what did the better debate actually look like?”
 
 ---
 
@@ -34,7 +55,10 @@ The pairwise heatmap shows how models perform against each other after aggregati
 
 ![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 
+Each cell is the mean signed judge margin for the row model over the column model. Positive blue cells favor the row model; negative red cells favor the column model. The number in parentheses is the count of completed side-swapped matchups for that head-to-head cell.
+
 The heatmap is most useful as a quick read on where the field is decisively separated and where it still is not. In the current snapshot, the biggest clean edges are mostly against Llama 4 Maverick, while the top cluster remains much tighter.
+Cells with only one or two matchups should be read as directional evidence rather than stable pairwise estimates.
 
 ---
 
@@ -105,13 +129,23 @@ This matters because debate ability can look very different on fiscal policy, ci
 
 ## What Stands Out
 
-The current picture is: one clear provisional leader, a still-crowded frontier just below it, family-dependent reasoning gains, and clearer separation in the lower half of the field than at the top.
+The current picture has one clear provisional leader, a still-crowded frontier just below it, family-dependent reasoning gains, and clearer separation in the lower half of the field than at the top.
 
 - **Claude Opus 4.7 currently leads the published board, but on narrower coverage than the most-established active models.** It sits at 1718.8 BT across 55 completed side-swapped matchups. That is a strong result, but it should still be read as less settled than the heavily-tested active cluster below it.
 - **The active-model frontier is still real and not fully settled.** The strongest active BT cluster is Claude Sonnet 4.6 (high reasoning), GPT-5.4 (high reasoning), Claude Opus 4.6 (high reasoning), Claude Sonnet 4.6 (no reasoning), and Gemini 3.1 Pro Preview. That group is still close enough that more data could reshuffle the middle.
-- **Reasoning mode is helping, but the size of the gain depends heavily on the family.** In the current snapshot, GPT-5.4 high reasoning beats GPT-5.4 no reasoning by about `66.9` BT points, Grok reasoning beats Grok non-reasoning by about `36.0`, Claude Opus 4.6 high reasoning beats Claude Opus 4.6 no reasoning by about `20.4`, and Claude Sonnet 4.6 high reasoning beats Claude Sonnet 4.6 no reasoning by about `19.7`.
+- **Reasoning mode is helping, but the size of the gain depends heavily on the family.** In the current snapshot, GPT-5.4 high reasoning beats GPT-5.4 no reasoning by about `62.0` BT points, Grok reasoning beats Grok non-reasoning by about `35.3`, Claude Sonnet 4.6 high reasoning beats Claude Sonnet 4.6 no reasoning by about `19.5`, and Claude Opus 4.6 high reasoning beats Claude Opus 4.6 no reasoning by about `19.2`.
 - **Judges are rewarding rebuttal quality and argument strength more than isolated style.** The top cluster is repeatedly described in the model profiles as disciplined, grounded, clash-driven, and responsive. Lower-ranked models often retain some mix of grounding, originality, or rhetorical effectiveness, but still lose because they underperform on rebuttal quality and argument strength.
-- **The clearest current blowouts are mostly in the lower part of the field, not at the frontier.** The largest average pairwise edges are still concentrated against Llama 4 Maverick, with Claude Opus 4.6 (high reasoning) over Llama 4 Maverick at `+3.10`, Kimi K2.5 Thinking over Llama 4 Maverick at `+2.96`, and GPT-5.4 (high reasoning) over Llama 4 Maverick at `+2.75`. That is another way of seeing that the bottom of the table is more separated than the top.
+- **The clearest current blowouts are mostly in the lower part of the field, not at the frontier.** The largest average pairwise edges are still concentrated against Llama 4 Maverick, with Claude Opus 4.6 (high reasoning) over Llama 4 Maverick at about `+3.1`, Kimi K2.5 Thinking over Llama 4 Maverick at about `+3.0`, and GPT-5.4 (high reasoning) over Llama 4 Maverick at about `+2.8`. That is another way of seeing that the bottom of the table is more separated than the top.
+
+---
+
+## Price vs. Performance
+
+The price chart reads the same Bradley-Terry strength signal against shared standard API list prices. The x-axis is input plus output USD per 1M tokens, so it is a simple list-price comparison rather than measured cost for this exact debate prompt shape.
+
+![Price versus performance](images/debate_price_vs_performance__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+Higher and further left is better on this view. Vertical grey bands show the same BT uncertainty interval as the main chart. Only models with price metadata are plotted.
 
 ---
 
@@ -137,20 +171,24 @@ So the headline unit is not “one debate,” but “one completed side-swapped 
 The benchmark relies on LLM judges, so it is worth being explicit about the current sanity checks:
 
 - the Bradley-Terry graph is connected
-- mean cross-judge winner agreement is 0.576
-- mean absolute presented-side margin bias by judge is 0.109
+- mean cross-judge winner agreement is 0.576, measured as the fraction of overlapping side-swapped matchup decisions where two judges picked the same winner
+- mean absolute presented-side margin bias by judge is 0.109 on the signed margin scale
 - the canonical parsed judgment table currently has 0 parse-warning rows
-- the current active judge pool includes Claude Sonnet 4.6 (high reasoning), GPT-5.4 (high reasoning), Gemini 3.1 Pro Preview, Grok 4.20 Beta 0309 (Reasoning), Qwen3.5-397B-A17B, and Kimi K2.5 Thinking, with some carried-over historical rows from MiniMax-M2.7
+- the active judge pool for new rows includes Claude Sonnet 4.6 (high reasoning), GPT-5.4 (high reasoning), Gemini 3.1 Pro Preview, Grok 4.20 Beta 0309 (Reasoning), Qwen3.5-397B-A17B, and Kimi K2.5 Thinking
+- the cumulative judge scope also contains carried-over historical rows from MiniMax-M2.7
 
 This does not make the judges perfect. But it does mean the current snapshot is not obviously being driven by parser chaos or a huge systematic side-presentation artifact.
+Panels are built from distinct model families and avoid same-family judges against the debaters when feasible.
 
 ---
 
 ## Cross-Judge Agreement
 
-The stored judge-agreement table is also rendered directly as a heatmap so it is easier to see which evaluators tend to move together and which pairs diverge more often.
+The judge-agreement data are also rendered directly as a heatmap so it is easier to see which evaluators tend to move together and which pairs diverge more often.
 
 ![Judge agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+Each off-diagonal cell is a judge-pair agreement rate; the number in parentheses is the count of overlapping side-swapped matchup groups. The diagonal cells are judge identifiers, not data cells. The heatmap uses the cumulative judge scope, so it includes carried-over MiniMax-M2.7 rows in addition to the current active judge pool.
 
 This is a sanity-check view, not a second leaderboard. It is there to make evaluator consistency visible rather than bury it inside one summary statistic.
 
@@ -162,13 +200,19 @@ The benchmark also tracks a judge-side entertainment/readability diagnostic as a
 
 - mean entertainment across complete side-swapped matchups: 7.11 / 10
 - most entertaining current models by that signal include Claude Opus 4.7 (high reasoning), Claude Sonnet 4.6 (high reasoning), Claude Sonnet 4.6 (no reasoning), and Kimi K2.5 Thinking
+
+High-entertainment matchup examples from the current scope:
+
 - Claude Opus 4.7 (high reasoning) vs Kimi K2.5 Thinking on space tourism under climate change and global poverty
 - Claude Opus 4.7 (high reasoning) vs Claude Sonnet 4.6 (no reasoning) on banning private cars from central city districts
 - Claude Opus 4.7 (high reasoning) vs Kimi K2.5 Thinking on permanent asteroid-deflection infrastructure
 
 This signal is diagnostic rather than decisive, but it helps show that the benchmark is producing debates judges generally find readable and engaging.
+For the chart-visible model table and example matchups, see the [current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md). That report hides report-time suppressed models by default, so its visible-matchup mean can differ slightly from the all-clean-slice mean above.
 
 ![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+In the scatter, the x-axis is BT, the y-axis is mean entertainment/readability score, bubble size is rated matchup coverage, and grey horizontal bands show BT uncertainty.
 
 Read against the main strength rating, this view separates three cases that a single leaderboard hides: models that are strong and lively, models that are strong but comparatively dry, and models that are readable or vivid without being top-tier debaters. Entertainment still stays diagnostic only; it does not feed the rating.
 
@@ -177,6 +221,7 @@ Read against the main strength rating, this view separates three cases that a si
 ## Best Lines
 
 The current transcript-highlights pass also surfaces lines that are worth quoting in their own right. A few of the strongest from the current scope:
+
 This is an LLM-selected post-run highlight pass, not a rating input and not human curation.
 
 1. Encryption backdoors, Claude Sonnet 4.6 (no reasoning): *"Children don't disappear in percentages. They disappear one at a time, in exactly these cases."*
@@ -190,29 +235,48 @@ This is an LLM-selected post-run highlight pass, not a rating input and not huma
 9. Algorithmic dynamic pricing, Qwen3.5-397B-A17B: *"You cannot reject a trap you cannot see."*
 10. Brexit and economic drag, GPT-5.4 (high reasoning): *"If two runners face the same storm and one is also carrying a backpack, the backpack still made him slower."*
 
-The full highlights report is linked below.
+Read the [full highlights report](reports/debate_highlights__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-low.md) for the longer ranked list and source debate links.
 
 ---
 
 ## Content Block Rate
 
 Content blocks reflect a distinct moderation/content-fragility problem rather than simple latency, parser trouble, or blank outputs.
+This is not an overall reliability or request-failure rate; blank outputs, parser failures, and request failures are tracked separately in the [current benchmark status](reports/debate_benchmark_status__judge_judge_active_20260321b__debate_placement_active_20260320f.md).
 
 ![Content block rate](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 
-In the current clean slice, Xiaomi MiMo V2 Pro is still the clear outlier at 9.6% of seen debates ending in a content block (`10 / 104`). The next highest rates are Grok 4.20 Beta 0309 (Non-Reasoning) at 3.8%, Kimi K2.5 Thinking at 2.2%, and Qwen3.5-397B-A17B at 1.9%. Most of the top raw-BT models are at or near zero on this specific measure, including both current GPT-5.4 variants, Claude Opus 4.6 (high reasoning), and ByteDance Seed2.0 Pro.
+In the broader seen-attempt denominator, including attempts that may not enter the clean rated slice, Xiaomi MiMo V2 Pro is still the clear outlier at 9.6% of seen debates ending in a content block (`10 / 104`). The next highest rates are Grok 4.20 Beta 0309 (Non-Reasoning) at 3.8%, Kimi K2.5 Thinking at 2.2%, and Qwen3.5-397B-A17B at 1.9%. Most of the highest-rated models are at or near zero on this specific measure, including both current GPT-5.4 variants, Claude Opus 4.6 (high reasoning), and ByteDance Seed2.0 Pro.
 
 ![Strength versus content blocks](images/debate_content_block_vs_strength__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 
-The scatter is useful because it separates "strong but occasionally brittle" from "strong and operationally clean." Xiaomi MiMo V2 Pro is the clearest upper-right outlier. Kimi K2.5 Thinking and Grok 4.20 Beta 0309 (Non-Reasoning) also show visible content-block exposure, while most frontier models cluster in the lower-right with much lower block rates.
+In the scatter, the x-axis is BT from the clean rated slice, while the y-axis is content-block share over broader seen debate attempts. Bubble size is rated side-swapped matchup coverage; grey horizontal bands show BT uncertainty.
+
+The scatter is useful because it separates "strong but occasionally brittle" from "strong and operationally clean." Xiaomi MiMo V2 Pro is the clearest high-block-rate outlier. Kimi K2.5 Thinking and Grok 4.20 Beta 0309 (Non-Reasoning) also show visible content-block exposure, while most frontier models cluster in the lower-right with much lower block rates.
 
 ---
+
+## Reliability Diagnostics
+
+Content blocks are only one operational failure mode. The reliability views show the broader availability picture: completed debates, content blocks, blank outputs, validation failures, request failures, and other terminal errors over seen debate attempts.
+
+![Strength versus reliability](images/debate_strength_vs_reliability__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+The dumbbell chart keeps raw BT as the headline quality score and shows how an availability-adjusted score would move when operational failures are penalized. Longer connectors mean a larger reliability penalty; they do not mean the completed debates were judged worse.
+
+![Reliability breakdown](images/debate_reliability_breakdown__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+The stacked breakdown is the best view when the question is what kind of operational issue occurred. In the status table, content blocks are a subset of terminal errors, so content-block rates use the availability table's seen-attempt denominator rather than adding the content-block count a second time.
+
+---
+
 ## Worked Examples
 
 If you want to jump straight into transcript pairs that are especially worth reading:
 
 - Frontier matchup: Claude Sonnet 4.6 (high reasoning) vs GPT-5.4 (high reasoning) on banning location-data sales. This is one of the best current top-tier matchups to read because the topic is strong, the execution is strong, and the side swap materially changes the picture. Mean entertainment across the pair: 7.83 / 10. Read [Debate A](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0541-claude-sonnet-4-6-adaptive-vs-gpt-5.4-high.md).
-- Most quotable current pair: MiniMax-M2.7 vs Qwen3.5-397B-A17B on algorithmic dynamic pricing. This is the sharpest current read if you want memorable lines rather than just benchmark hygiene, and it is essentially a dead heat with mean normalized margin 0.06. Read [Debate A](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md).
+- Clear separation example: GPT-5.4 (high reasoning) vs Llama 4 Maverick on forced-sterilization redress. This is a cleaner blowout where the stronger debater stays better as PRO and as CON. Read [Debate A](transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0214-gpt-5.4-high-vs-llama4-maverick.md).
+- Most quotable current pair: MiniMax-M2.7 vs Qwen3.5-397B-A17B on algorithmic dynamic pricing. This is the sharpest current read if you want memorable lines rather than just benchmark hygiene, and it is essentially a dead heat. Read [Debate A](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md).
 
 <details>
 <summary>Claude Sonnet 4.6 (high reasoning) vs GPT-5.4 (high reasoning) on banning location-data sales</summary>
@@ -307,6 +371,36 @@ Taken together, the two examples show why the benchmark runs each matchup twice.
 
 </details>
 
+<details>
+<summary>MiniMax-M2.7 vs Qwen3.5-397B-A17B on personalized dynamic pricing</summary>
+
+Motion: Retailers should be banned from using personalized algorithmic dynamic pricing based on a customer's perceived willingness or ability to pay.
+
+Full transcripts:
+
+- [Debate A: MiniMax-M2.7 as PRO, Qwen3.5-397B-A17B as CON](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
+- [Debate B: Qwen3.5-397B-A17B as PRO, MiniMax-M2.7 as CON](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md)
+- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260321b__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md)
+- [Current rolling judgment rows (search for `prop_0041`)](judgments/judge_results__judge_active_20260321b.csv)
+
+Judged result:
+
+- Debate A (`MiniMax PRO / Qwen CON`): split 2-1 for MiniMax-M2.7, with judge entertainment scores `7`, `8`, and `7`
+- Debate B (`Qwen PRO / MiniMax CON`): split 2-1 for Qwen3.5-397B-A17B, with judge entertainment scores `7`, `8`, and `7`
+- Across both side assignments: each model won 3 of 6 judge votes overall
+- Mean entertainment across the full side-swapped pair: 7.33 / 10
+- Mean signed normalized margin for MiniMax-M2.7: +0.06, effectively a dead heat
+
+Why this one is worth reading:
+
+- The same core clash appears from both sides: whether personalized pricing is vulnerability-based extraction or a way to discount for price-sensitive buyers.
+- MiniMax's strongest PRO move is the distinction between transparent opt-in discounts and hidden profiling. It argues that revenue optimization is not a poverty program, even when some users receive lower prices.
+- Qwen's strongest PRO move in the rematch is sharper and more compact: personalized pricing makes the public price private, so comparison shopping breaks at the exact moment consumers most need it.
+- MiniMax's CON case is also more precise in the rematch. It argues that the real injury is non-consensual data profiling, not the price response itself, and that privacy and consumer-protection rules can target that harm without banning legitimate discounts.
+- The result is a good example of a high-entertainment tie. Both models find live pressure points, both produce memorable lines, and neither side assignment fully settles the policy question.
+
+</details>
+
 ---
 
 ## Method Summary
@@ -350,9 +444,11 @@ For a selected model pair and topic:
 2. The same pair then debates the same proposition again with the sides reversed.
 3. Both full debate transcripts are stored.
 
+Each debate uses a 10-turn structure: PRO opening, CON opening, PRO rebuttal 1, CON rebuttal 1, PRO pressure questions, CON pressure questions, PRO rebuttal 2, CON rebuttal 2, PRO closing, and CON closing.
+
 ### Judging
 
-Each completed debate is judged by a three-model panel. The raw judge outputs are retained, then parsed into structured winner, margin, and diagnostic rubric fields. The rubric sub-scores are useful diagnostics, but the main published ranking comes from the final side-swapped matchup outcome, not from directly averaging rubric categories into the leaderboard.
+Each completed debate is intended to be judged by a three-model panel. The raw judge outputs are retained, then parsed into structured winner, margin, and diagnostic rubric fields. The rubric sub-scores are useful diagnostics, but the main published ranking comes from the final side-swapped matchup outcome, not from directly averaging rubric categories into the leaderboard.
 Panels are constructed from three distinct model families and, when feasible, avoid same-family judges against the debaters.
 
 The current judge roster in this snapshot is drawn from Claude Sonnet 4.6 (high reasoning), GPT-5.4 (high reasoning), Gemini 3.1 Pro Preview, Grok 4.20 Beta 0309 (Reasoning), Qwen3.5-397B-A17B, and Kimi K2.5 Thinking, with some earlier carried-over rows from MiniMax-M2.7 in the cumulative judge scope.
@@ -374,11 +470,31 @@ Taken together, this benchmark measures which models currently look strongest at
 
 ## Qualitative Comparison Layer
 
-The qualitative-comparison layer adds a curated set of transcript-driven writeups on top of the scored results. It focuses on strong side-swapped head-to-head pairs, combining a deterministic transcript-and-judge report with matchup summaries and a cross-pair synthesis.
+The [qualitative-comparison layer](reports/qualitative_model_comparisons__judge_judge_active_20260321b__debate_placement_active_20260320f.md) adds a selected set of transcript-driven writeups on top of the scored results. It focuses on strong side-swapped head-to-head pairs, combining a deterministic transcript-and-judge report with [matchup summaries](reports/qualitative_model_comparison_summaries__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md) and a [cross-pair synthesis](reports/qualitative_model_comparison_synthesis__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md).
 
 The current set covers 19 selected side-swapped groups, 38 debates, and 5 models. It is there to show how wins happen: recurring style differences, win conditions, pressure-round usage, and places where the transcripts are more nuanced than the topline result.
+It is a deliberately selected qualitative sample, not a representative subset and not a second leaderboard; win/loss counts in that report describe only the selected comparison set.
+Use this layer when the question is not just who won, but what transcript-level patterns produced the wins.
 
 **Claude Opus 4.7** stands out in that set for repeatedly narrowing each debate to one clean decision point and then closing on it. Against GPT-5.4, Gemini, Grok, and Kimi, the recurring pattern is early hinge selection followed by strong pressure conversion: "commitment versus silence" on support-lifespan labeling, upstream influence versus reactive alternatives on worker board seats, EMTALA-style administrability on clinicians refusing care, and what actually counts as diversification in Gulf-state development. 
+
+---
+
+## Opinion-Shift Diagnostics
+
+The [opinion-shift report](reports/debate_opinion_shift_report__judge_judge_active_20260321b__debate_placement_active_20260320f.md) is separate from the debate leaderboard. It uses fresh post-run stance probes of the participant model. "After arguing PRO/CON" means the model is shown the stored single-debate transcript in which it argued that side, then asked again for support on the motion.
+
+The support scale is `0` for strongest opposition, `50` for neutral, and `100` for strongest support. These charts do not affect BT ratings.
+
+Start with the magnitude-by-argued-side chart and the toward-own-argued-side chart:
+
+![Opinion-shift magnitude by argued side](images/debate_opinion_shift_mean_abs_by_argued_side__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+![Opinion-shift movement toward own argued side](images/debate_opinion_shift_mean_toward_argued_side__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+
+Use the mean-absolute charts to see how much a model moves, regardless of direction. Use the mean-signed and before-vs-after charts to see movement on the raw PRO-support scale. Signed drift should be read alongside before scores; because baseline support is often above neutral, negative drift can partly reflect movement back toward neutrality. Use the neutral-crossing charts to see how often a model crosses the neutral point. Use the toward-own-argued-side chart when the question is whether the model moved toward the side it personally argued; CON legs are sign-flipped there, so positive means movement toward the side the model argued, not necessarily higher PRO support.
+
+Opinion-shift coverage is smaller than the main rated slice because it requires before/after stance probes: the report has 566 visible side-swapped groups with at least one parsed shift, while the public argued-side charts cover 564 visible groups and 1,128 debate-leg exposures rather than the full 620 clean rated matchups.
 
 ---
 
@@ -398,6 +514,9 @@ The current set covers 19 selected side-swapped groups, 38 debates, and 5 models
 - [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current strength-vs-content-blocks chart](images/debate_content_block_vs_strength__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current strength-vs-reliability chart](images/debate_strength_vs_reliability__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current reliability-breakdown chart](images/debate_reliability_breakdown__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current price-vs-performance chart](images/debate_price_vs_performance__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current judge-agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current strength-vs-entertainment chart](images/debate_strength_vs_entertainment__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
@@ -409,11 +528,11 @@ The current set covers 19 selected side-swapped groups, 38 debates, and 5 models
 - [Current opinion-shift argued-CON mean-signed chart](images/debate_opinion_shift_mean_signed_after_arguing_con__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current opinion-shift argued-CON neutral-crossing chart](images/debate_opinion_shift_neutral_crossing_rate_after_arguing_con__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current opinion-shift argued-CON before-vs-after chart](images/debate_opinion_shift_mean_support_before_after_after_arguing_con__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
-- [Current opinion-shift combined argued-side mean-absolute chart](images/debate_opinion_shift_mean_abs_by_argued_side__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
+- [Current opinion-shift magnitude by argued-side chart](images/debate_opinion_shift_mean_abs_by_argued_side__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current opinion-shift combined argued-side mean-signed chart](images/debate_opinion_shift_mean_signed_by_argued_side__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current opinion-shift combined argued-side neutral-crossing chart](images/debate_opinion_shift_neutral_crossing_rate_by_argued_side__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
 - [Current opinion-shift toward-own-argued-side chart](images/debate_opinion_shift_mean_toward_argued_side__judge_judge_active_20260321b__debate_placement_active_20260320f.png)
-- [All clean completed debate transcripts in the current debate scope](transcripts/)
+- [All clean completed debate transcripts in the current judged scope](transcripts/)
 - [Current rolling raw judgment table (CSV)](judgments/judge_results__judge_active_20260321b.csv)
 - [Current rolling raw judgment rows (JSONL)](judgments/judge_results__judge_active_20260321b.jsonl)
 

@@ -16,14 +16,14 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0647__mimo-v2-pro__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **Xiaomi MiMo V2 Pro**, CON = **GLM-5**
+- Debate A transcript (transcript omitted from public bundle): PRO = **Xiaomi MiMo V2 Pro**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0647__glm-5__mimo-v2-pro__tpl_placement_active_20260320f` or topic `prop_0647`.
 
 ## Debate A
 
 - debate_id: `prop_0647__mimo-v2-pro__glm-5__s1__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0647__mimo-v2-pro__glm-5__s1__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **Xiaomi MiMo V2 Pro**, CON = **GLM-5**
 - judged result: Unanimous `3-0` for **Xiaomi MiMo V2 Pro**.
 - entertainment scores: `5`, `6`, `4`

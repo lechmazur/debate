@@ -17,7 +17,7 @@
 ## Source Links
 
 - [Debate A transcript](../../../transcripts/prop_0400__glm-5__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **Qwen3.5-397B-A17B**
-- [Debate B transcript](../../../transcripts/prop_0400__qwen3.5-397b-a17b__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **Qwen3.5-397B-A17B**, CON = **GLM-5**
+- Debate B transcript (transcript omitted from public bundle): PRO = **Qwen3.5-397B-A17B**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0400__glm-5__qwen3.5-397b-a17b__tpl_placement_active_20260320f` or topic `prop_0400`.
 
@@ -48,7 +48,7 @@
 ## Debate B
 
 - debate_id: `prop_0400__qwen3.5-397b-a17b__glm-5__s1__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0400__qwen3.5-397b-a17b__glm-5__s1__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **Qwen3.5-397B-A17B**, CON = **GLM-5**
 - judged result: Split `2-1` for **Qwen3.5-397B-A17B**.
 - entertainment scores: `8`, `6`, `7`

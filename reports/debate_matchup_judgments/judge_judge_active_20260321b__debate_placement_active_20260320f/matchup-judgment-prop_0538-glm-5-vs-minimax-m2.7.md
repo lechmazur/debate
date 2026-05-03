@@ -16,15 +16,15 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0538__glm-5__minimax-m2.7__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **MiniMax-M2.7**
-- [Debate B transcript](../../../transcripts/prop_0538__minimax-m2.7__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **MiniMax-M2.7**, CON = **GLM-5**
+- Debate A transcript (transcript omitted from public bundle): PRO = **GLM-5**, CON = **MiniMax-M2.7**
+- Debate B transcript (transcript omitted from public bundle): PRO = **MiniMax-M2.7**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260321b.csv)
   Search for `side_swap_group_id=prop_0538__glm-5__minimax-m2.7__tpl_placement_active_20260320f` or topic `prop_0538`.
 
 ## Debate A
 
 - debate_id: `prop_0538__glm-5__minimax-m2.7__s0__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0538__glm-5__minimax-m2.7__s0__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **GLM-5**, CON = **MiniMax-M2.7**
 - judged result: Unanimous `3-0` for **MiniMax-M2.7**.
 - entertainment scores: `6`, `3`, `6`
@@ -48,7 +48,7 @@
 ## Debate B
 
 - debate_id: `prop_0538__minimax-m2.7__glm-5__s1__tpl_placement_active_20260320f`
-- transcript: [read transcript](../../../transcripts/prop_0538__minimax-m2.7__glm-5__s1__tpl_placement_active_20260320f.md)
+- transcript: transcript omitted from public bundle
 - roles: PRO = **MiniMax-M2.7**, CON = **GLM-5**
 - judged result: Unanimous `3-0` for **MiniMax-M2.7**.
 - entertainment scores: `5`, `6`, `6`

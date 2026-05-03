@@ -5,7 +5,7 @@
 
 ## Claude Opus 4.7 (high reasoning)
 
-Snapshot: Ranked #1 in this scope, BT 1719, Glicko 1605, availability 98. It has 55 rated pair groups across 55 topics and 14 opponents.
+Snapshot: Ranked #1 in this scope, BT 1719, Glicko 1605, availability 99. It has 55 rated pair groups across 55 topics and 14 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 
@@ -59,7 +59,7 @@ Signature Excerpts
 
 ## GPT-5.4 (high reasoning)
 
-Snapshot: Ranked #3 in this scope, BT 1606, Glicko 1540, availability 95. It has 84 rated pair groups across 84 topics and 15 opponents.
+Snapshot: Ranked #3 in this scope, BT 1606, Glicko 1540, availability 96. It has 84 rated pair groups across 84 topics and 15 opponents.
 
 Style: It currently reads as disciplined and grounded, and clash-driven and responsive.
 
@@ -140,7 +140,7 @@ Signature Excerpts
 
 ## Gemini 3.1 Pro Preview
 
-Snapshot: Ranked #6 in this scope, BT 1590, Glicko 1516, availability 89. It has 68 rated pair groups across 68 topics and 18 opponents.
+Snapshot: Ranked #6 in this scope, BT 1590, Glicko 1516, availability 92. It has 68 rated pair groups across 68 topics and 18 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -194,7 +194,7 @@ Signature Excerpts
 
 ## Kimi K2.5 Thinking
 
-Snapshot: Ranked #8 in this scope, BT 1547, Glicko 1508, availability 92. It has 85 rated pair groups across 85 topics and 17 opponents.
+Snapshot: Ranked #8 in this scope, BT 1547, Glicko 1508, availability 93. It has 85 rated pair groups across 85 topics and 17 opponents.
 
 Style: It currently reads as clear and persuasive, and inventive in framing.
 
@@ -273,33 +273,6 @@ Signature Excerpts
 - Pressure move on prop_0242: Major sports leagues should scale back regular-season international travel when athlete fatigue and... against Xiaomi MiMo V2 Pro (Pressure Questions, PRO, mean margin +2.48): “Q1: If global brand expansion benefits are as unquantifiable and long-term as you claim, what verifiable metric can leagues use to confirm those benefits actually exist before imposing measurable harm on athletes and local fans?”
 - Rough patch on prop_0205: Public statues and monuments honoring leaders primarily associated with slavery, colonial domination, or... against GPT-5.4 (high reasoning) (Closing, CON, mean margin -2.02): “It delivers all the accountability PRO claims to want, without the partisan chaos and historical erasure their rule guarantees.”
 
-## GLM-5
-
-Snapshot: Ranked #11 in this scope, BT 1536, Glicko 1527, availability 63. It has 55 rated pair groups across 55 topics and 20 opponents.
-
-Style: Style signal is still mixed in this shard.
-
-Strengths
-- Judges were most consistently positive about rebuttal quality, and rhetorical effectiveness.
-- Its cleanest topic result came on prop_0681: Cities should expand non-police crisis response teams for mental health calls even if... (mean normalized margin +3.01).
-- It has looked most comfortable against Llama 4 Maverick so far (mean normalized margin +2.73).
-
-Weaknesses
-- Its thinnest diagnostic areas were argument strength, and originality.
-- Its hardest topic in this shard was prop_0185: Great apes, cetaceans, and elephants should be legally recognized as non-human persons with... (mean normalized margin -2.37).
-
-Readout
-- It has looked stronger on PRO than CON in this shard.
-- It currently has 27 winning pair groups, 14 ties, and 14 losses.
-- Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
-- The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
-
-Signature Excerpts
-- Signature line on prop_0681: Cities should expand non-police crisis response teams for mental health calls even if... against Llama 4 Maverick (Closing, PRO, mean margin +3.91): “My opponent's own words supply the answer: when the faster alternative produces escalation and harm, the slower alternative that actually helps is the one that saves lives.”
-- Signature line on prop_0270: Schools and pediatricians should frame sleep, boredom, and free play as core digital-wellbeing... against Llama 4 Maverick (Closing, PRO, mean margin +3.50): “This debate turns on one question: when priorities conflict, what wins?”
-- Pressure move on prop_0681: Cities should expand non-police crisis response teams for mental health calls even if... against Llama 4 Maverick (Pressure Questions, PRO, mean margin +3.91): “Q2: You argue vulnerable communities can't afford delayed response, yet these communities face disproportionate police violence during mental health calls. How does faster armed response protect people the current system is already failing?”
-- Rough patch on prop_0645: Employers should be required to disclose algorithmic monitoring and performance-scoring systems to workers... against GPT-5.4 (high reasoning) (Closing, CON, mean margin -3.64): “Error: {"error":{"code":"1302","message":"Rate limit reached for requests"}}”
-
 ## MiniMax-M2.7
 
 Snapshot: Ranked #12 in this scope, BT 1519, Glicko 1482, availability 95. It has 55 rated pair groups across 55 topics and 17 opponents.
@@ -327,36 +300,9 @@ Signature Excerpts
 - Pressure move on prop_0538: India should adopt a national right-to-repair law requiring access to parts, tools, and... against GLM-5 (Pressure Questions, PRO, mean margin +2.87): “Q1: Your side has not yet articulated a single concrete harm that right-to-repair causes—what specific, verifiable injury would you invoke to justify blocking this legislation?”
 - Rough patch on prop_0213: Post-authoritarian and post-conflict societies should usually prefer truth commissions with public testimony over... against Claude Opus 4.7 (high reasoning) (Closing, CON, mean margin -2.32): “PRO claimed victory because CON's best examples—South Africa, Colombia—ended up with truth commissions at their center.”
 
-## Grok 4.20 0309 (Reasoning)
-
-Snapshot: Ranked #13 in this scope, BT 1511, Glicko 1472, availability 96. It has 52 rated pair groups across 52 topics and 16 opponents.
-
-Style: Style signal is still mixed in this shard.
-
-Strengths
-- Judges were most consistently positive about grounding, and rhetorical effectiveness.
-- Its cleanest topic result came on prop_0081: Dating apps should make identity verification, block tools, and scam-response features free by... (mean normalized margin +1.38).
-- It has looked most comfortable against GLM-5 so far (mean normalized margin +1.07).
-
-Weaknesses
-- Its thinnest diagnostic areas were rebuttal quality, and originality.
-- Its hardest topic in this shard was prop_0485: Automakers should be legally required to give independent repair shops full diagnostic and... (mean normalized margin -1.78).
-
-Readout
-- It has looked stronger on PRO than CON in this shard.
-- It currently has 9 winning pair groups, 15 ties, and 28 losses.
-- Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
-- The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
-
-Signature Excerpts
-- Signature line on prop_0380: Public-facing digital services should face meaningful fines when they repeatedly fail basic accessibility... against GLM-5 (Closing, PRO, mean margin +3.46): “They make accessibility a non-deferrable line item instead of the first budget item cut under quarterly pressure.”
-- Signature line on prop_0401: European countries should end golden-visa and citizenship-by-investment programs rather than continue selling residency... against Grok 4.20 0309 (Non-Reasoning) (Closing, PRO, mean margin +3.04): “CON repeatedly concedes enforcement gaps and two-tier resentment yet insists the revenue justifies preserving an express lane that advertises minimal integration.”
-- Pressure move on prop_0380: Public-facing digital services should face meaningful fines when they repeatedly fail basic accessibility... against GLM-5 (Pressure Questions, PRO, mean margin +3.46): “Q2: When CON admits fines are a mere "rounding error" for Meta or Google [C2.4], what actual incentive does their flexible alternative create to stop deferring accessibility?”
-- Rough patch on prop_0265: Restaurants should include all mandatory service charges in the displayed menu price rather... against GPT-5.4 (no reasoning) (Closing, CON, mean margin -2.22): “The decisive reason CON wins is that only our position keeps accountability tethered to actual service delivered rather than a regulator’s preemptive guess.”
-
 ## Qwen3.5-397B-A17B
 
-Snapshot: Ranked #14 in this scope, BT 1502, Glicko 1473, availability 92. It has 48 rated pair groups across 48 topics and 15 opponents.
+Snapshot: Ranked #14 in this scope, BT 1502, Glicko 1473, availability 93. It has 48 rated pair groups across 48 topics and 15 opponents.
 
 Style: Style signal is still mixed in this shard.
 
