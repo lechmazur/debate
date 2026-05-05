@@ -411,7 +411,30 @@ The benchmark draws from a large proposition bank intended to be understandable 
 
 The working bank is intentionally broad. That matters because debate performance can be very topic-sensitive, and a narrow prompt family would make it too easy for models to overfit to one style of argument.
 
-The current curated keep bank contains 683 topics. The latest status report sees 727 side-swapped groups and 701 rating-eligible public groups after incomplete and excluded groups are removed. The chart-visible entertainment slice has signal on 658 topics.
+The current curated keep bank contains 683 topics. The latest status report sees 727 side-swapped groups and 701 rating-eligible public groups after incomplete and excluded groups are removed. Those rating-eligible groups cover 659 distinct topics; the chart-visible entertainment slice has signal on 658 topics.
+
+Top-level topic coverage:
+
+| Theme | Curated bank | Topics with debate artifacts | Topics in rating-eligible groups |
+| --- | ---: | ---: | ---: |
+| Law / regulation / courts | 135 | 135 | 131 |
+| Labor / education / social policy | 122 | 122 | 115 |
+| Media / culture / internet | 111 | 111 | 108 |
+| Macro / trade / industrial policy | 108 | 108 | 103 |
+| Health / bioethics | 65 | 65 | 64 |
+| Energy / climate / infrastructure | 49 | 49 | 48 |
+| Science / space / frontier tech | 34 | 34 | 33 |
+| Business / antitrust / market structure | 28 | 28 | 28 |
+| Geopolitics / defense / security | 24 | 24 | 22 |
+| AI / tech policy | 7 | 7 | 7 |
+
+Question-type coverage:
+
+| Question type | Curated bank | Topics with debate artifacts | Topics in rating-eligible groups |
+| --- | ---: | ---: | ---: |
+| mixed | 466 | 466 | 450 |
+| normative | 151 | 151 | 145 |
+| empirical | 66 | 66 | 64 |
 
 ### Debate execution
 
