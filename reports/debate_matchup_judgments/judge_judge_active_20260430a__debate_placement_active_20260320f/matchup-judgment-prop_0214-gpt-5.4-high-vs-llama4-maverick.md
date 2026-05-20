@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0214__gpt-5.4-high__llama4-maverick__tpl_placement_active_20260320f`
 - topic_id: `prop_0214`
-- matchup: **GPT-5.4 (high reasoning)** vs **Llama 4 Maverick**
-- overall judged result (normalized): **GPT-5.4 (high reasoning)**
-- overall judged result (raw): **GPT-5.4 (high reasoning)**
+- matchup: **GPT-5.4 (high)** vs **Llama 4 Maverick**
+- overall judged result (normalized): **GPT-5.4 (high)**
+- overall judged result (raw): **GPT-5.4 (high)**
 - mean entertainment: `6.25 / 10`
-- mean signed normalized margin for `GPT-5.4 (high reasoning)`: `+3.30`
+- mean signed normalized margin for `GPT-5.4 (high)`: `+3.30`
 - judgment rows: `4`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Llama 4 Maverick**
-- [Debate B transcript](../../../transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Llama 4 Maverick**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Llama 4 Maverick**
+- [Debate B transcript](../../../transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Llama 4 Maverick**, CON = **GPT-5.4 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0214__gpt-5.4-high__llama4-maverick__tpl_placement_active_20260320f` or topic `prop_0214`.
 
@@ -25,15 +25,15 @@
 
 - debate_id: `prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Llama 4 Maverick**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **GPT-5.4 (high)**, CON = **Llama 4 Maverick**
+- judged result: Unanimous `2-0` for **GPT-5.4 (high)**.
 - entertainment scores: `7`, `4`
 - mean signed raw margin (PRO+): `+4.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | +4.0 | +4.00 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | +5.0 | +5.00 | 4.0 |
+| Kimi K2.6 | GPT-5.4 (high) | +4.0 | +4.00 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | +5.0 | +5.00 | 4.0 |
 
 ### Judge Notes
 
@@ -46,15 +46,15 @@
 
 - debate_id: `prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Llama 4 Maverick**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **Llama 4 Maverick**, CON = **GPT-5.4 (high)**
+- judged result: Unanimous `2-0` for **GPT-5.4 (high)**.
 - entertainment scores: `7`, `7`
 - mean signed raw margin (PRO+): `-2.10`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -2.2 | -2.20 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | -2.0 | -2.00 | 7.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -2.2 | -2.20 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | -2.0 | -2.00 | 7.0 |
 
 ### Judge Notes
 
