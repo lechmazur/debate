@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +1.5 | +1.61 | 7.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +1.5 | +1.61 | 7.0 |
 | Gemini 3.1 Pro Preview | DeepSeek V4 Pro | +1.2 | +1.00 | 8.0 |
 | Grok 4.3 | DeepSeek V4 Pro | +1.5 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A won by keeping the debate centered on the actual motion: banning new single-family-only districts, not banning detached homes or mandating instant apartments. Side B’s strongest “codebook versus keys” framing was rhetorically effective, but it repeatedly depended on tre...
+- **GPT-5.5 (high)**: Side A won by keeping the debate centered on the actual motion: banning new single-family-only districts, not banning detached homes or mandating instant apartments. Side B’s strongest “codebook versus keys” framing was rhetorically effective, but it repeatedly depended on tre...
   Most decisive rebuttal noted: A’s pressure and follow-up on whether bonus-only policy still allows new single-family baselines was decisive; B answered yes, and A used that concession to show why bonuses do not actually stop new exclusionary districts.
 - **Gemini 3.1 Pro Preview**: Side A won by clarifying the distinction between legalizing density and mandating construction, which neutralized Side B's core argument about infrastructure strain and stalled sites. A also successfully used the pressure round to secure a concession that B's model leaves excl...
   Most decisive rebuttal noted: Side A's ongoing rebuttal clarifying that zoning is a permission, not a mandate to build ahead of infrastructure, fatally undermined Side B's 'stalled sites' argument.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | +2.0 | +2.14 | 6.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | +2.0 | +2.14 | 6.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | +2.5 | +2.08 | 8.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | +1.5 | +1.80 | 6.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A won by making the central concession decisive: B’s strongest alternative, a mandatory multi-unit base inside a bonus framework, functionally bans single-family-only zoning and therefore affirms the core of the proposition rather than defending mere incremental bonuses. A als...
+- **GPT-5.5 (high)**: A won by making the central concession decisive: B’s strongest alternative, a mandatory multi-unit base inside a bonus framework, functionally bans single-family-only zoning and therefore affirms the core of the proposition rather than defending mere incremental bonuses. A als...
   Most decisive rebuttal noted: A’s pressure question and Rebuttal 2 on the “mandatory four-unit base” were most decisive: they turned B’s proposed bonus system into a concession that effective reform requires banning single-family exclusivity in the base code.
 - **Gemini 3.1 Pro Preview**: Side A wins decisively by exposing a fatal contradiction in Side B's case. Side B argues that bonuses are better because they can establish a mandatory minimum base density of four units, but Side A correctly points out that this functionally is a ban on single-family-only zon...
   Most decisive rebuttal noted: Side A's Rebuttal 2, which beautifully capitalizes on the Pressure Questions to point out that Side B's 'mandatory base density' completely concedes the regulatory necessity of a ban.

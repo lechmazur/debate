@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.5 | +1.80 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | -1.0 | -1.00 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side A) built the cleaner path to victory across the full exchange. Three factors decide it. First, PRO turned CON's own "psychologically brutal" concession into a persistent liability that CON never adequately resolved: CON's position reduces to accepting admitted severe...
+- **Claude Sonnet 4.6 (high)**: PRO (Side A) built the cleaner path to victory across the full exchange. Three factors decide it. First, PRO turned CON's own "psychologically brutal" concession into a persistent liability that CON never adequately resolved: CON's position reduces to accepting admitted severe...
   Most decisive rebuttal noted: The most decisive rebuttal exchange was A's use of CON's "psychologically brutal" concession in both A4.6 and A5.3 against CON's position that volume itself must not be treated as a system failure. CON conceded the harm was severe but insisted we must accept it to preserve acc...
 - **Grok 4.3**: Side B wins as it more convincingly showed friction tools like volume-based limits and user toggles can slow dogpiles without deleting valid criticism, directly answered pressure on neutrality and access by clarifying content-neutral mechanics and universal design, and weighed...
   Most decisive rebuttal noted: B's Rebuttal 2 A1/A2 answers exposed that circuit breakers use velocity not content and retroactive toggles empower ordinary users, neutralizing CON's corporate-capture and distinction burdens while sharpening the comparison to delay vs. stampede tradeoffs.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.3 | -1.56 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built the cleaner comparative case across the full exchange. Three advantages survived the exchange. First, PRO successfully inverted CON's power-dynamic frame: the small creator without a PR team is far more often the target of an organized fanbase dogpile than a whistleb...
+- **Claude Sonnet 4.6 (high)**: PRO built the cleaner comparative case across the full exchange. Three advantages survived the exchange. First, PRO successfully inverted CON's power-dynamic frame: the small creator without a PR team is far more often the target of an organized fanbase dogpile than a whistleb...
   Most decisive rebuttal noted: The most decisive exchange was PRO's Q1 in the pressure round (A3.1) exposing that CON simultaneously claimed massive fanbases "do not need quote-posting to harass" and that these same features are indispensable "equalizers" for the marginalized. CON's A1 in rebuttal 2 attempt...
 - **Grok 4.3**: Side A (CON) built the stronger overall case by consistently advancing and defending the exploitability flaw in PRO's friction mechanisms (hostile-reply demotion as a kill switch), which remained live after direct pressure questions and was not squarely neutralized; B's distin...
   Most decisive rebuttal noted: Side A's rebuttal 2 answer on hostile-reply flooding as a platform-sanctioned kill switch for whistleblowers, which exposed an unresolved vulnerability in B's proposed velocity controls.

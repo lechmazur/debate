@@ -32,15 +32,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | -1.0 | -1.00 | 7.0 |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | -1.3 | -1.39 | 8.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | -1.0 | -1.00 | 7.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | -1.3 | -1.39 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | +1.5 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON's most decisive move was the "additive" argument introduced in Rebuttal 1 and carried through: reinstating tests does not replace essays, extracurriculars, and recommendation letters—it stacks on top of them. Every mandatory metric compounds privilege, and the test is the...
+- **Claude Sonnet 4.6 (high)**: CON's most decisive move was the "additive" argument introduced in Rebuttal 1 and carried through: reinstating tests does not replace essays, extracurriculars, and recommendation letters—it stacks on top of them. Every mandatory metric compounds privilege, and the test is the...
   Most decisive rebuttal noted: The sharpest exchange was CON's Rebuttal 1 "additive" argument [A2.1–A2.2]: PRO's own two-tier evidence shows test-optional is the pathology, not the absence of tests, and test-free eliminates the score-submission signal entirely. This forced PRO onto the defensive and was nev...
-- **GPT-5.5 (high reasoning)**: Side B wins a clear but competitive debate. Side A’s strongest point was that removing tests can increase reliance on hidden purchased advantages like essays, recommendations, and extracurricular polish. But Side B’s decisive answer was that reinstating mandatory tests does no...
+- **GPT-5.5 (high)**: Side B wins a clear but competitive debate. Side A’s strongest point was that removing tests can increase reliance on hidden purchased advantages like essays, recommendations, and extracurricular polish. But Side B’s decisive answer was that reinstating mandatory tests does no...
   Most decisive rebuttal noted: Side B’s additive-burden rebuttal was most decisive: mandatory testing would not eliminate essays and extracurricular privilege, so A had to prove the test reduces overall bias rather than merely adding a visible, income-linked metric.
 - **Grok 4.3**: Side B (PRO) built the stronger case by making the core clash between legible test disadvantage versus invisible holistic proxies (essays, portfolios) decisive and sustained across rounds, directly answering both pressure questions with A1:/A2: structure, and crystallizing vis...
   Most decisive rebuttal noted: B's Rebuttal 2 A1/A2 exchange, which directly addressed pressure questions on expense and common standards by contrasting visible test bias with hidden narrative wealth, proved most damaging.
@@ -56,15 +56,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.2 | +1.20 | 7.0 |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.07 | 8.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | +1.2 | +1.20 | 7.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.07 | 8.0 |
 | Grok 4.3 | Xiaomi MiMo V2.5 Pro | +1.5 | +1.80 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO won primarily by anchoring the debate around a comparative claim that CON never fully neutralized: that every holistic alternative—essays, extracurriculars, letters of recommendation—correlates with family income more tightly than standardized test scores do. CON's stronge...
+- **Claude Sonnet 4.6 (high)**: PRO won primarily by anchoring the debate around a comparative claim that CON never fully neutralized: that every holistic alternative—essays, extracurriculars, letters of recommendation—correlates with family income more tightly than standardized test scores do. CON's stronge...
   Most decisive rebuttal noted: PRO's Pressure Question 2 [B3.2]—"Isn't that an argument against how scores are *used*—not against collecting the data?"—was the pivotal exchange. It correctly reframed CON's strongest argument (automatic algorithmic filtering) as a complaint about implementation abuse rather...
-- **GPT-5.5 (high reasoning)**: Side A won a competitive debate by keeping the comparison focused on public universities at scale: tests are imperfect, but removing the common benchmark leaves admissions more dependent on harder-to-detect wealth signals and inconsistent transcripts. Side B’s “numerical turns...
+- **GPT-5.5 (high)**: Side A won a competitive debate by keeping the comparison focused on public universities at scale: tests are imperfect, but removing the common benchmark leaves admissions more dependent on harder-to-detect wealth signals and inconsistent transcripts. Side B’s “numerical turns...
   Most decisive rebuttal noted: A’s strongest exchange was pressing that automatic score cutoffs are an argument against misuse, not against collecting standardized data, then tying the need for a common benchmark to the scale limits of public-university review.
 - **Grok 4.3**: Side B built the stronger path by focusing on practical scale constraints in public universities and showing that alternatives default to harder-to-detect privilege signals. CON's training and filter arguments were responsive but never fully refuted the claim that tests remain...
   Most decisive rebuttal noted: B's Rebuttal 2 on contextualization: test scores enable transcript reading at scale while transcripts alone demand unavailable local knowledge for unfamiliar schools.

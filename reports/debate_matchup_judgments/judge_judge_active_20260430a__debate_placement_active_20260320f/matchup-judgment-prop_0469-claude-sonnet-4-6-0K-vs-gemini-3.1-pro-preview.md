@@ -4,11 +4,11 @@
 - side_swap_group_id: `prop_0469__claude-sonnet-4-6-0K__gemini-3.1-pro-preview__tpl_placement_active_20260320f`
 - topic_id: `prop_0469`
 - matchup: **Claude Sonnet 4.6 (no reasoning)** vs **Gemini 3.1 Pro Preview**
-- overall judged result (normalized): **Gemini 3.1 Pro Preview**
-- overall judged result (raw): **Gemini 3.1 Pro Preview**
-- mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `-0.57`
-- judgment rows: `4`
+- overall judged result (normalized): **Tie**
+- overall judged result (raw): **Tie**
+- mean entertainment: `7.25 / 10`
+- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `-0.30`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,23 @@
 - debate_id: `prop_0469__claude-sonnet-4-6-0K__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0469__claude-sonnet-4-6-0K__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Gemini 3.1 Pro Preview**
-- judged result: Unanimous `2-0` for **Gemini 3.1 Pro Preview**.
-- entertainment scores: `8`, `8`
-- mean signed raw margin (PRO+): `-1.30`
+- judged result: Split `3-1` for **Gemini 3.1 Pro Preview**.
+- entertainment scores: `8`, `6`, `8`, `8`
+- mean signed raw margin (PRO+): `-0.75`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| GPT-5.5 (high) | Claude Sonnet 4.6 (no reasoning) | +1.1 | +1.18 | 8.0 |
+| Grok 4.3 | Gemini 3.1 Pro Preview | -1.5 | -1.80 | 6.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | -1.1 | -1.10 | 8.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side A wins a clear but competitive debate. B’s capacity and North Africa arguments were strong, but too often slid from “prioritize corridors over mass deportations” into “abandon enforcement entirely.” A better framed the motion as a comparative priority: legal pathways plus...
+  Most decisive rebuttal noted: A’s most decisive rebuttal was the response to B’s “demographic ocean” framing: corridors do not need to absorb infinite demand, only outperform mass deportation as the primary management tool, with targeted removals retained for the residual. That undercut B’s repeated open-b...
+- **Grok 4.3**: Side B wins by establishing a live, unanswered capacity objection that survives all exchanges, exposing that corridors cannot scale and deportation is the only physical cap; A's responses never neutralize the demographic math or North Africa-specific destabilization. B's rebut...
+  Most decisive rebuttal noted: B's Rebuttal 2 (capacity garden-hose framing) that directly converts A's concession on infinite wage differentials into proof corridors must fail.
 - **Kimi K2.6**: CON demonstrated that PRO's corridor model cannot absorb the functionally infinite migration demand driven by global wage disparities, and that deprioritizing mass deportation would remove the only credible deterrent and physical cap on irregular presence. CON also exposed a c...
   Most decisive rebuttal noted: CON's response to PRO's pressure question on why expanding legal systems increases irregular migration [A4.3], explaining the signaling and advertisement effect to a global pool of hundreds of millions, paired with the demonstration that North African migrants overwhelmingly a...
 - **Qwen 3.6 Max Preview**: Side B wins by successfully framing the debate around capacity limits and deterrence certainty. While Side A made a strong empirical case that decades of deportations have failed to stop irregular flows, Side B effectively neutralized this by distinguishing intermittent past e...
@@ -47,17 +53,23 @@
 - debate_id: `prop_0469__gemini-3.1-pro-preview__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0469__gemini-3.1-pro-preview__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Claude Sonnet 4.6 (no reasoning)**
-- judged result: Split `1-1`.
-- entertainment scores: `6`, `8`
+- judged result: Split `2-2`.
+- entertainment scores: `7`, `7`, `6`, `8`
 - mean signed raw margin (PRO+): `-0.15`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | +1.2 | +1.29 | 7.0 |
+| Grok 4.3 | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.50 | 6.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side A wins because it kept the debate tied to the motion: prioritizing legal labor corridors over mass deportations. Side B made a strong feasibility challenge against corridors, especially using kafala, weak North African institutions, and Qatar as an exceptional case. But S...
+  Most decisive rebuttal noted: Side A’s rebuttal that Side B demanded high institutional capacity for corridors while treating mass deportations as requiring only political will was the decisive exchange. It exposed that Side B’s alternative was not really mass deportation, but a narrower targeted-enforceme...
+- **Grok 4.3**: Side B wins because its core asymmetry claim (corridors require scarce institutional capacity while targeted enforcement works with existing apparatus) survived all exchanges; PRO's Qatar example was neutralized as non-replicable, and PRO never closed the feasibility gap on bi...
+  Most decisive rebuttal noted: B4 response to A's Qatar example and capacity double-standard, which crystallized the live institutional-asymmetry clash without new evidence.
 - **Kimi K2.6**: CON won by grounding the debate in the region's actual institutional and political constraints. PRO built a compelling structural case about market demand and smuggling networks, but could not overcome CON's sustained pressure on feasibility. CON effectively neutralized PRO's...
   Most decisive rebuttal noted: CON's dismantling of PRO's Qatar example in Rebuttal 2, demonstrating that even partial reform required a decade of extraordinary diplomatic and media pressure unique to the World Cup, and therefore could not serve as a replicable template for a regional corridor framework.
 - **Qwen 3.6 Max Preview**: Side A wins by more consistently engaging the motion's specific focus on mass deportations and successfully turning Side B's core weighing mechanism. While B built a strong case around institutional skepticism and state preferences (kafala), A exposed a critical flaw in B's fe...

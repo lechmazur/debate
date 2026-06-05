@@ -8,7 +8,7 @@
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.00 / 10`
 - mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: ``
-- judgment rows: `4`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0303__grok-4.20-beta-0309-non-reasoning__minimax-m2.7__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0303__grok-4.20-beta-0309-non-reasoning__minimax-m2.7__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **MiniMax-M2.7**
-- judged result: Unanimous `2-0` for **Grok 4.20 0309 (Non-Reasoning)**.
-- entertainment scores: `7`, `7`
+- judged result: Unanimous `3-0` for **Grok 4.20 0309 (Non-Reasoning)**.
+- entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | Grok 4.20 0309 (Non-Reasoning) | +1.5 | +1.50 | 7.0 |
 | Kimi K2.6 | Grok 4.20 0309 (Non-Reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen 3.6 Max Preview | Grok 4.20 0309 (Non-Reasoning) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: PRO (Side A) wins for three interlocking reasons. First, PRO consistently argued the right claim — not that meritocracy is fake, but that it is overstated because class reproduction is more systematic than successful people acknowledge. CON repeatedly argued against a stronger...
+  Most decisive rebuttal noted: The most decisive exchange was PRO's Rebuttal 2 turning CON's pre-institutional concession back against CON. When CON argued in B4.1 that the thirtyfold gap reflects family-level preparation occurring before any admissions committee acts, PRO (A4.3) correctly pointed out that...
 - **Kimi K2.6**: PRO (B) won by showing that elite pathways encompass the entire pipeline, including upstream family investment in preparation and application culture, making the skew of elite attainment toward the wealthy evidence of class reproduction rather than neutral meritocratic filteri...
   Most decisive rebuttal noted: PROs reframing of the thirtyfold attendance gap as measuring institutional filtering rather than mere self-selection, by arguing that application-rate differences themselves reflect prior class advantages in information and guidance. This neutralized CONs strongest methodologi...
 - **Qwen 3.6 Max Preview**: PRO wins by maintaining a tighter link to the proposition’s descriptive claim. PRO successfully argued that “pathways” include upstream pre-filtering and cultural scaffolding, directly answering CON’s attempt to separate family preparation from institutional selection. CON’s r...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0303__minimax-m2.7__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0303__minimax-m2.7__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **MiniMax-M2.7**, CON = **Grok 4.20 0309 (Non-Reasoning)**
-- judged result: Unanimous `2-0` for **MiniMax-M2.7**.
-- entertainment scores: `7`, `7`
+- judged result: Unanimous `3-0` for **MiniMax-M2.7**.
+- entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | MiniMax-M2.7 | +1.5 | +1.50 | 7.0 |
 | Kimi K2.6 | MiniMax-M2.7 | +1.5 | +1.50 | 7.0 |
 | Qwen 3.6 Max Preview | MiniMax-M2.7 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: Side A built and sustained a clean through-line across the whole debate: class produces traits → system rewards traits → system rewards class → this is structural reproduction. The decisive moment is A's exploitation of B's own concession at [B2.5] — that "the distribution of...
+  Most decisive rebuttal noted: A's second rebuttal using B's own [B2.5] concession against it: B admitted that starting differences reflect "real differences in parental investment," and A turned this into the decisive link — if unequal investment creates unequal starting traits and the system rewards those...
 - **Kimi K2.6**: PRO successfully framed merit as traits produced by class-advantaged environments, making it structurally circular to treat such traits as purely individual merit. CON’s concession that starting differences reflect real parental investment was turned into evidence that the sys...
   Most decisive rebuttal noted: PRO’s exploitation of CON’s admission that "the distribution of who starts ahead reflects real differences in parental investment" [A2.5], arguing that rewarding resulting traits means rewarding class investment rather than raw merit [B4.5][B5.1].
 - **Qwen 3.6 Max Preview**: Side A wins by successfully framing the debate around the origin of "merit" and demonstrating that Side B's defense of trait-based selection actually concedes the proposition's core claim. A consistently argued that conscientiousness, vocabulary, and cultural habits are themse...

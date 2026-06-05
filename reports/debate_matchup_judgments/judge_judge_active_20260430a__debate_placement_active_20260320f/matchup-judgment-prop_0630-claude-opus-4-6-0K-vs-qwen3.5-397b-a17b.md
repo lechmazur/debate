@@ -6,9 +6,9 @@
 - matchup: **Claude Opus 4.6 (no reasoning)** vs **Qwen3.5-397B-A17B**
 - overall judged result (normalized): **Claude Opus 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Opus 4.6 (no reasoning)**
-- mean entertainment: `7.25 / 10`
-- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+1.70`
-- judgment rows: `4`
+- mean entertainment: `7.50 / 10`
+- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+1.17`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,23 @@
 - debate_id: `prop_0630__claude-opus-4-6-0K__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0630__claude-opus-4-6-0K__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Opus 4.6 (no reasoning)**, CON = **Qwen3.5-397B-A17B**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `6`, `7`
-- mean signed raw margin (PRO+): `+1.85`
+- judged result: Unanimous `4-0` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `8`, `7`, `6`, `7`
+- mean signed raw margin (PRO+): `+1.75`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +1.8 | +1.50 | 8.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | +1.7 | +1.70 | 6.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | +2.0 | +2.00 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A cleanly won the core clash on comparative risk by weaponizing the mutagenesis comparison. Side B's attempt to differentiate conventional breeding based on 'generational time' was completely dismantled by A's pressure question, forcing B to concede mutagenesis as a 'hist...
+  Most decisive rebuttal noted: Side A's Rebuttal 1 and subsequent Pressure Question exposing the contradiction between B's demand for transgenic-level review of gene editing and the complete lack of screening for chemical/radiation mutagenesis.
+- **Grok 4.3**: B wins by making the mutagenesis inconsistency the decisive live clash and answering pressure questions directly; A concedes the comparison but offers no coherent fix.
+  Most decisive rebuttal noted: B's rebuttal 2 directly answers both pressure questions on mutagenesis vs. editing and trade verification, exposing A's framework as inconsistent.
 - **Kimi K2.6**: Side A wins by exposing a fatal asymmetry in Side B's framework: gene-edited crops are held to a standard of molecular scrutiny that radiation- and chemical-mutagenized crops—carrying thousands of uncharacterized random mutations—have never faced. Side B conceded mutagenesis i...
   Most decisive rebuttal noted: Side A's Rebuttal 1 and Rebuttal 2 framing that off-target CRISPR mutations are fewer and more characterized than the random mutations already accepted in conventional mutagenesis, a comparison Side B never reconciled with its demand for transgenic-level review.
 - **Qwen 3.6 Max Preview**: Side B (PRO) wins by decisively controlling the central scientific and regulatory comparison. By consistently contrasting gene editing’s targeted changes with the thousands of uncharacterized mutations in conventionally mutagenized crops—which face zero molecular screening—PRO...
@@ -47,17 +53,23 @@
 - debate_id: `prop_0630__qwen3.5-397b-a17b__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0630__qwen3.5-397b-a17b__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Qwen3.5-397B-A17B**, CON = **Claude Opus 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `8`, `8`
-- mean signed raw margin (PRO+): `-1.55`
+- judged result: Split `3-1` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `9`, `7`, `8`, `8`
+- mean signed raw margin (PRO+): `-0.73`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -1.3 | -1.08 | 9.0 |
+| Grok 4.3 | Qwen3.5-397B-A17B | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | -1.6 | -1.60 | 8.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: CON won by systematically neutralizing PRO's safety and democratization claims. CON exposed the biological risks of PRO's "single-gene" definition and effectively turned PRO's "process audit" enforcement mechanism by arguing it trades front-end scientific safety data for back-...
+  Most decisive rebuttal noted: CON's Rebuttal 2 and Closing analysis of "process audits," showing how PRO's enforcement mechanism inherently sacrifices pre-release biological safety data for post-release paperwork.
+- **Grok 4.3**: Side B wins because it consistently framed the core distinction (precision vs. foreign DNA), answered pressure questions directly on enforcement and access with process-audit mechanisms, and crystallized the weighing of actual stagnation risks versus hypothetical off-target on...
+  Most decisive rebuttal noted: B2.3/B4.1 vs A2.3/A4.5 on whether process audits solve or merely relocate regulatory burden without losing safety data.
 - **Kimi K2.6**: Side B won by dismantling Side A's central safety comparison to mutagenesis breeding—either justifying a race to the bottom or ignoring the generational speed difference—and by turning Side A's process-audit verification into a burden-shifting mechanism that sacrifices front-e...
   Most decisive rebuttal noted: Side B's rebuttal turning Side A's process-audit framework into a compliance-policing burden that loses front-end safety data while failing to reduce actual regulatory load, paired with the demonstration that the mutagenesis comparison anchored PRO's safety case to a known reg...
 - **Qwen 3.6 Max Preview**: Side A wins by successfully turning Side B's core comparisons and enforcement mechanism against them. When pressed on how to verify indistinguishable edits under streamlined rules, Side B conceded reliance on process audits and developer records. Side A sharply capitalized on...

@@ -7,7 +7,7 @@
 - overall judged result (normalized): **Claude Sonnet 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Sonnet 4.6 (no reasoning)**
 - mean entertainment: `7.75 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.47`
+- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.48`
 - judgment rows: `4`
 - swap_complete: `1`
 - rating_eligible: `1`

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | -1.6 | -1.71 | 7.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | -1.6 | -1.71 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | -1.8 | -1.50 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A wins by making the more decisive comparative case: a legal right to disconnect creates adverse selection, turns opting out into a risk signal, and pushes landlords/employers back toward worse proxies like pedigree, zip code, and referrals. Side B powerfully framed opaci...
+- **GPT-5.5 (high)**: Side A wins by making the more decisive comparative case: a legal right to disconnect creates adverse selection, turns opting out into a risk signal, and pushes landlords/employers back toward worse proxies like pedigree, zip code, and referrals. Side B powerfully framed opaci...
   Most decisive rebuttal noted: Side A’s strongest exchange was against Side B’s coercion framing: A argued that the opt-out penalty is not a reason to adopt disconnection but evidence that disconnection worsens information asymmetry and harms vulnerable applicants through cruder substitutes. Side B never fu...
 - **Gemini 3.1 Pro Preview**: Side A consistently pressed the adverse selection argument—that opting out creates an information vacuum forcing decision-makers to rely on discriminatory traditional proxies. Side B eventually argued that a landlord "guessing" is preferable to relying on an opaque algorithm,...
   Most decisive rebuttal noted: Side A's Rebuttal 2 perfectly dismantled Side B's defense of "guessing," noting that information vacuums do not produce mercy, but rather default institutions back to pedigree bias and zip codes.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | +1.2 | +1.29 | 7.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | +1.2 | +1.29 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen3.5-397B-A17B | -0.8 | -0.67 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.6 | +1.60 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won by keeping the motion focused on opaque cross-context algorithmic reputation rather than all verification. Side A’s strongest route was adverse selection and wealth-based exclusion, and it remained a real concern, but it often depended on treating the right as erasu...
+- **GPT-5.5 (high)**: Side B won by keeping the motion focused on opaque cross-context algorithmic reputation rather than all verification. Side A’s strongest route was adverse selection and wealth-based exclusion, and it remained a real concern, but it often depended on treating the right as erasu...
   Most decisive rebuttal noted: Side B’s second rebuttal to the violence and verification questions was decisive: it separated legally bounded safety checks from opaque portable scores, undercutting Side A’s claim that disconnecting necessarily hides material risk.
 - **Gemini 3.1 Pro Preview**: Side A won a very close, high-quality debate by successfully proving that removing algorithmic reputation forces risk-averse markets to rely on wealth proxies, which harms the vulnerable. While Side B brilliantly neutralized Side A's safety examples by distinguishing between a...
   Most decisive rebuttal noted: Side A's argument that a "void" in behavioral history forces providers to default to financial collateral (higher deposits, co-signers), effectively turning a privacy right into a wealth gate.

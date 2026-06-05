@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | +1.8 | +1.93 | 8.0 |
+| GPT-5.5 (high) | GLM-5.1 | +1.8 | +1.93 | 8.0 |
 | Grok 4.3 | GLM-5.1 | +1.2 | +1.44 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won by making the central tradeoff more concrete: actual real-name regimes and backend identity stores create subpoena, breach, and retaliation risks for the very users named in the motion, while the abuse-reduction benefit was only marginal friction over existing tools...
+- **GPT-5.5 (high)**: Side B won by making the central tradeoff more concrete: actual real-name regimes and backend identity stores create subpoena, breach, and retaliation risks for the very users named in the motion, while the abuse-reduction benefit was only marginal friction over existing tools...
   Most decisive rebuttal noted: Side B's first rebuttal was decisive: it challenged Side A's definitional move, reframed backend verification as a honeypot, and exposed the weakness of exemptions and safeguards for dissidents facing hostile states.
 - **Grok 4.3**: Side A wins by grounding claims in actual policy outcomes (China arrests, South Korea reversal) and dismantling B's idealized backend system as nonexistent at scale, while clearly showing risk concentration harms the motion's named groups more than marginal enforcement gains;...
   Most decisive rebuttal noted: A's Rebuttal 1 collapsed B's key backend/public distinction and self-defeating exemptions, forcing later B responses into hypothetical defenses.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | +1.4 | +1.50 | 8.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | +1.4 | +1.50 | 8.0 |
 | Grok 4.3 | GLM-5.1 | -1.3 | -1.56 | 7.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B wins because it kept the debate centered on the structural asymmetry: real-name systems create irreversible exposure risks for dissidents, whistleblowers, and marginalized users, while the anti-abuse benefit is partial and evasible. Side A made a strong scope argument a...
+- **GPT-5.5 (high)**: Side B wins because it kept the debate centered on the structural asymmetry: real-name systems create irreversible exposure risks for dissidents, whistleblowers, and marginalized users, while the anti-abuse benefit is partial and evasible. Side A made a strong scope argument a...
   Most decisive rebuttal noted: B's strongest exchange was attacking A's verified-pseudonymity safety valve as a tripwire: forcing at-risk users to reveal themselves to a platform before promising protection undercuts the whole mitigation. A's answer conceded no perfectly subpoena-resistant major-platform sy...
 - **Grok 4.3**: Side B wins by more convincingly establishing that anonymous defaults enable scalable, consequence-free abuse against vulnerable users that behavioral tools cannot fully contain, as demonstrated by platform examples, while framing real-name policies as a necessary accountabili...
   Most decisive rebuttal noted: B's Rebuttal 2 on complements (real-name + behavioral) and failures of anonymous platforms like Telegram/Reddit after A's behavioral-friction answer to pressure.

@@ -6,9 +6,9 @@
 - matchup: **Claude Opus 4.6 (no reasoning)** vs **GPT-5.4 (no reasoning)**
 - overall judged result (normalized): **Claude Opus 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Opus 4.6 (no reasoning)**
-- mean entertainment: `8.00 / 10`
-- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+0.85`
-- judgment rows: `4`
+- mean entertainment: `7.50 / 10`
+- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+1.25`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,23 @@
 - debate_id: `prop_0058__claude-opus-4-6-0K__gpt-5.4-none__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0058__claude-opus-4-6-0K__gpt-5.4-none__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Opus 4.6 (no reasoning)**, CON = **GPT-5.4 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `7`, `8`
-- mean signed raw margin (PRO+): `+1.55`
+- judged result: Unanimous `4-0` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `8`, `6`, `7`, `8`
+- mean signed raw margin (PRO+): `+1.60`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +1.8 | +1.50 | 8.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | +1.5 | +1.80 | 6.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | +1.6 | +1.60 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B won by successfully proving that the specific characteristics of DOGE-style drives (speed, outsider leadership, political pressure) structurally prevent the careful triage that Side A's defense relied upon.
+  Most decisive rebuttal noted: Side B's closing response to Side A's hospital triage analogy, pointing out that hospital triage works because doctors have deep clinical training, whereas DOGE-style teams are outsiders with spreadsheets.
+- **Grok 4.3**: Side A wins because it squarely tied DOGE-style features (speed, outsider spectacle, political incentives) to concrete mechanisms of damage and showed why CON's ring-fencing and triage safeguards are incompatible with the method as described; CON's answers remained hypothetica...
+  Most decisive rebuttal noted: A2's handling of the pressure questions crystallized that CON's safeguards require the very deliberation DOGE-style drives are built to bypass.
 - **Kimi K2.6**: PRO successfully framed DOGE-style drives by their structural features—speed, spectacle, outsider disruption, and compressed timelines—and showed these features predictably cause misclassification of operational capacity as waste. CON’s defense relied on idealized safeguards l...
   Most decisive rebuttal noted: PRO’s rebuttal that CON cannot simultaneously celebrate DOGE-style speed and outsider disruption while assuming the careful, deliberative safeguards of the process it displaces, exposing the unresolved tension in CON’s “targeted reform” defense.
 - **Qwen 3.6 Max Preview**: PRO wins by successfully anchoring the debate to the structural and political realities of DOGE-style drives, exposing a fatal tension in CON's case: you cannot celebrate rapid, outsider disruption while assuming the careful, deliberative safeguards needed to prevent collatera...
@@ -47,17 +53,23 @@
 - debate_id: `prop_0058__gpt-5.4-none__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0058__gpt-5.4-none__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **GPT-5.4 (no reasoning)**, CON = **Claude Opus 4.6 (no reasoning)**
-- judged result: Split `1-1`.
-- entertainment scores: `9`, `8`
-- mean signed raw margin (PRO+): `-0.15`
+- judged result: Split `3-1` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `8`, `6`, `9`, `8`
+- mean signed raw margin (PRO+): `-0.90`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -1.8 | -1.50 | 8.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | -1.5 | -1.80 | 6.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | -1.5 | -1.50 | 9.0 |
 | Qwen 3.6 Max Preview | GPT-5.4 (no reasoning) | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by successfully weaponizing the comparative burden of proof. While Side B offered highly plausible mechanisms for how rapid cuts damage state capacity, Side A brilliantly exposed Side B's reliance on 'hidden costs' as an unfalsifiable loop, pointing out that the bas...
+  Most decisive rebuttal noted: Side A's Rebuttal 2, specifically A1, which turned Side B's accounting critique around by noting that off-book losses equally plague the pre-reform baseline, neutralizing Side B's structural advantage.
+- **Grok 4.3**: B wins because it squarely met the motion's net-harm burden by exposing PRO's unfalsifiable accounting (visible savings dismissed, hidden losses always asserted larger) while showing observable reform mechanisms; PRO built strong asymmetry claims but never produced magnitude c...
+  Most decisive rebuttal noted: B2.5 and B4.5 on tax-office mechanism and falsifiability directly neutralized PRO's core asymmetry without widening scope.
 - **Kimi K2.6**: CON (Side A) won by exposing that PRO never discharged the empirical burden of proving net harm exceeds net savings. PRO offered powerful structural mechanisms and an accounting-asymmetry story, but when pressed by CON’s pressure question, could not identify a single efficienc...
   Most decisive rebuttal noted: The most decisive exchange was CON’s pressure question asking PRO to name one measured net-negative efficiency campaign, followed by PRO’s admission that they could not, and CON’s closing argument that PRO’s claim was therefore unfalsifiable: visible savings are dismissed as m...
 - **Qwen 3.6 Max Preview**: Side A wins by successfully framing the decisive clash around systematic accounting bias inherent to DOGE-style incentives. While Side B effectively pressed the burden of proof and labeled PRO's hidden-costs argument "unfalsifiable," Side A convincingly demonstrated that rapid...

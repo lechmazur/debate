@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | -0.8 | -0.86 | 7.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | -0.8 | -0.86 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.3 | +1.56 | 7.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A wins narrowly because it made the default question and the loss of transparent social signals the decisive clash. B had a strong, rhetorically effective psychological harm case, but too often reduced A’s navigation and discovery arguments to influencer marketing and did not...
+- **GPT-5.5 (high)**: A wins narrowly because it made the default question and the loss of transparent social signals the decisive clash. B had a strong, rhetorically effective psychological harm case, but too often reduced A’s navigation and discovery arguments to influencer marketing and did not...
   Most decisive rebuttal noted: A’s strongest exchange was the response that public metrics are not mainly truth claims or influencer tools, but a shared, crowd-sourced information layer for auditing algorithmic feeds, spotting broad conversations, and preserving discovery.
 - **Grok 4.3**: Side A wins by building and sustaining a clearer core comparison: default visibility turns platforms into anxiety-inducing scoreboards that prioritize commercial engagement over user agency and well-being. A's rebuttals and answers to pressure questions effectively neutralize...
   Most decisive rebuttal noted: Side A's rebuttal 1 directly reframes B's credibility heuristic as an engagement signal, while A's answers to pressure questions (A4.1/A4.2) distinguish real-time scoreboard effects from comments/follower ratios, preserving the well-being advantage.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Gemini 3.1 Pro Preview | -1.1 | -1.18 | 8.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | -1.1 | -1.18 | 8.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | +0.8 | +0.96 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A wins a clear but competitive debate. Side B had a plausible well-being and anti-herd case, but Side A more effectively exposed the unresolved contradiction that platforms would still optimize hidden engagement while users lose public cross-checks. A also landed the stro...
+- **GPT-5.5 (high)**: Side A wins a clear but competitive debate. Side B had a plausible well-being and anti-herd case, but Side A more effectively exposed the unresolved contradiction that platforms would still optimize hidden engagement while users lose public cross-checks. A also landed the stro...
   Most decisive rebuttal noted: Side A's strongest exchange was pressing that hiding public counts does not stop the backend outrage engine, but does remove users' ability to compare likes, reposts, and reactions as imperfect public diagnostics. B's laundering response was strong, but A made the opacity trad...
 - **Grok 4.3**: Side A wins by establishing a clearer causal mechanism: default-off removes the public reward loop that drives outrage content and herd dismissal of new voices, while preserving private data and user toggles. B's transparency and power-transfer claims were addressed directly i...
   Most decisive rebuttal noted: A2's direct A1/A2 answers to B's pressure questions on toggle mechanics and algos reframed default-off as neutral ground that starves performative behavior upstream while B's ecosystem diagnostic was left partially exposed as still reliant on visible but inflated signals.

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | DeepSeek V4 Pro | +1.2 | +1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | DeepSeek V4 Pro | +1.2 | +1.20 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.2 | -1.44 | 6.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 6.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A built a coherent, well-grounded core: defaults govern behavior through inertia, reversing the default harnesses that inertia for protection, and the system works by throttle-capping rather than braking so sensor errors produce mild inconvenience rather than acute hazard...
+- **Claude Sonnet 4.6 (high)**: Side A built a coherent, well-grounded core: defaults govern behavior through inertia, reversing the default harnesses that inertia for protection, and the system works by throttle-capping rather than braking so sensor errors produce mild inconvenience rather than acute hazard...
   Most decisive rebuttal noted: Side B's Rebuttal 2 contradiction identification [B4.3-B4.4] was the sharpest single move: pointing out that A characterized the override as both an "instinctive floor-it" motion (pressure question) and a "soft progressive detent requiring just a bit more pressure" (Rebuttal 2...
 - **Grok 4.3**: Side B won because their Rebuttal 2 exposed an inconsistency in Side A's override description (instinctive floor vs. progressive detent) that directly undermined claims of seamlessness and no delay, while keeping pressure on real maneuver hazards and high-risk driver opt-out;...
   Most decisive rebuttal noted: Side B's Rebuttal 2 highlighting the shift in Side A's accelerator override account (from [A3.2] instinctive flooring to [A4.1] soft progressive pressure) and why that dooms the safety case.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 6.0 |
+| Claude Sonnet 4.6 (high) | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 6.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.5 | +1.80 | 6.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | +1.9 | +1.90 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A built a cleaner, more progressive case across the exchange. Its core argument—default ISA flips the behavioral baseline so that compliance is the path of least resistance for the majority while forcing reckless drivers to make a conscious, effortful choice to speed—rema...
+- **Claude Sonnet 4.6 (high)**: Side A built a cleaner, more progressive case across the exchange. Its core argument—default ISA flips the behavioral baseline so that compliance is the path of least resistance for the majority while forcing reckless drivers to make a conscious, effortful choice to speed—rema...
   Most decisive rebuttal noted: Side A's Rebuttal 2 response to the aftermarket-hacking cascade (A2): arguing that automotive architecture does not inherently link ISA disabling to AEB, invoking the 99%/1% policy design principle, and deploying the seatbelt-bypass analogy. This move interrupted CON's stronge...
 - **Grok 4.3**: Side A won by establishing a clearer causal path from default ISA to reduced habitual speeding via behavioral defaults and crash physics, then neutralizing B's edge-case rebuttals on overrides and hacking as policy-irrelevant extremes rather than systemic threats. B raised pla...
   Most decisive rebuttal noted: A's A1/A2 answers in Rebuttal 2 cleanly reframed B's pressure questions on minority hacking and pedal surprise as non-dispositive for the majority baseline.

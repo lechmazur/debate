@@ -7,7 +7,7 @@
 - overall judged result (normalized): **Kimi K2.5 Thinking**
 - overall judged result (raw): **Kimi K2.5 Thinking**
 - mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Kimi K2.5 Thinking`: `+0.83`
+- mean signed normalized margin for `Kimi K2.5 Thinking`: `+0.82`
 - judgment rows: `4`
 - swap_complete: `1`
 - rating_eligible: `1`

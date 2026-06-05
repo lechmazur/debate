@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | -1.5 | -1.61 | 8.0 |
+| GPT-5.5 (high) | Kimi K2.6 | -1.5 | -1.61 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | -1.2 | -1.44 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | -1.5 | -1.50 | 9.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A won a clear but competitive debate by making the decisive clash about whether broad opening can avoid harming innocents, victims, coerced informants, and fragile communities. Side B had a strong moral case about truth, closure, and democratic accountability, but too oft...
+- **GPT-5.5 (high)**: Side A won a clear but competitive debate by making the decisive clash about whether broad opening can avoid harming innocents, victims, coerced informants, and fragile communities. Side B had a strong moral case about truth, closure, and democratic accountability, but too oft...
   Most decisive rebuttal noted: A's rebuttal to B's anti-curation framing was decisive: once B accepted redaction for living victims, A showed that some review and filtering is unavoidable, then argued B had no principled answer for bystanders, coerced names, and reprisal risks in messy archives.
 - **Grok 4.3**: Side B won by grounding harms in the Stasi case and exposing that PRO's default-open still requires judgments on redaction and review, making independent mediation the more coherent and protective path after both sides addressed pressures.
   Most decisive rebuttal noted: B's Rebuttal 2 turned PRO's redaction concession into proof that curation is unavoidable, then used it to show unmediated release risks real-time harm like reprisals.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | +1.4 | +1.50 | 8.0 |
+| GPT-5.5 (high) | Kimi K2.6 | +1.4 | +1.50 | 8.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.5 | -1.80 | 7.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won because it better defended the motion as written: broader access after immediate security risks, not reckless public dumping. A landed serious concerns about false accusations, privacy, and source protection, but too often treated any broader access as publication into t...
+- **GPT-5.5 (high)**: B won because it better defended the motion as written: broader access after immediate security risks, not reckless public dumping. A landed serious concerns about false accusations, privacy, and source protection, but too often treated any broader access as publication into t...
   Most decisive rebuttal noted: B’s pressure on A’s no-cutoff position was decisive: A answered that human-source secrecy must be perpetual, which made its model look like permanent state veto over large parts of colonial and secret-police history rather than a targeted safety exception.
 - **Grok 4.3**: Side B built the stronger case by highlighting practical harms of stigma, administrative impossibility of safe broad release, and the need for perpetual source protection that PRO never fully neutralized; the clipped rebuttal and retreat from "broad" to tiered access further w...
   Most decisive rebuttal noted: B's direct answer to Pressure Questions on perpetual secrecy and forced publication of lies, followed by calling out A's narrowing of "broadly" in Rebuttal 2.

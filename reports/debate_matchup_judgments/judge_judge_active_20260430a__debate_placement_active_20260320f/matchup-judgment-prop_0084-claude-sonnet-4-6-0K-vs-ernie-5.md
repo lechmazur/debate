@@ -6,9 +6,9 @@
 - matchup: **Claude Sonnet 4.6 (no reasoning)** vs **Baidu Ernie 5.0**
 - overall judged result (normalized): **Claude Sonnet 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Sonnet 4.6 (no reasoning)**
-- mean entertainment: `6.50 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.88`
-- judgment rows: `4`
+- mean entertainment: `6.83 / 10`
+- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.90`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0084__claude-sonnet-4-6-0K__ernie-5__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0084__claude-sonnet-4-6-0K__ernie-5__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Baidu Ernie 5.0**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (no reasoning)**.
-- entertainment scores: `7`, `6`
-- mean signed raw margin (PRO+): `+2.10`
+- judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (no reasoning)**.
+- entertainment scores: `7`, `7`, `6`
+- mean signed raw margin (PRO+): `+2.23`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +2.5 | +2.08 | 7.0 |
 | Kimi K2.6 | Claude Sonnet 4.6 (no reasoning) | +2.2 | +2.20 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Sonnet 4.6 (no reasoning) | +2.0 | +2.00 | 6.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B won by consistently reframing the debate around 'design authority' and upstream incentives, demonstrating that general municipal taxes cannot redesign a bottle. Side B answered their pressure questions flawlessly, while Side A's responses played directly into Side B's h...
+  Most decisive rebuttal noted: Side B's A1 in Rebuttal 2 decisively dismantled the consumer pass-through objection by explaining that EPR targets upstream producer redesign rather than relying solely on downstream consumer price signals.
 - **Kimi K2.6**: Side A built the stronger path to victory by framing the debate around design authority: producers control material choices, so financial responsibility must sit with them to drive upstream waste reduction. Side B never squarely answered why diffuse taxpayers should subsidize...
   Most decisive rebuttal noted: Side A’s Rebuttal 2 (Turn 7), which distinguished upstream producer incentives from downstream consumer price effects, directly answered both pressure questions, and exposed that CON had conceded producers respond to financial signals while offering no reason to prefer diffuse...
 - **Qwen 3.6 Max Preview**: Side A controlled the debate by consistently framing the clash around upstream design authority versus downstream waste management. A directly answered B's concerns about small producers (pooled compliance organizations) and cost pass-through (clarifying that EPR's primary lev...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0084__ernie-5__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0084__ernie-5__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Baidu Ernie 5.0**, CON = **Claude Sonnet 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (no reasoning)**.
-- entertainment scores: `6`, `7`
-- mean signed raw margin (PRO+): `-1.65`
+- judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (no reasoning)**.
+- entertainment scores: `8`, `6`, `7`
+- mean signed raw margin (PRO+): `-1.83`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | -2.2 | -1.83 | 8.0 |
 | Kimi K2.6 | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.50 | 6.0 |
 | Qwen 3.6 Max Preview | Claude Sonnet 4.6 (no reasoning) | -1.8 | -1.80 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by consistently narrowing the debate to the gap between Side B's narrow success stories (like bottle deposits) and the sweeping scope of the proposition. Side A also effectively neutralized Side B's long-term innovation mechanism by highlighting the immediate, regre...
+  Most decisive rebuttal noted: Side A's argument in Rebuttal 2 that Side B's reliance on caps concedes the policy is inherently a tax that requires trusting uncaptured regulators, which history does not support.
 - **Kimi K2.6**: CON won by exposing a fatal scope gap in PRO's case: every real-world success PRO cited—Germany's bottle deposits, deposit-return schemes, the EU Directive—was a narrow, product-specific program, while the motion demands a broad "much more" cost shift across all packaging. CON...
   Most decisive rebuttal noted: CON's second rebuttal crystallizing that PRO had spent the entire debate conflating narrow deposit-return schemes with the sweeping "much more" proposition, thereby collapsing PRO's empirical support under the actual motion.
 - **Qwen 3.6 Max Preview**: Side B (CON) wins by consistently exposing the gap between PRO’s narrow, context-dependent examples (deposit schemes, Germany) and the motion’s broad demand for producers to pay “much more.” CON’s economic analysis of cost incidence—showing that fees pass to consumers and crea...

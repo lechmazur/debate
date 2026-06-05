@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0023__gpt-5.4-high__mimo-v2.5-pro__tpl_placement_active_20260320f`
 - topic_id: `prop_0023`
-- matchup: **GPT-5.4 (high reasoning)** vs **Xiaomi MiMo V2.5 Pro**
-- overall judged result (normalized): **GPT-5.4 (high reasoning)**
-- overall judged result (raw): **GPT-5.4 (high reasoning)**
+- matchup: **GPT-5.4 (high)** vs **Xiaomi MiMo V2.5 Pro**
+- overall judged result (normalized): **GPT-5.4 (high)**
+- overall judged result (raw): **GPT-5.4 (high)**
 - mean entertainment: `7.33 / 10`
-- mean signed normalized margin for `GPT-5.4 (high reasoning)`: `+1.12`
+- mean signed normalized margin for `GPT-5.4 (high)`: `+1.12`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0023__gpt-5.4-high__mimo-v2.5-pro__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Xiaomi MiMo V2.5 Pro**
-- [Debate B transcript](../../../transcripts/prop_0023__mimo-v2.5-pro__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Xiaomi MiMo V2.5 Pro**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0023__gpt-5.4-high__mimo-v2.5-pro__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Xiaomi MiMo V2.5 Pro**
+- [Debate B transcript](../../../transcripts/prop_0023__mimo-v2.5-pro__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Xiaomi MiMo V2.5 Pro**, CON = **GPT-5.4 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0023__gpt-5.4-high__mimo-v2.5-pro__tpl_placement_active_20260320f` or topic `prop_0023`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0023__gpt-5.4-high__mimo-v2.5-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0023__gpt-5.4-high__mimo-v2.5-pro__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Xiaomi MiMo V2.5 Pro**
-- judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **GPT-5.4 (high)**, CON = **Xiaomi MiMo V2.5 Pro**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.73`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | +2.2 | +1.83 | 8.0 |
-| Grok 4.3 | GPT-5.4 (high reasoning) | +1.5 | +1.80 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | +1.5 | +1.50 | 7.0 |
+| Gemini 3.1 Pro Preview | GPT-5.4 (high) | +2.2 | +1.83 | 8.0 |
+| Grok 4.3 | GPT-5.4 (high) | +1.5 | +1.80 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
@@ -49,15 +49,15 @@
 
 - debate_id: `prop_0023__mimo-v2.5-pro__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0023__mimo-v2.5-pro__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Xiaomi MiMo V2.5 Pro**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Split `2-1` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **Xiaomi MiMo V2.5 Pro**, CON = **GPT-5.4 (high)**
+- judged result: Split `2-1` for **GPT-5.4 (high)**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `-0.53`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | -1.5 | -1.25 | 8.0 |
-| Grok 4.3 | GPT-5.4 (high reasoning) | -1.3 | -1.56 | 7.0 |
+| Gemini 3.1 Pro Preview | GPT-5.4 (high) | -1.5 | -1.25 | 8.0 |
+| Grok 4.3 | GPT-5.4 (high) | -1.3 | -1.56 | 7.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes

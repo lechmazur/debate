@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | +1.5 | +1.61 | 7.0 |
+| GPT-5.5 (high) | Kimi K2.6 | +1.5 | +1.61 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +1.2 | +1.00 | 8.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | -1.0 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a clear but competitive debate. Side A had strong pressure on nuclear timelines, cost, seismic risk, and the distinction between uranium imports and domestic renewable fuel. But Side B made the cleaner comparative case: restarts address near-term insecurity while ex...
+- **GPT-5.5 (high)**: Side B won a clear but competitive debate. Side A had strong pressure on nuclear timelines, cost, seismic risk, and the distinction between uranium imports and domestic renewable fuel. But Side B made the cleaner comparative case: restarts address near-term insecurity while ex...
   Most decisive rebuttal noted: Side B’s answer to the timeline and fuel-security attacks was decisive: it separated restarts from new builds and showed why storable uranium creates materially less insecurity than continuous LNG shipments, weakening Side A’s strongest “nuclear is still import dependence” route.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully defending the timeline and feasibility of nuclear power. Side B's bifurcation of the timeline (restarts for the 2020s, expansion for the 2030s) cleanly neutralized Side A's primary offense regarding construction delays. Furthermore, Side B's unrefute...
   Most decisive rebuttal noted: Side B's Rebuttal 2 (A1 and A2) effectively dismantled Side A's timeline and sovereignty arguments by distinguishing between the immediate benefits of restarts and the long-term necessity of expansion, while exposing the mineral dependencies of renewables.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | +1.4 | +1.50 | 8.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | +1.4 | +1.50 | 8.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -0.8 | -0.67 | 9.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | +0.8 | +0.96 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won by making the central comparison clearer: nuclear fuel can be stockpiled and firm nuclear output reduces both fossil price exposure and gas-backed emissions in a way Side A's renewable mix did not fully answer. Side A landed real concerns on safety, waste, public co...
+- **GPT-5.5 (high)**: Side B won by making the central comparison clearer: nuclear fuel can be stockpiled and firm nuclear output reduces both fossil price exposure and gas-backed emissions in a way Side A's renewable mix did not fully answer. Side A landed real concerns on safety, waste, public co...
   Most decisive rebuttal noted: Side B's most decisive rebuttal was that uranium import dependence is not equivalent to LNG or coal dependence because nuclear fuel is compact and stockpilable, combined with the pressure that weather-dependent renewables still need firm backup during long lulls.
 - **Gemini 3.1 Pro Preview**: Side A wins a razor-close debate by effectively introducing the 'modular vs. monolithic' distinction. This framework cleanly neutralized Side B's strongest counters regarding permitting delays and storm resilience. While Side B landed excellent points on intermittency and the...
   Most decisive rebuttal noted: Side A's Rebuttal 2 explicitly contrasting the impacts of delay and damage on modular renewables versus monolithic nuclear fleets.

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5 | +1.5 | +1.50 | 6.0 |
+| Claude Sonnet 4.6 (high) | GLM-5 | +1.5 | +1.50 | 6.0 |
 | Gemini 3.1 Pro Preview | Grok 4.3 | -0.8 | -0.67 | 8.0 |
 | Qwen 3.6 Max Preview | GLM-5 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A built a cleaner and more durable path to victory across the full exchange. The decisive strategic move came early: A's rebuttal turned B's own travel example against it by showing that a booking where unstated personal factors dominate (layover tolerance, stress-day con...
+- **Claude Sonnet 4.6 (high)**: Side A built a cleaner and more durable path to victory across the full exchange. The decisive strategic move came early: A's rebuttal turned B's own travel example against it by showing that a booking where unstated personal factors dominate (layover tolerance, stress-day con...
   Most decisive rebuttal noted: A2.1/A4.1 — "The travel example proves too much." A established that a flight booking where layover tolerance varies by stress level is not a routine purchase by definition, so it would never be automated under the proposition. This single move reframed B's strongest recurring...
 - **Gemini 3.1 Pro Preview**: Side A wins by systematically dismantling Side B's strongest analogies (autopay and corporate cards). A proves that unlike static autopay, AI agents actively select among variable options, meaning pre-set rules can never fully proxy human intent. B argues well on notification...
   Most decisive rebuttal noted: A's Rebuttal 2 effectively shatters B's autopay analogy by pointing out that autopay covers identical recurring charges, whereas AI chooses among variable options that technically fit rules but fail unstated constraints.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5 | -1.0 | -1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5 | -1.0 | -1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5 | -2.5 | -2.08 | 8.0 |
 | Qwen 3.6 Max Preview | GLM-5 | -2.0 | -2.00 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON (Side B) edges out a clear but competitive win on three main grounds. First, the "gradual erosion" argument — merchants shrinking package sizes, subscriptions adding small fees, quality quietly degrading — exposes a genuine structural gap in PRO's framework. PRO's anomaly...
+- **Claude Sonnet 4.6 (high)**: CON (Side B) edges out a clear but competitive win on three main grounds. First, the "gradual erosion" argument — merchants shrinking package sizes, subscriptions adding small fees, quality quietly degrading — exposes a genuine structural gap in PRO's framework. PRO's anomaly...
   Most decisive rebuttal noted: CON's second rebuttal and closing developing the "slopes not cliffs" argument: PRO's hybrid system (halt-and-notify on anomalies, velocity thresholds) only catches dramatic deviations, while the most common consumer harm — gradual package shrinkage, slow subscription fee creep...
 - **Gemini 3.1 Pro Preview**: Side A systematically dismantles Side B's practical mechanisms by showing that "routine" purchases are highly dynamic and subject to incremental merchant exploitation. Side A effectively frames Side B's "halt-and-notify" concession as proof that rules inevitably fail to captur...
   Most decisive rebuttal noted: Side A's Rebuttal 2 and Closing brilliantly expose the flaw in Side B's deviation thresholds, arguing that the system only sees "cliffs, not slopes" and thereby misses the gradual erosion (shrinkflation, fee creep) that constitutes the most common consumer harm.

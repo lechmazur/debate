@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0199__gpt-5.4-high__qwen3.6-max-preview__tpl_placement_active_20260320f`
 - topic_id: `prop_0199`
-- matchup: **GPT-5.4 (high reasoning)** vs **Qwen 3.6 Max Preview**
-- overall judged result (normalized): **GPT-5.4 (high reasoning)**
-- overall judged result (raw): **GPT-5.4 (high reasoning)**
+- matchup: **GPT-5.4 (high)** vs **Qwen 3.6 Max Preview**
+- overall judged result (normalized): **GPT-5.4 (high)**
+- overall judged result (raw): **GPT-5.4 (high)**
 - mean entertainment: `7.83 / 10`
-- mean signed normalized margin for `GPT-5.4 (high reasoning)`: `+1.09`
+- mean signed normalized margin for `GPT-5.4 (high)`: `+1.09`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0199__gpt-5.4-high__qwen3.6-max-preview__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Qwen 3.6 Max Preview**
-- [Debate B transcript](../../../transcripts/prop_0199__qwen3.6-max-preview__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Qwen 3.6 Max Preview**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0199__gpt-5.4-high__qwen3.6-max-preview__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Qwen 3.6 Max Preview**
+- [Debate B transcript](../../../transcripts/prop_0199__qwen3.6-max-preview__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Qwen 3.6 Max Preview**, CON = **GPT-5.4 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0199__gpt-5.4-high__qwen3.6-max-preview__tpl_placement_active_20260320f` or topic `prop_0199`.
 
@@ -25,20 +25,20 @@
 
 - debate_id: `prop_0199__gpt-5.4-high__qwen3.6-max-preview__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0199__gpt-5.4-high__qwen3.6-max-preview__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Qwen 3.6 Max Preview**
-- judged result: Split `2-1` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **GPT-5.4 (high)**, CON = **Qwen 3.6 Max Preview**
+- judged result: Split `2-1` for **GPT-5.4 (high)**.
 - entertainment scores: `7`, `9`, `8`
 - mean signed raw margin (PRO+): `+0.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | +1.0 | +1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | -0.8 | -0.67 | 9.0 |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | +1.5 | +1.50 | 8.0 |
+| Kimi K2.6 | GPT-5.4 (high) | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A won by making the decisive clash clearer and landing the stronger tu quoque. PRO correctly identified from the opening that the motion already includes threshold-based safeguards, neutralizing CON's "publish now, regulate later" framing before it took hold. The most dec...
+- **Claude Sonnet 4.6 (high)**: Side A won by making the decisive clash clearer and landing the stronger tu quoque. PRO correctly identified from the opening that the motion already includes threshold-based safeguards, neutralizing CON's "publish now, regulate later" framing before it took hold. The most dec...
   Most decisive rebuttal noted: PRO's Rebuttal 2 sequence (A1/A2) exposed that CON's own "phased empirically validated access" standard relies on the same pre-release predictions CON attacked as unreliable, while also showing that if a model can be pushed over a threshold with routine fine-tuning it should b...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully proving a structural flaw in the proposition: open-weight distribution is a "one-way door," making post-hoc safeguards impossible to enforce. Side B argued effectively that Side A's standard would lead to indefinite corporate concentration, but Side...
   Most decisive rebuttal noted: Side A's Rebuttal 2 dismantling of Side B's "chokepoints" argument by pointing out you cannot license a decentralized swarm or recall a torrent file.
@@ -49,20 +49,20 @@
 
 - debate_id: `prop_0199__qwen3.6-max-preview__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0199__qwen3.6-max-preview__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Qwen 3.6 Max Preview**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **Qwen 3.6 Max Preview**, CON = **GPT-5.4 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
 - entertainment scores: `7`, `8`, `8`
 - mean signed raw margin (PRO+): `-1.70`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 7.0 |
-| Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | -2.4 | -2.00 | 8.0 |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -1.2 | -1.20 | 8.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | -1.5 | -1.50 | 7.0 |
+| Gemini 3.1 Pro Preview | GPT-5.4 (high) | -2.4 | -2.00 | 8.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -1.2 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON built the stronger path to victory across the full exchange. The decisive turning point came in Rebuttal 2: when A4.1 defined PRO's "clearly specified" thresholds as fixed around "standard open-source toolchains, bounded fine-tuning windows, and typical consumer compute,"...
+- **Claude Sonnet 4.6 (high)**: CON built the stronger path to victory across the full exchange. The decisive turning point came in Rebuttal 2: when A4.1 defined PRO's "clearly specified" thresholds as fixed around "standard open-source toolchains, bounded fine-tuning windows, and typical consumer compute,"...
   Most decisive rebuttal noted: CON's exploitation of PRO's Rebuttal 2 A1 answer in B4.3–B4.4: PRO defined thresholds around "standard open-source toolchains, bounded fine-tuning, and typical consumer compute," and CON immediately turned this against them — either the protocol is narrow and dangerous models...
 - **Gemini 3.1 Pro Preview**: Side A systematically dismantled Side B's key mechanisms. A forced B to define how "clearly specified thresholds" would work in practice, then used B's answer (fixed lab protocols) to prove that real-world misuse would bypass the test. Additionally, A successfully neutralized...
   Most decisive rebuttal noted: A's second rebuttal, which turned B's answer about "fixed evaluation protocols" into a devastating dilemma: either the test is a narrow lab snapshot that dangerous models bypass, or it expands into the vague forecast B claimed to avoid.

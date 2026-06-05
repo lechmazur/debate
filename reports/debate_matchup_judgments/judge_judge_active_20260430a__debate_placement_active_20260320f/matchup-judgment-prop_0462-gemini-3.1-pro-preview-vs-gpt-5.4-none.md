@@ -6,9 +6,9 @@
 - matchup: **Gemini 3.1 Pro Preview** vs **GPT-5.4 (no reasoning)**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
-- mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Gemini 3.1 Pro Preview`: `+0.02`
-- judgment rows: `4`
+- mean entertainment: `7.33 / 10`
+- mean signed normalized margin for `Gemini 3.1 Pro Preview`: `-0.07`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0462__gemini-3.1-pro-preview__gpt-5.4-none__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0462__gemini-3.1-pro-preview__gpt-5.4-none__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Gemini 3.1 Pro Preview**, CON = **GPT-5.4 (no reasoning)**
-- judged result: Unanimous `2-0` for **GPT-5.4 (no reasoning)**.
-- entertainment scores: `8`, `8`
-- mean signed raw margin (PRO+): `-1.60`
+- judged result: Unanimous `3-0` for **GPT-5.4 (no reasoning)**.
+- entertainment scores: `7`, `8`, `8`
+- mean signed raw margin (PRO+): `-1.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (no reasoning) | -1.5 | -1.50 | 7.0 |
 | Kimi K2.6 | GPT-5.4 (no reasoning) | -1.7 | -1.70 | 8.0 |
 | Qwen 3.6 Max Preview | GPT-5.4 (no reasoning) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: CON (Side A) built the stronger path to victory by attacking the causal mechanism PRO needed most. PRO's entire practical case rested on the claim that standardizing equal-length cables from the exchange perimeter would neutralize external speed advantages the moment an order...
+  Most decisive rebuttal noted: CON's Rebuttal 2 answer to PRO's equal-cable neutralization mechanism: pointing out that orders are timestamped by when they arrive at the venue, so getting to the exchange door earlier through external networks still confers the decisive advantage. This directly collapsed PRO...
 - **Kimi K2.6**: CON demonstrated that prohibiting co-location fails to eliminate latency competition because speed advantages persist through external networks, data feeds, and cross-venue arbitrage, while removing a transparent, standardized venue-managed service. CON’s rebuttal that equaliz...
   Most decisive rebuttal noted: CON’s Rebuttal 2 answer to PRO’s Pressure Question 2, showing that equal-length cables inside the venue do not neutralize external speed advantages because orders are timestamped at arrival and cross-venue/news risk persists, decisively undermined PRO’s claim that a ban would...
 - **Qwen 3.6 Max Preview**: CON wins by decisively dismantling PRO's core mechanism. PRO argued that banning co-location and mandating equal-length internal cables would neutralize predatory trading and tighten spreads. CON effectively demonstrated that because orders are timestamped upon arrival at the...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0462__gpt-5.4-none__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0462__gpt-5.4-none__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **GPT-5.4 (no reasoning)**, CON = **Gemini 3.1 Pro Preview**
-- judged result: Unanimous `2-0` for **Gemini 3.1 Pro Preview**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.65`
+- judged result: Unanimous `3-0` for **Gemini 3.1 Pro Preview**.
+- entertainment scores: `7`, `7`, `7`
+- mean signed raw margin (PRO+): `-1.43`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | Gemini 3.1 Pro Preview | -1.0 | -1.00 | 7.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | -1.8 | -1.80 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: CON (Side A) wins on the two most important unrefuted lines. First, the shadow-race argument: banning exchange co-location does not neutralize the speed advantage — it moves the finish line to the property line, where only the wealthiest mega-banks can afford to play. PRO labe...
+  Most decisive rebuttal noted: The most decisive exchange was PRO's Q1 pressure question ("How does 'rich firms might buy nearby buildings' justify the exchange itself selling privileged access?") and CON's A1 response in Rebuttal 2. CON reframed the exchange's monetization as standardization — converting a...
 - **Kimi K2.6**: Side A won by demonstrating that prohibiting exchange co-location would not eliminate speed advantages but would instead shift them to an unregulated shadow market of private real estate, worsening inequality while raising transaction costs for retail investors through wider b...
   Most decisive rebuttal noted: CON's rebuttal exposing that banning co-location simply moves the latency race outside the exchange to private property monopolies, which PRO could only answer by calling it a speculative worst case without engaging the physics of the speed of light or the stale-price spread m...
 - **Qwen 3.6 Max Preview**: Side B wins by successfully turning Side A's fairness argument into a liability. B consistently demonstrated that banning exchange co-location does not eliminate latency advantages but instead privatizes them, creating an exclusionary real estate monopoly that favors only the...

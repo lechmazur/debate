@@ -32,15 +32,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | -0.8 | -0.80 | 7.0 |
-| GPT-5.5 (high reasoning) | Gemini 3.1 Pro Preview | +1.0 | +1.07 | 8.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | -0.8 | -0.80 | 7.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | +1.0 | +1.07 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | -1.5 | -1.80 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Both sides ran coherent, well-structured cases, but CON (Side A) accumulated a narrow but real advantage across the later rounds. CON's decisive move was the A1 answer in Rebuttal 2: distinguishing a cross-examinable human complaint from a certified machine log that enters pro...
+- **Claude Sonnet 4.6 (high)**: Both sides ran coherent, well-structured cases, but CON (Side A) accumulated a narrow but real advantage across the later rounds. CON's decisive move was the A1 answer in Rebuttal 2: distinguishing a cross-examinable human complaint from a certified machine log that enters pro...
   Most decisive rebuttal noted: CON's A1 in Rebuttal 2 (A4.1): drawing a sharp distinction between cross-examinable human testimony and a certified log that enters the record with unchallengeable scientific authority. This directly answered PRO's Q1—"how is objective data worse than a subjective accusation?"...
-- **GPT-5.5 (high reasoning)**: A won narrowly but clearly because it kept the motion framed as admitting certified noise data as an evidentiary baseline, not making it dispositive. B’s strongest claim was that certified devices would be controlled by wealthier accusers and overtrusted by housing adjudicator...
+- **GPT-5.5 (high)**: A won narrowly but clearly because it kept the motion framed as admitting certified noise data as an evidentiary baseline, not making it dispositive. B’s strongest claim was that certified devices would be controlled by wealthier accusers and overtrusted by housing adjudicator...
   Most decisive rebuttal noted: A’s answer that decibel logs prove sound rather than nuisance was the key rebuttal, because it neutralized B’s claim that measurement necessarily erases context while preserving A’s central benefit of objective proof.
 - **Grok 4.3**: Side A (CON) won by establishing a clearer path to victory around practical control of evidence, un-cross-examinable data in overburdened courts, and burden shift to low-income tenants; Side B's ideal objectivity claims were left vulnerable to A's direct rebuttals on economics...
   Most decisive rebuttal noted: Side A's Rebuttal 2 directly answering the Pressure Questions by stressing device control and lack of cross-examination, which crystallized the decisive power-asymmetry clash over B's responses.
@@ -56,15 +56,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | +1.2 | +1.29 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
+| GPT-5.5 (high) | Kimi K2.6 | +1.2 | +1.29 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.2 | -1.44 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: B (PRO) built and maintained the stronger path to victory across the full exchange. Its "facts vs. friction" and "status quo favors power" frames were established early and never seriously dislodged. The decisive exchange was B's Rebuttal 2 treatment of A's insulation pressure...
+- **Claude Sonnet 4.6 (high)**: B (PRO) built and maintained the stronger path to victory across the full exchange. Its "facts vs. friction" and "status quo favors power" frames were established early and never seriously dislodged. The decisive exchange was B's Rebuttal 2 treatment of A's insulation pressure...
   Most decisive rebuttal noted: B's handling of A's insulation pressure question (Rebuttal 2, B4.3–B4.4): instead of conceding that raw data cannot distinguish tenant fault from building failure, B argued that logs confirming normal sounds at violation-level transmission actually shift blame from the residen...
-- **GPT-5.5 (high reasoning)**: Side A won because it better fit the motion’s modest claim: allowing certified noise evidence more often does not make it dispositive. A’s “evidence, not verdict” framing answered much of B’s strict-liability and context-blindness case, especially by emphasizing duration, freq...
+- **GPT-5.5 (high)**: Side A won because it better fit the motion’s modest claim: allowing certified noise evidence more often does not make it dispositive. A’s “evidence, not verdict” framing answered much of B’s strict-liability and context-blindness case, especially by emphasizing duration, freq...
   Most decisive rebuttal noted: A’s Rebuttal 1 was decisive: it directly answered the toddler/subwoofer objection by distinguishing raw spikes from sustained patterns and framed certified logs as contextual evidence rather than a replacement for reasonableness.
 - **Grok 4.3**: Side A won by more convincingly exposing unaddressed practical burdens like mandatory preemptive monitoring for defense, context erasure in rushed adjudications, and landlords using logs for eviction over repair; Side B's claims of voluntary shields and shifted accountability...
   Most decisive rebuttal noted: A's A1/A2 answers in rebuttal 2 directly neutralized B's Q1/Q2 on retroactive recording and insulation by showing timing and incentive problems, creating the decisive practical clash.

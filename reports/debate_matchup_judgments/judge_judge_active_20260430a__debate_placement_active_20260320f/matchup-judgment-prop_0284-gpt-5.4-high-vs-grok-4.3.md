@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0284__gpt-5.4-high__grok-4.3__tpl_placement_active_20260320f`
 - topic_id: `prop_0284`
-- matchup: **GPT-5.4 (high reasoning)** vs **Grok 4.3**
-- overall judged result (normalized): **GPT-5.4 (high reasoning)**
-- overall judged result (raw): **GPT-5.4 (high reasoning)**
+- matchup: **GPT-5.4 (high)** vs **Grok 4.3**
+- overall judged result (normalized): **GPT-5.4 (high)**
+- overall judged result (raw): **GPT-5.4 (high)**
 - mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `GPT-5.4 (high reasoning)`: `+1.61`
+- mean signed normalized margin for `GPT-5.4 (high)`: `+1.61`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0284__gpt-5.4-high__grok-4.3__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Grok 4.3**
-- [Debate B transcript](../../../transcripts/prop_0284__grok-4.3__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.3**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0284__gpt-5.4-high__grok-4.3__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Grok 4.3**
+- [Debate B transcript](../../../transcripts/prop_0284__grok-4.3__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Grok 4.3**, CON = **GPT-5.4 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0284__gpt-5.4-high__grok-4.3__tpl_placement_active_20260320f` or topic `prop_0284`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0284__gpt-5.4-high__grok-4.3__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0284__gpt-5.4-high__grok-4.3__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Grok 4.3**
-- judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **GPT-5.4 (high)**, CON = **Grok 4.3**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
 - entertainment scores: `8`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | +1.5 | +1.25 | 8.0 |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | +1.5 | +1.50 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | +1.5 | +1.50 | 7.0 |
+| Gemini 3.1 Pro Preview | GPT-5.4 (high) | +1.5 | +1.25 | 8.0 |
+| Kimi K2.6 | GPT-5.4 (high) | +1.5 | +1.50 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0284__grok-4.3__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0284__grok-4.3__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Grok 4.3**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **Grok 4.3**, CON = **GPT-5.4 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
 - entertainment scores: `8`, `7`, `8`
 - mean signed raw margin (PRO+): `-1.90`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Gemini 3.1 Pro Preview | GPT-5.4 (high reasoning) | -1.8 | -1.50 | 8.0 |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -1.9 | -1.90 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | -2.0 | -2.00 | 8.0 |
+| Gemini 3.1 Pro Preview | GPT-5.4 (high) | -1.8 | -1.50 | 8.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -1.9 | -1.90 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | -2.0 | -2.00 | 8.0 |
 
 ### Judge Notes
 

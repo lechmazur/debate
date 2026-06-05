@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5 | +1.0 | +1.07 | 8.0 |
+| GPT-5.5 (high) | GLM-5 | +1.0 | +1.07 | 8.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2.5 Pro | -2.2 | -1.83 | 8.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a competitive debate by keeping the motion focused on concrete access for communities that bear the burdens of large events. Side A landed strong attacks that ticket reservations are an imperfect compensation tool and may benefit wealthier locals, but Side B persuas...
+- **GPT-5.5 (high)**: Side B won a competitive debate by keeping the motion focused on concrete access for communities that bear the burdens of large events. Side A landed strong attacks that ticket reservations are an imperfect compensation tool and may benefit wealthier locals, but Side B persuas...
   Most decisive rebuttal noted: Side A's strongest exchange was the claim that PRO stitched together compensation and anti-scalping arguments, but Side B's response that CON offered locals no guaranteed access and merely demanded perfection from a concrete protected-share policy was the decisive comparative...
 - **Gemini 3.1 Pro Preview**: Side A won by systematically dismantling Side B's two main justifications: compensation for community costs and protection from scalpers. Side A decisively proved that ticket reservations are a regressive form of compensation that rewards wealthy event-goers while leaving low-...
   Most decisive rebuttal noted: Side A's second rebuttal capitalized perfectly on the low-income neighbor hypothetical, exposing that Side B's "compensation" inherently leaves out residents who cannot afford tickets while still taxing them with event disruption.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.07 | 7.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.07 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5 | -1.5 | -1.25 | 8.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a clear but competitive debate. Side A was cleaner on execution and landed real hits: reservations reduce the general pool, geography is an imperfect proxy, and neutral anti-scalping mandates are plausible alternatives. But Side B maintained the broader comparative...
+- **GPT-5.5 (high)**: Side B won a clear but competitive debate. Side A was cleaner on execution and landed real hits: reservations reduce the general pool, geography is an imperfect proxy, and neutral anti-scalping mandates are plausible alternatives. But Side B maintained the broader comparative...
   Most decisive rebuttal noted: Side B’s most important rebuttal was the filter-versus-reservation comparison: verified-fan systems still leave inventory in the contested general market, while reservations remove some tickets from bot-dominated dynamic sale and give host communities direct access. Side A’s r...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively dismantling Side B's claim that geographic reservations would help traveling fans. Side A's mathematical point that reducing the general supply merely concentrates bot competition against the remaining tickets was devastating. Furthermore, Side B suff...
   Most decisive rebuttal noted: Side A's A1 in Rebuttal 2 flawlessly answered Side B's first pressure question by explaining that reducing supply while demand remains constant concentrates scalper pressure, thereby worsening odds for non-local fans.

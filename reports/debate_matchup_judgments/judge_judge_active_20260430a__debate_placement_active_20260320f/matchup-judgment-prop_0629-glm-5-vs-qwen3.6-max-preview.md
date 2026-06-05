@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5 | +1.2 | +1.29 | 8.0 |
+| GPT-5.5 (high) | GLM-5 | +1.2 | +1.29 | 8.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | -1.0 | -1.20 | 8.0 |
 | Kimi K2.6 | GLM-5 | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a clear but competitive debate. Side A built a serious systemic-security case, especially with the smartphone-as-identity-wallet framing and prevention-versus-reaction contrast. But Side B more effectively answered the core burden of the proposition: the mandate res...
+- **GPT-5.5 (high)**: Side B won a clear but competitive debate. Side A built a serious systemic-security case, especially with the smartphone-as-identity-wallet framing and prevention-versus-reaction contrast. But Side B more effectively answered the core burden of the proposition: the mandate res...
   Most decisive rebuttal noted: Side B's most decisive rebuttal was that allowing sideloading and independent payments does not abolish official stores; users can still default to curated channels, while platforms must earn commissions rather than impose them. Side A's platform-contract answer did not fully...
 - **Grok 4.3**: Side A wins by establishing a clearer comparative advantage on mobile-specific threat models and proactive prevention versus reactive remedies, directly answering pressure questions on mechanisms and liability while showing why Android/macOS precedents do not transfer; Side B'...
   Most decisive rebuttal noted: The Rebuttal 2 exchange on Pressure Questions, where Side A distinguished smartphones as always-on identity wallets from desktops and contrasted centralized prevention with post-harm chargebacks, sharpening the core tradeoff beyond Side B's repeated coercion point.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5 | -1.1 | -1.18 | 7.0 |
+| GPT-5.5 (high) | GLM-5 | -1.1 | -1.18 | 7.0 |
 | Grok 4.3 | GLM-5 | -0.8 | -0.96 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.6 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A wins a clear but competitive debate. Side B made a strong competition-and-choice case, but Side A better resolved the central clash: allowing sideloading and independent payments is not just optional freedom, because it can defund shared curation infrastructure and expo...
+- **GPT-5.5 (high)**: Side A wins a clear but competitive debate. Side B made a strong competition-and-choice case, but Side A better resolved the central clash: allowing sideloading and independent payments is not just optional freedom, because it can defund shared curation infrastructure and expo...
   Most decisive rebuttal noted: Side A’s response to Side B’s pressure questions was the decisive exchange: it reframed “why require force if the store has value?” as a collective-funding/free-rider problem, and argued that preserving a storefront is not the same as preserving the curated security model once...
 - **Grok 4.3**: Side A argued more convincingly by building a sustained case on collective infrastructure funding and risks to vulnerable users via free-riding and social engineering, which Side B's market-competition and OS-control arguments did not fully neutralize across rebuttals and clos...
   Most decisive rebuttal noted: Side A's rebuttal 2, using the road-tax analogy to directly answer pressure questions on why force is needed for value delivery.

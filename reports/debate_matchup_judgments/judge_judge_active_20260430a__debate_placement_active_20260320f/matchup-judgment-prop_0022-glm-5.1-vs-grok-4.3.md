@@ -31,13 +31,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Grok 4.3 | +1.5 | +1.61 | 7.0 |
+| GPT-5.5 (high) | Grok 4.3 | +1.5 | +1.61 | 7.0 |
 | Gemini 3.1 Pro Preview | Grok 4.3 | +1.4 | +1.17 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | -0.9 | -0.90 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won because the motion only required regulation more like banks or money-market funds than ordinary software projects, not full bank treatment. A effectively conceded the need for enforceable reserve quality, custody, and diversification rules, then tried to relabel them as...
+- **GPT-5.5 (high)**: B won because the motion only required regulation more like banks or money-market funds than ordinary software projects, not full bank treatment. A effectively conceded the need for enforceable reserve quality, custody, and diversification rules, then tried to relabel them as...
   Most decisive rebuttal noted: B's answer to A's pressure questions was decisive: it conceded capital and lending rules were not the point, then anchored the case in money-market-style asset quality and diversification rules, undercutting A's attempt to make the debate only about full banking architecture.
 - **Gemini 3.1 Pro Preview**: Side B convincingly argued that stablecoins share the redemption and run risks of money-market funds, necessitating upfront prudential rules on asset eligibility. Side A argued well against heavy banking rules like capital adequacy, but stretched the definition of "software re...
   Most decisive rebuttal noted: Side B's A2 explaining why stablecoins differ from prepaid cards due to scale and systemic DeFi integration directly neutralized Side A's slippery-slope argument.

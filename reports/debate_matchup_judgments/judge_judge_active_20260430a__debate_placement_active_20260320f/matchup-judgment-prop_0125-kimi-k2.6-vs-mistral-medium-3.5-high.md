@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0125__kimi-k2.6__mistral-medium-3.5-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0125`
-- matchup: **Kimi K2.6** vs **Mistral Medium 3.5 High Reasoning**
+- matchup: **Kimi K2.6** vs **Mistral Medium 3.5 (high)**
 - overall judged result (normalized): **Kimi K2.6**
 - overall judged result (raw): **Kimi K2.6**
 - mean entertainment: `7.67 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0125__kimi-k2.6__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md): PRO = **Kimi K2.6**, CON = **Mistral Medium 3.5 High Reasoning**
-- [Debate B transcript](../../../transcripts/prop_0125__mistral-medium-3.5-high__kimi-k2.6__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 High Reasoning**, CON = **Kimi K2.6**
+- [Debate A transcript](../../../transcripts/prop_0125__kimi-k2.6__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md): PRO = **Kimi K2.6**, CON = **Mistral Medium 3.5 (high)**
+- [Debate B transcript](../../../transcripts/prop_0125__mistral-medium-3.5-high__kimi-k2.6__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 (high)**, CON = **Kimi K2.6**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0125__kimi-k2.6__mistral-medium-3.5-high__tpl_placement_active_20260320f` or topic `prop_0125`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0125__kimi-k2.6__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0125__kimi-k2.6__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Kimi K2.6**, CON = **Mistral Medium 3.5 High Reasoning**
+- roles: PRO = **Kimi K2.6**, CON = **Mistral Medium 3.5 (high)**
 - judged result: Unanimous `3-0` for **Kimi K2.6**.
 - entertainment scores: `8`, `7`, `8`
 - mean signed raw margin (PRO+): `+1.60`
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0125__mistral-medium-3.5-high__kimi-k2.6__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0125__mistral-medium-3.5-high__kimi-k2.6__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Mistral Medium 3.5 High Reasoning**, CON = **Kimi K2.6**
+- roles: PRO = **Mistral Medium 3.5 (high)**, CON = **Kimi K2.6**
 - judged result: Unanimous `3-0` for **Kimi K2.6**.
 - entertainment scores: `8`, `7`, `8`
 - mean signed raw margin (PRO+): `-1.60`

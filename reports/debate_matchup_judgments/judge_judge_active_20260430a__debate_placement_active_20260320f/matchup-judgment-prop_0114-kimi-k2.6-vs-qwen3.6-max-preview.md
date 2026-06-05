@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +1.5 | +1.25 | 8.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | -1.2 | -1.44 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side B) built and sustained the stronger path to victory across the full exchange. The military-and-education credits analogy [B2.1] was the debate's most decisive point: pension systems already depart from strict wage-recording for socially recognized contributions, and...
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) built and sustained the stronger path to victory across the full exchange. The military-and-education credits analogy [B2.1] was the debate's most decisive point: pension systems already depart from strict wage-recording for socially recognized contributions, and...
   Most decisive rebuttal noted: PRO's B2.1 military-and-education credits rebuttal in Rebuttal 1 was the most decisive exchange. CON's opening predicated everything on pension credits "corrupting actuarial logic," but PRO showed that pension systems routinely award non-earnings credits for military service,...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively neutralizing Side B's two main objections: the 'actuarial purity' argument and the 'labor trap' argument. A's comparison to military and education credits dismantled the idea that pensions are strictly wage-based ledgers, and A's point that nursing ho...
   Most decisive rebuttal noted: Side A's Rebuttal 2 completely neutralized the 'labor trap' argument by pointing out that caregivers delay re-entry because of exorbitant nursing home costs, not because modest, delayed pension credits act as a lucrative incentive.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Qwen 3.6 Max Preview | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Qwen 3.6 Max Preview | +1.0 | +1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | +1.2 | +1.00 | 8.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | +1.3 | +1.56 | 6.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO wins a clear but competitive debate on three live routes that CON never fully neutralized. First, PRO's precedent argument—that governments already transfer general revenues to credit military service, parental leave, and unemployment periods—was never squarely answered. C...
+- **Claude Sonnet 4.6 (high)**: PRO wins a clear but competitive debate on three live routes that CON never fully neutralized. First, PRO's precedent argument—that governments already transfer general revenues to credit military service, parental leave, and unemployment periods—was never squarely answered. C...
   Most decisive rebuttal noted: PRO's Rebuttal 2 answer to CON's trust-fund silo question (B4.3): governments already transfer general revenues to cover credited periods for military service, parental leave, and unemployment, so care credits would use the same proven mechanism rather than invent a novel acco...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively neutralizing the structural objections to the policy. By drawing parallels to existing general revenue transfers for military and parental leave, Side A demonstrated that pension systems can and already do accommodate non-wage periods, defeating Side...
   Most decisive rebuttal noted: Side A's R2 expertly answered Side B's trust-fund pressure by pointing out that governments already transfer general revenues to cover credited periods for military service and parental leave.

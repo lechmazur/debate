@@ -6,9 +6,9 @@
 - matchup: **Claude Opus 4.6 (no reasoning)** vs **GLM-5**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
-- mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+0.15`
-- judgment rows: `4`
+- mean entertainment: `7.25 / 10`
+- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+0.12`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,23 @@
 - debate_id: `prop_0632__claude-opus-4-6-0K__glm-5__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0632__claude-opus-4-6-0K__glm-5__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Opus 4.6 (no reasoning)**, CON = **GLM-5**
-- judged result: Unanimous `2-0` for **GLM-5**.
-- entertainment scores: `8`, `8`
-- mean signed raw margin (PRO+): `-1.35`
+- judged result: Split `3-1` for **GLM-5**.
+- entertainment scores: `7`, `7`, `8`, `8`
+- mean signed raw margin (PRO+): `-0.68`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| GPT-5.5 (high) | GLM-5 | -1.5 | -1.61 | 7.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5 | -1.2 | -1.20 | 8.0 |
 | Qwen 3.6 Max Preview | GLM-5 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side A won by making the cost-control mechanism the decisive issue and pressing it more concretely. Side B established a strong clinical and equity case, but repeatedly leaned on value-based contracts as if they automatically solved scale and pricing. Side A answered that the...
+  Most decisive rebuttal noted: Side A's strongest exchange was the response to value-based pricing: it argued that manufacturers get paid for measurable weight loss while diabetes, heart attacks, and surgeries remain only partially reduced, so the system pays for both medication and residual complications....
+- **Grok 4.3**: PRO (B) wins because it directly defended the proposition's value-based contracts mechanism across rebuttals, answered pressure questions on contract design and offsets with plausible examples, and crystallized that CON's alternative pays more downstream without engaging the s...
+  Most decisive rebuttal noted: B's Rebuttal 2 A1/A2 sequence, which tied outcomes contracts to clinical endpoints and reframed 20% CV risk reduction as substantial rather than modest.
 - **Kimi K2.6**: Side B wins by exposing that the proposition's central cost-control mechanism—value-based pricing and outcomes-based contracts—is structurally mismatched to the challenge. B showed persuasively that in a mandated-coverage environment, manufacturers retain leverage and contract...
   Most decisive rebuttal noted: Side B's sustained attack across Rebuttal 2 and Closing demonstrating that outcomes-based contracts for GLP-1s would measure immediate weight loss rather than long-term healthcare savings, that manufacturers would not accept penalties for confounded distal outcomes, and that a...
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by successfully problematizing the proposition's core cost-control mechanism. While Side B (PRO) built a strong clinical and ethical case with effective upstream-vs-downstream framing, CON relentlessly exposed the practical limitations of outcomes-based contr...
@@ -47,17 +53,23 @@
 - debate_id: `prop_0632__glm-5__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0632__glm-5__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **GLM-5**, CON = **Claude Opus 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.65`
+- judged result: Split `3-1` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `7`, `7`, `7`, `7`
+- mean signed raw margin (PRO+): `-0.90`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| GPT-5.5 (high) | Claude Opus 4.6 (no reasoning) | -1.8 | -1.93 | 7.0 |
+| Grok 4.3 | GLM-5 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | -1.8 | -1.80 | 7.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side A wins because it made the decisive issue the scale and reliability of the proposed cost controls. Side B built a strong moral and medical case that obesity is a chronic disease and should not be treated as cosmetic, but it never fully answered A's core objection that a b...
+  Most decisive rebuttal noted: Side A's second rebuttal was most decisive: it directly answered B's questions, rejected the categorical-denial framing, exposed the tension between broad physician-driven eligibility and fiscal restraint, and turned B's concession on unproven large-scale outcomes contracts in...
+- **Grok 4.3**: B won by defending the resolution's safeguards and chronic-disease analogy more consistently, answering pressure questions directly, and forcing CON to rely on unproven scale concerns that the policy itself addresses.
+  Most decisive rebuttal noted: B's direct A1/A2 answers to cost-scale questions reframed innovation and preserved the double-standard clash.
 - **Kimi K2.6**: CON won by demonstrating that the resolution's central cost-control mechanism—outcomes-based contracts—has never been proven at the scale required, a point PRO conceded. While PRO mounted a strong principled case for parity with other chronic diseases, CON successfully disting...
   Most decisive rebuttal noted: CON forcing PRO to concede that no outcomes-based contract has operated at tens-of-millions scale, then using that concession to show the resolution couples the most expensive pharmacy mandate in modern times with the least proven cost-control mechanism.
 - **Qwen 3.6 Max Preview**: Side A won by decisively breaking Side B's core analogy and exploiting a critical concession on scale. Side B repeatedly compared anti-obesity medications to statins and insulin, but Side A effectively highlighted the massive price gap and the requirement for indefinite therap...

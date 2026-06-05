@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0004__glm-5.1__hy3-preview-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0004`
-- matchup: **GLM-5.1** vs **Tencent Hy3 Preview (high reasoning)**
+- matchup: **GLM-5.1** vs **Tencent Hy3 Preview (high)**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.33 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0004__hy3-preview-high__glm-5.1__s0__tpl_placement_active_20260320f.md): PRO = **Tencent Hy3 Preview (high reasoning)**, CON = **GLM-5.1**
-- [Debate B transcript](../../../transcripts/prop_0004__glm-5.1__hy3-preview-high__s1__tpl_placement_active_20260320f.md): PRO = **GLM-5.1**, CON = **Tencent Hy3 Preview (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0004__hy3-preview-high__glm-5.1__s0__tpl_placement_active_20260320f.md): PRO = **Tencent Hy3 Preview (high)**, CON = **GLM-5.1**
+- [Debate B transcript](../../../transcripts/prop_0004__glm-5.1__hy3-preview-high__s1__tpl_placement_active_20260320f.md): PRO = **GLM-5.1**, CON = **Tencent Hy3 Preview (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0004__glm-5.1__hy3-preview-high__tpl_placement_active_20260320f` or topic `prop_0004`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0004__hy3-preview-high__glm-5.1__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0004__hy3-preview-high__glm-5.1__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Tencent Hy3 Preview (high reasoning)**, CON = **GLM-5.1**
+- roles: PRO = **Tencent Hy3 Preview (high)**, CON = **GLM-5.1**
 - judged result: Unanimous `3-0` for **GLM-5.1**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `-1.50`
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0004__glm-5.1__hy3-preview-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0004__glm-5.1__hy3-preview-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **GLM-5.1**, CON = **Tencent Hy3 Preview (high reasoning)**
-- judged result: Unanimous `3-0` for **Tencent Hy3 Preview (high reasoning)**.
+- roles: PRO = **GLM-5.1**, CON = **Tencent Hy3 Preview (high)**
+- judged result: Unanimous `3-0` for **Tencent Hy3 Preview (high)**.
 - entertainment scores: `8`, `7`, `8`
 - mean signed raw margin (PRO+): `-1.43`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Gemini 3.1 Pro Preview | Tencent Hy3 Preview (high reasoning) | -1.5 | -1.25 | 8.0 |
-| Grok 4.3 | Tencent Hy3 Preview (high reasoning) | -1.3 | -1.56 | 7.0 |
-| Qwen 3.6 Max Preview | Tencent Hy3 Preview (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Gemini 3.1 Pro Preview | Tencent Hy3 Preview (high) | -1.5 | -1.25 | 8.0 |
+| Grok 4.3 | Tencent Hy3 Preview (high) | -1.3 | -1.56 | 7.0 |
+| Qwen 3.6 Max Preview | Tencent Hy3 Preview (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | -1.2 | -1.29 | 8.0 |
+| GPT-5.5 (high) | GLM-5.1 | -1.2 | -1.29 | 8.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -1.2 | -1.00 | 8.0 |
 | Grok 4.3 | DeepSeek V4 Pro | +1.5 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won because it made the more context-specific case: Latin American organized crime is diversified, cannabis is not clearly foundational, and weak state capacity risks cartel capture of legal markets. Side A had a strong intuitive mechanism that legalization shifts some...
+- **GPT-5.5 (high)**: Side B won because it made the more context-specific case: Latin American organized crime is diversified, cannabis is not clearly foundational, and weak state capacity risks cartel capture of legal markets. Side A had a strong intuitive mechanism that legalization shifts some...
   Most decisive rebuttal noted: Side B's most decisive rebuttal was distinguishing Uruguay and Colorado from Mexico, Honduras, and Venezuela, then arguing that regulation in weak or corrupted states may give cartels legal cover rather than displace them.
 - **Gemini 3.1 Pro Preview**: Side A won by effectively neutralizing the regulatory mechanism of the PRO case. A convincingly argued that in Latin American contexts with structural corruption, legalization transfers legitimacy and laundering avenues to cartels rather than transferring market share to law-a...
   Most decisive rebuttal noted: Side A's A2 in Rebuttal 2 powerfully answered B's question about imperfect regulation by explaining that a criminal enterprise operating behind a license is harder to prosecute and gains legal cover.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | +1.2 | +1.29 | 8.0 |
+| GPT-5.5 (high) | GLM-5.1 | +1.2 | +1.29 | 8.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | +1.8 | +1.50 | 8.0 |
 | Grok 4.3 | GLM-5.1 | +1.5 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A wins because it made the burden clearer: legalization need not destroy cartels, only weaken them by removing or compressing a revenue stream that prohibition currently guarantees. B had strong arguments on diversification, state capture, and Uruguay being a weak analogy, but...
+- **GPT-5.5 (high)**: A wins because it made the burden clearer: legalization need not destroy cartels, only weaken them by removing or compressing a revenue stream that prohibition currently guarantees. B had strong arguments on diversification, state capture, and Uruguay being a weak analogy, but...
   Most decisive rebuttal noted: A’s most decisive rebuttal was that B’s adaptation argument proves too much: if criminals can always pivot, then no attack on any revenue stream would count as weakening. That reframed the debate around incremental weakening, where A’s revenue-diversion and margin-compression...
 - **Gemini 3.1 Pro Preview**: Side B won by decisively winning the economic clash. While Side A effectively argued that cartels would attempt to capture the legal market and shift to synthetics, Side B's Rebuttal 2 successfully countered this by explaining that legal markets impose margin compression, and...
   Most decisive rebuttal noted: Side B's Rebuttal 2 systematically dismantled Side A's fallback arguments by introducing the concepts of margin compression in captured legal markets and the inelasticity/scaling costs of synthetic drug expansion.

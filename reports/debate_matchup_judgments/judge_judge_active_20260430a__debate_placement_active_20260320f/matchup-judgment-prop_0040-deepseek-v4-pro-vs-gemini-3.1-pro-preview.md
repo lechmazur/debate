@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Gemini 3.1 Pro Preview | -1.2 | -1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | Gemini 3.1 Pro Preview | -1.2 | -1.20 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -0.8 | -0.96 | 7.0 |
 | Qwen 3.6 Max Preview | DeepSeek V4 Pro | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: A (CON) wins a clear but competitive debate. The decisive exchange was A's relentless pressure on the historical-chatbot problem: the proposition bans any deceased person's data without explicit opt-in, so Lincoln, Churchill, and MLK interactive models are flatly prohibited. B...
+- **Claude Sonnet 4.6 (high)**: A (CON) wins a clear but competitive debate. The decisive exchange was A's relentless pressure on the historical-chatbot problem: the proposition bans any deceased person's data without explicit opt-in, so Lincoln, Churchill, and MLK interactive models are flatly prohibited. B...
   Most decisive rebuttal noted: A's Rebuttal 2 answer to Q1 ([A4.3]): after B conceded in A2 of Rebuttal 2 that the historical-chatbot ban is "a price worth paying," A immediately crystallized this as a formal concession of massive cultural loss and pressed that B was simultaneously inventing a public/privat...
 - **Grok 4.3**: Side A won by more effectively exposing the proposition's overbroad impact on inheritance rights, family mourning autonomy, and historical preservation, forcing Side B to concede limited costs as a "price worth paying" while defending an unreliable distinction between public a...
   Most decisive rebuttal noted: Side A's handling of historical preservation in rebuttal 1 and rebuttal 2, combined with direct A1/A2 answers to pressure questions that highlighted the blanket ban and grief judgment claims, most decisively shifted the comparative burden.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.5 | +1.80 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side B won on three decisive clashes that Side A never fully neutralized. First, B's point that the dead cannot be defamed in most jurisdictions and that post-mortem publicity rights protect only celebrities in commercial advertising—not ordinary people whose data feeds privat...
+- **Claude Sonnet 4.6 (high)**: Side B won on three decisive clashes that Side A never fully neutralized. First, B's point that the dead cannot be defamed in most jurisdictions and that post-mortem publicity rights protect only celebrities in commercial advertising—not ordinary people whose data feeds privat...
   Most decisive rebuttal noted: Side B's Rebuttal 1 point that the dead have no legal standing for defamation in most jurisdictions, creating a "glaring legal vacuum" that existing torts cannot fill, was the most decisive single exchange. Side A's opening and first rebuttal both relied on existing fraud, def...
 - **Grok 4.3**: B wins by clearly distinguishing generative AI (novel synthesis exploiting the dead) from static heirlooms, exposing the legal vacuum for postmortem rights, and directly resolving pressure questions on guarantees and family conflicts with targeted comparison. A's clipped turns...
   Most decisive rebuttal noted: B's R2 (B4) answering both pressure questions by contrasting forgery with passive inheritance and noting families are not monolithic.

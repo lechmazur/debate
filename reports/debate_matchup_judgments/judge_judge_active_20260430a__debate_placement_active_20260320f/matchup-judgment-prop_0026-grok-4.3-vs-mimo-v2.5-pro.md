@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | -1.2 | -1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | -1.2 | -1.20 | 7.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2.5 Pro | -2.0 | -1.67 | 8.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side B won by successfully pressing the grounding question throughout the debate and executing a decisive turn in Rebuttal 2. The core move was identifying that autonomy is parasitic on dignity: every safeguard PRO claimed for autonomy—verifying genuine consent, rejecting dure...
+- **Claude Sonnet 4.6 (high)**: Side B won by successfully pressing the grounding question throughout the debate and executing a decisive turn in Rebuttal 2. The core move was identifying that autonomy is parasitic on dignity: every safeguard PRO claimed for autonomy—verifying genuine consent, rejecting dure...
   Most decisive rebuttal noted: Side B's Rebuttal 2 turning PRO's own pressure-question answers: when PRO explained that duress negates "genuine autonomy," PRO was implicitly relying on a standard of what persons deserve free from coercion—which is a dignity norm, not an autonomy-internal criterion. This mov...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully arguing that autonomy is philosophically parasitic on dignity. Side B effectively used Side A's defense—that autonomy handles exploitation via procedural checks for "duress"—to prove that defining duress requires a prior dignity-based baseline of hum...
   Most decisive rebuttal noted: B's Rebuttal 2 brilliantly seized on A's answer regarding duress, pointing out that recognizing and caring about duress requires a prior standard of what people deserve (dignity).
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | +1.5 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2.5 Pro | +1.8 | +1.50 | 8.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built and sustained a cleaner path to victory across the full exchange. The core structural argument — that dignity inevitably functions as a third-party veto over the person whose body is at stake — was introduced clearly, never neutralized, and sharpened through each rou...
+- **Claude Sonnet 4.6 (high)**: PRO built and sustained a cleaner path to victory across the full exchange. The core structural argument — that dignity inevitably functions as a third-party veto over the person whose body is at stake — was introduced clearly, never neutralized, and sharpened through each rou...
   Most decisive rebuttal noted: PRO's reversal of the eugenics argument in A2.6: correctly identifying that forced sterilization programs used state power to override individual bodies, frequently justified by appeals to collective or population dignity, making them a demonstration of autonomy's defeat rathe...
 - **Gemini 3.1 Pro Preview**: Side A won by relentlessly pressing the pragmatic question of who gets to interpret "objective" dignity. Side B failed to adequately answer this, relying on the assertion that dignity is a self-evident moral fact. Side A also handled Side B's pressure questions beautifully, co...
   Most decisive rebuttal noted: Side A's Rebuttal 2 successfully neutralized Side B's strongest pressure by explaining that autonomy empowers the patient without compelling the physician, and conceding the BIID edge case while pointing out that autonomy better handles the vast majority of medical decisions.

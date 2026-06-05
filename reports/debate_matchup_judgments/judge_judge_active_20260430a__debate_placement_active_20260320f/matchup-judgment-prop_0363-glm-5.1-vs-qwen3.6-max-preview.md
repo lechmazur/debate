@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | -1.4 | -1.50 | 7.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | -1.4 | -1.50 | 7.0 |
 | Grok 4.3 | GLM-5.1 | +1.3 | +1.56 | 7.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | -0.9 | -0.90 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by making the cleaner financial comparison: median mid-budget originals face marketing and awareness problems, while franchise predictability preserves solvency and can fund more disciplined incubation. A’s R&amp;D and franchise-decay framing was compelling, but it leane...
+- **GPT-5.5 (high)**: B won by making the cleaner financial comparison: median mid-budget originals face marketing and awareness problems, while franchise predictability preserves solvency and can fund more disciplined incubation. A’s R&amp;D and franchise-decay framing was compelling, but it leane...
   Most decisive rebuttal noted: B’s survivorship-bias rebuttal and attack on A’s examples, especially distinguishing Barbie/Oppenheimer and later challenging the scalability of the A24 model, most directly damaged A’s path to victory.
 - **Grok 4.3**: Side A won by building a clearer, sustained path to the proposition through the pipeline argument: franchises shrink by CON's own admission, and CON offered no viable non-original mechanism for new IP after pressure questions. Side A's direct, labeled answers plus weighing of...
   Most decisive rebuttal noted: Side A's Rebuttal 2 A1/A2 answers to CON's pressure questions, which directly turned the shrinking floor and lack of new-IP source into a decisive "eating its seed corn" comparison rather than just restating examples.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | -1.2 | -1.29 | 7.0 |
+| GPT-5.5 (high) | GLM-5.1 | -1.2 | -1.29 | 7.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | +1.3 | +1.56 | 7.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won a clear but competitive debate. A had a strong long-term pipeline and portfolio-risk case, but B more effectively challenged the key assumption that mid-budget originals need theatrical spending, arguing that streaming is the better venue for that audience and developmen...
+- **GPT-5.5 (high)**: B won a clear but competitive debate. A had a strong long-term pipeline and portfolio-risk case, but B more effectively challenged the key assumption that mid-budget originals need theatrical spending, arguing that streaming is the better venue for that audience and developmen...
   Most decisive rebuttal noted: B's strongest exchange was the survivorship-bias answer: one mid-budget miss may be capped, but repeated misses plus marketing costs can make the strategy unsafe, and a multi-franchise slate can absorb risk without moving into a structurally weaker theatrical category.
 - **Grok 4.3**: Side A wins by building a clearer path through risk diversification and IP pipeline sustainability, directly answering pressure questions on loss absorption and streaming substitution with plausible portfolio math and theatrical validation arguments; Side B's venue-fit and str...
   Most decisive rebuttal noted: Side A's Rebuttal 2 A1/A2 directly counters B's pipeline and loss questions, sharpening the clash on capped vs. concentrated risk and streaming's algorithmic limits.

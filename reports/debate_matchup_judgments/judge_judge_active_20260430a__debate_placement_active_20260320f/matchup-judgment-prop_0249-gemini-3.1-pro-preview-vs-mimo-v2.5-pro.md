@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Gemini 3.1 Pro Preview | +1.5 | +1.61 | 7.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | +1.5 | +1.61 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.8 | +2.16 | 7.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | +1.1 | +1.10 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by making the externality and lifecycle-security case more decisive. A's strongest point, that update mandates can become a shallow compliance proxy, created real doubt, but B answered it with the need to patch newly discovered vulnerabilities, the incentive to design up...
+- **GPT-5.5 (high)**: B won by making the externality and lifecycle-security case more decisive. A's strongest point, that update mandates can become a shallow compliance proxy, created real doubt, but B answered it with the need to patch newly discovered vulnerabilities, the incentive to design up...
   Most decisive rebuttal noted: B's response to A's liability alternative was decisive: if botnet harms are hard to trace after the fact, proactive update obligations are more enforceable than reactive lawsuits.
 - **Grok 4.3**: Side A wins because it built a clearer path through externalized botnet harms and used CON's concessions on tracing difficulties to neutralize liability alternatives, while directly answering pressure questions via CVE enforcement and standardized firmware for affordability. S...
   Most decisive rebuttal noted: A2's direct A1/A2 answers to pressure on affordability and CVE-based enforcement, combined with B's own admissions on tracing, crystallized the proactive mandate advantage over reactive alternatives.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.2 | +1.29 | 7.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | +1.2 | +1.29 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | -1.2 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by keeping the debate centered on externalities and incentive alignment: abandoned IoT devices impose botnet and consumer-security costs that manufacturers are best positioned to prevent at design time. A’s supply-chain and monopoly objections were sharp and plausible, b...
+- **GPT-5.5 (high)**: B won by keeping the debate centered on externalities and incentive alignment: abandoned IoT devices impose botnet and consumer-security costs that manufacturers are best positioned to prevent at design time. A’s supply-chain and monopoly objections were sharp and plausible, b...
   Most decisive rebuttal noted: B’s most decisive rebuttal was that upstream-chip complexity is not a reason for inaction but a reason to force support planning at design time: manufacturers choose suppliers and platforms, and the mandate changes those choices before insecure products reach consumers.
 - **Grok 4.3**: Side B won because its rebuttals crystallized the core feasibility clash—downstream manufacturers cannot control upstream chip support—directly answering A's pressure questions while exposing A's concession that unsupported devices should not be sold as evidence of monopoly en...
   Most decisive rebuttal noted: Side B's Rebuttal 2 directly answered both pressure questions on leverage and network enforcement, then used A's "should not sell" concession [A4.3] to frame oligopoly and e-waste as inevitable outcomes of the resolution's strict terms.

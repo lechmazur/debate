@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Gemini 3.1 Pro Preview | -1.0 | -1.07 | 7.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | -1.0 | -1.07 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | -1.3 | -1.30 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A wins a close but real edge. B made a strong structural case that platforms profit from addictive design and that parental controls are weak, but A better exposed the ban’s unresolved costs: universal age checkpoints, privacy burdens, questionable enforceability, and harm to...
+- **GPT-5.5 (high)**: A wins a close but real edge. B made a strong structural case that platforms profit from addictive design and that parental controls are weak, but A better exposed the ban’s unresolved costs: universal age checkpoints, privacy burdens, questionable enforceability, and harm to...
   Most decisive rebuttal noted: A’s strongest rebuttal was turning B’s “properly moderated, non-algorithmic services” into a concession that targeted design regulation can preserve useful connection without a blanket ban, while also pressing that B’s ban still requires state-backed age verification.
 - **Grok 4.3**: Side A built the stronger case by consistently exposing PRO's enforcement burdens on the same low-income parents cited as victims, neutralizing the lifeline retreat through direct responses on resilience-building, and showing design regulation can override profit motives via c...
   Most decisive rebuttal noted: Side A's Rebuttal 1 and 2 exposed PRO's inconsistency on parental burdens and lifeline (A2.1, A2.3, A3.1, A4.3), forcing clarifying retreats in B's Rebuttal 2 while advancing the regulation path.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Gemini 3.1 Pro Preview | +0.8 | +0.86 | 8.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | +0.8 | +0.86 | 8.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.5 | +1.80 | 8.0 |
 | Kimi K2.6 | DeepSeek V4 Pro | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B wins narrowly. A made strong privacy, overbreadth, and safer-design arguments, but B more clearly exposed that A's alternative still depends on age verification and can be evaded in similar ways. A's safer-default answer was creative, but it shifted late and did not fully so...
+- **GPT-5.5 (high)**: B wins narrowly. A made strong privacy, overbreadth, and safer-design arguments, but B more clearly exposed that A's alternative still depends on age verification and can be evaded in similar ways. A's safer-default answer was creative, but it shifted late and did not fully so...
   Most decisive rebuttal noted: B's pressure questions and second rebuttal on age-verification parity were the decisive exchange, turning A's strongest implementation attack back onto A's own alternative.
 - **Grok 4.3**: Side B won by making the decisive clash clearer: a fundamentally addictive business model cannot be safely regulated, and B's ban better solves collective action while neutralizing bypass concerns via network effects. B directly answered pressure on verification and definition...
   Most decisive rebuttal noted: B's Rebuttal 2 A1/A2 responses to A's pressure questions, combined with the contradiction attack on verification, dismantled A's framework more cleanly than any single exchange.

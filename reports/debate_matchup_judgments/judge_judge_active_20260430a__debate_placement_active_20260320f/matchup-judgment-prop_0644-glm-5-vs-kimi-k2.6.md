@@ -32,15 +32,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5 | +1.2 | +1.20 | 7.0 |
-| GPT-5.5 (high reasoning) | GLM-5 | +1.3 | +1.39 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5 | +1.2 | +1.20 | 7.0 |
+| GPT-5.5 (high) | GLM-5 | +1.3 | +1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5 | +1.5 | +1.25 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO maintained more live routes to victory across the full exchange. The drift-and-permanence argument—grounded in plausible historical examples (decades-long U.S. emergency declarations, post-9/11 surveillance normalization, Hungary pandemic authority)—was never neutralized b...
+- **Claude Sonnet 4.6 (high)**: PRO maintained more live routes to victory across the full exchange. The drift-and-permanence argument—grounded in plausible historical examples (decades-long U.S. emergency declarations, post-9/11 surveillance normalization, Hungary pandemic authority)—was never neutralized b...
   Most decisive rebuttal noted: PRO's comparative argument in Rebuttal 2 that "threat inflation without accountability is worse than threat inflation with a scheduled hearing where opponents can contest claims" was the most decisive single exchange. It directly turned CON's perverse-incentives objection into...
-- **GPT-5.5 (high reasoning)**: Side A won by making the central default question decisive: broad emergency powers tend to persist through inertia unless democracies force affirmative renewal. Side B had strong rhetoric and a real destabilization objection, especially around lapsed powers during ongoing cris...
+- **GPT-5.5 (high)**: Side A won by making the central default question decisive: broad emergency powers tend to persist through inertia unless democracies force affirmative renewal. Side B had strong rhetoric and a real destabilization objection, especially around lapsed powers during ongoing cris...
   Most decisive rebuttal noted: Side A’s strongest exchange was pressing Side B on what prevents decades-long emergency drift, then framing Side B’s “existing toolkit” answer as conceding the political-will problem that sunsets are meant to solve.
 - **Gemini 3.1 Pro Preview**: Side A won by successfully framing the debate around default rules and legislative inertia. Side B's argument that legislatures lack the 'political will' to proactively revoke powers ended up conceding Side A's core premise: because legislatures are inactive, the default state...
   Most decisive rebuttal noted: Side A's closing crystallization, which pointed out that Side B's admission of legislative inaction ('lack of political will') proved the necessity of Side A's default-expiration mechanism.
@@ -56,15 +56,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
-| GPT-5.5 (high reasoning) | GLM-5 | -1.0 | -1.07 | 8.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
+| GPT-5.5 (high) | GLM-5 | -1.0 | -1.07 | 8.0 |
 | Gemini 3.1 Pro Preview | GLM-5 | -1.5 | -1.25 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO wins on the strength of a consistently maintained asymmetry argument and a sharper structural case. The core framing—that the debate is about which default rule governs imperfect politics, and that silence-as-permanence is categorically worse than temporary friction—never...
+- **Claude Sonnet 4.6 (high)**: PRO wins on the strength of a consistently maintained asymmetry argument and a sharper structural case. The core framing—that the debate is about which default rule governs imperfect politics, and that silence-as-permanence is categorically worse than temporary friction—never...
   Most decisive rebuttal noted: PRO's Pressure Question Q1 was the decisive exchange: asking how renewal votes can be simultaneously too politically toxic for any legislator to oppose AND too fragile to survive minority obstruction. CON's dissolution (different political conditions produce different patholog...
-- **GPT-5.5 (high reasoning)**: Side B wins a clear but competitive debate by making the default-rule clash more damaging: sunsets may not create real scrutiny, but they can create passive-obstruction risks and dangerous lapses. Side A established the ratchet and inertia problem well, but its answers leaned...
+- **GPT-5.5 (high)**: Side B wins a clear but competitive debate by making the default-rule clash more damaging: sunsets may not create real scrutiny, but they can create passive-obstruction risks and dangerous lapses. Side A established the ratchet and inertia problem well, but its answers leaned...
   Most decisive rebuttal noted: Side B's second rebuttal was decisive: it answered Side A's pressure questions by explaining how rubber-stamping and obstruction occur under different conditions, then reframed the key issue as who bears the burden of coalition under each default.
 - **Gemini 3.1 Pro Preview**: Side B won by cleanly resolving the contradiction Side A pointed out and effectively weaponizing Side A's bullet-biting on the 'temporary gap.' B's distinction between active repeal and passive obstruction decisively proved why shifting the default creates a new vulnerability.
   Most decisive rebuttal noted: B's second rebuttal (B4) directly answered A's pressure questions by introducing the 'passive vs active obstruction' mechanism, showing how a minority can block renewal without the political capital needed for repeal.

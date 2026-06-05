@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5 | +1.3 | +1.39 | 7.0 |
+| GPT-5.5 (high) | GLM-5 | +1.3 | +1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -1.5 | -1.25 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won because it kept the motion focused on cues mainly designed to pressure impulsive spending, while Side A often defended genuine scarcity information that Side B repeatedly conceded could remain. Side A’s best route was vagueness and overbreadth: real scarcity also pr...
+- **GPT-5.5 (high)**: Side B won because it kept the motion focused on cues mainly designed to pressure impulsive spending, while Side A often defended genuine scarcity information that Side B repeatedly conceded could remain. Side A’s best route was vagueness and overbreadth: real scarcity also pr...
   Most decisive rebuttal noted: Side B’s strongest exchange was answering Side A’s category challenge by distinguishing real, verifiable constraints from manufactured urgency, then framing Side A as defending honest inventory alerts against an attack the proposition was not making.
 - **Gemini 3.1 Pro Preview**: Side A won by successfully arguing that the proposition's standard ("mainly designed to pressure") is impossible to enforce without chilling legitimate market information. Side A effectively dismantled Side B's "verifiable constraint" test by demonstrating how dynamic pricing...
   Most decisive rebuttal noted: Side A's second rebuttal powerfully countered Side B's objective test by explaining that dynamic fares and pooled inventory create legitimate, short-lived constraints that look identical to manufactured ones.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | +1.4 | +1.50 | 7.0 |
+| GPT-5.5 (high) | Kimi K2.6 | +1.4 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +1.8 | +1.50 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won by keeping the motion focused on manipulative default design rather than all deadline information. Side A's strongest point was line-drawing: genuine deadlines create urgency and regulators may struggle to distinguish information from coercion. But Side B answered t...
+- **GPT-5.5 (high)**: Side B won by keeping the motion focused on manipulative default design rather than all deadline information. Side A's strongest point was line-drawing: genuine deadlines create urgency and regulators may struggle to distinguish information from coercion. But Side B answered t...
   Most decisive rebuttal noted: Side B's most decisive rebuttal was the false-dichotomy answer: consumers need not choose between manipulative countdowns and buried fine print, because clear static deadline notices preserve information while removing pressure design. That undercut Side A's consumer-cost argu...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully drawing a clear distinction between prominent information and manipulative architecture, dismantling Side A's false dichotomy between ticking clocks and buried fine print. Side B's analogies (tax deadline vs casino countdown; knowing a train leaves v...
   Most decisive rebuttal noted: Side B's Rebuttal 2 was decisive, directly answering the pressure questions by proposing a "static, clearly visible expiration notice" to prove that information can be prominent without relying on the adrenal, panic-inducing architecture of a ticking clock.

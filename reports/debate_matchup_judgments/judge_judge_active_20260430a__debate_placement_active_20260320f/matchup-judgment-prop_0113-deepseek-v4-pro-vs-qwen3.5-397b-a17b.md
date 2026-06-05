@@ -32,15 +32,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | DeepSeek V4 Pro | +1.5 | +1.50 | 6.0 |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +1.5 | +1.61 | 7.0 |
+| Claude Sonnet 4.6 (high) | DeepSeek V4 Pro | +1.5 | +1.50 | 6.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +1.5 | +1.61 | 7.0 |
 | Grok 4.3 | DeepSeek V4 Pro | +1.2 | +1.44 | 6.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side B) carried the core design-incentive argument throughout: when producers bear end-of-life costs, packaging design improves; when they do not, taxpayers silently subsidise unrecyclable laminates with no environmental return. That logic was never squarely neutralised....
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) carried the core design-incentive argument throughout: when producers bear end-of-life costs, packaging design improves; when they do not, taxpayers silently subsidise unrecyclable laminates with no environmental return. That logic was never squarely neutralised....
   Most decisive rebuttal noted: PRO's Rebuttal 1 (B2.1–B2.2) identifying that EPR does not require producers to dispatch collection crews—the same municipal trucks and routes continue, only the financial burden shifts—was the most decisive single exchange. It directly and correctly collapsed CON's lead claim...
-- **GPT-5.5 (high reasoning)**: B won by keeping the debate centered on the proposition: producers should internalize end-of-life costs because they control packaging design. A raised real concerns about regressivity, bureaucracy, and food spoilage, but leaned too heavily on the mistaken premise that produce...
+- **GPT-5.5 (high)**: B won by keeping the debate centered on the proposition: producers should internalize end-of-life costs because they control packaging design. A raised real concerns about regressivity, bureaucracy, and food spoilage, but leaned too heavily on the mistaken premise that produce...
   Most decisive rebuttal noted: B's first rebuttal was decisive in explaining that producer payment need not duplicate municipal trucks or local collection; it can fund existing systems while changing upstream design incentives. That blunted A's main efficiency and fragmentation attack.
 - **Grok 4.3**: Side A wins by directly neutralizing B's pressure questions on capture and bureaucracy with public standard-setting examples, then crystallizing the incentive mismatch in closing; B's food-spoilage and regressivity risks stayed speculative while A's polluter-pays logic adapted...
   Most decisive rebuttal noted: A's Rebuttal 2 A1/A2 directly answering B's questions on rule-setting and exemptions, showing public oversight and minimal new admin before tying back to ongoing taxpayer subsidy.
@@ -56,15 +56,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Qwen3.5-397B-A17B | +1.5 | +1.50 | 6.0 |
-| GPT-5.5 (high reasoning) | Qwen3.5-397B-A17B | +1.7 | +1.82 | 7.0 |
+| Claude Sonnet 4.6 (high) | Qwen3.5-397B-A17B | +1.5 | +1.50 | 6.0 |
+| GPT-5.5 (high) | Qwen3.5-397B-A17B | +1.7 | +1.82 | 7.0 |
 | Grok 4.3 | Qwen3.5-397B-A17B | +1.5 | +1.80 | 6.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side B (PRO) builds a more complete and consistently executed case across all rounds. Its core logic—that zero financial liability for producers guarantees zero design incentive, and that "much more of the cost" does not mean producers must drive the trucks—holds up throughout...
+- **Claude Sonnet 4.6 (high)**: Side B (PRO) builds a more complete and consistently executed case across all rounds. Its core logic—that zero financial liability for producers guarantees zero design incentive, and that "much more of the cost" does not mean producers must drive the trucks—holds up throughout...
   Most decisive rebuttal noted: B's answer to A's Q1 (how to stop producers from gaming fee classifications): "The status quo allows producers to lobby for zero liability entirely. An imperfect fee structure still internalizes costs that are currently zero. We do not abandon regulations because enforcement i...
-- **GPT-5.5 (high reasoning)**: B won by making the clearer comparative case that producer liability internalizes currently hidden waste costs and creates design incentives that municipalities cannot create after the fact. A’s regressivity argument was the strongest CON route, but B plausibly answered that t...
+- **GPT-5.5 (high)**: B won by making the clearer comparative case that producer liability internalizes currently hidden waste costs and creates design incentives that municipalities cannot create after the fact. A’s regressivity argument was the strongest CON route, but B plausibly answered that t...
   Most decisive rebuttal noted: B’s most decisive rebuttal was against A’s reverse-logistics claim: B reframed the issue as producer funding and design liability, not producers personally driving garbage trucks, which neutralized a major CON objection while preserving PRO’s leverage argument.
 - **Grok 4.3**: Side A won by building a clearer path to victory around incentive alignment and proactive design leverage, directly countering B's pressure questions with workable mechanisms like modulated fees and oversight while reframing regressivity as hidden current costs versus visible...
   Most decisive rebuttal noted: A's A1/A2 responses to B's PQ on lobbying/gaming and uniform hikes, showing imperfect modulated fees plus tax relief outperform zero-liability status quo and enable shopper choice via differentiated pricing.

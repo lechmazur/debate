@@ -7,8 +7,8 @@
 - overall judged result (normalized): **Grok 4.20 0309 (Non-Reasoning)**
 - overall judged result (raw): **Grok 4.20 0309 (Non-Reasoning)**
 - mean entertainment: `6.50 / 10`
-- mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: `+2.50`
-- judgment rows: `2`
+- mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: `+2.81`
+- judgment rows: `4`
 - swap_complete: `0`
 - rating_eligible: `0`
 
@@ -25,17 +25,23 @@
 - debate_id: `prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0608__grok-4.20-beta-0309-non-reasoning__mimo-v2-pro__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Xiaomi MiMo V2 Pro**
-- judged result: Unanimous `2-0` for **Grok 4.20 0309 (Non-Reasoning)**.
-- entertainment scores: `7`, `6`
-- mean signed raw margin (PRO+): `+2.50`
+- judged result: Unanimous `4-0` for **Grok 4.20 0309 (Non-Reasoning)**.
+- entertainment scores: `6`, `7`, `7`, `6`
+- mean signed raw margin (PRO+): `+3.00`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | Grok 4.20 0309 (Non-Reasoning) | +2.5 | +2.50 | 6.0 |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | +4.5 | +3.75 | 7.0 |
 | Kimi K2.6 | Grok 4.20 0309 (Non-Reasoning) | +2.5 | +2.50 | 7.0 |
 | Qwen 3.6 Max Preview | Grok 4.20 0309 (Non-Reasoning) | +2.5 | +2.50 | 6.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: Side A (PRO) won on the substantive clash and was further aided by a catastrophic closing error from Side B. On the merits: PRO's most decisive argument — that if a sector genuinely cannot yet eliminate its emissions, the correct response is to disallow the "net-zero" claim ra...
+  Most decisive rebuttal noted: A2.2: PRO's rebuttal that if hard-to-abate sectors genuinely lack the technology to eliminate embedded emissions, those companies should not be permitted to brand their products "net-zero" at all — rather than resort to offsetting. This reframed the entire hard-to-abate conces...
+- **Gemini 3.1 Pro Preview**: Side B suffers a fatal execution failure in the second half of the debate, answering a pressure question with Side A's exact logic and then delivering a closing speech entirely for the PRO side (even stating "CON never answered"). Side A maintained strong, consistent argumenta...
+  Most decisive rebuttal noted: Side A's Rebuttal 1 argument that if a sector genuinely lacks the technology to abate, it should simply not be permitted to market itself as "net-zero," which cleanly neutralized Side B's appeal to hard-to-abate sectors.
 - **Kimi K2.6**: Side A won by sustaining a coherent accountability frame: in-value-chain cuts are more verifiable than offset counterfactuals, and hard-to-abate emissions should not be greenwashed as “net-zero.” Side B’s Rebuttal 2 never directly answered why unabated emissions deserve a net-...
   Most decisive rebuttal noted: Side A’s Rebuttal 2, which showed that a modest cap preserves space for high-quality removals without letting offsets become a greenwashing escape hatch, and which directly answered both pressure questions while Side B dodged the core net-zero labeling challenge.
 - **Qwen 3.6 Max Preview**: Side A maintained a consistent, well-weighed case throughout, effectively pressing the additionality and permanence flaws of offsets alongside the incentive-distortion risks of unlimited trading. Side B opened strongly with the "atmospheric math" and hard-to-abate sector argum...

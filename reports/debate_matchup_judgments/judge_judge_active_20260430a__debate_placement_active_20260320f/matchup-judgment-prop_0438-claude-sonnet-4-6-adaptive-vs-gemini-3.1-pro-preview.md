@@ -3,12 +3,12 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0438__claude-sonnet-4-6-adaptive__gemini-3.1-pro-preview__tpl_placement_active_20260320f`
 - topic_id: `prop_0438`
-- matchup: **Claude Sonnet 4.6 (high reasoning)** vs **Gemini 3.1 Pro Preview**
+- matchup: **Claude Sonnet 4.6 (high)** vs **Gemini 3.1 Pro Preview**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
-- mean entertainment: `7.25 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (high reasoning)`: `+0.10`
-- judgment rows: `4`
+- mean entertainment: `7.12 / 10`
+- mean signed normalized margin for `Claude Sonnet 4.6 (high)`: `+0.14`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0438__claude-sonnet-4-6-adaptive__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Gemini 3.1 Pro Preview**
-- [Debate B transcript](../../../transcripts/prop_0438__gemini-3.1-pro-preview__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **Claude Sonnet 4.6 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0438__claude-sonnet-4-6-adaptive__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high)**, CON = **Gemini 3.1 Pro Preview**
+- [Debate B transcript](../../../transcripts/prop_0438__gemini-3.1-pro-preview__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **Claude Sonnet 4.6 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0438__claude-sonnet-4-6-adaptive__gemini-3.1-pro-preview__tpl_placement_active_20260320f` or topic `prop_0438`.
 
@@ -25,18 +25,24 @@
 
 - debate_id: `prop_0438__claude-sonnet-4-6-adaptive__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0438__claude-sonnet-4-6-adaptive__gemini-3.1-pro-preview__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Gemini 3.1 Pro Preview**
-- judged result: Unanimous `2-0` for **Gemini 3.1 Pro Preview**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.45`
+- roles: PRO = **Claude Sonnet 4.6 (high)**, CON = **Gemini 3.1 Pro Preview**
+- judged result: Split `2-2`.
+- entertainment scores: `7`, `6`, `7`, `7`
+- mean signed raw margin (PRO+): `+0.10`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| GPT-5.5 (high) | Claude Sonnet 4.6 (high) | +1.5 | +1.61 | 7.0 |
+| Grok 4.3 | Claude Sonnet 4.6 (high) | +1.8 | +2.16 | 6.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | -1.7 | -1.70 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | -1.2 | -1.20 | 7.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side B made the proposition easier to vote for: the grey-zone claim problem was clearly tied to youth vulnerability and influencer parasocial trust, and B plausibly showed that existing medical-claim rules do not cover wellness-coded clinical implications. Side A had a strong...
+  Most decisive rebuttal noted: Side B's rebuttal that existing law covers outright medical claims but not the grey zone of wellness-coded clinical language was the decisive exchange, especially when paired with the answer that clear categorization changes scripts and enforcement incentives rather than merel...
+- **Grok 4.3**: Side A won by consistently exposing CON's contradictory claims about existing enforcement while providing a coherent upstream mechanism that addresses the grey-zone harm. CON never reconciled why the problem persists if FTC tools already suffice, and their later responses on l...
+  Most decisive rebuttal noted: A4 answering both Pressure Questions directly, reframing "young audiences" as a purpose clause and shifting from consumer reading to script constraint.
 - **Kimi K2.6**: CON won by demonstrating that the proposition’s mechanism—merely categorizing claims rather than banning grey-zone language—fails to solve the central harm, especially after PRO conceded young consumers ignore regulatory distinctions. CON also effectively showed that singling...
   Most decisive rebuttal noted: CON’s argument that the proposition merely labels rather than eliminates grey-zone language, undercutting PRO’s “upstream” solvency claim once PRO conceded teens ignore regulatory distinctions.
 - **Qwen 3.6 Max Preview**: CON wins by dismantling PRO's solvency mechanism and holding PRO to the motion's explicit text. While PRO effectively frames the harm of "category collapse" and grey-zone wellness marketing, CON demonstrates that a mandate to merely "distinguish" claims does not stop influence...
@@ -46,18 +52,24 @@
 
 - debate_id: `prop_0438__gemini-3.1-pro-preview__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0438__gemini-3.1-pro-preview__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Claude Sonnet 4.6 (high reasoning)**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (high reasoning)**.
-- entertainment scores: `7`, `8`
-- mean signed raw margin (PRO+): `-1.65`
+- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Claude Sonnet 4.6 (high)**
+- judged result: Split `2-2`.
+- entertainment scores: `7`, `8`, `7`, `8`
+- mean signed raw margin (PRO+): `-0.15`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | Claude Sonnet 4.6 (high reasoning) | -1.8 | -1.80 | 7.0 |
-| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | +1.2 | +1.29 | 7.0 |
+| Grok 4.3 | Gemini 3.1 Pro Preview | +1.5 | +1.80 | 8.0 |
+| Kimi K2.6 | Claude Sonnet 4.6 (high) | -1.8 | -1.80 | 7.0 |
+| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side B won because it made the mandate concrete: the sale happens inside influencer content, so the required distinction must appear there, and brands can be held liable through sponsorships and retail access. Side A had strong objections about fuzzy definitions, enforcement l...
+  Most decisive rebuttal noted: Side B's response that the mandate is not a back-of-package footnote but a requirement inside the influencer sales content was the decisive exchange, because it directly answered Side A's strongest early claim that labels would not reach TikTok-style persuasion.
+- **Grok 4.3**: A won because it built the clearer causal path: the mandate creates point-of-sale friction inside the video itself and imposes brand-level liability that actually reaches the social dynamic. B's definitional and enforcement objections were answered directly; B's alternatives n...
+  Most decisive rebuttal noted: A's Rebuttal 2 (A4) answered both pressure questions with A1/A2 structure then weighed the live clash on enforcement and adolescent impulsivity; B's answers were less precise and its closing was clipped.
 - **Kimi K2.6**: Side A won by exposing a fatal structural flaw in the PRO case: the categorical mandate cannot deliver the clarity it promises. CON demonstrated that PRO's own proposed definition of "wellness" would capture virtually every beauty product, reducing the mandate to a meaningless...
   Most decisive rebuttal noted: The exchange over the definition of "wellness," where CON showed that PRO's statutory standard—"any health-adjacent aesthetic claim lacking FDA medical approval"—would sweep in tinted moisturizers, lip balms, and bath salts, proving the mandate would be an unworkable dragnet r...
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by successfully dismantling the causal link between PRO's mandate and the actual harm mechanism. While PRO effectively framed the danger of parasocial marketing, CON's pressure on the undefinable nature of "wellness" exposed a fatal flaw: PRO's own definition...

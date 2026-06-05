@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Gemini 3.1 Pro Preview | +1.4 | +1.50 | 7.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | +1.4 | +1.50 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.0 | +1.20 | 7.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won by making the sequencing clash clearer: caps are not bans, capped deployments can still generate useful data, and baseline curb, safety, and labor rules should precede mass deployment in dense cores. Side A had a strong catch-22 argument about non-linear network eff...
+- **GPT-5.5 (high)**: Side B won by making the sequencing clash clearer: caps are not bans, capped deployments can still generate useful data, and baseline curb, safety, and labor rules should precede mass deployment in dense cores. Side A had a strong catch-22 argument about non-linear network eff...
   Most decisive rebuttal noted: B's most decisive rebuttal was that A's proposed safeguards are not an alternative to the motion but proof of it: remote override, curb pricing, loading rules, and deployment conditions need to be codified before caps are lifted.
 - **Grok 4.3**: Side B (PRO) built the stronger case by defending the proposition's sequencing on safety, infrastructure, and labor risks with clear comparisons to human driving harms and by specifying rule baselines in rebuttals to neutralize the catch-22 claim, while Side A offered plausibl...
   Most decisive rebuttal noted: Side B's Rebuttal 2 A1/A2 directly answered pressure questions by defining "clearer rules" as specific milestones like loading zones and by showing capped data suffices via existing models, sharpening the live clash on why uncapped scaling creates unmanaged hazards.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | +1.6 | +1.71 | 7.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | +1.6 | +1.71 | 7.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.1 | -1.32 | 7.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won by making the proposition look like controlled scaling rather than anti-innovation delay. Side A had a coherent Catch-22 case and a strong safety-baseline frame, but it leaned heavily on speculative claims that uncapped pressure would produce better policy and that...
+- **GPT-5.5 (high)**: Side B won by making the proposition look like controlled scaling rather than anti-innovation delay. Side A had a coherent Catch-22 case and a strong safety-baseline frame, but it leaned heavily on speculative claims that uncapped pressure would produce better policy and that...
   Most decisive rebuttal noted: Side B’s “scale versus signal” rebuttal was decisive: it directly undercut Side A’s claim that uncapped deployment is necessary for useful regulation by arguing controlled corridors can generate usable dwell-time and failure data without overwhelming city systems.
 - **Grok 4.3**: Side A (CON) built the stronger path to victory by establishing a live comparative safety claim—that human-driven baseline already imposes daily fatalities while AVs fail safe—and by rebutting data needs with scale-generated heatmaps, showing geofences create permanent limbo r...
   Most decisive rebuttal noted: A's rebuttal 1 and 2 contrast: AV safe-pause as inconvenience vs. human distraction as fatal, which damaged PRO's route that caps protect order without quantifying current human tolls.

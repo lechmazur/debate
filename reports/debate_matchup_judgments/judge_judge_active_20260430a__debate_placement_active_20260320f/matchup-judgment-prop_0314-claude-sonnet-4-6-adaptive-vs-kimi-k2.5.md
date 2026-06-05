@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0314__claude-sonnet-4-6-adaptive__kimi-k2.5__tpl_placement_active_20260320f`
 - topic_id: `prop_0314`
-- matchup: **Claude Sonnet 4.6 (high reasoning)** vs **Kimi K2.5 Thinking**
+- matchup: **Claude Sonnet 4.6 (high)** vs **Kimi K2.5 Thinking**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (high reasoning)`: ``
+- mean signed normalized margin for `Claude Sonnet 4.6 (high)`: ``
 - judgment rows: `4`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0314__claude-sonnet-4-6-adaptive__kimi-k2.5__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Kimi K2.5 Thinking**
-- [Debate B transcript](../../../transcripts/prop_0314__kimi-k2.5__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Kimi K2.5 Thinking**, CON = **Claude Sonnet 4.6 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0314__claude-sonnet-4-6-adaptive__kimi-k2.5__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high)**, CON = **Kimi K2.5 Thinking**
+- [Debate B transcript](../../../transcripts/prop_0314__kimi-k2.5__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Kimi K2.5 Thinking**, CON = **Claude Sonnet 4.6 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0314__claude-sonnet-4-6-adaptive__kimi-k2.5__tpl_placement_active_20260320f` or topic `prop_0314`.
 
@@ -25,14 +25,14 @@
 
 - debate_id: `prop_0314__claude-sonnet-4-6-adaptive__kimi-k2.5__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0314__claude-sonnet-4-6-adaptive__kimi-k2.5__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Kimi K2.5 Thinking**
+- roles: PRO = **Claude Sonnet 4.6 (high)**, CON = **Kimi K2.5 Thinking**
 - judged result: Split `1-1`.
 - entertainment scores: `6`, `7`
 - mean signed raw margin (PRO+): `+0.00`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | Claude Sonnet 4.6 (high reasoning) | +1.2 | +1.20 | 6.0 |
+| Kimi K2.6 | Claude Sonnet 4.6 (high) | +1.2 | +1.20 | 6.0 |
 | Qwen 3.6 Max Preview | Kimi K2.5 Thinking | -1.2 | -1.20 | 7.0 |
 
 ### Judge Notes
@@ -46,7 +46,7 @@
 
 - debate_id: `prop_0314__kimi-k2.5__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0314__kimi-k2.5__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Kimi K2.5 Thinking**, CON = **Claude Sonnet 4.6 (high reasoning)**
+- roles: PRO = **Kimi K2.5 Thinking**, CON = **Claude Sonnet 4.6 (high)**
 - judged result: Split `1-1`.
 - entertainment scores: `7`, `8`
 - mean signed raw margin (PRO+): `+0.00`
@@ -54,7 +54,7 @@
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Kimi K2.6 | Kimi K2.5 Thinking | +1.5 | +1.50 | 7.0 |
-| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 

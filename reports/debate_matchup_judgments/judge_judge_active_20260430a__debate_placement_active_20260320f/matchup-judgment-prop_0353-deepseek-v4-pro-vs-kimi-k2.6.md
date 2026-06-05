@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +1.1 | +1.18 | 8.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +1.1 | +1.18 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | -1.5 | -1.80 | 7.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | -1.2 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B wins a clear but competitive debate by staying closer to the proposition: actual voter fraud in wealthy democracies is rare, prosecuted, and limited, while legal corruption and capture are systemic, legal, and continuously corrosive to public trust. A had sharper rhetoric an...
+- **GPT-5.5 (high)**: B wins a clear but competitive debate by staying closer to the proposition: actual voter fraud in wealthy democracies is rare, prosecuted, and limited, while legal corruption and capture are systemic, legal, and continuously corrosive to public trust. A had sharper rhetoric an...
   Most decisive rebuttal noted: B's decisive move was reframing A's fraud crises as symptoms of a prior belief that the system is rigged, while emphasizing that rare actual fraud cannot explain trust collapse as well as systemic legal capture.
 - **Grok 4.3**: Side A won by clearly distinguishing policy distrust (capture) from foundational process distrust (fraud claims), using examples like Jan 6 and Brexit to show fraud narratives produce active institutional rupture while capture allows continued electoral engagement; A better an...
   Most decisive rebuttal noted: Side A's rebuttal 1 directly dismantled B's soil-and-crop metaphor by showing fraud hysteria operates through independent channels, then reinforced in rebuttal 2 with US 2020 example to neutralize B's causation claim.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | +1.5 | +1.61 | 8.0 |
+| GPT-5.5 (high) | Kimi K2.6 | +1.5 | +1.61 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | +1.2 | +1.44 | 7.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B wins because it kept the motion centered on actual legal corruption and regulatory capture versus outright voter fraud, while A’s strongest material depended on fraud narratives and false beliefs rather than voter fraud itself. A made a forceful case that perceived stolen el...
+- **GPT-5.5 (high)**: B wins because it kept the motion centered on actual legal corruption and regulatory capture versus outright voter fraud, while A’s strongest material depended on fraud narratives and false beliefs rather than voter fraud itself. A made a forceful case that perceived stolen el...
   Most decisive rebuttal noted: B’s first rebuttal was decisive: it separated actual voter fraud from elite lies about fraud, then argued that capture supplies the preexisting distrust that makes those lies believable. A’s “fundamental law” response was strong, but it never fully solved the attribution problem.
 - **Grok 4.3**: Side B won by consistently showing that voter fraud damage (including narratives) is downstream of capture-created distrust, making capture the deeper and more pervasive force; Side A raised acute legitimacy issues but failed to rebut the priming mechanism or explain why episo...
   Most decisive rebuttal noted: B's Rebuttal 2 A1/A2 directly answered pressure on why the fraud lie requires capture as prerequisite and why performance crisis still dissolves democratic purpose, neutralizing CON's law-vs-performance distinction.

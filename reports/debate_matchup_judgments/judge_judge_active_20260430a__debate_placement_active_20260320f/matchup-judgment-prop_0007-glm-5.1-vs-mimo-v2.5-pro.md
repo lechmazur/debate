@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | +1.5 | +1.25 | 9.0 |
 | Qwen 3.6 Max Preview | GLM-5.1 | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A (PRO) built the stronger through-line across all rounds. Its core claim—that the ban is what converts husbandry reform from an optional cost into an economic necessity—was introduced early and survived to the closing intact. CON's central counter (mandate reforms direct...
+- **Claude Sonnet 4.6 (high)**: Side A (PRO) built the stronger through-line across all rounds. Its core claim—that the ban is what converts husbandry reform from an optional cost into an economic necessity—was introduced early and survived to the closing intact. CON's central counter (mandate reforms direct...
   Most decisive rebuttal noted: PRO's A4.1 response to CON's Q1 was the most decisive exchange. CON asked why not mandate husbandry reforms directly rather than imposing a blanket ban. PRO answered that a prophylactic ban creates an enforceable bright line that makes better husbandry the cheapest path rather...
 - **Gemini 3.1 Pro Preview**: Side A wins by systematically dismantling Side B's alternative. When B argues we should directly mandate husbandry reforms rather than banning the antibiotics that compensate for bad conditions, A persuasively demonstrates that preserving the "crutch" ensures reforms will be d...
   Most decisive rebuttal noted: A's argument that keeping prophylaxis legal under "veterinary oversight" simply relabels the exact same subtherapeutic dosing without changing the evolutionary pressure on bacteria.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | -1.2 | -1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | -1.2 | -1.20 | 7.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2.5 Pro | +1.2 | +1.00 | 8.0 |
 | Qwen 3.6 Max Preview | GLM-5.1 | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON wins by a clear but competitive margin. Three things tip the balance. First, CON caught a material factual error in PRO's Rebuttal 1: foot-and-mouth disease is viral, making antibiotics entirely irrelevant to PRO's catastrophic-herd-loss scenario. This was not a minor slip...
+- **Claude Sonnet 4.6 (high)**: CON wins by a clear but competitive margin. Three things tip the balance. First, CON caught a material factual error in PRO's Rebuttal 1: foot-and-mouth disease is viral, making antibiotics entirely irrelevant to PRO's catastrophic-herd-loss scenario. This was not a minor slip...
   Most decisive rebuttal noted: CON's Rebuttal 1 [B2.1] was the most decisive exchange. Catching that foot-and-mouth disease is viral—making PRO's flagship herd-collapse scenario simply irrelevant to antibiotic policy—was a direct, factually grounded strike that materially damaged PRO's live route on food se...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully defending the need for a blanket ban over targeted stewardship. Side A's explanation of horizontal gene transfer effectively neutralized Side B's claim that 'zero-crossover-risk' antibiotics exist, and Side A persuasively framed prophylactic use as a...
   Most decisive rebuttal noted: Side A's use of horizontal gene transfer and plasmid co-resistance in Rebuttal 2 to dismantle Side B's reliance on 'zero-crossover-risk' compounds.

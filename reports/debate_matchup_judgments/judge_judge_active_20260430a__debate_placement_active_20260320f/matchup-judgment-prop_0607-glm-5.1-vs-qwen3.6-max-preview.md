@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 | Grok 4.3 | GLM-5.1 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side B built the stronger through-line across all rounds. The GSOMIA 2019 crisis was the pivotal clash, and Side B won it decisively: the channel nearly died by a single executive order overnight, with no legislative debate and no institutional friction—exactly proving that in...
+- **Claude Sonnet 4.6 (high)**: Side B built the stronger through-line across all rounds. The GSOMIA 2019 crisis was the pivotal clash, and Side B won it decisively: the channel nearly died by a single executive order overnight, with no legislative debate and no institutional friction—exactly proving that in...
   Most decisive rebuttal noted: Side B's Rebuttal 2 on the GSOMIA pressure question: the distinction between executive-order termination (informal, no friction) versus legislatively-embedded structures (requiring sustained parliamentary majorities, committee hearings, military lobbying) was the debate's most...
 - **Grok 4.3**: Side A won by using the GSOMIA near-collapse as concrete proof of informal fragility, directly answering pressure questions on escalation rules and legislative barriers with pre-negotiated structures and sunk costs, and showing complementarity from divergent perceptions, givin...
   Most decisive rebuttal noted: A's Rebuttal 2 A1/A2, clarifying sovereign veto in joint commands and why formal processes raise rupture costs versus executive memos.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | -1.0 | -1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | -1.0 | -1.00 | 7.0 |
 | Grok 4.3 | GLM-5.1 | -0.8 | -0.96 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON (Side A) wins a clear but competitive debate on the strength of three sustained lines that PRO never fully neutralized. First, CON turned the GSOMIA example more effectively than PRO did: PRO claimed it proved institutional resilience, but CON showed it survived only throu...
+- **Claude Sonnet 4.6 (high)**: CON (Side A) wins a clear but competitive debate on the strength of three sustained lines that PRO never fully neutralized. First, CON turned the GSOMIA example more effectively than PRO did: PRO claimed it proved institutional resilience, but CON showed it survived only throu...
   Most decisive rebuttal noted: CON's Rebuttal 2 "hostage" argument is the most decisive exchange. PRO claimed that making withdrawal "operationally unthinkable" prevents failure; CON replied that making failure operationally catastrophic does not prevent politically-driven rupture—it only ensures the ruptur...
 - **Grok 4.3**: Side B built the stronger overall case by showing formal structures amplify rather than contain political fractures (GSOMIA near-collapse under threat), while ad-hoc via US intermediaries proved more durable with lower stakes. PRO's institutional trust-generation and sunk-cost...
   Most decisive rebuttal noted: Rebuttal 2 exchange on GSOMIA sunk costs vs. catastrophic rupture, where B exposed that deeper ties raise incentives for adversaries to trigger failure while A could not fully escape the circular reliance on pre-existing political will.

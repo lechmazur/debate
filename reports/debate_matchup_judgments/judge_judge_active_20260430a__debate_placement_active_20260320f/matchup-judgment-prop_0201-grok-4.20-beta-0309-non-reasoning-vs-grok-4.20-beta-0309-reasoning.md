@@ -6,9 +6,9 @@
 - matchup: **Grok 4.20 0309 (Non-Reasoning)** vs **Grok 4.20 0309 (Reasoning)**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
-- mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: `+0.08`
-- judgment rows: `4`
+- mean entertainment: `7.33 / 10`
+- mean signed normalized margin for `Grok 4.20 0309 (Non-Reasoning)`: `-0.28`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0201__grok-4.20-beta-0309-non-reasoning__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0201__grok-4.20-beta-0309-non-reasoning__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Grok 4.20 0309 (Reasoning)**
-- judged result: Unanimous `2-0` for **Grok 4.20 0309 (Reasoning)**.
-- entertainment scores: `8`, `7`
-- mean signed raw margin (PRO+): `-1.20`
+- judged result: Unanimous `3-0` for **Grok 4.20 0309 (Reasoning)**.
+- entertainment scores: `7`, `8`, `7`
+- mean signed raw margin (PRO+): `-1.13`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | Grok 4.20 0309 (Reasoning) | -1.0 | -1.00 | 7.0 |
 | Kimi K2.6 | Grok 4.20 0309 (Reasoning) | -1.2 | -1.20 | 8.0 |
 | Qwen 3.6 Max Preview | Grok 4.20 0309 (Reasoning) | -1.2 | -1.20 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: CON wins on the strength of two arguments PRO never fully neutralized: the freeze/confiscation distinction (reversible leverage preserving diplomatic ground vs. permanent title transfer by a domestic court) and the "who defines aggression" problem. CON's A1 in Rebuttal 2 was t...
+  Most decisive rebuttal noted: CON's A1 in Rebuttal 2: "Freezing creates limited, reversible leverage that signals condemnation without permanently transferring title, whereas 'completing the logic' through restitution crosses into outright confiscation that national courts impose under their own aggression...
 - **Kimi K2.6**: CON prevailed by maintaining the sharp distinction between reversible asset freezes and permanent judicial confiscation, showing that PRO's mechanism depends on national courts making politicized aggression findings without adequate safeguards. PRO's moral urgency and "complet...
   Most decisive rebuttal noted: CON's second rebuttal (A4), which demonstrated that PRO's "transparent oversight" safeguard collapses when the verifier is a national judge, and that crossing from reversible freezes to permanent confiscation eliminates the temporary character preventing systemic chaos.
 - **Qwen 3.6 Max Preview**: Side B wins by successfully distinguishing between reversible asset freezes (diplomatic leverage) and permanent judicial confiscation, which directly neutralized Side A's core "completing the logic" argument. Side B also handled pressure questions more precisely, exposing the...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0201__grok-4.20-beta-0309-reasoning__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0201__grok-4.20-beta-0309-reasoning__grok-4.20-beta-0309-non-reasoning__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Grok 4.20 0309 (Non-Reasoning)**
-- judged result: Unanimous `2-0` for **Grok 4.20 0309 (Non-Reasoning)**.
-- entertainment scores: `8`, `7`
-- mean signed raw margin (PRO+): `-1.35`
+- judged result: Split `2-1` for **Grok 4.20 0309 (Non-Reasoning)**.
+- entertainment scores: `7`, `8`, `7`
+- mean signed raw margin (PRO+): `-0.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | Grok 4.20 0309 (Reasoning) | +1.0 | +1.00 | 7.0 |
 | Kimi K2.6 | Grok 4.20 0309 (Non-Reasoning) | -1.2 | -1.20 | 8.0 |
 | Qwen 3.6 Max Preview | Grok 4.20 0309 (Non-Reasoning) | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: PRO (B) built a cleaner cumulative case and maintained the decisive moral weight throughout: if aggressors retain frozen wealth while victims and donors absorb reconstruction costs, the system inverts justice and weakens deterrence. CON never adequately answered this core outc...
+  Most decisive rebuttal noted: The most consequential exchange was PRO's pressure question B3.2—"how are the same courts competent to freeze assets under sanctions if they cannot oversee reconstruction?"—which forced CON's sharpest move in the debate: CON's A4.2 answer distinguishing courts implementing pol...
 - **Kimi K2.6**: CON won by showing that using courts to convert executive sanctions into permanent seizures of sovereign central-bank assets lacks the consent, treaty, or Security Council mandate that genuine reparations require, and by proving that preserving frozen assets as bargaining chip...
   Most decisive rebuttal noted: CON's answer to PRO's Q2 in Rebuttal 2 (A4.2), drawing the bright line between implementing executive sanctions and adjudicating war damages, which undermined PRO's entire judicial-restitution mechanism.
 - **Qwen 3.6 Max Preview**: Side B wins by effectively dismantling Side A's core mechanism and incentive claims. While Side A presented a morally compelling case for accountability, Side B sharply distinguished between executive sanctions and judicial restitution, demonstrating that converting political...

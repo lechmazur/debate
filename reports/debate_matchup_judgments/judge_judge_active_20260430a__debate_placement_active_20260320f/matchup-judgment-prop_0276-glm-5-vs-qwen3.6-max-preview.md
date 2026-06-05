@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5 | +1.5 | +1.50 | 7.0 |
 | Grok 4.3 | GLM-5 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5 | +1.8 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built the stronger cumulative case and crystallized the debate more cleanly. The decisive exchange was PRO's Q1—if delay codes are too unreliable for automatic payment, why are they reliable enough to burden passengers with the complaint process?—which exposed a genuine lo...
+- **Claude Sonnet 4.6 (high)**: PRO built the stronger cumulative case and crystallized the debate more cleanly. The decisive exchange was PRO's Q1—if delay codes are too unreliable for automatic payment, why are they reliable enough to burden passengers with the complaint process?—which exposed a genuine lo...
   Most decisive rebuttal noted: PRO's Q1 pressure question—asking why delay codes reliable enough to burden passengers with complaint processes are too unreliable for automatic payment—was the sharpest single exchange. CON never answered this contradiction directly; the response recycled the provisional-vers...
 - **Grok 4.3**: A wins: stronger opening asymmetry argument and wedding example; directly neutralized CON's "codes unreliable" and "regressive" claims in rebuttals by showing current system already relies on those codes to burden passengers while leaving them uncompensated; CON's alternatives...
   Most decisive rebuttal noted: A's Rebuttal 2 (A4.1-A4.5) on clawback false choice and gaming, pivoting to show both issues already exist under status quo but resolved against passengers.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Qwen 3.6 Max Preview | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Qwen 3.6 Max Preview | +1.0 | +1.00 | 7.0 |
 | Grok 4.3 | Qwen 3.6 Max Preview | +1.5 | +1.80 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO won on the debate's central normative question: who should bear the default burden when an airline's operations fail. The burden-flip argument — payment fires by default, the carrier proves exceptions — was coherent, consistent across all rounds, and directly responsive to...
+- **Claude Sonnet 4.6 (high)**: PRO won on the debate's central normative question: who should bear the default burden when an airline's operations fail. The burden-flip argument — payment fires by default, the carrier proves exceptions — was coherent, consistent across all rounds, and directly responsive to...
   Most decisive rebuttal noted: PRO's Q2 — asking whether CON was affirmatively arguing valid victims should go uncompensated — directly exposed the incoherence in CON's position. CON had already acknowledged the complaint system abandons most valid claimants, yet CON's entire case rested on preserving that...
 - **Grok 4.3**: Side A won by consistently flipping the default burden and framing friction as a deliberate loophole, directly answering pressure questions on gaming and exhaustion in Rebuttal 2 while showing CON accepts most valid claims going uncompensated. CON's gaming and cross-subsidizat...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A1/A2) directly resolving pressure questions on appeals relocating exhaustion and edge-case handling via logs, sharpening the incentive comparison.

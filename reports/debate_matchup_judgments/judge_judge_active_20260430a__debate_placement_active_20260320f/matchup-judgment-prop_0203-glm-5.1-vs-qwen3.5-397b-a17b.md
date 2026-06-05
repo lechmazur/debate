@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | +1.8 | +1.50 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | +1.6 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A won on the strength of a sustained logical trap that Side B never cleanly escaped. PRO's Q1 pressure question exposed a genuine contradiction: CON simultaneously argued that substitute capital adequately funds the rival and that only our commercial presence gives us mea...
+- **Claude Sonnet 4.6 (high)**: Side A won on the strength of a sustained logical trap that Side B never cleanly escaped. PRO's Q1 pressure question exposed a genuine contradiction: CON simultaneously argued that substitute capital adequately funds the rival and that only our commercial presence gives us mea...
   Most decisive rebuttal noted: PRO's Q1 pressure question and the A4 follow-through crystallized the decisive clash: CON cannot simultaneously claim substitute capital is "strategically sufficient" for the rival and that our commercial presence is "uniquely informative" for us. If the rival is funded regard...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively trapping Side B in a double bind regarding substitute capital and visibility. Side A successfully argued that minority stakes in authoritarian firms provide no real intelligence, neutralizing Side B's primary strategic benefit for allowing investment.
   Most decisive rebuttal noted: Side A's Pressure Question 1 and Rebuttal 2 neatly exposed the contradiction in Side B's claim that substitute capital is sufficient for the rival but lacks the integration to give us intelligence.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Qwen3.5-397B-A17B | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Qwen3.5-397B-A17B | +1.0 | +1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -1.8 | -1.50 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | -1.7 | -1.70 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built the stronger through-line because civil-military fusion—the claim that civilian AI and chip investment is structurally indistinguishable from military support in authoritarian states—was introduced concretely and never squarely neutralized. CON's intelligence and lev...
+- **Claude Sonnet 4.6 (high)**: PRO built the stronger through-line because civil-military fusion—the claim that civilian AI and chip investment is structurally indistinguishable from military support in authoritarian states—was introduced concretely and never squarely neutralized. CON's intelligence and lev...
   Most decisive rebuttal noted: The most decisive rebuttal exchange was CON turning PRO's own "expertise, networks, validation" concession into a leverage argument [B2.6], exposing internal tension in PRO's case: if private capital is uniquely valuable, it also creates dependencies the rival can't easily rep...
 - **Gemini 3.1 Pro Preview**: Side B won by skillfully weaponizing Side A's concessions to win the core impact calculation. When A conceded that sovereign funds exist and that screening might only achieve a "marginal delay," B successfully framed the debate as a choice between a slightly delayed capability...
   Most decisive rebuttal noted: B's Rebuttal 2 and Closing sequence, where B flipped A's "knowing the speed of the bullet doesn't stop it" argument by pointing out that tracking the bullet is necessary to build a shield, and that a "marginal delay" just means the gun fires a quarter later while we are blind.

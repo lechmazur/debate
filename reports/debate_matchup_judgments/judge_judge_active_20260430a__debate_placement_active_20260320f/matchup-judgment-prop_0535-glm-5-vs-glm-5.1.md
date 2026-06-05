@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | -1.0 | -1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | -1.0 | -1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -2.0 | -1.67 | 8.0 |
 | Qwen 3.6 Max Preview | GLM-5.1 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side B wins on the three most important clashes. First, the ignorance problem: A competent person writing about dementia cannot know what that mode of consciousness actually feels like, which specifically undermines the "autonomy at its peak" premise. Side A's chemotherapy ana...
+- **Claude Sonnet 4.6 (high)**: Side B wins on the three most important clashes. First, the ignorance problem: A competent person writing about dementia cannot know what that mode of consciousness actually feels like, which specifically undermines the "autonomy at its peak" premise. Side A's chemotherapy ana...
   Most decisive rebuttal noted: Side B's exploitation of Side A's admission that the "material change in values" safeguard "isn't designed for dementia" is the most decisive rebuttal exchange. By forcing Side A to articulate this limitation clearly and then showing it makes the proposition's own exception pe...
 - **Gemini 3.1 Pro Preview**: Side B wins solidly by arguing that advance directives about dementia are predictions made in epistemic darkness, and by weaponizing Side A's concession that the proposition's 'value change' exception doesn't apply to dementia. Side A suffered a fatal execution error in the cl...
   Most decisive rebuttal noted: Side B's Rebuttal 2, which cleanly answers Side A's pressure questions by introducing decision-specific capacity frameworks and differentiating the epistemic gap of dementia from typical prospective decisions like refusing chemotherapy.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +0.8 | +0.80 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +0.8 | +0.80 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | +2.5 | +2.08 | 8.0 |
 | Qwen 3.6 Max Preview | GLM-5 | -1.2 | -1.20 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A wins narrowly but clearly on the decisive analytical claim: directives are needed precisely when the person appears content to observers, not when they are obviously suffering. If CON's flourishing exception holds, it swallows the rule in the exact cases directives exis...
+- **Claude Sonnet 4.6 (high)**: Side A wins narrowly but clearly on the decisive analytical claim: directives are needed precisely when the person appears content to observers, not when they are obviously suffering. If CON's flourishing exception holds, it swallows the rule in the exact cases directives exis...
   Most decisive rebuttal noted: Side A's point in A5.1–A5.2 — that directives are enforceable under CON's framework only when the person is obviously suffering, which is exactly when directives are least necessary, and unenforceable when the person appears content, which is exactly when they matter most — is...
 - **Gemini 3.1 Pro Preview**: Side A successfully reframed Side B's 'affective forecasting' argument by demonstrating that advance directives often reject the state of advanced dementia itself, not merely the mood associated with it. Side A's analogy to standard informed consent effectively dismantled Side...
   Most decisive rebuttal noted: Side A's A1 response comparing advance directives to standard informed consent for unlived medical states (like refusing chemo for future cancer) cleanly neutralized Side B's attack on 'speculative' choices.

@@ -3,12 +3,12 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0335__gpt-5.4-high__mistral-large-2512__tpl_placement_active_20260320f`
 - topic_id: `prop_0335`
-- matchup: **GPT-5.4 (high reasoning)** vs **Mistral Large 3**
-- overall judged result (normalized): **GPT-5.4 (high reasoning)**
-- overall judged result (raw): **GPT-5.4 (high reasoning)**
+- matchup: **GPT-5.4 (high)** vs **Mistral Large 3**
+- overall judged result (normalized): **GPT-5.4 (high)**
+- overall judged result (raw): **GPT-5.4 (high)**
 - mean entertainment: `7.25 / 10`
-- mean signed normalized margin for `GPT-5.4 (high reasoning)`: `+1.90`
-- judgment rows: `4`
+- mean signed normalized margin for `GPT-5.4 (high)`: `+1.99`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0335__gpt-5.4-high__mistral-large-2512__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Mistral Large 3**
-- [Debate B transcript](../../../transcripts/prop_0335__mistral-large-2512__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Large 3**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0335__gpt-5.4-high__mistral-large-2512__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Mistral Large 3**
+- [Debate B transcript](../../../transcripts/prop_0335__mistral-large-2512__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Large 3**, CON = **GPT-5.4 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0335__gpt-5.4-high__mistral-large-2512__tpl_placement_active_20260320f` or topic `prop_0335`.
 
@@ -25,18 +25,24 @@
 
 - debate_id: `prop_0335__gpt-5.4-high__mistral-large-2512__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0335__gpt-5.4-high__mistral-large-2512__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Mistral Large 3**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.90`
+- roles: PRO = **GPT-5.4 (high)**, CON = **Mistral Large 3**
+- judged result: Unanimous `4-0` for **GPT-5.4 (high)**.
+- entertainment scores: `6`, `8`, `7`, `7`
+- mean signed raw margin (PRO+): `+2.38`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | +1.8 | +1.80 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | +2.0 | +2.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | +1.5 | +1.50 | 6.0 |
+| Gemini 3.1 Pro Preview | GPT-5.4 (high) | +4.2 | +3.50 | 8.0 |
+| Kimi K2.6 | GPT-5.4 (high) | +1.8 | +1.80 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | +2.0 | +2.00 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) won the decisive clash of the debate: whether ordinary fraud law can generate ex ante duties that interrupt harm before the money is gone. PRO consistently showed it cannot—fraud law reacts to deception after loss, whereas consumer protection imposes upstream obli...
+  Most decisive rebuttal noted: PRO's A1 in Rebuttal 2 was the most decisive exchange. CON's pressure question asked how generic fraud stops grooming before the first transfer—and PRO openly conceded it cannot, then used that concession to sharpen their own argument: a framework aimed at proving fraud after...
+- **Gemini 3.1 Pro Preview**: Side B achieves a dominant victory because Side A suffered a catastrophic persona failure in the Pressure Questions round, asking questions that literally attacked its own case. Side B capitalized flawlessly, absorbing the questions to prove that ex-post fraud enforcement cann...
+  Most decisive rebuttal noted: Side B's Rebuttal 2, where B answers Side A's botched questions by cheerfully agreeing ("It doesn't, and that is exactly my argument"), highlighting the gaping hole in CON's case.
 - **Kimi K2.6**: PRO successfully established that AI-enabled romance scams operate through a distinct harm mechanism—prolonged emotional grooming before any financial loss—that ordinary reactive fraud law cannot naturally prevent. CON insisted the core crime remains fraud and warned of bureau...
   Most decisive rebuttal noted: PRO's Rebuttal 2 answers to CON's pressure questions, where PRO conceded that ordinary fraud law does not stop pre-transfer grooming and transformed that concession into the central justification for distinct consumer-protection duties.
 - **Qwen 3.6 Max Preview**: Side B (PRO) wins by cleanly framing the clash around ex ante prevention versus ex post punishment. PRO demonstrated that AI changes the harm mechanism from discrete deception to prolonged, engineered dependency, which requires upstream platform duties (bot disclosure, off-pla...
@@ -46,18 +52,24 @@
 
 - debate_id: `prop_0335__mistral-large-2512__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0335__mistral-large-2512__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Mistral Large 3**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
-- entertainment scores: `7`, `8`
-- mean signed raw margin (PRO+): `-1.90`
+- roles: PRO = **Mistral Large 3**, CON = **GPT-5.4 (high)**
+- judged result: Unanimous `4-0` for **GPT-5.4 (high)**.
+- entertainment scores: `7`, `8`, `7`, `8`
+- mean signed raw margin (PRO+): `-1.88`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -1.8 | -1.80 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | -2.0 | -2.00 | 8.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | -1.5 | -1.50 | 7.0 |
+| Gemini 3.1 Pro Preview | GPT-5.4 (high) | -2.2 | -1.83 | 8.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -1.8 | -1.80 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | -2.0 | -2.00 | 8.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: CON (Side A) wins because its core argument held up under the full exchange: the motion rises or falls on whether a romance-specific category unlocks protection that general anti-fraud frameworks cannot deliver, and PRO never demonstrated that. PRO's strongest move was proposi...
+  Most decisive rebuttal noted: A4.3–A4.6: CON showed that PRO's flagship "distinct" remedy—an interstitial disclosure triggered when AI-generated content is detected before payment—is not romance-specific (it applies equally to all synthetic-persona scams), functions as exactly the kind of ordinary fraud al...
+- **Gemini 3.1 Pro Preview**: Side A wins by cleanly proving that the remedies Side B proposes are actually broad, ordinary anti-fraud measures rather than distinct romance-specific rules. Side B's concession in the closing that their proposed AI-warning applies even if a scammer switches to a "friendship"...
+  Most decisive rebuttal noted: Side A's second rebuttal, which brilliantly points out that Side B's flagship remedy—an AI warning before payment—is not specific to romance and is literally just an upgraded ordinary fraud alert, collapsing Side B's claim to distinctness.
 - **Kimi K2.6**: Side A (CON) won because it showed that the PRO's case for a distinct category never produced a remedy that ordinary anti-fraud frameworks could not absorb. The decisive exchange came when PRO offered mandatory disclosure of synthetic identity at payment as the flagship distin...
   Most decisive rebuttal noted: CON's second rebuttal (A4.3–A4.5), which turned PRO's mandatory-disclosure proposal by showing it is not romance-specific, difficult to enforce, and essentially an ordinary fraud alert—thereby collapsing PRO's claim that distinct treatment is necessary.
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by successfully demonstrating that Side B's proposed "distinct" remedy collapses into the very broad anti-fraud framework CON defended. When pressed for a concrete, romance-specific rule, PRO offered an AI-disclosure interstitial at the payment stage. CON's R...

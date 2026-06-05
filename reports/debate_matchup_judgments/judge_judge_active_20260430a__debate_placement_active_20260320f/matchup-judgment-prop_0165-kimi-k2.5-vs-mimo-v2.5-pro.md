@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.5 Thinking | +1.4 | +1.50 | 7.0 |
+| GPT-5.5 (high) | Kimi K2.5 Thinking | +1.4 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | +1.8 | +1.50 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.5 Thinking | +1.0 | +1.00 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a clear but competitive debate. Side A had strong warnings about premature standard-setting, investment incentives, and Tesla’s proprietary success, but Side B more effectively framed interoperability as a compatibility floor rather than a frozen technology choice....
+- **GPT-5.5 (high)**: Side B won a clear but competitive debate. Side A had strong warnings about premature standard-setting, investment incentives, and Tesla’s proprietary success, but Side B more effectively framed interoperability as a compatibility floor rather than a frozen technology choice....
   Most decisive rebuttal noted: Side B’s pressure and second rebuttal against A’s “organic convergence” argument was the most decisive exchange: B forced A to concede that Tesla’s opening was driven by federal conditions, then used that to argue binding interoperability is necessary to prevent reversion to p...
 - **Gemini 3.1 Pro Preview**: Side A systematically dismantled Side B's claim of 'organic market convergence' by exposing that Tesla's NACS adoption was driven by government NEVI subsidies. Side B was forced to retreat and pivot to an 'incentives vs. mandates' argument, which Side A effectively neutralized...
   Most decisive rebuttal noted: Side A's Pressure Questions and Rebuttal 2 effectively forced Side B to abandon the 'organic market' argument, and Side A's explanation of standards as 'versioning mechanisms' (like USB-C) successfully neutralized Side B's fear of frozen innovation.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.3 | +1.39 | 7.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | +1.3 | +1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.5 Thinking | -2.1 | -1.75 | 7.0 |
 | Qwen 3.6 Max Preview | Kimi K2.5 Thinking | -1.2 | -1.20 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won because it kept the motion focused on consumer access, network lock-in, and public funding conditions, and it made the more persuasive case that interoperability standards create competition rather than eliminate it. A landed a real challenge on regulatory causation and...
+- **GPT-5.5 (high)**: B won because it kept the motion focused on consumer access, network lock-in, and public funding conditions, and it made the more persuasive case that interoperability standards create competition rather than eliminate it. A landed a real challenge on regulatory causation and...
   Most decisive rebuttal noted: B's strongest exchange was distinguishing limited Tesla pilots from genuine open interoperability, then tying full openness to public funding conditions and the failure of a decade of proprietary dominance to solve fragmentation.
 - **Gemini 3.1 Pro Preview**: Side B decisively won by successfully arguing that the market is already achieving interoperability (NACS convergence) and by proving that physical hardware mandates freeze innovation. Side B's distinction between software protocols and physical connectors defeated Side A's co...
   Most decisive rebuttal noted: Side B's Rebuttal 1 distinction between software protocols (TCP/IP) and physical hardware, pointing out that connector standards strictly dictate physical thermal and amperage limits, cleanly neutralizing Side A's argument that mandates only affect the "layer below" innovation.

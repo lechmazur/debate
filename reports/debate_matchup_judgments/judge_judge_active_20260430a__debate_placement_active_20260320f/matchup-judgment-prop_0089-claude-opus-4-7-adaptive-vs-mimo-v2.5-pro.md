@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0089__claude-opus-4-7-adaptive__mimo-v2.5-pro__tpl_placement_active_20260320f`
 - topic_id: `prop_0089`
-- matchup: **Claude Opus 4.7 (high reasoning)** vs **Xiaomi MiMo V2.5 Pro**
-- overall judged result (normalized): **Claude Opus 4.7 (high reasoning)**
-- overall judged result (raw): **Claude Opus 4.7 (high reasoning)**
+- matchup: **Claude Opus 4.7 (high)** vs **Xiaomi MiMo V2.5 Pro**
+- overall judged result (normalized): **Claude Opus 4.7 (high)**
+- overall judged result (raw): **Claude Opus 4.7 (high)**
 - mean entertainment: `7.17 / 10`
-- mean signed normalized margin for `Claude Opus 4.7 (high reasoning)`: `+1.63`
+- mean signed normalized margin for `Claude Opus 4.7 (high)`: `+1.63`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0089__claude-opus-4-7-adaptive__mimo-v2.5-pro__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.7 (high reasoning)**, CON = **Xiaomi MiMo V2.5 Pro**
-- [Debate B transcript](../../../transcripts/prop_0089__mimo-v2.5-pro__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Xiaomi MiMo V2.5 Pro**, CON = **Claude Opus 4.7 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0089__claude-opus-4-7-adaptive__mimo-v2.5-pro__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.7 (high)**, CON = **Xiaomi MiMo V2.5 Pro**
+- [Debate B transcript](../../../transcripts/prop_0089__mimo-v2.5-pro__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Xiaomi MiMo V2.5 Pro**, CON = **Claude Opus 4.7 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0089__claude-opus-4-7-adaptive__mimo-v2.5-pro__tpl_placement_active_20260320f` or topic `prop_0089`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0089__claude-opus-4-7-adaptive__mimo-v2.5-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0089__claude-opus-4-7-adaptive__mimo-v2.5-pro__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Opus 4.7 (high reasoning)**, CON = **Xiaomi MiMo V2.5 Pro**
-- judged result: Unanimous `3-0` for **Claude Opus 4.7 (high reasoning)**.
+- roles: PRO = **Claude Opus 4.7 (high)**, CON = **Xiaomi MiMo V2.5 Pro**
+- judged result: Unanimous `3-0` for **Claude Opus 4.7 (high)**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.43`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.3 | Claude Opus 4.7 (high reasoning) | +1.2 | +1.44 | 7.0 |
-| Kimi K2.6 | Claude Opus 4.7 (high reasoning) | +1.6 | +1.60 | 7.0 |
-| Qwen 3.6 Max Preview | Claude Opus 4.7 (high reasoning) | +1.5 | +1.50 | 7.0 |
+| Grok 4.3 | Claude Opus 4.7 (high) | +1.2 | +1.44 | 7.0 |
+| Kimi K2.6 | Claude Opus 4.7 (high) | +1.6 | +1.60 | 7.0 |
+| Qwen 3.6 Max Preview | Claude Opus 4.7 (high) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0089__mimo-v2.5-pro__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0089__mimo-v2.5-pro__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Xiaomi MiMo V2.5 Pro**, CON = **Claude Opus 4.7 (high reasoning)**
-- judged result: Unanimous `3-0` for **Claude Opus 4.7 (high reasoning)**.
+- roles: PRO = **Xiaomi MiMo V2.5 Pro**, CON = **Claude Opus 4.7 (high)**
+- judged result: Unanimous `3-0` for **Claude Opus 4.7 (high)**.
 - entertainment scores: `6`, `8`, `8`
 - mean signed raw margin (PRO+): `-1.63`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.3 | Claude Opus 4.7 (high reasoning) | -1.7 | -2.04 | 6.0 |
-| Kimi K2.6 | Claude Opus 4.7 (high reasoning) | -1.7 | -1.70 | 8.0 |
-| Qwen 3.6 Max Preview | Claude Opus 4.7 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Grok 4.3 | Claude Opus 4.7 (high) | -1.7 | -2.04 | 6.0 |
+| Kimi K2.6 | Claude Opus 4.7 (high) | -1.7 | -1.70 | 8.0 |
+| Qwen 3.6 Max Preview | Claude Opus 4.7 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 

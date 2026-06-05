@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5 | +1.5 | +1.50 | 6.0 |
+| Claude Sonnet 4.6 (high) | GLM-5 | +1.5 | +1.50 | 6.0 |
 | Grok 4.3 | GLM-5 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side B (PRO) wins because it held the cleaner moral and operational position across all rounds and successfully exposed Con's weakest moment. The decisive exchange was Con's answer to B's pressure question: when asked where residents sleep after displacement, Con answered "rel...
+- **Claude Sonnet 4.6 (high)**: Side B (PRO) wins because it held the cleaner moral and operational position across all rounds and successfully exposed Con's weakest moment. The decisive exchange was Con's answer to B's pressure question: when asked where residents sleep after displacement, Con answered "rel...
   Most decisive rebuttal noted: Pro's rebuttal to Con's "shelter refusal" argument was the most analytically damaging exchange: Pro distinguished between genuine refusal of accessible options versus declining shelter the city designed to exclude (banning pets, prohibiting couples, excluding the mentally ill)...
 - **Grok 4.3**: Side B (PRO) wins by sustaining the core necessity argument: anti-encampment laws without genuine alternatives punish survival, not conduct. B's pressure questions exposed A's weak relocation response, which the closing crystallized into a decisive displacement-without-destina...
   Most decisive rebuttal noted: B's direct A1/A2 answers in Rebuttal 2 followed by closing use of A's "relocate to lawful areas" reply, exposing the unresolved cycle and forcing the concurrent vs. sequential tradeoff into focus.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5 | -1.0 | -1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5 | -1.0 | -1.00 | 7.0 |
 | Grok 4.3 | GLM-5 | -1.2 | -1.44 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.2 | +1.20 | 6.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built a coherent and morally grounded opening—displacement without services manufactures chronic homelessness, the "musical chairs" logic is intuitive, and Q1 ("you cannot coerce someone into a bed that does not exist") was genuinely sharp. However, CON steadily sharpened...
+- **Claude Sonnet 4.6 (high)**: PRO built a coherent and morally grounded opening—displacement without services manufactures chronic homelessness, the "musical chairs" logic is intuitive, and Q1 ("you cannot coerce someone into a bed that does not exist") was genuinely sharp. However, CON steadily sharpened...
   Most decisive rebuttal noted: The most decisive rebuttal exchange was CON's development of the "who decides" problem in Rebuttal 1 [A2.7]: CON specified that shelters already face litigation over sobriety rules, curfew requirements, gender segregation, and capacity limits, giving PRO's "genuinely available...
 - **Grok 4.3**: Side A won by establishing that the "only when" condition creates paralysis and litigation traps when services are imperfect, allowing ongoing public harms like fire risks and blocked access, while showing enforcement can create service touchpoints. Side B's displacement cycle...
   Most decisive rebuttal noted: Side A's answers to pressure questions on leverage via court touchpoints and litigation blocking enforcement indefinitely, which held up against B's dashboard verification claim.

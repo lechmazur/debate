@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | +1.0 | +1.07 | 8.0 |
+| GPT-5.5 (high) | Kimi K2.6 | +1.0 | +1.07 | 8.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +1.2 | +1.00 | 9.0 |
 | Grok 4.3 | Xiaomi MiMo V2.5 Pro | -0.8 | -0.96 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a clear but competitive debate by keeping the collective-action externality at the center: ransom payments finance the next attacks, and a ban with support is the only structural way to reduce the market. Side A landed a strong feasibility challenge about 72-hour vi...
+- **GPT-5.5 (high)**: Side B won a clear but competitive debate by keeping the collective-action externality at the center: ransom payments finance the next attacks, and a ban with support is the only structural way to reduce the market. Side A landed a strong feasibility challenge about 72-hour vi...
   Most decisive rebuttal noted: Side B's response that underground payments and imperfect enforcement still raise transaction costs, legal risk, and uncertainty for criminals was the key rebuttal, because it answered A's enforceability attack while preserving the central incentive-based case.
 - **Gemini 3.1 Pro Preview**: Side B won by framing the status quo as a self-fueling cycle and demonstrating that Side A's defense of ransom payments guarantees future attacks. While Side A made an excellent, highly pragmatic argument about the timeline gap in building state support, Side B effectively neu...
   Most decisive rebuttal noted: Side B's Rebuttal 2 expertly countered the "hypothetical government IT" argument by pointing out that pre-positioned retainers and cyber-insurance panels already exist and activate within hours, requiring only state funding rather than building from scratch.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.1 | +1.18 | 8.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | +1.1 | +1.18 | 8.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2.5 Pro | +1.2 | +1.00 | 9.0 |
 | Grok 4.3 | Xiaomi MiMo V2.5 Pro | +1.3 | +1.56 | 6.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B wins a clear but competitive debate. A made strong arguments about underground evasion, lost investigative trails, data-extortion harms, and moral hazard, but B gave the cleaner comparative answer: ransom payment offers only uncertain victim protection while certainly financ...
+- **GPT-5.5 (high)**: B wins a clear but competitive debate. A made strong arguments about underground evasion, lost investigative trails, data-extortion harms, and moral hazard, but B gave the cleaner comparative answer: ransom payment offers only uncertain victim protection while certainly financ...
   Most decisive rebuttal noted: B's data-extortion rebuttal was decisive: paying for deletion relies on criminal promises, often fails, and rewards the shift toward data theft, so A's “chance at suppression” was outweighed by the broader incentive harm.
 - **Gemini 3.1 Pro Preview**: PRO wins by successfully exposing the structural flaw in CON's defense of the status quo: that paying ransoms only buys a 'chance' at suppression while guaranteeing the capital for the next attack. PRO effectively counters CON's evasion arguments by distinguishing between marg...
   Most decisive rebuttal noted: PRO's Rebuttal 2 A2 reframes CON's defense of payment as a shield against privacy carnage, pointing out that paying for a speculative chance of mercy is exactly what underwrites and guarantees the exponential growth of data extortion.

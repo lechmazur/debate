@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +1.0 | +1.07 | 7.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +1.0 | +1.07 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -2.0 | -1.67 | 8.0 |
 | Grok 4.3 | DeepSeek V4 Pro | +0.7 | +0.84 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A won a close but clear debate by making the recession cost more concrete and by answering the stopping-rule pressure with a plausible conditional framework based on supply versus demand inflation, wage momentum, and expectations. B’s credibility and 1970s arguments were stron...
+- **GPT-5.5 (high)**: A won a close but clear debate by making the recession cost more concrete and by answering the stopping-rule pressure with a plausible conditional framework based on supply versus demand inflation, wage momentum, and expectations. B’s credibility and 1970s arguments were stron...
   Most decisive rebuttal noted: A’s answer to B’s stopping-rule and real-time-diagnosis pressure was decisive: it conceded tolerance is conditional, identified indicators central banks can use, and turned the error asymmetry by arguing premature recession permanently damages supply capacity.
 - **Gemini 3.1 Pro Preview**: Side A won by effectively turning Side B's asymmetry of error. While Side B argued that delaying action allows for a harmless course correction later, Side A convincingly proved that waiting until inflation de-anchors destroys credibility and necessitates a much harsher, Volck...
   Most decisive rebuttal noted: Side A's Rebuttal 2 completely dismantled Side B's asymmetry frame by showing that tightening after de-anchoring is not a mild adjustment, but a compounding catastrophe that forces a deeper recession.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | +1.3 | +1.39 | 8.0 |
+| GPT-5.5 (high) | GLM-5.1 | +1.3 | +1.39 | 8.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | +1.2 | +1.00 | 8.0 |
 | Grok 4.3 | GLM-5.1 | +1.3 | +1.56 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A won because it kept the motion centered on the real tradeoff: slower return to target versus deliberately causing recession. Its comparison between reversible moderate inflation costs and irreversible labor-market scarring was clearer and better tied to the proposition. B ha...
+- **GPT-5.5 (high)**: A won because it kept the motion centered on the real tradeoff: slower return to target versus deliberately causing recession. Its comparison between reversible moderate inflation costs and irreversible labor-market scarring was clearer and better tied to the proposition. B ha...
   Most decisive rebuttal noted: A's second rebuttal was the decisive exchange: it answered B's pressure directly, framed 2021-23 as a live test against inevitable unanchoring, and exposed B's lack of a principled threshold beyond defaulting to 2 percent.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully framing the 2021-2023 soft landing as proof that gradual tightening without an engineered recession avoids both the dreaded inflation spiral and irreversible hysteresis. Side A fought well to characterize 2021-2023 as 'prompt action,' but B cleanly p...
   Most decisive rebuttal noted: B's R2 and Closing brilliantly recaptured the 2021-2023 example, pointing out that the Fed's sequence of tolerating inflation for months before tightening to achieve a soft landing was exactly the 'gradualist' path the PRO side was defending, neatly dispatching A's attempt to...

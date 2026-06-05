@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +0.8 | +0.86 | 8.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +0.8 | +0.86 | 8.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2.5 Pro | -1.2 | -1.00 | 8.0 |
 | Kimi K2.6 | Xiaomi MiMo V2.5 Pro | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A wins narrowly. Side B made a strong democratic-accountability and value-laden-narrative challenge, but it too often overstated the proposition as a closed expert takeover. Side A better defended the actual comparative claim: stronger independent scholarly review adds ev...
+- **GPT-5.5 (high)**: Side A wins narrowly. Side B made a strong democratic-accountability and value-laden-narrative challenge, but it too often overstated the proposition as a closed expert takeover. Side A better defended the actual comparative claim: stronger independent scholarly review adds ev...
   Most decisive rebuttal noted: Side A's response to the “involuntary relocation” example was most decisive: B used it to prove democratic correction works, but A turned it by arguing public outrage catches only blatant scandals while scholarly review is better suited to detecting normalized, subtler distort...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully arguing that history textbooks are inherently narrative and civic, meaning they cannot be reduced to purely technical "facts" decided by experts. Side A effectively neutralized Side B's scholarly accountability mechanism by framing it as a closed loo...
   Most decisive rebuttal noted: Side A's A2 response in Rebuttal 2, which flipped Side B's question about the "involuntary relocation" example to prove that democratic boards offer visible, correctable vulnerability, whereas scholarly panels would result in "invisible capture."
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.3 | +1.39 | 8.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | +1.3 | +1.39 | 8.0 |
 | Gemini 3.1 Pro Preview | DeepSeek V4 Pro | -1.1 | -0.92 | 9.0 |
 | Kimi K2.6 | Xiaomi MiMo V2.5 Pro | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A won by making the cleaner institutional comparison: scholarly review is imperfect but has evidence-based correction mechanisms, while shifting political control punishes unpopularity rather than inaccuracy. Side B was strong on interpretive bias and democratic contestat...
+- **GPT-5.5 (high)**: Side A won by making the cleaner institutional comparison: scholarly review is imperfect but has evidence-based correction mechanisms, while shifting political control punishes unpopularity rather than inaccuracy. Side B was strong on interpretive bias and democratic contestat...
   Most decisive rebuttal noted: A's rebuttal distinguishing bias from correction mechanisms was decisive: it conceded scholarly imperfection while showing that evidence standards create constraints politicians lack, directly weakening B's core equivalence between guild orthodoxy and partisan control.
 - **Gemini 3.1 Pro Preview**: Side A edges out a win by successfully arguing that historical narratives are inherently interpretive rather than purely factual, making them a matter of democratic concern. Side A's strongest point was highlighting the historical profession's past exclusions (women, indigenou...
   Most decisive rebuttal noted: Side A's argument in Rebuttal 1 and 2 that the historical guild's past erasure of marginalized groups was corrected by external political movements, cleanly neutralizing Side B's claim that scholarly methods are inherently self-correcting.

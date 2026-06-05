@@ -3,12 +3,12 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0263__gpt-5.4-high__gpt-oss-120b__tpl_placement_active_20260320f`
 - topic_id: `prop_0263`
-- matchup: **GPT-5.4 (high reasoning)** vs **GPT-OSS-120B**
-- overall judged result (normalized): **GPT-5.4 (high reasoning)**
-- overall judged result (raw): **GPT-5.4 (high reasoning)**
-- mean entertainment: `6.50 / 10`
-- mean signed normalized margin for `GPT-5.4 (high reasoning)`: `+2.10`
-- judgment rows: `4`
+- matchup: **GPT-5.4 (high)** vs **GPT-OSS-120B**
+- overall judged result (normalized): **GPT-5.4 (high)**
+- overall judged result (raw): **GPT-5.4 (high)**
+- mean entertainment: `6.33 / 10`
+- mean signed normalized margin for `GPT-5.4 (high)`: `+1.90`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0263__gpt-5.4-high__gpt-oss-120b__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **GPT-OSS-120B**
-- [Debate B transcript](../../../transcripts/prop_0263__gpt-oss-120b__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **GPT-OSS-120B**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0263__gpt-5.4-high__gpt-oss-120b__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **GPT-OSS-120B**
+- [Debate B transcript](../../../transcripts/prop_0263__gpt-oss-120b__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **GPT-OSS-120B**, CON = **GPT-5.4 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0263__gpt-5.4-high__gpt-oss-120b__tpl_placement_active_20260320f` or topic `prop_0263`.
 
@@ -25,18 +25,21 @@
 
 - debate_id: `prop_0263__gpt-5.4-high__gpt-oss-120b__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0263__gpt-5.4-high__gpt-oss-120b__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **GPT-OSS-120B**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.90`
+- roles: PRO = **GPT-5.4 (high)**, CON = **GPT-OSS-120B**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
+- entertainment scores: `6`, `7`, `7`
+- mean signed raw margin (PRO+): `+1.77`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | +2.3 | +2.30 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | +1.5 | +1.50 | 6.0 |
+| Kimi K2.6 | GPT-5.4 (high) | +2.3 | +2.30 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) built the stronger cumulative path to victory. Its "bait-and-switch" framing was compelling and never neutralized: platforms use originals to attract subscribers, then erase them for accounting reasons, which is the precise harm a minimum-window rule addresses. PR...
+  Most decisive rebuttal noted: Side B's pivot at B2.6, turning CON's "streaming is a distribution channel, not an archive" against them to establish that the streaming platform is often the only practical access point for many originals. This set up the decisive chain: CON later conceded in A4.3 that archiv...
 - **Kimi K2.6**: Side A won because it exposed and capitalized on a decisive concession in the preservation clash. Side B’s pressure-question answer in Rebuttal 2 admitted that library and archival copies do not constitute public availability for ordinary viewers and that removed titles become...
   Most decisive rebuttal noted: Side A’s Pressure Question Q2 asked whether library or archive copies meant ordinary viewers could realistically stream removed originals. Side B’s answer in Rebuttal 2 (B4.3) conceded that they cannot, effectively admitting the harm Side A identified is real and that Side B’s...
 - **Qwen 3.6 Max Preview**: Side B wins by successfully defining the clash around "public availability" and forcing Side A to concede that archives and physical media do not provide ordinary viewers with real access. This validated PRO's core harm of cultural erasure and subscriber bait-and-switch. On ec...
@@ -46,18 +49,21 @@
 
 - debate_id: `prop_0263__gpt-oss-120b__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0263__gpt-oss-120b__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-OSS-120B**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
-- entertainment scores: `6`, `6`
-- mean signed raw margin (PRO+): `-2.30`
+- roles: PRO = **GPT-OSS-120B**, CON = **GPT-5.4 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
+- entertainment scores: `6`, `6`, `6`
+- mean signed raw margin (PRO+): `-2.03`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -2.1 | -2.10 | 6.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | -2.5 | -2.50 | 6.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | -1.5 | -1.50 | 6.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -2.1 | -2.10 | 6.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | -2.5 | -2.50 | 6.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: Side A (CON) built a durable and consistently answered case around one decisive framing: the mandate bites hardest exactly where costs are highest and upside lowest—rights-complex and weak-performing titles—thereby chilling future investment and reducing the very ambition PRO...
+  Most decisive rebuttal noted: Side A's response to the pressure questions (A4.1–A4.6) was the most decisive exchange. After B tried to reframe storage as the real cost, A clarified that mandated public exhibition—not storage—is the burden, because it triggers ongoing rights renewals, residuals, and complia...
 - **Kimi K2.6**: CON won by exposing a fatal asymmetry in PRO's case: a retention mandate only binds on titles that platforms would otherwise remove—disproportionately weak performers and rights-heavy projects—while converting optional variable costs (residuals, music clearances, territorial c...
   Most decisive rebuttal noted: CON's first rebuttal dismantling PRO's cost argument by showing that mandated public availability imposes ongoing rights, residual, and compliance burdens—not merely cheap storage—and that the rule therefore bites hardest on the very weak or rights-complex titles PRO claimed i...
 - **Qwen 3.6 Max Preview**: CON wins by decisively dismantling PRO's core economic assumption. PRO repeatedly claimed the cost of retention is merely "marginal storage and bandwidth," completely ignoring the industry reality of ongoing residuals, music rights renewals, territorial compliance, and legal e...

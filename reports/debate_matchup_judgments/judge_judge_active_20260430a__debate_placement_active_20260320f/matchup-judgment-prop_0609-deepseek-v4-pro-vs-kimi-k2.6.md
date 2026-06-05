@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | -1.5 | -1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | -1.5 | -1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -1.5 | -1.25 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON (Side A) built a more disciplined and consistently decisive case across all five rounds. The cholera/seawall concrete image was introduced in the opening and maintained throughout without being neutralized—PRO's best answer (that menus can include health surveillance) was...
+- **Claude Sonnet 4.6 (high)**: CON (Side A) built a more disciplined and consistently decisive case across all five rounds. The cholera/seawall concrete image was introduced in the opening and maintained throughout without being neutralized—PRO's best answer (that menus can include health surveillance) was...
   Most decisive rebuttal noted: CON's Rebuttal 1 [A2.3]: "When every dollar of suspended debt service must pass through a climate-resilience filter before it reaches a finance ministry, the so-called menu becomes a muzzle." This directly answered PRO's "flexible portfolio" defense, repurposed PRO's own conce...
 - **Gemini 3.1 Pro Preview**: Side A wins by successfully dismantling Side B's 'country-led menu' defense, proving that pre-negotiated menus under the threat of default are coercive because the debtor lacks a right of refusal. Side A also decisively wins the flexibility clash by showing that unpredictable...
   Most decisive rebuttal noted: A4's response dismantling the 'mutual bargaining' claim by pointing out that a devastated nation facing default has no right of refusal, cleanly proving the menu is still creditor conditionality.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.5 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +1.8 | +1.50 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side B) won on three reinforcing grounds. First, the emergency-liquidity vs. structural-relief distinction, introduced in B2.1 and defended throughout, was the debate's central pivot. CON repeatedly argued that relief must first restore state function—salaries, tax bases—...
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) won on three reinforcing grounds. First, the emergency-liquidity vs. structural-relief distinction, introduced in B2.1 and defended throughout, was the debate's central pivot. CON repeatedly argued that relief must first restore state function—salaries, tax bases—...
   Most decisive rebuttal noted: PRO's Rebuttal 1 [B2.1–B2.5] was the most decisive exchange. By sharply separating emergency liquidity from structural debt relief and showing that automaticity binds creditors as well as debtors, PRO reframed CON's two most damaging attacks—delay and paternalism—as features o...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully distinguishing structural debt relief from emergency liquidity, which neutralized Side A's concerns about immediate disaster response. B effectively turned A's core argument—that relief must fund recurrent bills like salaries—by exposing it as the ex...
   Most decisive rebuttal noted: Side B's Rebuttal 2, which neutralized A's delay and emergency arguments while framing A's defense of using relief for recurrent bills as the exact cause of the debt treadmill.

@@ -6,9 +6,9 @@
 - matchup: **Claude Opus 4.6 (no reasoning)** vs **Grok 4.20 0309 (Reasoning)**
 - overall judged result (normalized): **Claude Opus 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Opus 4.6 (no reasoning)**
-- mean entertainment: `7.25 / 10`
-- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+0.68`
-- judgment rows: `4`
+- mean entertainment: `7.50 / 10`
+- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+0.52`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0461__claude-opus-4-6-0K__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0461__claude-opus-4-6-0K__grok-4.20-beta-0309-reasoning__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Opus 4.6 (no reasoning)**, CON = **Grok 4.20 0309 (Reasoning)**
-- judged result: Split `1-1`.
-- entertainment scores: `8`, `7`
-- mean signed raw margin (PRO+): `+0.00`
+- judged result: Split `2-1` for **Grok 4.20 0309 (Reasoning)**.
+- entertainment scores: `8`, `8`, `7`
+- mean signed raw margin (PRO+): `-0.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Reasoning) | -1.5 | -1.25 | 8.0 |
 | Kimi K2.6 | Grok 4.20 0309 (Reasoning) | -1.5 | -1.50 | 8.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by successfully dismantling the epistemic value of the proposed researcher access. A argued convincingly that the high-dimensional, feedback-driven nature of recommender systems makes observational data fundamentally unsuited for causal claims once differential priv...
+  Most decisive rebuttal noted: A's second rebuttal, where they cleanly resolved B's "gotcha" question about noise vs. precision by explaining that differential privacy yields aggregates too vague for genuine causal insight but still ripe for partisan weaponization.
 - **Kimi K2.6**: Side A (CON) won by demonstrating that the mandate imposes concrete privacy and innovation costs while failing to deliver reliable causal insight into recommender impacts. It effectively rebutted PRO's claim that regulation and liability require broad researcher access by show...
   Most decisive rebuttal noted: CON's rebuttal that outcome-focused liability and targeted discovery enable accountability without broad researcher pipelines (A2.5, A4.1), which directly answered PRO's claim that such alternatives presuppose mandated data access and collapsed PRO's comparative necessity argu...
 - **Qwen 3.6 Max Preview**: Side B (PRO) wins by successfully centering the debate on a single decisive burden: how do CON's preferred alternatives (liability, outcome rules) function without independent data? CON's reliance on self-audits, user complaints, and targeted discovery played directly into PRO...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0461__grok-4.20-beta-0309-reasoning__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0461__grok-4.20-beta-0309-reasoning__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Grok 4.20 0309 (Reasoning)**, CON = **Claude Opus 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.35`
+- judged result: Unanimous `3-0` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `8`, `7`, `7`
+- mean signed raw margin (PRO+): `-1.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | -2.0 | -1.67 | 8.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | -1.2 | -1.20 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by systematically dismantling Side B's technical mechanism. A exposed the flaw in B's core warrant that "platforms already do this internally," clearly explaining the difference between internal confidentiality and external disclosure risks. Furthermore, A brilliant...
+  Most decisive rebuttal noted: Side A's second rebuttal (A4) definitively won the debate by cleanly distinguishing internal analytics from external disclosure threat models and turning B's admission about the lack of existing studies into proof that the mandate risks user privacy for potentially noisy, usel...
 - **Kimi K2.6**: CON successfully undermined PRO's core mechanism by distinguishing internal privacy budgeting from external disclosure governance, turning PRO's admission that no differentially-private study has diagnosed complex harms like radicalization into evidence that the proposed acces...
   Most decisive rebuttal noted: CON's turn in Rebuttal 2 that the absence of differentially-private studies diagnosing radicalization supports the conclusion that privacy-constrained access may be insufficient for the research PRO promises, directly neutralizing PRO's "necessity" framing and exposing the man...
 - **Qwen 3.6 Max Preview**: CON wins by successfully dismantling PRO’s core technical bridge. While PRO argues that internal privacy-preserving computations can simply be externalized, CON sharply distinguishes internal confidentiality from external disclosure threat models and highlights the unresolved...

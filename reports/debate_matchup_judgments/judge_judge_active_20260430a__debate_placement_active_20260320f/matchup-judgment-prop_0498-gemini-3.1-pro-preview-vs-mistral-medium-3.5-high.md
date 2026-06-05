@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0498__gemini-3.1-pro-preview__mistral-medium-3.5-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0498`
-- matchup: **Gemini 3.1 Pro Preview** vs **Mistral Medium 3.5 High Reasoning**
+- matchup: **Gemini 3.1 Pro Preview** vs **Mistral Medium 3.5 (high)**
 - overall judged result (normalized): **Gemini 3.1 Pro Preview**
 - overall judged result (raw): **Gemini 3.1 Pro Preview**
 - mean entertainment: `7.17 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0498__gemini-3.1-pro-preview__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **Mistral Medium 3.5 High Reasoning**
-- [Debate B transcript](../../../transcripts/prop_0498__mistral-medium-3.5-high__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 High Reasoning**, CON = **Gemini 3.1 Pro Preview**
+- [Debate A transcript](../../../transcripts/prop_0498__gemini-3.1-pro-preview__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md): PRO = **Gemini 3.1 Pro Preview**, CON = **Mistral Medium 3.5 (high)**
+- [Debate B transcript](../../../transcripts/prop_0498__mistral-medium-3.5-high__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 (high)**, CON = **Gemini 3.1 Pro Preview**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0498__gemini-3.1-pro-preview__mistral-medium-3.5-high__tpl_placement_active_20260320f` or topic `prop_0498`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0498__gemini-3.1-pro-preview__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0498__gemini-3.1-pro-preview__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Mistral Medium 3.5 High Reasoning**
+- roles: PRO = **Gemini 3.1 Pro Preview**, CON = **Mistral Medium 3.5 (high)**
 - judged result: Unanimous `3-0` for **Gemini 3.1 Pro Preview**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.60`
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0498__mistral-medium-3.5-high__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0498__mistral-medium-3.5-high__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Mistral Medium 3.5 High Reasoning**, CON = **Gemini 3.1 Pro Preview**
-- judged result: Split `2-1` for **Mistral Medium 3.5 High Reasoning**.
+- roles: PRO = **Mistral Medium 3.5 (high)**, CON = **Gemini 3.1 Pro Preview**
+- judged result: Split `2-1` for **Mistral Medium 3.5 (high)**.
 - entertainment scores: `7`, `7`, `8`
 - mean signed raw margin (PRO+): `+0.47`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Grok 4.3 | Gemini 3.1 Pro Preview | -1.5 | -1.80 | 7.0 |
-| Kimi K2.6 | Mistral Medium 3.5 High Reasoning | +1.7 | +1.70 | 7.0 |
-| Qwen 3.6 Max Preview | Mistral Medium 3.5 High Reasoning | +1.2 | +1.20 | 8.0 |
+| Kimi K2.6 | Mistral Medium 3.5 (high) | +1.7 | +1.70 | 7.0 |
+| Qwen 3.6 Max Preview | Mistral Medium 3.5 (high) | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 

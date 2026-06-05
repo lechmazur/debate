@@ -6,9 +6,9 @@
 - matchup: **Baidu Ernie 5.0** vs **GLM-5**
 - overall judged result (normalized): **GLM-5**
 - overall judged result (raw): **GLM-5**
-- mean entertainment: `6.50 / 10`
-- mean signed normalized margin for `Baidu Ernie 5.0`: `-1.70`
-- judgment rows: `4`
+- mean entertainment: `6.83 / 10`
+- mean signed normalized margin for `Baidu Ernie 5.0`: `-1.73`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0450__ernie-5__glm-5__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0450__ernie-5__glm-5__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Baidu Ernie 5.0**, CON = **GLM-5**
-- judged result: Unanimous `2-0` for **GLM-5**.
-- entertainment scores: `6`, `7`
+- judged result: Unanimous `3-0` for **GLM-5**.
+- entertainment scores: `7`, `6`, `7`
 - mean signed raw margin (PRO+): `-1.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | GLM-5 | -1.5 | -1.25 | 7.0 |
 | Kimi K2.6 | GLM-5 | -1.5 | -1.50 | 6.0 |
 | Qwen 3.6 Max Preview | GLM-5 | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B won by systematically dismantling Side A's proposed safeguards. When pressed on how conflicts of interest and liability would be handled, Side A relied on broad gestures toward IRBs and "existing legal frameworks." Side B effectively pointed out that IRBs do not police...
+  Most decisive rebuttal noted: Side B's Rebuttal 2 effectively neutralized Side A's defense by pointing out that IRBs review methodology, not funding sources or political bias, and that census data relies on decades of statutory protections that this mandate lacks.
 - **Kimi K2.6**: Side B wins by exposing that PRO's mandate lacks accountability infrastructure. While PRO effectively frames the need for proactive oversight versus reactive enforcement, B successfully presses that PRO never defines who vets researchers beyond platform ties, who bears liabili...
   Most decisive rebuttal noted: B's dismantling of PRO's healthcare/census analogies by distinguishing the decades of legal infrastructure (HIPAA, statutory privacy protections) that those regimes enjoy but PRO's unspecified mandate entirely lacks, paired with the sustained pressure showing IRBs review metho...
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by consistently exposing the governance and accountability gaps in Side B's proposal. PRO built a solid case for proactive oversight but relied on thin assurances that "existing academic safeguards" and "current liability frameworks" would manage researcher c...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0450__glm-5__ernie-5__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0450__glm-5__ernie-5__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **GLM-5**, CON = **Baidu Ernie 5.0**
-- judged result: Unanimous `2-0` for **GLM-5**.
-- entertainment scores: `6`, `7`
-- mean signed raw margin (PRO+): `+1.90`
+- judged result: Unanimous `3-0` for **GLM-5**.
+- entertainment scores: `8`, `6`, `7`
+- mean signed raw margin (PRO+): `+2.20`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | GLM-5 | +2.8 | +2.33 | 8.0 |
 | Kimi K2.6 | GLM-5 | +1.8 | +1.80 | 6.0 |
 | Qwen 3.6 Max Preview | GLM-5 | +2.0 | +2.00 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by successfully defending modern privacy-preserving techniques against Side B's outdated Netflix example, and by brilliantly exposing that Side B's alternative of 'third-party audits' secretly required the very data access Side B was arguing against. Side A's closin...
+  Most decisive rebuttal noted: Side A's second rebuttal, where they dismantled the Netflix privacy example by explaining the technical difference between naive name-stripping and differential privacy, and pointed out that Side B's alternative still required data access.
 - **Kimi K2.6**: PRO won by exposing that CON's alternatives to researcher access either secretly require the same data access (via regulators, auditors, or spot-checks) or collapse into trusting platforms to self-report. CON never resolved how regulators verify platform claims without accessi...
   Most decisive rebuttal noted: PRO's collapse of CON's "regulator and auditor" alternative in Rebuttal 2 and Closing, showing that certified auditors and regulatory spot-checks are simply data access by another name, leaving CON with no coherent verification mechanism that avoids the very access they oppose.
 - **Qwen 3.6 Max Preview**: PRO wins by decisively exposing a fatal contradiction in CON's case: CON opposes data access for researchers due to privacy risks, yet proposes regulators and third-party auditors verify platform harms. PRO correctly notes that effective regulatory verification inherently requ...

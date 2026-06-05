@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Qwen 3.6 Max Preview | -1.0 | -1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Qwen 3.6 Max Preview | -1.0 | -1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | -1.5 | -1.25 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | -1.4 | -1.40 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Both sides ran coherent, well-grounded cases, but CON (Side A) edges the debate on two structural fault lines that PRO never fully resolved. First, CON's repeated distinction between man-portable systems (minimal support requirements, immediately effective) and complex platfor...
+- **Claude Sonnet 4.6 (high)**: Both sides ran coherent, well-grounded cases, but CON (Side A) edges the debate on two structural fault lines that PRO never fully resolved. First, CON's repeated distinction between man-portable systems (minimal support requirements, immediately effective) and complex platfor...
   Most decisive rebuttal noted: CON's Rebuttal 1 on simple versus complex system integration—"Ad hoc learning cannot substitute for crew coordination, fire direction, and electronic warfare hardening"—was the most decisive single exchange. It directly undercut PRO's central mechanism by showing that the tact...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully proving that a 2022 surge would have overwhelmed Ukraine's absorption capacity and depleted Western stockpiles before production could ramp up. Side B effectively neutralized Side A's core claim that early tactical disruption would reduce long-term a...
   Most decisive rebuttal noted: Side B's Rebuttal 2 answer to Q2 decisively handled Side A's argument that early strikes would lower later ammunition needs, noting that Russia's capacity for massed fires is structural and would eventually mobilize regardless of early tactical losses.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Qwen 3.6 Max Preview | +1.7 | +1.70 | 6.0 |
+| Claude Sonnet 4.6 (high) | Qwen 3.6 Max Preview | +1.7 | +1.70 | 6.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | +1.6 | +1.33 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side B) built and sustained the stronger case throughout. Its core framing — "speculative escalation risks versus documented strategic costs" — was clean, comparative, and never adequately answered. PRO's sharpest move was using the actual timeline of events (HIMARS, Leop...
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) built and sustained the stronger case throughout. Its core framing — "speculative escalation risks versus documented strategic costs" — was clean, comparative, and never adequately answered. PRO's sharpest move was using the actual timeline of events (HIMARS, Leop...
   Most decisive rebuttal noted: PRO's Rebuttal 1 [B2.1] combined with Rebuttal 2 [B4.1]: PRO argued that Russia absorbed HIMARS, Leopards, and long-range strikes later without widening the war, and that a failing, overextended Russia in spring 2022 had even less credible escalation capacity than a consolidat...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully framing the debate as a choice between concrete costs (entrenchment, attrition, lost manpower) and speculative risks (escalation, coalition fracture). Side A persuasively argued that Russian weakness in early 2022 made escalation less credible, succe...
   Most decisive rebuttal noted: Side A's Rebuttal 2 effectively neutralized Side B's escalation argument by pointing out that escalating against NATO supply lines or using nuclear posturing would have risked regime survival while the Russian military was already overextended and stalling.

@@ -3,12 +3,12 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0556__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__tpl_placement_active_20260320f`
 - topic_id: `prop_0556`
-- matchup: **Claude Opus 4.7 (high reasoning)** vs **Claude Sonnet 4.6 (high reasoning)**
-- overall judged result (normalized): **Claude Opus 4.7 (high reasoning)**
-- overall judged result (raw): **Claude Opus 4.7 (high reasoning)**
-- mean entertainment: `8.00 / 10`
-- mean signed normalized margin for `Claude Opus 4.7 (high reasoning)`: `+1.48`
-- judgment rows: `4`
+- matchup: **Claude Opus 4.7 (high)** vs **Claude Sonnet 4.6 (high)**
+- overall judged result (normalized): **Claude Opus 4.7 (high)**
+- overall judged result (raw): **Claude Opus 4.7 (high)**
+- mean entertainment: `7.83 / 10`
+- mean signed normalized margin for `Claude Opus 4.7 (high)`: `+1.02`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0556__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.7 (high reasoning)**, CON = **Claude Sonnet 4.6 (high reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0556__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Claude Opus 4.7 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0556__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.7 (high)**, CON = **Claude Sonnet 4.6 (high)**
+- [Debate B transcript](../../../transcripts/prop_0556__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high)**, CON = **Claude Opus 4.7 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0556__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__tpl_placement_active_20260320f` or topic `prop_0556`.
 
@@ -25,18 +25,21 @@
 
 - debate_id: `prop_0556__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0556__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Opus 4.7 (high reasoning)**, CON = **Claude Sonnet 4.6 (high reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.7 (high reasoning)**.
-- entertainment scores: `8`, `7`
-- mean signed raw margin (PRO+): `+1.50`
+- roles: PRO = **Claude Opus 4.7 (high)**, CON = **Claude Sonnet 4.6 (high)**
+- judged result: Unanimous `3-0` for **Claude Opus 4.7 (high)**.
+- entertainment scores: `7`, `8`, `7`
+- mean signed raw margin (PRO+): `+1.53`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | Claude Opus 4.7 (high reasoning) | +1.5 | +1.50 | 8.0 |
-| Qwen 3.6 Max Preview | Claude Opus 4.7 (high reasoning) | +1.5 | +1.50 | 7.0 |
+| GPT-5.5 (high) | Claude Opus 4.7 (high) | +1.6 | +1.71 | 7.0 |
+| Kimi K2.6 | Claude Opus 4.7 (high) | +1.5 | +1.50 | 8.0 |
+| Qwen 3.6 Max Preview | Claude Opus 4.7 (high) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side A won because it gave the cleaner mechanism: the motion targets the documented, domestic, invoiced broker resale pipeline and raises consent friction before precise location data disperses. Side B's best objection was the consent contradiction, but A answered that explici...
+  Most decisive rebuttal noted: A's second rebuttal was decisive: it answered B's carve-out and time-limit questions directly, then used B's concession that domestic brokers are a real pipeline to argue that upstream restrictions provide a more certain harm reduction than after-the-fact liability.
 - **Kimi K2.6**: Side A won because it proved the documented harms travel through a visible domestic broker pipeline that the motion directly constricts, while CON's downstream-liability alternative remained unsupported by any concrete example and implausible once data fans out to thousands of...
   Most decisive rebuttal noted: A's Q2 pressing for a concrete case where downstream liability rescued a stalking or bounty-hunter victim; B's admission that no named case was at hand undermined CON's central alternative remedy.
 - **Qwen 3.6 Max Preview**: PRO wins by successfully framing the debate around upstream intervention versus downstream tracing. By forcing CON to concede that the documented harm pipeline is domestic and invoiced, PRO made a compelling case that raising friction at the point of sale meaningfully reduces...
@@ -46,18 +49,21 @@
 
 - debate_id: `prop_0556__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0556__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Claude Opus 4.7 (high reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.7 (high reasoning)**.
-- entertainment scores: `9`, `8`
-- mean signed raw margin (PRO+): `-1.45`
+- roles: PRO = **Claude Sonnet 4.6 (high)**, CON = **Claude Opus 4.7 (high)**
+- judged result: Split `2-1` for **Claude Opus 4.7 (high)**.
+- entertainment scores: `8`, `9`, `8`
+- mean signed raw margin (PRO+): `-0.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | Claude Opus 4.7 (high reasoning) | -1.4 | -1.40 | 9.0 |
-| Qwen 3.6 Max Preview | Claude Opus 4.7 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| GPT-5.5 (high) | Claude Sonnet 4.6 (high) | +1.4 | +1.50 | 8.0 |
+| Kimi K2.6 | Claude Opus 4.7 (high) | -1.4 | -1.40 | 9.0 |
+| Qwen 3.6 Max Preview | Claude Opus 4.7 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: Side A won because it preserved the core comparative point: unconsented broker sales of precise individual location data are a real, operating vector of harm, and closing that vector is worthwhile even if other surveillance channels remain. Side B’s “label not pipeline” critiq...
+  Most decisive rebuttal noted: A’s strongest exchange was against the “symbolic” objection: it argued that the existence of other routes does not negate eliminating a distinct broker attack surface, and its pressure question forced B to concede brokers exist because they are the cheapest aggregation layer,...
 - **Kimi K2.6**: CON demonstrated that the proposition targets a commercial label rather than the actual harm: the same precise location data would continue to flow through first-party platform relationships and direct SDK deals, consolidating market power in Google and Meta while delivering o...
   Most decisive rebuttal noted: CON's Rebuttal 1 and Rebuttal 2 solvency takeout showing that banning broker resale is symbolic because the same data can be aggregated through direct SDK deals and first-party platform relationships, effectively "renaming the pipeline" without closing the attack surfaces PRO...
 - **Qwen 3.6 Max Preview**: Side B wins by successfully framing the motion as a narrow label ban that fails to address the underlying data pipeline. B's explanation of how data flows would simply route through first-party SDKs and platform contracts—consolidating power in incumbents without stopping stal...

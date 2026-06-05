@@ -6,9 +6,9 @@
 - matchup: **GLM-5** vs **ByteDance Seed2.0 Pro**
 - overall judged result (normalized): **GLM-5**
 - overall judged result (raw): **GLM-5**
-- mean entertainment: `6.75 / 10`
-- mean signed normalized margin for `GLM-5`: `+0.80`
-- judgment rows: `4`
+- mean entertainment: `7.00 / 10`
+- mean signed normalized margin for `GLM-5`: `+1.19`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,23 @@
 - debate_id: `prop_0233__glm-5__seed-2.0-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0233__glm-5__seed-2.0-pro__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **GLM-5**, CON = **ByteDance Seed2.0 Pro**
-- judged result: Unanimous `2-0` for **GLM-5**.
-- entertainment scores: `6`, `7`
-- mean signed raw margin (PRO+): `+1.35`
+- judged result: Unanimous `4-0` for **GLM-5**.
+- entertainment scores: `7`, `7`, `6`, `7`
+- mean signed raw margin (PRO+): `+1.43`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | GLM-5 | +1.5 | +1.25 | 7.0 |
+| Grok 4.3 | GLM-5 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5 | +1.2 | +1.20 | 6.0 |
 | Qwen 3.6 Max Preview | GLM-5 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by effectively dismantling Side B's zero-sum budget and equity arguments. Side A pointed out that nightlife generates its own tax revenue and correctly identified Side B's double standard regarding infrastructure spending for stadiums versus nightlife. Side B's defe...
+  Most decisive rebuttal noted: Side A's second rebuttal exposed a fatal double standard in Side B's budget logic, noting that cities routinely reinvest general revenues into stadiums and corporate campuses without demanding the dedicated taxes Side B required for nightlife.
+- **Grok 4.3**: Side B wins by establishing a clearer equity comparison that survives direct pressure, showing corridor benefits and revenue offsets while exposing CON's double standard on infrastructure. Side A maintains a narrow textual reading but fails to neutralize the overlap between ni...
+  Most decisive rebuttal noted: B's Rebuttal 2 (A1/A2 answers on corridor service and revenue reinvestment) directly dismantled CON's core misallocation and zero-benefit claims with tight geographic and economic rebuttals.
 - **Kimi K2.6**: Side A won by reframing the beneficiary pool from privileged partiers to working-class service staff, which neutralized CON's core equity and regressive-cost objections. While CON maintained plausible pressure on zero-sum budgets and extended-hour harms, PRO's corridor-transit...
   Most decisive rebuttal noted: Side A's first rebuttal, which flipped CON's equity frame by identifying nightlife workers as the primary beneficiaries of late-night transit and undermined CON's unverifiable city-level statistic.
 - **Qwen 3.6 Max Preview**: Side B successfully collapsed Side A's equity framework by showing that nightlife districts employ the exact service workers Side A claimed to protect, reframing the debate around labor access rather than subsidies for partiers. Side B also presented a stronger public-safety m...
@@ -47,17 +53,23 @@
 - debate_id: `prop_0233__seed-2.0-pro__glm-5__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0233__seed-2.0-pro__glm-5__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **ByteDance Seed2.0 Pro**, CON = **GLM-5**
-- judged result: Split `1-1`.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-0.25`
+- judged result: Split `3-1` for **GLM-5**.
+- entertainment scores: `8`, `7`, `7`, `7`
+- mean signed raw margin (PRO+): `-0.95`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | GLM-5 | -1.8 | -1.50 | 8.0 |
+| Grok 4.3 | GLM-5 | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | ByteDance Seed2.0 Pro | +1.0 | +1.00 | 7.0 |
 | Qwen 3.6 Max Preview | GLM-5 | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B won by systematically dismantling Side A's fiscal mechanics. When Side A attempted to patch their model with a late-stage per-drink surcharge to avoid general fund tradeoffs, Side B cleanly demonstrated that this revenue would still collapse during a recession, leaving...
+  Most decisive rebuttal noted: Side B's Rebuttal 2 dismantling the per-drink surcharge by pointing out that drink sales and surcharge revenue would collapse together during a recession.
+- **Grok 4.3**: Side A won by crystallizing fiscal volatility and the workers-vs-neighbors equity tradeoff; its answers to pressure questions and rebuttals on dependency directly damaged PRO's live revenue and safety routes without introducing late unsupported claims.
+  Most decisive rebuttal noted: A4 directly neutralized B's surcharge by showing it collapses in recession and sharpened the equity comparison between vulnerable groups.
 - **Kimi K2.6**: Side A wins because it demonstrated that relying mainly on earlier closing times actively produces severe, concrete harms—mass ejections that spike impaired driving and public disorder, the destruction of roughly thirty percent of hospitality revenue that low-income and margin...
   Most decisive rebuttal noted: Side A’s Rebuttal 2, which directly answered CON’s recession pressure with a dedicated per-drink surcharge and reframed neighborhood noise as better solved by transit and outreach than by chaotic early closings, keeping PRO’s core case alive against CON’s strongest objections.
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by decisively capturing the fiscal stability clash. While Side B (PRO) built a coherent case around worker equity and safety via dispersal, it relied heavily on brittle, unsourced statistics and a mathematically simplistic "grows the pie" funding model. Side...

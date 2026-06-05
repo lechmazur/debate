@@ -7,8 +7,8 @@
 - overall judged result (normalized): **Claude Sonnet 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Sonnet 4.6 (no reasoning)**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.68`
-- judgment rows: `4`
+- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.82`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0336__claude-sonnet-4-6-0K__gemini-3.1-flash-lite-preview__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0336__claude-sonnet-4-6-0K__gemini-3.1-flash-lite-preview__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Gemini 3.1 Flash-Lite Preview**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.60`
+- judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (no reasoning)**.
+- entertainment scores: `7`, `7`, `7`
+- mean signed raw margin (PRO+): `+1.73`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | Claude Sonnet 4.6 (no reasoning) | +2.0 | +2.40 | 7.0 |
 | Kimi K2.6 | Claude Sonnet 4.6 (no reasoning) | +1.7 | +1.70 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Sonnet 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: A wins because it framed and defended the exact net-effects test in the motion, answered pressure questions directly with A1/A2 structure, and forced CON to rely on unquantified brand harm and caricatures of bad AI while never performing comparable weighing.
+  Most decisive rebuttal noted: A's Rebuttal 2 directly neutralized CON's pressure questions on accountability and escalation incentives, converting them into support for the motion's core comparison.
 - **Kimi K2.6**: PRO won by correctly framing the motion as a net-effects test and grounding the debate in the reality of existing first-line human service—scripted, inconsistent, and slow—rather than an idealized empathetic agent. CON landed strong philosophical blows on moral agency and stru...
   Most decisive rebuttal noted: PRO’s Rebuttal 2 answer (B4.3) to CON’s pressure question on economic incentives: showing that a 70/30 AI-to-human split still yields enormous savings while preserving escalation paths, directly defusing CON’s claim that handoffs destroy the financial justification for AI.
 - **Qwen 3.6 Max Preview**: PRO wins by successfully controlling the debate's framework around the motion's explicit net-effects test. While CON delivered vivid rhetoric and sharp pressure on corporate incentives to block escalations, CON never adequately weighed the claimed trust degradation against the...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0336__gemini-3.1-flash-lite-preview__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0336__gemini-3.1-flash-lite-preview__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **Claude Sonnet 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.75`
+- judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (no reasoning)**.
+- entertainment scores: `7`, `7`, `7`
+- mean signed raw margin (PRO+): `-1.67`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.50 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Sonnet 4.6 (no reasoning) | -2.0 | -2.00 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: B wins: consistently forces the motion's "most" language and shows that the hard cases determining trust are exactly where triage fails at scale, turning A's hybrid concession into a decisive weakening of the original claim. A's answers on routing and consistency are direct bu...
+  Most decisive rebuttal noted: B Rebuttal 2 A1/A2 exchange: pins the concession on triage working precisely where PRO admits it fails for distressed customers and exposes uniform error scaling.
 - **Kimi K2.6**: CON (Side A) won by exposing that PRO's triage model implicitly concedes the indispensability of humans for trust-determining cases, and by landing the liability multiplier argument that AI errors replicate systematically at scale rather than scattering. PRO never recovered fr...
   Most decisive rebuttal noted: CON's liability multiplier in Rebuttal 2 (A4.1–A4.2): AI misrouting is not merely a patchable bug, but a systematic failure mode that harms every affected customer identically and simultaneously, industrializing failure rather than humanizing it. This directly undermined PRO's...
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by successfully turning Side B's core mechanism against them. PRO argued that AI handles high-volume simple tasks to free humans for complex cases, but CON sharply identified this as a concession that humans remain indispensable for the interactions that actu...

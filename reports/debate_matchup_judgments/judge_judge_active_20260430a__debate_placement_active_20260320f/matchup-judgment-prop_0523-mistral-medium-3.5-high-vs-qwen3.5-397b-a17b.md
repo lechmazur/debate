@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0523__mistral-medium-3.5-high__qwen3.5-397b-a17b__tpl_placement_active_20260320f`
 - topic_id: `prop_0523`
-- matchup: **Mistral Medium 3.5 High Reasoning** vs **Qwen3.5-397B-A17B**
+- matchup: **Mistral Medium 3.5 (high)** vs **Qwen3.5-397B-A17B**
 - overall judged result (normalized): **Qwen3.5-397B-A17B**
 - overall judged result (raw): **Qwen3.5-397B-A17B**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Mistral Medium 3.5 High Reasoning`: `-0.84`
+- mean signed normalized margin for `Mistral Medium 3.5 (high)`: `-0.84`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0523__mistral-medium-3.5-high__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 High Reasoning**, CON = **Qwen3.5-397B-A17B**
-- [Debate B transcript](../../../transcripts/prop_0523__qwen3.5-397b-a17b__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f.md): PRO = **Qwen3.5-397B-A17B**, CON = **Mistral Medium 3.5 High Reasoning**
+- [Debate A transcript](../../../transcripts/prop_0523__mistral-medium-3.5-high__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 (high)**, CON = **Qwen3.5-397B-A17B**
+- [Debate B transcript](../../../transcripts/prop_0523__qwen3.5-397b-a17b__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f.md): PRO = **Qwen3.5-397B-A17B**, CON = **Mistral Medium 3.5 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0523__mistral-medium-3.5-high__qwen3.5-397b-a17b__tpl_placement_active_20260320f` or topic `prop_0523`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0523__mistral-medium-3.5-high__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0523__mistral-medium-3.5-high__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Mistral Medium 3.5 High Reasoning**, CON = **Qwen3.5-397B-A17B**
+- roles: PRO = **Mistral Medium 3.5 (high)**, CON = **Qwen3.5-397B-A17B**
 - judged result: Split `2-1` for **Qwen3.5-397B-A17B**.
 - entertainment scores: `8`, `7`, `6`
 - mean signed raw margin (PRO+): `-0.40`
@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Qwen3.5-397B-A17B | -1.2 | -1.00 | 8.0 |
 | Grok 4.3 | Qwen3.5-397B-A17B | -1.2 | -1.44 | 7.0 |
-| Kimi K2.6 | Mistral Medium 3.5 High Reasoning | +1.2 | +1.20 | 6.0 |
+| Kimi K2.6 | Mistral Medium 3.5 (high) | +1.2 | +1.20 | 6.0 |
 
 ### Judge Notes
 
@@ -49,7 +49,7 @@
 
 - debate_id: `prop_0523__qwen3.5-397b-a17b__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0523__qwen3.5-397b-a17b__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Qwen3.5-397B-A17B**, CON = **Mistral Medium 3.5 High Reasoning**
+- roles: PRO = **Qwen3.5-397B-A17B**, CON = **Mistral Medium 3.5 (high)**
 - judged result: Unanimous `3-0` for **Qwen3.5-397B-A17B**.
 - entertainment scores: `8`, `6`, `7`
 - mean signed raw margin (PRO+): `+1.23`

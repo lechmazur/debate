@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +1.0 | +1.07 | 7.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +1.0 | +1.07 | 7.0 |
 | Gemini 3.1 Pro Preview | DeepSeek V4 Pro | +1.5 | +1.25 | 9.0 |
 | Kimi K2.6 | DeepSeek V4 Pro | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A wins because it preserved the core priority case: services and credentials face large duplicative barriers, and even conditional mutual recognition can remove far more friction than another round of mostly residual tariff cuts. B effectively exposed overstatement in A’s earl...
+- **GPT-5.5 (high)**: A wins because it preserved the core priority case: services and credentials face large duplicative barriers, and even conditional mutual recognition can remove far more friction than another round of mostly residual tariff cuts. B effectively exposed overstatement in A’s earl...
   Most decisive rebuttal noted: A’s answer to B’s harmonization/arbitrage dilemma was decisive: compensatory measures and host-state safeguards showed mutual recognition need not mean either full harmonization or unsafe dilution, while still avoiding full requalification.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully proving that mutual recognition offers higher economic payoffs and defending its feasibility. While Side A landed a brilliant rhetorical blow by framing B's reliance on "safeguards" as a broken promise of seamlessness, this essentially conceded that...
   Most decisive rebuttal noted: Side A's Rebuttal 2 was strategically brilliant in weaponizing Side B's explanation of safeguards into a "collapsed value proposition," though Side B's Rebuttal 2 and Closing ultimately survived the hit by contextualizing the massive relative gains of avoiding full requalifica...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | -1.1 | -1.18 | 7.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | -1.1 | -1.18 | 7.0 |
 | Gemini 3.1 Pro Preview | DeepSeek V4 Pro | -1.5 | -1.25 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | +0.9 | +0.90 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by making the central comparison clearer: tariff cuts still affect broad consumer prices and labor-intensive sectors, while mutual recognition is likely to remain narrow, opaque, and captured by professional gatekeepers. A’s strongest point was that tariff peaks show pol...
+- **GPT-5.5 (high)**: B won by making the central comparison clearer: tariff cuts still affect broad consumer prices and labor-intensive sectors, while mutual recognition is likely to remain narrow, opaque, and captured by professional gatekeepers. A’s strongest point was that tariff peaks show pol...
   Most decisive rebuttal noted: B’s second rebuttal was decisive: it directly answered A’s political-stalemate argument by identifying the domestic coalition behind tariff cuts and contrasting it with regulator-led, guild-friendly mutual recognition processes.
 - **Gemini 3.1 Pro Preview**: Side A won the central clash on political economy. Side B argued that tariff cuts have stalled because they lack a domestic constituency, but Side A successfully pointed out that lower prices mobilize a massive coalition of consumers, retailers, and importers. Side B ignored t...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A1 and A2) cleanly dismantled Side B's political economy claims by introducing the consumer/importer constituency and using the EU example to prove that prioritizing mutual recognition does not automatically prevent guild capture.

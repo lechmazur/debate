@@ -6,9 +6,9 @@
 - matchup: **Claude Sonnet 4.6 (no reasoning)** vs **Grok 4.20 0309 (Non-Reasoning)**
 - overall judged result (normalized): **Claude Sonnet 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Sonnet 4.6 (no reasoning)**
-- mean entertainment: `7.25 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.25`
-- judgment rows: `4`
+- mean entertainment: `7.50 / 10`
+- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+1.00`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0442__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0442__claude-sonnet-4-6-0K__grok-4.20-beta-0309-non-reasoning__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **Grok 4.20 0309 (Non-Reasoning)**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+2.15`
+- judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (no reasoning)**.
+- entertainment scores: `8`, `7`, `7`
+- mean signed raw margin (PRO+): `+2.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Sonnet 4.6 (no reasoning) | +3.2 | +2.67 | 8.0 |
 | Kimi K2.6 | Claude Sonnet 4.6 (no reasoning) | +2.3 | +2.30 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Sonnet 4.6 (no reasoning) | +2.0 | +2.00 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B wins decisively because Side A suffers a fatal role hallucination in the Pressure Questions round, inadvertently attacking its own position. Side B smartly catches this and frames it as a total concession. Beyond the error, Side B systematically dismantles Side A's phil...
+  Most decisive rebuttal noted: Side B's Rebuttal 2 correctly identifies that Side A's Pressure Questions were written from the wrong perspective, transforming them into a devastating concession.
 - **Kimi K2.6**: Side A built a cleaner path to victory by defending a carefully scoped model—objective calls only, limited override for malfunctions—and repeatedly showing that Side B's objections either conceded this scope or attacked flawed implementations like VAR rather than the motion it...
   Most decisive rebuttal noted: Side A's second rebuttal [A4.1–A4.2], where it answered Side B's pressure questions by demonstrating that B's Q1 had drawn the exact boundary A had proposed all along, turning B's "porous boundary" attack into a shared premise and leaving B with only emotive appeals about betr...
 - **Qwen 3.6 Max Preview**: Side A wins by maintaining tight control over the motion's scope ("objective calls") and effectively dismantling Side B's cultural and implementation objections. Side A's rebuttals were consistently sharper, particularly in Turn 7 where they capitalized on Side B's self-defeat...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0442__grok-4.20-beta-0309-non-reasoning__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0442__grok-4.20-beta-0309-non-reasoning__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Grok 4.20 0309 (Non-Reasoning)**, CON = **Claude Sonnet 4.6 (no reasoning)**
-- judged result: Split `1-1`.
-- entertainment scores: `7`, `8`
-- mean signed raw margin (PRO+): `-0.35`
+- judged result: Split `2-1` for **Grok 4.20 0309 (Non-Reasoning)**.
+- entertainment scores: `8`, `7`, `8`
+- mean signed raw margin (PRO+): `+0.43`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Grok 4.20 0309 (Non-Reasoning) | +2.0 | +1.67 | 8.0 |
 | Kimi K2.6 | Grok 4.20 0309 (Non-Reasoning) | +1.3 | +1.30 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Sonnet 4.6 (no reasoning) | -2.0 | -2.00 | 8.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B won by successfully exposing the contradiction in Side A's case: Side A demanded perfect transparency from machines while defending the inherently opaque, un-auditable split-second guesswork of human officials. Side B effectively demonstrated that published algorithmic...
+  Most decisive rebuttal noted: Side B's A1 in Rebuttal 2 decisively neutralized Side A's core argument by explaining that a machine's calibration is a public, auditable policy, whereas a human referee's interpretive choice is invisible and unverifiable.
 - **Kimi K2.6**: Side A won because it successfully defended a workable category of objective geometric calls and cited established semi-automated systems—tennis Hawk-Eye and goal-line technology—that reduced controversy in exactly the way the proposition envisions. Side B’s philosophical crit...
   Most decisive rebuttal noted: Side A’s rebuttal that VAR controversies arose from officials drawing lines by hand and choosing freeze-frames subjectively, not from the automated measurement itself, which reframed Side B’s lead example as evidence for purer semi-automation rather than against it.
 - **Qwen 3.6 Max Preview**: Side B wins by successfully dismantling PRO's core premise that "objective calls" are purely geometric, demonstrating instead that sports rules inherently embed interpretive choices (e.g., active body part, possession) that automation merely conceals rather than resolves. B al...

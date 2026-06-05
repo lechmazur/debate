@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +2.2 | +2.36 | 7.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +2.2 | +2.36 | 7.0 |
 | Gemini 3.1 Pro Preview | DeepSeek V4 Pro | +2.0 | +1.67 | 8.0 |
 | Kimi K2.6 | DeepSeek V4 Pro | +1.8 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by making the clearest comparative case: large-audience influencers create the same hidden-persuasion harm as traditional media, and disclosure must be clear before the impression forms. A’s platform-tools, community-feedback, and parental-control answers did not solve t...
+- **GPT-5.5 (high)**: B won by making the clearest comparative case: large-audience influencers create the same hidden-persuasion harm as traditional media, and disclosure must be clear before the impression forms. A’s platform-tools, community-feedback, and parental-control answers did not solve t...
   Most decisive rebuttal noted: B’s strongest exchange was turning A’s “personal flow” and “platform/community accountability” claims: B argued that if disclosure ruins the illusion, the illusion is exactly the deception regulation targets, and that post hoc comments or tools cannot protect viewers before in...
 - **Gemini 3.1 Pro Preview**: Side A won by maintaining relentless focus on the vulnerability of children and the structural failure of platform tools in ephemeral formats. Side A systematically dismantled Side B's practical objections by demonstrating that stating 'paid partnership' is a trivial burden, a...
   Most decisive rebuttal noted: Side A's Rebuttal 1 perfectly neutralized Side B's 'personal flow' argument by pointing out that if a clear label disrupts the illusion of intimacy, it is precisely because that illusion was deceptive.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Grok 4.3 | +1.3 | +1.39 | 7.0 |
+| GPT-5.5 (high) | Grok 4.3 | +1.3 | +1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | DeepSeek V4 Pro | -2.2 | -1.83 | 8.0 |
 | Kimi K2.6 | DeepSeek V4 Pro | -1.6 | -1.60 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by keeping the focus on equal consumer-protection duties for actors with comparable reach and by successfully resisting A's attempt to define the motion as identical broadcast mechanics. A had a strong redundancy and overbreadth argument, but it leaned too much on a rigi...
+- **GPT-5.5 (high)**: B won by keeping the focus on equal consumer-protection duties for actors with comparable reach and by successfully resisting A's attempt to define the motion as identical broadcast mechanics. A had a strong redundancy and overbreadth argument, but it leaned too much on a rigi...
   Most decisive rebuttal noted: B's second rebuttal was decisive: it answered A's strongest pressure by distinguishing strict equivalent notice from literal full-screen broadcast formalities, then offered cross-platform reach as a workable threshold, blunting A's authenticity and arbitrariness attacks.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully forcing PRO into a strategic dilemma. B proved that if 'as strict as' means traditional broadcast mechanics, it ruins the medium, and when PRO retreated to 'practical adaptations' like spoken acknowledgments or hashtags, B smartly pointed out that PR...
   Most decisive rebuttal noted: B's Rebuttal 2 decisively capitalized on PRO's pressure question blunder and cleanly crystallized the dilemma that PRO's 'strict parity' either crushes authenticity or just replicates existing rules.

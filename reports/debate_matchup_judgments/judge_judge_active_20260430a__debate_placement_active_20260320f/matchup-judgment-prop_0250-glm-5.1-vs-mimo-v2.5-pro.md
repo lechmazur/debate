@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.2 | +1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.2 | +1.20 | 7.0 |
 | Grok 4.3 | GLM-5.1 | +1.3 | +1.56 | 8.0 |
 | Qwen 3.6 Max Preview | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side B) built the cleaner comparative case and maintained it across the full exchange. The decisive framing—systematic guaranteed exclusion under voluntary systems versus imperfect inclusion under a mandate—was introduced early, consistently defended, and never squarely n...
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) built the cleaner comparative case and maintained it across the full exchange. The decisive framing—systematic guaranteed exclusion under voluntary systems versus imperfect inclusion under a mandate—was introduced early, consistently defended, and never squarely n...
   Most decisive rebuttal noted: PRO's closing rebuttal to CON's "targeted reforms" alternative was the most decisive exchange. CON introduced automatic registration and expanded early voting as a way to capture excluded voters without coercion, presenting it as a superior alternative. PRO answered directly:...
 - **Grok 4.3**: Side B wins because it established a structural incentive mechanism—politicians must compete for all demographics under mandate while voluntary systems rationally exclude non-voters—and defended it against enforcement and noise critiques by comparing to other duties and weighi...
   Most decisive rebuttal noted: Side B's R2 A1/A2 directly handled pressure questions on selective enforcement (analogy to taxes/jury duty + status quo exclusion) and voter mechanism (material interests + cancellation of noise), crystallizing the decisive trade-off against guaranteed disengagement.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.00 | 7.0 |
 | Grok 4.3 | Xiaomi MiMo V2.5 Pro | +1.0 | +1.20 | 7.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | +1.2 | +1.20 | 9.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Both sides argued competently, but PRO maintained a more consistently offensive posture around the live burdens. PRO's selection-bias argument—voluntary electorates skew systematically toward the wealthy, older, and ideologically extreme—was introduced early, never squarely re...
+- **Claude Sonnet 4.6 (high)**: Both sides argued competently, but PRO maintained a more consistently offensive posture around the live burdens. PRO's selection-bias argument—voluntary electorates skew systematically toward the wealthy, older, and ideologically extreme—was introduced early, never squarely re...
   Most decisive rebuttal noted: PRO's symmetric-noise-versus-directional-skew distinction in Rebuttal 2 [B4.2] was the most analytically decisive exchange. By conceding that some donkey and random ballots exist under compulsory systems but showing that random noise washes out in aggregate while voluntary-vot...
 - **Grok 4.3**: Side B won by building a clearer path to the motion via selection bias correction with Australia/Belgium grounding, strong analogies to other duties, and direct pressure answers showing noise is minor/symmetric while voluntary skew is systematic. Side A pressed consent hard bu...
   Most decisive rebuttal noted: B's Rebuttal 2 A1/A2 sequence directly neutralized A's noise objection with symmetric washout math and reframed the participation choice without evasion.

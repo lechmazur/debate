@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5 | +1.0 | +1.07 | 7.0 |
+| GPT-5.5 (high) | GLM-5 | +1.0 | +1.07 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -1.5 | -1.25 | 8.0 |
 | Grok 4.3 | GLM-5 | +1.5 | +1.80 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A wins a clear but competitive debate by making the stronger comparative case: prohibition leaves remaining surrogates without legal standing, medical oversight, enforceable rights, or recourse, while regulation at least supplies concrete safeguards. Side B was rhetorical...
+- **GPT-5.5 (high)**: Side A wins a clear but competitive debate by making the stronger comparative case: prohibition leaves remaining surrogates without legal standing, medical oversight, enforceable rights, or recourse, while regulation at least supplies concrete safeguards. Side B was rhetorical...
   Most decisive rebuttal noted: Side A’s rebuttal that economic constraint affects many forms of risky labor, so the proper response is regulation rather than banning a high-paying option, most directly damaged B’s consent-based route to victory.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully breaking Side A's primary analogy to other forms of risky, low-income wage labor. By clearly articulating why the biological and emotional realities of pregnancy make surrogacy contracts uniquely difficult to enforce without causing profound harm (co...
   Most decisive rebuttal noted: B's second rebuttal decisively exposed the weakness in A's answer regarding contract enforcement, pointing out that regardless of upfront transparency, the state is still trapped into either compelling a woman to surrender a child or voiding the arrangement entirely.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | +1.4 | +1.50 | 7.0 |
+| GPT-5.5 (high) | Kimi K2.6 | +1.4 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +1.8 | +1.50 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | +1.8 | +2.16 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A won by making the clearer comparative case: prohibition does not remove surrogacy or desperation, but does remove enforceable safeguards, courts, licensing, escrow, counsel, and medical oversight. Side B’s coercion and commodification arguments were rhetorically strong,...
+- **GPT-5.5 (high)**: Side A won by making the clearer comparative case: prohibition does not remove surrogacy or desperation, but does remove enforceable safeguards, courts, licensing, escrow, counsel, and medical oversight. Side B’s coercion and commodification arguments were rhetorically strong,...
   Most decisive rebuttal noted: Side A’s strongest exchange was answering that weak or failed permissive regimes do not disprove robust regulation, then pressing that if power imbalances are dangerous, criminalization makes them worse by eliminating recourse. Side B’s reply that protections are structurally...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively demonstrating how specific regulations directly resolve the abuses Side B highlighted, while sharply answering Side B's pressure questions without evasion.
   Most decisive rebuttal noted: Side A's Rebuttal 2 response to PQ1 perfectly dismantled the trap regarding withdrawal mechanics, detailing escrow and family law procedures to prove a genuine exit is possible.

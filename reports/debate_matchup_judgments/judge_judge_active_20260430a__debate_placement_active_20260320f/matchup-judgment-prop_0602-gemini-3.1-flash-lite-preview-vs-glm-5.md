@@ -6,9 +6,9 @@
 - matchup: **Gemini 3.1 Flash-Lite Preview** vs **GLM-5**
 - overall judged result (normalized): **GLM-5**
 - overall judged result (raw): **GLM-5**
-- mean entertainment: `6.75 / 10`
-- mean signed normalized margin for `Gemini 3.1 Flash-Lite Preview`: `-0.82`
-- judgment rows: `4`
+- mean entertainment: `6.50 / 10`
+- mean signed normalized margin for `Gemini 3.1 Flash-Lite Preview`: `-1.25`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0602__gemini-3.1-flash-lite-preview__glm-5__s0__tpl_placement_active_20260320f`
 - transcript: transcript omitted from public bundle
 - roles: PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **GLM-5**
-- judged result: Split `1-1`.
-- entertainment scores: `6`, `7`
-- mean signed raw margin (PRO+): `+0.00`
+- judged result: Split `2-1` for **GLM-5**.
+- entertainment scores: `6`, `6`, `7`
+- mean signed raw margin (PRO+): `-0.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | GLM-5 | -1.5 | -1.80 | 6.0 |
 | Kimi K2.6 | Gemini 3.1 Flash-Lite Preview | +1.5 | +1.50 | 6.0 |
 | Qwen 3.6 Max Preview | GLM-5 | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: CON wins because it repeatedly exposed PRO's central weakness: the motion requires an undefined "substantial consumer benefit" standard that PRO never operationalized, leaving firms unable to meet an unspecified burden. CON's false-positive/false-negative weighing and criminal...
+  Most decisive rebuttal noted: A2.1/A4.1 vs B4.1 exchange on whether internal memos can ever satisfy the undefined legal threshold, which exposed PRO's core gap.
 - **Kimi K2.6**: PRO defended the burden shift as a necessary fix for information asymmetry and killer acquisitions, while CON attacked the vagueness of the standard and chilling effects. CON's rebuttals were sharp, but their completely missing opening was a severe execution cost that left the...
   Most decisive rebuttal noted: PRO's Rebuttal 2 reframing of CON's "deterrence costs" as simply the costs of actually competing rather than purchasing dominance, which turned CON's venture-capital chill argument on its head.
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by consistently exposing and exploiting the operational vagueness of PRO’s proposed standard. While PRO built a coherent case around information asymmetry and killer acquisitions, CON successfully framed the reversed burden as an unworkable prohibition becaus...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0602__glm-5__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0602__glm-5__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **GLM-5**, CON = **Gemini 3.1 Flash-Lite Preview**
-- judged result: Unanimous `2-0` for **GLM-5**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.65`
+- judged result: Unanimous `3-0` for **GLM-5**.
+- entertainment scores: `6`, `7`, `7`
+- mean signed raw margin (PRO+): `+1.77`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | GLM-5 | +2.0 | +2.40 | 6.0 |
 | Kimi K2.6 | GLM-5 | +1.8 | +1.80 | 7.0 |
 | Qwen 3.6 Max Preview | GLM-5 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: B wins because it consistently highlighted the irreversibility asymmetry and information gap, forcing CON to defend an "observable harm" standard that arrives too late. CON never neutralized the monopsony/exit-path contradiction or showed why false negatives are tolerable.
+  Most decisive rebuttal noted: B's Rebuttal 2 directly answered both pressure questions on monopsony and irreversible harm, then used that to crystallize the fixable-vs-permanent error comparison.
 - **Kimi K2.6**: PRO won by establishing a cleaner structural framework based on information asymmetry and the irreversibility of digital-platform consolidation, while CON’s innovation-chill argument never fully overcame the problem that ex post remedies are impossible once a competitor is abs...
   Most decisive rebuttal noted: PRO’s irreversibility exchange, which showed that a blocked deal leaves the startup with other options while an approved anti-competitive merger permanently eliminates a competitor. CON repeatedly asserted that regulatory delay kills startups but never squarely answered why an...
 - **Qwen 3.6 Max Preview**: PRO wins by establishing and defending a clearer comparative framework: the irreversibility asymmetry. While CON effectively argued that regulatory delay and uncertainty could chill startup investment and VC exits, PRO consistently flipped this by highlighting monopsony buyer...

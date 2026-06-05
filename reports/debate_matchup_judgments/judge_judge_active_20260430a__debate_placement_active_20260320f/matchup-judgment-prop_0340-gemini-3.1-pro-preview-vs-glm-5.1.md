@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | -1.5 | -1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | -1.5 | -1.50 | 7.0 |
 | Grok 4.3 | GLM-5.1 | -1.2 | -1.44 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON won by building three durable arguments that PRO never fully neutralized. First, the liability-shield argument—that "you chose this" becomes the platform's universal deflection—was introduced early and maintained consistently through the closing; PRO's formal-policy respon...
+- **Claude Sonnet 4.6 (high)**: CON won by building three durable arguments that PRO never fully neutralized. First, the liability-shield argument—that "you chose this" becomes the platform's universal deflection—was introduced early and maintained consistently through the closing; PRO's formal-policy respon...
   Most decisive rebuttal noted: CON's A2.4 observation that current algorithmic feeds create "overlapping" echo chambers—where millions still share trending topics and breaking news, enabling collective political action—was the most decisive rebuttal exchange. It turned PRO's own town-square-as-isolation-boo...
 - **Grok 4.3**: CON wins because they established a clearer comparative edge on collective accountability: user choice atomizes harm visibility, evaporates political will, and delivers the same default casino with a liability rebrand, while PRO's autonomy case could not overcome conceded defa...
   Most decisive rebuttal noted: A2's rebuttal 2 on fragmented harm losing democratic pressure (A4.1), which directly neutralized B's visibility and accountability claims after pressure questions.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 | Grok 4.3 | GLM-5.1 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | +1.6 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO won on three live routes that CON never fully neutralized. First, the advertiser infrastructure argument [B1.7]—that goal-selection tools already exist for paying customers—was never squarely answered; CON's reply [A2.5] conceded the conflict of interest rather than denyin...
+- **Claude Sonnet 4.6 (high)**: PRO won on three live routes that CON never fully neutralized. First, the advertiser infrastructure argument [B1.7]—that goal-selection tools already exist for paying customers—was never squarely answered; CON's reply [A2.5] conceded the conflict of interest rather than denyin...
   Most decisive rebuttal noted: PRO's Q2 in the pressure round was the debate's pivotal exchange. By pointing out that CON's own economic argument—if users could optimize for less screen time the business model would collapse—proves exactly why users cannot trust the platform to choose their optimization goa...
 - **Grok 4.3**: Side B built a stronger case by more convincingly answering the pressure questions with feasible mechanisms like content tagging and reframing the economic concession as evidence for user control; they also maintained that the status quo manufactures echo chambers while adding...
   Most decisive rebuttal noted: B's Rebuttal 2 directly answering how goals coexist with existing signals and making echo chambers optional rather than involuntary.

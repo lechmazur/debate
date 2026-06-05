@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | -1.5 | -1.50 | 6.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | -1.5 | -1.50 | 6.0 |
 | Grok 4.3 | Gemini 3.1 Pro Preview | +1.5 | +1.80 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON built a structurally superior case around a single live wedge that PRO never fully neutralized: prohibition guarantees wealthy-only enhancement (via offshore access PRO explicitly conceded) while producing zero regulatory protections, whereas the caste-system fear motivati...
+- **Claude Sonnet 4.6 (high)**: CON built a structurally superior case around a single live wedge that PRO never fully neutralized: prohibition guarantees wealthy-only enhancement (via offshore access PRO explicitly conceded) while producing zero regulatory protections, whereas the caste-system fear motivati...
   Most decisive rebuttal noted: CON's crystallization in B4.5–B4.7 (Rebuttal 2): PRO had already conceded wealthy individuals would enhance offshore regardless, so CON drove home that a genetic caste system emerges under both regimes—the only operative question is whether non-wealthy citizens get safe, regul...
 - **Grok 4.3**: Side A built a stronger case by consistently showing that observable performance advantages from enhancement render anti-discrimination laws ineffective and create unavoidable coercive pressure for the majority, while prohibition limits widespread normalization. B's regulatory...
   Most decisive rebuttal noted: The A closing exchange on anti-discrimination laws and observable performance gaps (hiring the un-fatigued "bio-machine" without needing genetic disclosure), which exposed a key weakness in B's protections claim.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Gemini 3.1 Pro Preview | -1.0 | -1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Gemini 3.1 Pro Preview | -1.0 | -1.00 | 7.0 |
 | Grok 4.3 | GLM-5.1 | +1.5 | +1.80 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON (Side B) wins a competitive but clear debate on the weight of three decisive exchanges. First, the somatic/germline distinction is CON's strongest scientific claim: PRO's "individual consent cannot authorize risks to descendants" [A1.6] depends on heritable modification, b...
+- **Claude Sonnet 4.6 (high)**: CON (Side B) wins a competitive but clear debate on the weight of three decisive exchanges. First, the somatic/germline distinction is CON's strongest scientific claim: PRO's "individual consent cannot authorize risks to descendants" [A1.6] depends on heritable modification, b...
   Most decisive rebuttal noted: CON's B2.4 directly falsified PRO's claim that surgery is "temporary, reversible, and visible"—the pivot on which PRO's entire surgery-versus-genetics distinction rested—by naming specific permanently irreversible and visually seamless cosmetic procedures. This forced PRO off...
 - **Grok 4.3**: Side A wins because it established genetic enhancement's unique features (invisibility, pleiotropic cascades, rapid baseline shifts) as defeating any regulatory regime, while individual consent cannot contain collective social coercion or heritable risks. Side B's cosmetic sur...
   Most decisive rebuttal noted: A's Rebuttal 2 (A4.1-A4.2) directly answering B's Q1 on method differences, showing why surgery oversight fails for concealable, scalable genetic edits.

@@ -7,8 +7,8 @@
 - overall judged result (normalized): **Claude Opus 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Opus 4.6 (no reasoning)**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+1.38`
-- judgment rows: `4`
+- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+1.52`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,23 @@
 - debate_id: `prop_0287__claude-opus-4-6-0K__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0287__claude-opus-4-6-0K__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Opus 4.6 (no reasoning)**, CON = **Qwen3.5-397B-A17B**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.50`
+- judged result: Unanimous `4-0` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `7`, `7`, `7`, `7`
+- mean signed raw margin (PRO+): `+1.55`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| GPT-5.5 (high) | Claude Opus 4.6 (no reasoning) | +1.4 | +1.50 | 7.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | +1.8 | +2.16 | 7.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: A won because it kept the proposition comparative: fixed, staggered, non-renewable terms create a fairer democratic appointment process while the claimed independence harm is speculative and already present under life tenure. B’s strongest point was the horizon effect, but A a...
+  Most decisive rebuttal noted: A’s decisive rebuttal was that the horizon effect is not unique to fixed terms, while strategic retirement is an actual life-tenure pathology. That turned B’s independence framework from an absolute defense of life tenure into a weaker claim about marginal risk.
+- **Grok 4.3**: Side B won with stronger structural legitimacy argument, better neutralization of horizon-effect claims via strategic-retirement contrast, and cleaner weighing on comparative independence evidence; A left key pressure on US exceptionalism less resolved after exchanges.
+  Most decisive rebuttal noted: B2.2 directly damaged A's horizon-effect route by flipping strategic retirement from implementation flaw to design failure under life tenure.
 - **Kimi K2.6**: Side A collapsed the distinction between life tenure and true independence by showing that strategic retirement and post-bench careers already subject justices to political and economic incentives. A's comparative evidence and sharper weighing demonstrated that democratic legi...
   Most decisive rebuttal noted: A's dismantling of the "horizon effect" by pointing out that life-tenured justices already engage in strategic retirement and post-bench career-building, neutralizing B's claim that life tenure uniquely removes future pressure.
 - **Qwen 3.6 Max Preview**: PRO wins by dismantling the premise that life tenure secures independence in practice. By contrasting CON's theoretical ideal with the reality of strategic retirements and post-bench incentives, PRO showed fixed terms manage future pressures more predictably. PRO also effectiv...
@@ -47,17 +53,23 @@
 - debate_id: `prop_0287__qwen3.5-397b-a17b__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0287__qwen3.5-397b-a17b__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Qwen3.5-397B-A17B**, CON = **Claude Opus 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.25`
+- judged result: Unanimous `4-0` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `7`, `7`, `7`, `7`
+- mean signed raw margin (PRO+): `-1.27`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| GPT-5.5 (high) | Claude Opus 4.6 (no reasoning) | -1.1 | -1.18 | 7.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | -1.0 | -1.00 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **GPT-5.5 (high)**: B wins a clear but competitive debate. A had a plausible democratic-legitimacy story about random vacancies, strategic retirements, and predictable refreshment, but leaned heavily on slogans about public trust and did not fully answer B's core distinction between ordinary demo...
+  Most decisive rebuttal noted: B's strongest exchange was the response that courts sometimes must block broad societal consensus to protect rights, so A's appeal to contemporary democratic values cannot by itself establish judicial legitimacy. That directly weakened A's main route to victory.
+- **Grok 4.3**: Side A won by establishing that fixed terms alone create structural end-of-term incentives and politicized scheduling without safeguards, while legitimacy gains remain speculative; Germany comparison and counter-majoritarian function were handled more decisively across rounds...
+  Most decisive rebuttal noted: A2 rebuttal on Germany safeguards and redirecting (not eliminating) strategic behavior under fixed terms.
 - **Kimi K2.6**: CON successfully framed the debate around whether fixed terms alone deliver net benefits. PRO made a coherent case that life tenure produces random high-stakes crises and strategic retirements, but CON showed that without accompanying safeguards (like Germany's supermajority r...
   Most decisive rebuttal noted: CON's distinction between strategic retirement as an individual norm violation versus fixed terms creating structurally embedded incentives for end-term hedging and post-court careerism, directly neutralizing PRO's claim that fixed terms eliminate gaming.
 - **Qwen 3.6 Max Preview**: CON wins by sharply isolating the motion's comparative burden ("terms alone") and demonstrating that fixed terms structurally embed end-term career incentives, whereas PRO's strategic retirement argument describes individual norm violations. CON's closing effectively weighs co...

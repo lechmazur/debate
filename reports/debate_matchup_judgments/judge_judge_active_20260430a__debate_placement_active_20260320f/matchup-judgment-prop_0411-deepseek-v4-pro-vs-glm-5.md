@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | +1.0 | +1.07 | 7.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | +1.0 | +1.07 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5 | -1.8 | -1.50 | 8.0 |
 | Grok 4.3 | DeepSeek V4 Pro | +1.2 | +1.44 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B wins because it kept the debate centered on equal access, the failure of paratransit, and the plausibility of integrated accessible fleets. A landed serious pressure on funding, geographic coverage, and persistent specialized service, but too often treated any cost or ambigu...
+- **GPT-5.5 (high)**: B wins because it kept the debate centered on equal access, the failure of paratransit, and the plausibility of integrated accessible fleets. A landed serious pressure on funding, geographic coverage, and persistent specialized service, but too often treated any cost or ambigu...
   Most decisive rebuttal noted: B’s rebuttal to the vagueness attack was the most decisive: by comparing “close to standard” to administrable reasonableness standards and emphasizing agency metrics, B made A’s litigation-chaos argument look overstated.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully dismantling Side A's core mechanisms: the paratransit savings argument and the London example. Side B convincingly argued that paratransit will still be needed for door-to-door service, meaning cities will pay twice, and correctly identified that Lon...
   Most decisive rebuttal noted: Side B's first rebuttal effectively flipped Side A's London black cab example by pointing out its premium fares, and introduced a highly damaging geographic density argument regarding ride-hail wait times.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | DeepSeek V4 Pro | -1.2 | -1.29 | 7.0 |
+| GPT-5.5 (high) | DeepSeek V4 Pro | -1.2 | -1.29 | 7.0 |
 | Gemini 3.1 Pro Preview | DeepSeek V4 Pro | -1.8 | -1.50 | 8.0 |
 | Grok 4.3 | DeepSeek V4 Pro | -1.5 | -1.80 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A won a clear but competitive debate. B was stronger on moral framing and real present harms, and effectively pressured A on the lack of direct examples of accessibility mandates causing ride-hail exits. But A made the central clash easier to decide: the proposition requires w...
+- **GPT-5.5 (high)**: A won a clear but competitive debate. B was stronger on moral framing and real present harms, and effectively pressured A on the lack of direct examples of accessibility mandates causing ride-hail exits. But A made the central clash easier to decide: the proposition requires w...
   Most decisive rebuttal noted: A's most decisive rebuttal was the static versus operational parity distinction: elevators and curb cuts prove baseline accessibility can be mandated, but they do not prove a system can afford near-standard wait times for low-density wheelchair ride demand. B's exit-question p...
 - **Gemini 3.1 Pro Preview**: Side B won by decisively dismantling Side A's core historical analogy. Side B successfully explained that while society absorbs the fixed costs of static infrastructure (like elevators), mandating real-time wait-time parity for dynamic networks requires maintaining a permanent...
   Most decisive rebuttal noted: Side B's Rebuttal 1 and 2 brilliantly distinguished between 'baseline availability' (elevators) and 'operational parity' (wait times), neutralizing Side A's strongest historical argument.

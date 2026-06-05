@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0012__gpt-5.5-high__mistral-medium-3.5-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0012`
-- matchup: **GPT-5.5 (high reasoning)** vs **Mistral Medium 3.5 High Reasoning**
-- overall judged result (normalized): **GPT-5.5 (high reasoning)**
-- overall judged result (raw): **GPT-5.5 (high reasoning)**
+- matchup: **GPT-5.5 (high)** vs **Mistral Medium 3.5 (high)**
+- overall judged result (normalized): **GPT-5.5 (high)**
+- overall judged result (raw): **GPT-5.5 (high)**
 - mean entertainment: `6.83 / 10`
-- mean signed normalized margin for `GPT-5.5 (high reasoning)`: `+1.50`
+- mean signed normalized margin for `GPT-5.5 (high)`: `+1.50`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0012__mistral-medium-3.5-high__gpt-5.5-high__s0__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 High Reasoning**, CON = **GPT-5.5 (high reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0012__gpt-5.5-high__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.5 (high reasoning)**, CON = **Mistral Medium 3.5 High Reasoning**
+- [Debate A transcript](../../../transcripts/prop_0012__mistral-medium-3.5-high__gpt-5.5-high__s0__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 (high)**, CON = **GPT-5.5 (high)**
+- [Debate B transcript](../../../transcripts/prop_0012__gpt-5.5-high__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.5 (high)**, CON = **Mistral Medium 3.5 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0012__gpt-5.5-high__mistral-medium-3.5-high__tpl_placement_active_20260320f` or topic `prop_0012`.
 
@@ -25,16 +25,16 @@
 
 - debate_id: `prop_0012__mistral-medium-3.5-high__gpt-5.5-high__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0012__mistral-medium-3.5-high__gpt-5.5-high__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Mistral Medium 3.5 High Reasoning**, CON = **GPT-5.5 (high reasoning)**
-- judged result: Unanimous `3-0` for **GPT-5.5 (high reasoning)**.
+- roles: PRO = **Mistral Medium 3.5 (high)**, CON = **GPT-5.5 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.5 (high)**.
 - entertainment scores: `7`, `7`, `7`
 - mean signed raw margin (PRO+): `-1.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.3 | GPT-5.5 (high reasoning) | -1.5 | -1.80 | 7.0 |
-| Kimi K2.6 | GPT-5.5 (high reasoning) | -1.5 | -1.50 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.5 (high reasoning) | -1.5 | -1.50 | 7.0 |
+| Grok 4.3 | GPT-5.5 (high) | -1.5 | -1.80 | 7.0 |
+| Kimi K2.6 | GPT-5.5 (high) | -1.5 | -1.50 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.5 (high) | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0012__gpt-5.5-high__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0012__gpt-5.5-high__mistral-medium-3.5-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.5 (high reasoning)**, CON = **Mistral Medium 3.5 High Reasoning**
-- judged result: Unanimous `3-0` for **GPT-5.5 (high reasoning)**.
+- roles: PRO = **GPT-5.5 (high)**, CON = **Mistral Medium 3.5 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.5 (high)**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.33`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Grok 4.3 | GPT-5.5 (high reasoning) | +1.0 | +1.20 | 6.0 |
-| Kimi K2.6 | GPT-5.5 (high reasoning) | +1.5 | +1.50 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.5 (high reasoning) | +1.5 | +1.50 | 7.0 |
+| Grok 4.3 | GPT-5.5 (high) | +1.0 | +1.20 | 6.0 |
+| Kimi K2.6 | GPT-5.5 (high) | +1.5 | +1.50 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.5 (high) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 

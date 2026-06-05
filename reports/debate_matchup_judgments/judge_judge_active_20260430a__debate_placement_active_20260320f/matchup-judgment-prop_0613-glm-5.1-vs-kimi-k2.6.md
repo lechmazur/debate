@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -1.2 | -1.00 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | -1.2 | -1.44 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side B) won on three live routes that CON never squarely neutralized. First, the historical precedent argument—telecom portability, email federation, banking switching—was sustained across every speech and never effectively answered. CON's response was always structural (...
+- **Claude Sonnet 4.6 (high)**: PRO (Side B) won on three live routes that CON never squarely neutralized. First, the historical precedent argument—telecom portability, email federation, banking switching—was sustained across every speech and never effectively answered. CON's response was always structural (...
   Most decisive rebuttal noted: PRO's Rebuttal 2 answer to CON's "qualified mirage" / startup-lockout argument: pointing out that the status quo is already the worst licensure wall of all (incumbents own the graph permanently, zero on-ramps exist), and that the MVNO precedent shows graduated compliance can c...
 - **Gemini 3.1 Pro Preview**: Side B wins by successfully breaking Side A's core telecom/email analogies and exposing a contradiction in Side A's case. When Side A defends against safety concerns by suggesting incumbents can mandate "equivalent moderation standards" for third parties, Side B expertly lever...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing effectively flip Side A's safety safeguards, arguing that enforcing moderation baselines across platforms creates a homogenized environment that defeats the purpose of competitive differentiation.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.0 | +1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -1.8 | -1.50 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | +1.0 | +1.20 | 6.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Both sides ran substantive, well-grounded cases with proper format compliance throughout. CON's most powerful contribution—the bilateral consent argument (social graphs are co-owned; exporting them gives one party unilateral authority over shared data)—is genuinely original an...
+- **Claude Sonnet 4.6 (high)**: Both sides ran substantive, well-grounded cases with proper format compliance throughout. CON's most powerful contribution—the bilateral consent argument (social graphs are co-owned; exporting them gives one party unilateral authority over shared data)—is genuinely original an...
   Most decisive rebuttal noted: CON's "there is no 'my copy' distinct from 'your copy'" reframe [A2.1] was the sharpest single move in the debate—it correctly identified that PRO's property analogy collapses under relational data. PRO's response (platforms already exploit this, the mandate just gives the use...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully reframing the core nature of social data, arguing that it is inherently relational and bilateral. Side A never adequately resolved the problem that exporting a shared conversation violates the consent of the non-exporting party, allowing Side B to de...
   Most decisive rebuttal noted: Side B's Rebuttal 2 response (A1) brilliantly neutralized Side A's defense of relational privacy by stating: "You gain a choice; I lose one. Two violators are worse than one."

@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Kimi K2.6 | -1.6 | -1.71 | 7.0 |
+| GPT-5.5 (high) | Kimi K2.6 | -1.6 | -1.71 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -1.6 | -1.33 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by making the practical failure of provenance central: screenshots, re-encodes, legacy media, and non-compliant tools mean unlabeled content remains the default rather than a useful red flag. A had a strong preventive-versus-reactive frame and plausible C2PA answers, but...
+- **GPT-5.5 (high)**: B won by making the practical failure of provenance central: screenshots, re-encodes, legacy media, and non-compliant tools mean unlabeled content remains the default rather than a useful red flag. A had a strong preventive-versus-reactive frame and plausible C2PA answers, but...
   Most decisive rebuttal noted: B's decisive rebuttal was that A's red-flag theory depends on near-universal provenance adoption, but ordinary sharing creates new unsigned files and decades of legacy media remain unsigned, so platforms cannot distinguish suspicious stripping from normal unlabeled content.
 - **Gemini 3.1 Pro Preview**: Side A systematically dismantled Side B's core mechanism—the idea that the absence of a label would become a "red flag." Side A convincingly argued that ordinary behaviors like screenshots create new, unsigned files that are indistinguishable from the ocean of legacy media, me...
   Most decisive rebuttal noted: Side A's second rebuttal, which exposed Side B's reliance on retroactively signing all legacy media as a "cryptographic aspiration" that fails to account for how internet culture actually functions.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | -1.0 | -1.07 | 8.0 |
+| GPT-5.5 (high) | GLM-5.1 | -1.0 | -1.07 | 8.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -2.2 | -1.83 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won a close but clear debate by making the implementation problem and net-harm turn more decisive. A persuasively argued that imperfection is not useless and that anonymity can be preserved, but never fully solved B's core objection that bad actors can strip or avoid provena...
+- **GPT-5.5 (high)**: B won a close but clear debate by making the implementation problem and net-harm turn more decisive. A persuasively argued that imperfection is not useless and that anonymity can be preserved, but never fully solved B's core objection that bad actors can strip or avoid provena...
   Most decisive rebuttal noted: B's strongest exchange was the response to A's "first layer of defense" framing: B argued the mandate does not merely miss some cases, but labels compliant benign content while leaving malicious unlabeled deepfakes looking safer by default.
 - **Gemini 3.1 Pro Preview**: Side A won by systematically dismantling the technical feasibility of the mandate. Side A proved that since labels can be stripped or bypassed via local generation, the most dangerous deepfakes will evade the platform chokepoints Side B relied on. Side A also successfully argu...
   Most decisive rebuttal noted: Side A's Turn 8 R2 rebuttal turning the 'seatbelt' analogy by pointing out that a digital label defeated by 'save as' is like a seatbelt that signals safety while failing to function, perfectly crystallizing the false confidence argument.

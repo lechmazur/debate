@@ -7,7 +7,7 @@
 - overall judged result (normalized): **Claude Opus 4.6 (no reasoning)**
 - overall judged result (raw): **Claude Opus 4.6 (no reasoning)**
 - mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+1.53`
+- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+1.52`
 - judgment rows: `4`
 - swap_complete: `1`
 - rating_eligible: `1`

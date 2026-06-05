@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5 | +1.3 | +1.39 | 7.0 |
+| GPT-5.5 (high) | GLM-5 | +1.3 | +1.39 | 7.0 |
 | Grok 4.3 | GLM-5 | +1.5 | +1.80 | 8.0 |
 | Kimi K2.6 | GLM-5 | +1.5 | +1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by making the decisive distinction between ordinary entertainment and personalized relationship simulation aimed at lonely users. A had a strong vagueness and autonomy case, but leaned too hard on treating the proposal as full therapeutic regulation and never fully answe...
+- **GPT-5.5 (high)**: B won by making the decisive distinction between ordinary entertainment and personalized relationship simulation aimed at lonely users. A had a strong vagueness and autonomy case, but leaned too hard on treating the proposal as full therapeutic regulation and never fully answe...
   Most decisive rebuttal noted: B's strongest exchange was answering A's engagement-optimization objection by arguing that when the product is the emotional bond, retention design directly deepens dependency in a way passive media or ordinary apps cannot.
 - **Grok 4.3**: PRO built the stronger path by establishing that AI companions uniquely sell adaptive emotional bonds targeting vulnerable users, unlike passive entertainment or standard apps, and by directly answering pressure on deception and distress protocols with clear mechanisms like su...
   Most decisive rebuttal noted: B's Rebuttal 2 (B4) directly answered both pressure questions and contrasted relationship simulation against dating/streaming/gaming mechanics to expose CON's "ordinary entertainment" claim as unsustainable.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | +1.2 | +1.29 | 7.0 |
+| GPT-5.5 (high) | GLM-5.1 | +1.2 | +1.29 | 7.0 |
 | Grok 4.3 | GLM-5 | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | +1.4 | +1.40 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: B won by making the key distinction clearer: AI companions marketed to lonely adults combine intimate simulation, real-time adaptation, and vulnerability targeting in a way ordinary entertainment analogies do not capture. A had a strong counter with existing unfair-practices l...
+- **GPT-5.5 (high)**: B won by making the key distinction clearer: AI companions marketed to lonely adults combine intimate simulation, real-time adaptation, and vulnerability targeting in a way ordinary entertainment analogies do not capture. A had a strong counter with existing unfair-practices l...
   Most decisive rebuttal noted: B's most decisive rebuttal was against the Tamagotchi, Netflix, and parasocial-fandom analogies: those products may create attachment, but they do not dynamically learn and mirror a lonely user's vulnerabilities to deepen dependency.
 - **Grok 4.3**: Side A (CON) won by establishing existing consumer law (FTC unfair practices) covers manipulative design without new duty-of-care, directly answering B's pressure questions on statutes and variable rewards, and exposing overbreadth in B's adaptive-personalization line (applies...
   Most decisive rebuttal noted: A's Rebuttal 2 (A1: A2:) answering B's pressure questions by invoking FTC Section 5 and noting adaptive features in games/ads.

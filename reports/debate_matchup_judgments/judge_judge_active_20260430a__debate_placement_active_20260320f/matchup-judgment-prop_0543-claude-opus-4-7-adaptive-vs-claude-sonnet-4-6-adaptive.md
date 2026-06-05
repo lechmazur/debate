@@ -3,12 +3,12 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0543__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__tpl_placement_active_20260320f`
 - topic_id: `prop_0543`
-- matchup: **Claude Opus 4.7 (high reasoning)** vs **Claude Sonnet 4.6 (high reasoning)**
-- overall judged result (normalized): **Claude Sonnet 4.6 (high reasoning)**
-- overall judged result (raw): **Claude Sonnet 4.6 (high reasoning)**
-- mean entertainment: `8.25 / 10`
-- mean signed normalized margin for `Claude Opus 4.7 (high reasoning)`: `-0.65`
-- judgment rows: `4`
+- matchup: **Claude Opus 4.7 (high)** vs **Claude Sonnet 4.6 (high)**
+- overall judged result (normalized): **Tie**
+- overall judged result (raw): **Tie**
+- mean entertainment: `8.33 / 10`
+- mean signed normalized margin for `Claude Opus 4.7 (high)`: `+0.08`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0543__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.7 (high reasoning)**, CON = **Claude Sonnet 4.6 (high reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0543__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Claude Opus 4.7 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0543__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f.md): PRO = **Claude Opus 4.7 (high)**, CON = **Claude Sonnet 4.6 (high)**
+- [Debate B transcript](../../../transcripts/prop_0543__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high)**, CON = **Claude Opus 4.7 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0543__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__tpl_placement_active_20260320f` or topic `prop_0543`.
 
@@ -25,18 +25,21 @@
 
 - debate_id: `prop_0543__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0543__claude-opus-4-7-adaptive__claude-sonnet-4-6-adaptive__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Opus 4.7 (high reasoning)**, CON = **Claude Sonnet 4.6 (high reasoning)**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (high reasoning)**.
-- entertainment scores: `9`, `8`
-- mean signed raw margin (PRO+): `-1.50`
+- roles: PRO = **Claude Opus 4.7 (high)**, CON = **Claude Sonnet 4.6 (high)**
+- judged result: Split `2-1` for **Claude Sonnet 4.6 (high)**.
+- entertainment scores: `9`, `9`, `8`
+- mean signed raw margin (PRO+): `-0.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 9.0 |
-| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Gemini 3.1 Pro Preview | Claude Opus 4.7 (high) | +1.5 | +1.25 | 9.0 |
+| Kimi K2.6 | Claude Sonnet 4.6 (high) | -1.5 | -1.50 | 9.0 |
+| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B wins by successfully breaking Side A's core dilemma (that sticky defaults either fail to protect or inevitably censor). Side B's distinction that harm arrives passively (which defaults block) while positive connection is sought actively (which overcomes defaults) provid...
+  Most decisive rebuttal noted: Side B's second rebuttal, which establishes the asymmetrical ways predators (volume/scraping) and isolated teens (outward searching) use discovery, effectively dismantling Side A's claim that discoverability limits are inherently censorious.
 - **Kimi K2.6**: CON exposed a decisive logical fault line that PRO never resolved: the same default-stickiness that powers harm reduction necessarily imposes speech costs on the most vulnerable minors. PRO's active/passive asymmetry collapsed when CON showed that isolated LGBTQ and closeted t...
   Most decisive rebuttal noted: CON's Rebuttal 2 dismantling of PRO's active/passive asymmetry by demonstrating that isolated teens who have not yet discovered a community cannot "search outward" by hashtag or creator, and therefore need passive discoverability—the exact feature the privacy default removes....
 - **Qwen 3.6 Max Preview**: Side B wins by successfully establishing and maintaining a decisive logical tension at the core of PRO's case: the "stickiness" paradox. PRO's harm-reduction claim relies on defaults being powerful enough that users rarely change them, yet PRO simultaneously argues this won't...
@@ -46,18 +49,21 @@
 
 - debate_id: `prop_0543__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0543__claude-sonnet-4-6-adaptive__claude-opus-4-7-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **Claude Opus 4.7 (high reasoning)**
-- judged result: Split `1-1`.
-- entertainment scores: `8`, `8`
-- mean signed raw margin (PRO+): `-0.20`
+- roles: PRO = **Claude Sonnet 4.6 (high)**, CON = **Claude Opus 4.7 (high)**
+- judged result: Split `2-1` for **Claude Opus 4.7 (high)**.
+- entertainment scores: `8`, `8`, `8`
+- mean signed raw margin (PRO+): `-0.87`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | Claude Sonnet 4.6 (high reasoning) | +1.1 | +1.10 | 8.0 |
-| Qwen 3.6 Max Preview | Claude Opus 4.7 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Gemini 3.1 Pro Preview | Claude Opus 4.7 (high) | -2.2 | -1.83 | 8.0 |
+| Kimi K2.6 | Claude Sonnet 4.6 (high) | +1.1 | +1.10 | 8.0 |
+| Qwen 3.6 Max Preview | Claude Opus 4.7 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by anchoring the debate to the exact text of the motion and constructing inescapable structural dilemmas. Side A successfully proved that to fulfill the 'harm reduction' mandate, age verification must be robust (chilling anonymous speech), and that Side B could not...
+  Most decisive rebuttal noted: Side A's A1 response dismantling Side B's alcohol/gambling age-gate analogy, perfectly illustrating the double bind between leaky verification and invasive identity regimes.
 - **Kimi K2.6**: PRO successfully defended privacy-by-design as a targeted data-architecture remedy that does not inherently restrict speech. CON raised sharp implementation challenges around age verification and measurement, but these remained speculative worst-cases that PRO showed were solu...
   Most decisive rebuttal noted: PRO's meta-weighing in B4 exposed the asymmetry between CON's hypothetical implementation fears and PRO's documented structural harms, while the data-input versus content-restriction distinction successfully blunted the censorship objection.
 - **Qwen 3.6 Max Preview**: Side B wins by consistently leveraging the motion's explicit dual burden ("measurably reduce harm" and "without significantly increasing censorship") to expose unresolved tradeoffs in Side A's case. While A offers a principled privacy-by-design framework, it relies on promisso...

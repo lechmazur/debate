@@ -3,11 +3,11 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0603__gpt-5.4-high__mistral-medium-3.5-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0603`
-- matchup: **GPT-5.4 (high reasoning)** vs **Mistral Medium 3.5 High Reasoning**
-- overall judged result (normalized): **GPT-5.4 (high reasoning)**
-- overall judged result (raw): **GPT-5.4 (high reasoning)**
+- matchup: **GPT-5.4 (high)** vs **Mistral Medium 3.5 (high)**
+- overall judged result (normalized): **GPT-5.4 (high)**
+- overall judged result (raw): **GPT-5.4 (high)**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `GPT-5.4 (high reasoning)`: `+1.55`
+- mean signed normalized margin for `GPT-5.4 (high)`: `+1.55`
 - judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0603__gpt-5.4-high__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Mistral Medium 3.5 High Reasoning**
-- [Debate B transcript](../../../transcripts/prop_0603__mistral-medium-3.5-high__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 High Reasoning**, CON = **GPT-5.4 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0603__gpt-5.4-high__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Mistral Medium 3.5 (high)**
+- [Debate B transcript](../../../transcripts/prop_0603__mistral-medium-3.5-high__gpt-5.4-high__s1__tpl_placement_active_20260320f.md): PRO = **Mistral Medium 3.5 (high)**, CON = **GPT-5.4 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0603__gpt-5.4-high__mistral-medium-3.5-high__tpl_placement_active_20260320f` or topic `prop_0603`.
 
@@ -25,20 +25,20 @@
 
 - debate_id: `prop_0603__gpt-5.4-high__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0603__gpt-5.4-high__mistral-medium-3.5-high__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Mistral Medium 3.5 High Reasoning**
-- judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **GPT-5.4 (high)**, CON = **Mistral Medium 3.5 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `+1.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | +1.5 | +1.50 | 6.0 |
-| Grok 4.3 | GPT-5.4 (high reasoning) | +1.6 | +1.92 | 7.0 |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | +1.6 | +1.60 | 7.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | +1.5 | +1.50 | 6.0 |
+| Grok 4.3 | GPT-5.4 (high) | +1.6 | +1.92 | 7.0 |
+| Kimi K2.6 | GPT-5.4 (high) | +1.6 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built the cleaner, more durable case. The decisive structural point—that every regulatory tool CON invoked (thresholds, adaptive management, liability, monitoring) logically presupposes a baseline to function—was introduced in B2.4-B2.6, sharpened by B3.1's pressure questi...
+- **Claude Sonnet 4.6 (high)**: PRO built the cleaner, more durable case. The decisive structural point—that every regulatory tool CON invoked (thresholds, adaptive management, liability, monitoring) logically presupposes a baseline to function—was introduced in B2.4-B2.6, sharpened by B3.1's pressure questi...
   Most decisive rebuttal noted: PRO's turn in Rebuttal 1 exposing that CON's own regulatory tools presuppose the baseline they claim is unnecessary—"A threshold relative to what? A plume is manageable compared to what background spread?"—was the debate's most damaging hit. It undermined CON's entire operatio...
 - **Grok 4.3**: Side B wins by grounding the motion in regulatory necessity: without robust, verified baselines, ISA tools like thresholds and adaptive management lack reference conditions in patchy, slow-recovering habitats, making harm attribution and enforcement impossible. CON's land-mini...
   Most decisive rebuttal noted: PRO Rebuttal 2 on control sites: explains why patchiness requires before-and-after data at the actual site, as spatial differences can mimic mining effects, while answering both pressure questions directly to preserve the pause as functional rather than permanent.
@@ -49,20 +49,20 @@
 
 - debate_id: `prop_0603__mistral-medium-3.5-high__gpt-5.4-high__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0603__mistral-medium-3.5-high__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **Mistral Medium 3.5 High Reasoning**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `3-0` for **GPT-5.4 (high reasoning)**.
+- roles: PRO = **Mistral Medium 3.5 (high)**, CON = **GPT-5.4 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
 - entertainment scores: `7`, `7`, `8`
 - mean signed raw margin (PRO+): `-1.33`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GPT-5.4 (high reasoning) | -1.2 | -1.20 | 7.0 |
-| Grok 4.3 | GPT-5.4 (high reasoning) | -1.3 | -1.56 | 7.0 |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Claude Sonnet 4.6 (high) | GPT-5.4 (high) | -1.2 | -1.20 | 7.0 |
+| Grok 4.3 | GPT-5.4 (high) | -1.3 | -1.56 | 7.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: The decisive clash was on two linked questions: whether CON's proposed regulatory framework can function without pre-operational baselines, and whether PRO's stopping condition is workable. CON identified the workable-stopping-rule gap in the opening and maintained it all the...
+- **Claude Sonnet 4.6 (high)**: The decisive clash was on two linked questions: whether CON's proposed regulatory framework can function without pre-operational baselines, and whether PRO's stopping condition is workable. CON identified the workable-stopping-rule gap in the opening and maintained it all the...
   Most decisive rebuttal noted: CON's Rebuttal 2 [A4.3–A4.4]: CON turned PRO's own A1 answer (multi-year datasets across multiple trophic levels, habitat structure, ecosystem processes, ISA expert-panel certification) against PRO, demonstrating that this description is not an administrable finite threshold b...
 - **Grok 4.3**: CON (Side A) won by establishing a clearer, more workable path to precaution through staged pilots with observable controls and exit rules, while exposing PRO's baseline threshold as undefined and potentially endless in a dynamic environment. PRO's emphasis on legal mandate an...
   Most decisive rebuttal noted: Side A's Rebuttal 2, which directly answered B's pressure questions on harm detection and thresholds via measurable plume controls and conservative limits, while showing PRO's multi-year criteria enable indefinite contest and that operation-specific risks require limited trial...

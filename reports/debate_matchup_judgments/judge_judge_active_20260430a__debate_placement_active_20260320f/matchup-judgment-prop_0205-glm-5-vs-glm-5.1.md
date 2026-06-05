@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5 | +1.5 | +1.50 | 7.0 |
 | Grok 4.3 | GLM-5.1 | -1.2 | -1.44 | 7.0 |
 | Kimi K2.6 | GLM-5 | +1.7 | +1.70 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built and maintained the cleaner path to victory across all five rounds. The decisive insight came in PRO's closing: the "market for defaults" CON described exists only where the platform doesn't compete (Google paying Apple for search). Where the platform does compete—bro...
+- **Claude Sonnet 4.6 (high)**: PRO built and maintained the cleaner path to victory across all five rounds. The decisive insight came in PRO's closing: the "market for defaults" CON described exists only where the platform doesn't compete (Google paying Apple for search). Where the platform does compete—bro...
   Most decisive rebuttal noted: PRO's closing observation that the "market for defaults" CON invoked exists only where the platform isn't a competitor (Google pays Apple for search because Apple doesn't compete in search; Apple doesn't auction wallet or browser defaults because it competes there) was the sha...
 - **Grok 4.3**: Side A (CON) won by building a clearer comparative case that defaults deliver tangible user benefits via integration while highlighting concrete downsides of the ban: destroyed market for default access (Google-Apple deal) and negligible competition gains (EU choice screens)....
   Most decisive rebuttal noted: A's Rebuttal 2 A2 directly neutralized B's pressure by showing default placement as negotiable asset rivals already use, then weighed this against B's foreclosure claim to clarify why intervention harms rather than helps.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.0 | +1.00 | 7.0 |
 | Grok 4.3 | GLM-5.1 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO (Side A) built the stronger cumulative case despite a meaningful execution penalty in Rebuttal 1, where the speech was visibly clipped and showed drafting artifacts. The debate's decisive clash was the contradiction PRO exposed in CON's position: CON cannot simultaneously...
+- **Claude Sonnet 4.6 (high)**: PRO (Side A) built the stronger cumulative case despite a meaningful execution penalty in Rebuttal 1, where the speech was visibly clipped and showed drafting artifacts. The debate's decisive clash was the contradiction PRO exposed in CON's position: CON cannot simultaneously...
   Most decisive rebuttal noted: PRO's Rebuttal 2 A1 response: distinguishing "insurmountably sticky" from "shapes aggregate outcomes" to dissolve the apparent contradiction that CON's Q1 exposed. PRO explained that choice screens work precisely because they reduce friction at the salient setup moment—not bec...
 - **Grok 4.3**: Side B won by forcing a decisive clash on whether defaults are both essential for integration/investment and irrelevant to outcomes (since users switch), then answering pressure questions with a structural gateway distinction that limits scope while exposing Side A's contradic...
   Most decisive rebuttal noted: Side B's Rebuttal 2 A1/A2 directly neutralized Side A's pressure questions on stickiness vs. choice screens and slippery-slope scope, then weighed the contradiction as irreconcilable in its closing.

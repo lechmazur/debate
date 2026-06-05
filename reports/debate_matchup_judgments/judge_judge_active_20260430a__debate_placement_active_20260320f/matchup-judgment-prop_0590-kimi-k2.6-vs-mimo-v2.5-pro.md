@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.0 | +1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +2.2 | +1.83 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | +1.5 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: This was a genuinely competitive debate with real intellectual substance on both sides. CON's strongest contributions were the deployer-as-compliance-anchor argument (A4.1) and the market-placing obligations point (A4.2), which together represent a coherent answer to the "no p...
+- **Claude Sonnet 4.6 (high)**: This was a genuinely competitive debate with real intellectual substance on both sides. CON's strongest contributions were the deployer-as-compliance-anchor argument (A4.1) and the market-placing obligations point (A4.2), which together represent a coherent answer to the "no p...
   Most decisive rebuttal noted: PRO's B2.4 noting that when algorithmic harm materializes the "responsible architect sits abroad, insulated from direct accountability while a European gatekeeper with no technical control bears the blame" was the most decisive exchange. CON answered in A4.1 by identifying the...
 - **Gemini 3.1 Pro Preview**: Side B wins by exposing a critical gap in Side A's reliance on 'deployer' liability, successfully arguing that deployers lack the technical control to fix algorithmic harms in API/SaaS models. Side A also suffered from severe execution costs, getting cut off by the word limit...
   Most decisive rebuttal noted: Side B's Turn 7 answers effectively neutralized Side A's enforcement pressure by showing that impact jurisdiction allows for secondary enforcement like app store restrictions, even against zero-footprint foreign providers.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.00 | 6.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | +1.0 | +1.00 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -2.2 | -1.83 | 8.0 |
 | Grok 4.3 | Kimi K2.6 | -1.5 | -1.80 | 6.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built the stronger path to victory by catching CON's self-contradiction early: CON's proposed alternative (regulate EU importers/deployers) is itself triggered by the fact that AI impacts fall within EU borders, making the opposition's jurisdictional objection a dispute ab...
+- **Claude Sonnet 4.6 (high)**: PRO built the stronger path to victory by catching CON's self-contradiction early: CON's proposed alternative (regulate EU importers/deployers) is itself triggered by the fact that AI impacts fall within EU borders, making the opposition's jurisdictional objection a dispute ab...
   Most decisive rebuttal noted: PRO's Rebuttal 1 [B2.1–B2.2] catching CON's self-contradiction: CON proposed regulating "EU importers or deployers," and PRO correctly identified this as impact-based jurisdiction implemented through an intermediary—the trigger is still that impacts fall within EU borders. CON...
 - **Gemini 3.1 Pro Preview**: Side A won by cleanly distinguishing between the normative motive for regulation (preventing local harm) and the functional basis for jurisdiction (territorial market entry). Side B attempted to co-opt Side A's enforcement model, but Side A successfully showed that relying on...
   Most decisive rebuttal noted: Side A's distinction in the final rounds that Side B was confusing the motive for the law with the basis for jurisdiction, effectively dismantling Side B's claim that Side A had conceded the debate.

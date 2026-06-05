@@ -6,9 +6,9 @@
 - matchup: **Gemini 3.1 Pro Preview** vs **ByteDance Seed2.0 Pro**
 - overall judged result (normalized): **Gemini 3.1 Pro Preview**
 - overall judged result (raw): **Gemini 3.1 Pro Preview**
-- mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Gemini 3.1 Pro Preview`: `+0.68`
-- judgment rows: `4`
+- mean entertainment: `6.67 / 10`
+- mean signed normalized margin for `Gemini 3.1 Pro Preview`: `+1.05`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0080__gemini-3.1-pro-preview__seed-2.0-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0080__gemini-3.1-pro-preview__seed-2.0-pro__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Gemini 3.1 Pro Preview**, CON = **ByteDance Seed2.0 Pro**
-- judged result: Split `1-1`.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-0.15`
+- judged result: Split `2-1` for **Gemini 3.1 Pro Preview**.
+- entertainment scores: `6`, `7`, `7`
+- mean signed raw margin (PRO+): `+0.40`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | Gemini 3.1 Pro Preview | +1.5 | +1.80 | 6.0 |
 | Kimi K2.6 | ByteDance Seed2.0 Pro | -1.5 | -1.50 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: Side A won by establishing the clearer core tradeoff (community ownership vs. corporate liquidity), answering pressure questions directly with targeted carveouts and historical norms, and crystallizing the weighing in rebuttals and closing. Side B's counters relied on repeated...
+  Most decisive rebuttal noted: A's rebuttal 2: direct A1/A2 answers to pressure plus reframing of liquidity as the decisive flaw.
 - **Kimi K2.6**: CON won by showing the restrictions would backfire: shrinking inventory as sellers hold out, killing build-to-rent supply despite carveouts due to portfolio balance and regulatory gaming, and stripping seniors of intergenerational down-payment equity—directly undermining PRO's...
   Most decisive rebuttal noted: A's Rebuttal 2 turn that seniors' home equity often finances grandchildren's down payments, meaning lowering sale prices by eliminating institutional buyers hurts the very first-time buyers PRO claims to help, combined with the argument that carveouts for new construction fail...
 - **Qwen 3.6 Max Preview**: Side A wins by maintaining a clearer normative through-line and handling pressure more directly. While Side B raised valid practical concerns about seller liquidity and build-to-rent supply, it relied on slightly brittle precision and speculative causal chains (e.g., portfolio...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0080__seed-2.0-pro__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0080__seed-2.0-pro__gemini-3.1-pro-preview__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **ByteDance Seed2.0 Pro**, CON = **Gemini 3.1 Pro Preview**
-- judged result: Unanimous `2-0` for **Gemini 3.1 Pro Preview**.
-- entertainment scores: `7`, `7`
+- judged result: Unanimous `3-0` for **Gemini 3.1 Pro Preview**.
+- entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `-1.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | Gemini 3.1 Pro Preview | -1.5 | -1.80 | 6.0 |
 | Kimi K2.6 | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 7.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: B wins by exposing an unanswerable contradiction: PRO admits small landlords cannot replace corporate inventory yet claims rental supply stays intact. PRO's late vacancy claim is unsupported and evaded. B maintains sharper focus on the renter displacement tradeoff across rounds.
+  Most decisive rebuttal noted: B2.3/B4.4 directly neutralizes A's small-landlord fallback and forces the core tradeoff into the open.
 - **Kimi K2.6**: CON (Side A) won by demonstrating that with housing stock fixed, restricting institutional buyers merely reshuffles scarcity rather than creating affordability. CON successfully framed the policy as picking wealthier mortgage-ready buyers over vulnerable renters who need singl...
   Most decisive rebuttal noted: CON's second rebuttal dismantling PRO's "above-market rent" claim with basic market-clearing logic and exposing that PRO's admission about small landlords lacking capital reserves undermined the promise of replacement rental supply.
 - **Qwen 3.6 Max Preview**: Side B wins by exposing a structural contradiction in Side A's mechanism and maintaining a more economically grounded narrative. Side A argued that small local landlords would replace institutional rental supply, but also conceded they lack the cash reserves to compete for hom...

@@ -3,7 +3,7 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0593__glm-5__gpt-5.5-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0593`
-- matchup: **GLM-5** vs **GPT-5.5 (high reasoning)**
+- matchup: **GLM-5** vs **GPT-5.5 (high)**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.17 / 10`
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0593__glm-5__gpt-5.5-high__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **GPT-5.5 (high reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0593__gpt-5.5-high__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.5 (high reasoning)**, CON = **GLM-5**
+- [Debate A transcript](../../../transcripts/prop_0593__glm-5__gpt-5.5-high__s0__tpl_placement_active_20260320f.md): PRO = **GLM-5**, CON = **GPT-5.5 (high)**
+- [Debate B transcript](../../../transcripts/prop_0593__gpt-5.5-high__glm-5__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.5 (high)**, CON = **GLM-5**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0593__glm-5__gpt-5.5-high__tpl_placement_active_20260320f` or topic `prop_0593`.
 
@@ -25,7 +25,7 @@
 
 - debate_id: `prop_0593__glm-5__gpt-5.5-high__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0593__glm-5__gpt-5.5-high__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **GLM-5**, CON = **GPT-5.5 (high reasoning)**
+- roles: PRO = **GLM-5**, CON = **GPT-5.5 (high)**
 - judged result: Split `2-1` for **GLM-5**.
 - entertainment scores: `6`, `7`, `7`
 - mean signed raw margin (PRO+): `+0.50`
@@ -34,7 +34,7 @@
 | --- | --- | ---: | ---: | ---: |
 | Grok 4.3 | GLM-5 | +1.3 | +1.56 | 6.0 |
 | Kimi K2.6 | GLM-5 | +1.7 | +1.70 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.5 (high reasoning) | -1.5 | -1.50 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.5 (high) | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
@@ -49,16 +49,16 @@
 
 - debate_id: `prop_0593__gpt-5.5-high__glm-5__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0593__gpt-5.5-high__glm-5__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.5 (high reasoning)**, CON = **GLM-5**
-- judged result: Split `2-1` for **GPT-5.5 (high reasoning)**.
+- roles: PRO = **GPT-5.5 (high)**, CON = **GLM-5**
+- judged result: Split `2-1` for **GPT-5.5 (high)**.
 - entertainment scores: `7`, `8`, `8`
 - mean signed raw margin (PRO+): `+0.20`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Grok 4.3 | GLM-5 | -1.5 | -1.80 | 7.0 |
-| Kimi K2.6 | GPT-5.5 (high reasoning) | +0.9 | +0.90 | 8.0 |
-| Qwen 3.6 Max Preview | GPT-5.5 (high reasoning) | +1.2 | +1.20 | 8.0 |
+| Kimi K2.6 | GPT-5.5 (high) | +0.9 | +0.90 | 8.0 |
+| Qwen 3.6 Max Preview | GPT-5.5 (high) | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 

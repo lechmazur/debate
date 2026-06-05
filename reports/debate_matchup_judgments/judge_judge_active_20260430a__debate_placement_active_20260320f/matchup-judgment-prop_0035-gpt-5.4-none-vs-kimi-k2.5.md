@@ -7,7 +7,7 @@
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
 - mean entertainment: `7.25 / 10`
-- mean signed normalized margin for `GPT-5.4 (no reasoning)`: `+0.02`
+- mean signed normalized margin for `GPT-5.4 (no reasoning)`: `+0.03`
 - judgment rows: `4`
 - swap_complete: `1`
 - rating_eligible: `1`

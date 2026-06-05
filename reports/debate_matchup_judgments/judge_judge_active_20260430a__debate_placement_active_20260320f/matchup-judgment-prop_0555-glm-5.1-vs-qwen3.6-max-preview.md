@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.5 | +1.50 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | -1.8 | -1.50 | 8.0 |
 | Grok 4.3 | GLM-5.1 | +1.5 | +1.80 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built a more durable case across the full exchange. The opening addressed CON's objections proactively, turning the background-check and work-requirement language of the proposition itself into a rebuttal. The decisive comparative pressure came from PRO's repeated, unanswe...
+- **Claude Sonnet 4.6 (high)**: PRO built a more durable case across the full exchange. The opening addressed CON's objections proactively, turning the background-check and work-requirement language of the proposition itself into a rebuttal. The decisive comparative pressure came from PRO's repeated, unanswe...
   Most decisive rebuttal noted: PRO's Rebuttal 1 turning the rule-of-law argument: pointing out that a population permanently beyond the reach of labor law, tax law, and criminal accountability is itself a rule-of-law failure, and that CON's alternative of tolerating non-compliance indefinitely is institutio...
 - **Gemini 3.1 Pro Preview**: Side A wins by systematically dismantling Side B's claim that legalization restores the rule of law. A successfully frames the pathway as "capitulation to scale" and effectively uses the "mixed signals" argument to prove that amnesties cause the very shadow populations Side B...
   Most decisive rebuttal noted: Side A's Rebuttal 2 effectively neutralizes Side B's strongest pressure question by arguing that the current shadow population isn't proof deterrence failed, but proof that mixed signals and promises of future regularization succeeded.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Qwen 3.6 Max Preview | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Qwen 3.6 Max Preview | +1.0 | +1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | +1.2 | +1.00 | 8.0 |
 | Grok 4.3 | GLM-5.1 | -1.3 | -1.56 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO won primarily because its "zero data vs. some data" framework held throughout the exchange and was never fully neutralized. PRO's central claim—that the status quo deliberately forfeits any security intelligence while the pathway at least subjects the compliant population...
+- **Claude Sonnet 4.6 (high)**: PRO won primarily because its "zero data vs. some data" framework held throughout the exchange and was never fully neutralized. PRO's central claim—that the status quo deliberately forfeits any security intelligence while the pathway at least subjects the compliant population...
   Most decisive rebuttal noted: The most decisive exchange was PRO's Q2 combined with CON's A2 response. PRO's question forced CON to concede the pathway generates at least some vetting data. CON's answer—that only the compliant subset applies while the genuinely dangerous self-select out—was the sharpest po...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully subsuming Side A's core enforcement mechanism. When Side A argued for "attrition through enforcement," Side B effectively countered that a pathway is a necessary political and logistical prerequisite to actually implementing those forward-looking pol...
   Most decisive rebuttal noted: Side B's second rebuttal, which argued that clearing the backlog removes the political paralysis preventing mandatory employment verification, directly answering Side A's pressure about stopping the magnet effect.

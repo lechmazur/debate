@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Kimi K2.6 | +1.0 | +1.00 | 7.0 |
+| Claude Sonnet 4.6 (high) | Kimi K2.6 | +1.0 | +1.00 | 7.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | +1.8 | +1.50 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built a cleaner and more adaptive path to victory across the full exchange. The conditional framing—"if companies truly pay their way, the cap never binds"—was PRO's central structural claim, and CON never fully neutralized it. CON's best counter was the "belt over a belt"...
+- **Claude Sonnet 4.6 (high)**: PRO built a cleaner and more adaptive path to victory across the full exchange. The conditional framing—"if companies truly pay their way, the cap never binds"—was PRO's central structural claim, and CON never fully neutralized it. CON's best counter was the "belt over a belt"...
   Most decisive rebuttal noted: CON's pressure questions (Q1: concrete threshold? Q2: who adjudicates?) followed by PRO's Rebuttal 2 answers were the most decisive exchange. PRO operationalized the standard using existing utility interconnection agreements and public utility commissions as adjudicators, redu...
 - **Gemini 3.1 Pro Preview**: Side A won by effectively resolving Side B's core dilemma (that the policy is either redundant or an impossible veto). Side A clarified that while utilities may bill for costs, legislatures hand out tax incentives that offset them; linking the two ensures public assets aren't...
   Most decisive rebuttal noted: Side A's final explanation that existing utility structures do not stop legislatures from handing out tax breaks that leave ratepayers covering the gap, effectively dismantling Side B's 'redundancy' argument.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.2 | +1.20 | 6.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | +1.2 | +1.20 | 6.0 |
 | Gemini 3.1 Pro Preview | Kimi K2.6 | -2.8 | -2.33 | 8.0 |
 | Qwen 3.6 Max Preview | Kimi K2.6 | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Side A built the stronger cumulative case across the exchange. Its three-part frame—double subsidy, timing mismatch (infrastructure costs arrive immediately while abated tax revenue is years away), and the consumptive-water distinction—held up across rounds. The consumptive wa...
+- **Claude Sonnet 4.6 (high)**: Side A built the stronger cumulative case across the exchange. Its three-part frame—double subsidy, timing mismatch (infrastructure costs arrive immediately while abated tax revenue is years away), and the consumptive-water distinction—held up across rounds. The consumptive wa...
   Most decisive rebuttal noted: Side A's Rebuttal 1 water distinction: "water is not a shared durable asset; it is consumed and depleted. Millions of gallons daily drawn from an aquifer or municipal supply do not linger to benefit the community after the data center's cooling systems are done with them." Thi...
 - **Gemini 3.1 Pro Preview**: Side B won by successfully framing 'full internalization' as an impossible standard for shared public infrastructure, and by exposing execution flaws in Side A's case. Side A clipped three of its speeches due to length, which cost them analytical finish. Furthermore, Side A un...
   Most decisive rebuttal noted: Side B's Rebuttal 2 masterfully answered the pressure question on evaporated water by distinguishing the consumptive water (paid for via volumetric rates) from the durable infrastructure left behind (mains and treatment capacity).

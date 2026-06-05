@@ -4,11 +4,11 @@
 - side_swap_group_id: `prop_0406__claude-opus-4-6-0K__gpt-5.4-none__tpl_placement_active_20260320f`
 - topic_id: `prop_0406`
 - matchup: **Claude Opus 4.6 (no reasoning)** vs **GPT-5.4 (no reasoning)**
-- overall judged result (normalized): **Tie**
-- overall judged result (raw): **Tie**
-- mean entertainment: `7.25 / 10`
-- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+0.22`
-- judgment rows: `4`
+- overall judged result (normalized): **Claude Opus 4.6 (no reasoning)**
+- overall judged result (raw): **Claude Opus 4.6 (no reasoning)**
+- mean entertainment: `7.38 / 10`
+- mean signed normalized margin for `Claude Opus 4.6 (no reasoning)`: `+0.54`
+- judgment rows: `8`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,23 @@
 - debate_id: `prop_0406__claude-opus-4-6-0K__gpt-5.4-none__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0406__claude-opus-4-6-0K__gpt-5.4-none__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Claude Opus 4.6 (no reasoning)**, CON = **GPT-5.4 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Opus 4.6 (no reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.70`
+- judged result: Unanimous `4-0` for **Claude Opus 4.6 (no reasoning)**.
+- entertainment scores: `9`, `7`, `7`, `7`
+- mean signed raw margin (PRO+): `+1.75`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | Claude Opus 4.6 (no reasoning) | +1.8 | +1.50 | 9.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | +1.8 | +2.16 | 7.0 |
 | Kimi K2.6 | Claude Opus 4.6 (no reasoning) | +1.9 | +1.90 | 7.0 |
 | Qwen 3.6 Max Preview | Claude Opus 4.6 (no reasoning) | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A won by successfully framing the debate around the catastrophic harm of impoundment (street homelessness) and proving that Side B's alternative of "discretion" offered no guaranteed protection. Side A also effectively neutralized Side B's administrability offense by clea...
+  Most decisive rebuttal noted: Side A's Rebuttal 2 provided the most decisive exchange, answering Side B's administrability question by strictly defining "safe" as free from physical danger, and then turning the administrability argument back on Side B's proposed "hardship exemptions."
+- **Grok 4.3**: PRO built the clearer path to victory by repeatedly forcing the live limiting condition ("no safe alternative"), directly answering pressure questions with the required A1/A2 format, exposing the symmetry problem in CON's administrability claims, and crystallizing the "volunta...
+  Most decisive rebuttal noted: A's Rebuttal 2 (A4) answers both pressure questions head-on then uses the symmetry concession to collapse CON's core administrability objection.
 - **Kimi K2.6**: Side A won by demonstrating that CON's alternative framework of discretionary mercy and hardship exemptions was entirely voluntary and offered no guaranteed protection against the catastrophic harm of towing-induced street homelessness. A's symmetry argument—showing that CON's...
   Most decisive rebuttal noted: PRO's symmetry turn in Rebuttal 2, exposing that CON's alternative of discretion, hardship exemptions, and targeted accommodation required equally complex individualized judgments, rendering CON's administrability objection internally inconsistent.
 - **Qwen 3.6 Max Preview**: Side A wins by successfully framing the debate around a guaranteed legal floor versus discretionary mercy. A's symmetry argument effectively neutralized B's core administrability objection by showing that B's own hardship exemptions require the same case-by-case judgments B cl...
@@ -47,17 +53,23 @@
 - debate_id: `prop_0406__gpt-5.4-none__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0406__gpt-5.4-none__claude-opus-4-6-0K__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **GPT-5.4 (no reasoning)**, CON = **Claude Opus 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **GPT-5.4 (no reasoning)**.
-- entertainment scores: `8`, `7`
-- mean signed raw margin (PRO+): `+1.25`
+- judged result: Split `3-1` for **GPT-5.4 (no reasoning)**.
+- entertainment scores: `8`, `6`, `8`, `7`
+- mean signed raw margin (PRO+): `+0.82`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | GPT-5.4 (no reasoning) | +2.0 | +1.67 | 8.0 |
+| Grok 4.3 | Claude Opus 4.6 (no reasoning) | -1.2 | -1.44 | 6.0 |
 | Kimi K2.6 | GPT-5.4 (no reasoning) | +1.3 | +1.30 | 8.0 |
 | Qwen 3.6 Max Preview | GPT-5.4 (no reasoning) | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A wins by successfully framing the debate around the asymmetric consequences of error. While Side B effectively proved that PRO's standard creates administrative difficulties and limits enforcement, Side A persuasively argued that imperfect verification does not justify t...
+  Most decisive rebuttal noted: Side A's response to Side B's claim about political pressure, framing it as morally backwards and practically cruel to rely on the deliberate suffering of the vulnerable to manufacture political urgency for housing.
+- **Grok 4.3**: B wins: the verification and administration problems in A's "no safe alternative" standard are never solved, leaving a practical enforcement vacuum that B exploits more consistently across rebuttals and closings. Clips hurt both but B's core clash on unworkability and external...
+  Most decisive rebuttal noted: B2.3/B4.3 on why rebuttable presumption equals effective immunity at street level.
 - **Kimi K2.6**: Side A won by establishing that routine punishment of vehicle sleeping destroys fragile stability without solving real harms, since conduct-based rules already address nuisance, obstruction, and danger. Side B’s unenforceability critique was blunted by A’s cost-asymmetry frami...
   Most decisive rebuttal noted: A’s Rebuttal 1 distinction between status-based punishment and conduct-based enforcement (A2.1–A2.3), which neutralized B’s claim that vehicle habitation inherently produces harms and crystallized the clash around whether poverty itself should be policed.
 - **Qwen 3.6 Max Preview**: Side A wins by successfully framing the debate around the asymmetry of error costs under uncertainty. While Side B raised strong practical concerns about street-level verifiability and cumulative neighborhood degradation, Side A consistently separated conduct-based enforcement...

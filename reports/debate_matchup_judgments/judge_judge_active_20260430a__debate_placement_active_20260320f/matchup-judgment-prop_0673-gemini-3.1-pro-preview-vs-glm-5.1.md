@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | -1.5 | -1.61 | 7.0 |
+| GPT-5.5 (high) | GLM-5.1 | -1.5 | -1.61 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | -1.6 | -1.60 | 7.0 |
 | Qwen 3.6 Max Preview | GLM-5.1 | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won by making the decisive clash about applicant volume and incentives. Side A persuasively argued that earlier work authorization would reduce dependency for existing applicants, but it never fully answered B's point that legal work authorization is much more valuable...
+- **GPT-5.5 (high)**: Side B won by making the decisive clash about applicant volume and incentives. Side A persuasively argued that earlier work authorization would reduce dependency for existing applicants, but it never fully answered B's point that legal work authorization is much more valuable...
   Most decisive rebuttal noted: B's strongest rebuttal was distinguishing underground work from legal work authorization: legal employment offers security, portability, legitimacy, and years of benefit before adjudication, so A's claim that the incentive already exists underground was materially weakened.
 - **Kimi K2.6**: Side A won by exposing a structural flaw in Side B's fiscal case and winning the incentive debate. Side B argued vividly that early work authorization would move existing asylum seekers off costly emergency shelters, but never defended the critical assumption that applicant vo...
   Most decisive rebuttal noted: Side A's first rebuttal (Turn 4), distinguishing legal work authorization from underground employment and exposing that Side B treated them as equivalent incentives. This undermined Side B's deterrence argument and set up the volume-based fiscal takedown that persisted through...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Gemini 3.1 Pro Preview | -1.2 | -1.29 | 7.0 |
+| GPT-5.5 (high) | Gemini 3.1 Pro Preview | -1.2 | -1.29 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | +2.0 | +2.00 | 8.0 |
 | Qwen 3.6 Max Preview | Gemini 3.1 Pro Preview | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a clear but competitive debate. Side A established the direct per-person mechanism that earlier work authorization reduces dependence, but Side B made the more decisive argument on the motion’s fraud condition: moving from six months of unfunded survival to 60 days...
+- **GPT-5.5 (high)**: Side B won a clear but competitive debate. Side A established the direct per-person mechanism that earlier work authorization reduces dependence, but Side B made the more decisive argument on the motion’s fraud condition: moving from six months of unfunded survival to 60 days...
   Most decisive rebuttal noted: Side B’s most decisive rebuttal was that the 60-day rule is not just a small timing shift because the six-month wait functions as an upfront financial barrier; lowering that barrier expands who can exploit years of backlog-based work authorization.
 - **Kimi K2.6**: PRO successfully framed the 60-day shift as a marginal timing change that leaves the underlying incentive for fraud (years of backlog-derived work) unchanged, while directly reducing per-applicant reliance on assistance. CON’s liquidity-constraint theory of fraud remained plau...
   Most decisive rebuttal noted: PRO’s Rebuttal 2 (Turn 7), where PRO answered CON’s pressure questions by conceding partial subsidies but showing total taxpayer cost falls, and argued that the 4-month difference cannot be a material fraud deterrent when the multi-year payoff is identical.

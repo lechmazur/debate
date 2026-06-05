@@ -6,9 +6,9 @@
 - matchup: **DeepSeek V3.2** vs **ByteDance Seed2.0 Pro**
 - overall judged result (normalized): **ByteDance Seed2.0 Pro**
 - overall judged result (raw): **ByteDance Seed2.0 Pro**
-- mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `DeepSeek V3.2`: `-0.90`
-- judgment rows: `4`
+- mean entertainment: `7.33 / 10`
+- mean signed normalized margin for `DeepSeek V3.2`: `-1.16`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0393__deepseek-v32-exp__seed-2.0-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0393__deepseek-v32-exp__seed-2.0-pro__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **DeepSeek V3.2**, CON = **ByteDance Seed2.0 Pro**
-- judged result: Unanimous `2-0` for **ByteDance Seed2.0 Pro**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.50`
+- judged result: Unanimous `3-0` for **ByteDance Seed2.0 Pro**.
+- entertainment scores: `8`, `7`, `7`
+- mean signed raw margin (PRO+): `-1.73`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | ByteDance Seed2.0 Pro | -2.2 | -1.83 | 8.0 |
 | Kimi K2.6 | ByteDance Seed2.0 Pro | -1.5 | -1.50 | 7.0 |
 | Qwen 3.6 Max Preview | ByteDance Seed2.0 Pro | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side A decisively won the central clash on technical feasibility. Side A effectively used common knowledge about consumer GPS limits (10-15 ft accuracy) to prove that companies cannot practically geofence sidewalks from adjacent bike lanes. Side A also successfully dismantled...
+  Most decisive rebuttal noted: Side A's Rebuttal 2 answer explaining why the GPS precision needed for billing (general service area) is entirely different from the sub-3-foot precision needed to distinguish a sidewalk from a bike lane.
 - **Kimi K2.6**: Side B won by undermining Side A's primary causal mechanism and exposing unintended consequences. B decisively rebutted A's claim that companies could readily prevent sidewalk riding through technology by distinguishing the precision requirements of billing geofencing from tho...
   Most decisive rebuttal noted: Side B's rebuttal distinguishing billing GPS precision from sidewalk geofencing precision (Turn 8, B4.1), which directly dismantled A's argument that companies were simply choosing not to implement safety controls and exposed the technical impossibility of A's core proposed so...
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by successfully dismantling PRO's core mechanism. CON convincingly explains that consumer GPS lacks the sub-3-foot precision needed to distinguish sidewalks from adjacent bike lanes, making PRO's geofencing solution physically unfeasible regardless of corpora...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0393__seed-2.0-pro__deepseek-v32-exp__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0393__seed-2.0-pro__deepseek-v32-exp__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **ByteDance Seed2.0 Pro**, CON = **DeepSeek V3.2**
-- judged result: Split `1-1`.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+0.30`
+- judged result: Split `2-1` for **ByteDance Seed2.0 Pro**.
+- entertainment scores: `8`, `7`, `7`
+- mean signed raw margin (PRO+): `+0.80`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | ByteDance Seed2.0 Pro | +1.8 | +1.50 | 8.0 |
 | Kimi K2.6 | ByteDance Seed2.0 Pro | +1.6 | +1.60 | 7.0 |
 | Qwen 3.6 Max Preview | DeepSeek V3.2 | -1.0 | -1.00 | 7.0 |
 
 ### Judge Notes
 
+- **Gemini 3.1 Pro Preview**: Side B won by maintaining a highly consistent causal chain while systematically dismantling Side A's alternatives. When pressed on how victims would be compensated without company liability, Side A had to introduce a late, contradictory add-on ("company-funded rider insurance"...
+  Most decisive rebuttal noted: Side B's A1 in Rebuttal 2 was decisive, turning Side A's "moral hazard" trap upside down by showing that the high administrative cost of chasing penniless riders makes preventative geofencing the only financially viable corporate strategy.
 - **Kimi K2.6**: PRO wins because CON never fully resolved the compensation gap for pedestrians hit by fleeing, judgment-proof riders. PRO demonstrated that companies are the only party with both the resources to pay and the technology to prevent these crashes, and successfully rebutted CON's...
   Most decisive rebuttal noted: A4's direct answers to CON's pressure questions, demonstrating that post-hoc rider reimbursement is costlier and less effective than prevention, and that disabling high-revenue core zones is economically irrational—shattering CON's asymmetric-retreat theory.
 - **Qwen 3.6 Max Preview**: CON wins by more effectively resolving the core incentive clash. PRO built a compelling victim-compensation frame and argued that revenue preservation would drive companies to upgrade geofencing rather than cut service. CON successfully challenged this by emphasizing asymmetri...

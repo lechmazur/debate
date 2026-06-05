@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | -1.2 | -1.29 | 8.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | -1.2 | -1.29 | 8.0 |
 | Kimi K2.6 | Xiaomi MiMo V2.5 Pro | -1.3 | -1.30 | 8.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | -1.5 | -1.50 | 9.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A won by making the decisive distinction between public funding and state operational control. B had a strong justice case and effectively argued that records already sit in government custody, but A answered that physical custody is not the same as a unified, searchable, stat...
+- **GPT-5.5 (high)**: A won by making the decisive distinction between public funding and state operational control. B had a strong justice case and effectively argued that records already sit in government custody, but A answered that physical custody is not the same as a unified, searchable, stat...
   Most decisive rebuttal noted: A's rebuttal to B's status quo custody point was the key exchange: A argued that scattered paper archives do not create the same coercive capacity as searchable, cross-referenced state infrastructure, and paired that with the funding versus holding keys distinction.
 - **Kimi K2.6**: CON maintained a clear, decisive distinction between publicly funding access and handing governments operational control over sensitive digital infrastructure. PRO never fully neutralized the risk that a unified, searchable state database creates a weaponization window across...
   Most decisive rebuttal noted: CON turning PROs own Soviet Union analogy against PRO by noting that while distributed books are hard to recall, centralized record systems are precisely what regimes use to identify and target people—sharpening the qualitative difference between scattered physical custody and...
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Xiaomi MiMo V2.5 Pro | +1.7 | +1.82 | 8.0 |
+| GPT-5.5 (high) | Xiaomi MiMo V2.5 Pro | +1.7 | +1.82 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | -1.0 | -1.00 | 8.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2.5 Pro | +1.2 | +1.20 | 8.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won because it kept the debate tied to the motion: public digitization and funding versus reliance on paywalled private markets and inaccessible physical archives. Side A had a powerful conflict-of-interest frame, but it repeatedly inflated the proposition into a state...
+- **GPT-5.5 (high)**: Side B won because it kept the debate tied to the motion: public digitization and funding versus reliance on paywalled private markets and inaccessible physical archives. Side A had a powerful conflict-of-interest frame, but it repeatedly inflated the proposition into a state...
   Most decisive rebuttal noted: B's strongest exchange was the response that the state already holds many of these records, so the real choice is whether to compel public access or leave descendants with private paywalls and geographic barriers. That undercut A's "seizing control" frame and made A's pluralis...
 - **Kimi K2.6**: CON successfully identified a structural paradox in the motion: empowering the perpetrator-state to curate digital evidence of its own crimes creates dangerous interpretive control beyond mere physical custody. PRO's reframing—that the state already holds records—was blunted b...
   Most decisive rebuttal noted: CON's twin blows distinguishing physical custody from interpretive control (A2.1) and demonstrating that democratic accountability has historically failed the exact communities at issue (A4.5-A4.6), which together neutralized PRO's central reframe and theory of leverage.

@@ -32,15 +32,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | Xiaomi MiMo V2.5 Pro | -1.5 | -1.50 | 7.0 |
-| GPT-5.5 (high reasoning) | GLM-5.1 | +1.0 | +1.07 | 7.0 |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2.5 Pro | -1.5 | -1.50 | 7.0 |
+| GPT-5.5 (high) | GLM-5.1 | +1.0 | +1.07 | 7.0 |
 | Gemini 3.1 Pro Preview | Xiaomi MiMo V2.5 Pro | -1.5 | -1.25 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON (Side A) built the stronger cumulative case despite two clipped speeches. The pivotal move was catching PRO's own concession in B2.1 that isolating the mechanism causes "the effect to shrink," then exploiting PRO's Rebuttal 2 explanation that the default works "precisely b...
+- **Claude Sonnet 4.6 (high)**: CON (Side A) built the stronger cumulative case despite two clipped speeches. The pivotal move was catching PRO's own concession in B2.1 that isolating the mechanism causes "the effect to shrink," then exploiting PRO's Rebuttal 2 explanation that the default works "precisely b...
   Most decisive rebuttal noted: The most decisive rebuttal exchange was CON catching PRO's Rebuttal 2 admission that the default works "precisely because it catalyzes infrastructure" (B4.1) and turning it back as bundling rather than causation in A4.1–A4.2 and A5.1–A5.2. PRO set up a clever framing ("catalys...
-- **GPT-5.5 (high reasoning)**: B won a clear but competitive debate. A made strong challenges on infrastructure confounding, vulnerable populations, and family pressure, but B gave the cleaner comparative frame: policy shifts can measurably work through defaults, social norms, and institutional momentum rat...
+- **GPT-5.5 (high)**: B won a clear but competitive debate. A made strong challenges on infrastructure confounding, vulnerable populations, and family pressure, but B gave the cleaner comparative frame: policy shifts can measurably work through defaults, social norms, and institutional momentum rat...
   Most decisive rebuttal noted: B’s most decisive rebuttal was the catalyst response to A’s infrastructure argument: if presumed consent triggers coordinator networks, budgets, and hospital alignment, those cascading effects can still count as the policy’s measurable mechanism rather than mere “packaging.”
 - **Gemini 3.1 Pro Preview**: Side B won by successfully isolating and defeating the strict "without increasing ethical violations" burden of the motion. B effectively proved that shifting the default creates a new, heavier ethical risk (loss of bodily sovereignty) compared to the opt-in baseline (missed o...
   Most decisive rebuttal noted: B's Rebuttal 2 brilliantly crystallized the ethical asymmetry, showing that failing to opt in simply misses a chance to be generous, whereas failing to opt out results in a loss of bodily sovereignty.
@@ -56,15 +56,15 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | -1.5 | -1.50 | 7.0 |
-| GPT-5.5 (high reasoning) | GLM-5.1 | -1.3 | -1.39 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | -1.5 | -1.50 | 7.0 |
+| GPT-5.5 (high) | GLM-5.1 | -1.3 | -1.39 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -2.5 | -2.08 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: CON won on the debate's decisive clash: the proposition's specific causal claim that "shifting to presumed consent" would measurably increase transplant rates. CON's Spain stagnation argument (flat rates for a decade under presumed consent alone, gains only after 1989 infrastr...
+- **Claude Sonnet 4.6 (high)**: CON won on the debate's decisive clash: the proposition's specific causal claim that "shifting to presumed consent" would measurably increase transplant rates. CON's Spain stagnation argument (flat rates for a decade under presumed consent alone, gains only after 1989 infrastr...
   Most decisive rebuttal noted: CON's Rebuttal 1 identification that PRO's "both-and" concession undermines the proposition. By accepting that infrastructure and default work together, PRO implicitly admitted the default alone doesn't drive gains—exactly what Spain's 1979–1989 stagnation demonstrates. PRO ne...
-- **GPT-5.5 (high reasoning)**: Side A won by making the causal burden sharper: the proposition was about the default shift, and A repeatedly used Spain and the infrastructure point to show B was proving at most a reform package, not presumed consent itself. B had a plausible defaults-and-inertia mechanism,...
+- **GPT-5.5 (high)**: Side A won by making the causal burden sharper: the proposition was about the default shift, and A repeatedly used Spain and the infrastructure point to show B was proving at most a reform package, not presumed consent itself. B had a plausible defaults-and-inertia mechanism,...
   Most decisive rebuttal noted: A's strongest exchange was turning B's "both-and" infrastructure answer into a concession: if presumed consent needs coordinators, funding, and campaigns to work, then B has not proven the default shift itself measurably raises transplant rates.
 - **Gemini 3.1 Pro Preview**: Side B won decisively by isolating the core causal claim and dismantling it using Side A's own primary example (Spain). By pointing out that Spain's rates were flat under presumed consent until infrastructure was added, Side B forced Side A to concede that the default alone ca...
   Most decisive rebuttal noted: Side B's Rebuttal 2 and Closing weaponized Side A's concession about causal isolation, noting that infrastructure without presumed consent works, but presumed consent without infrastructure (Spain 1979-1989) does not.

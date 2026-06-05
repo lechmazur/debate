@@ -4,11 +4,11 @@
 - side_swap_group_id: `prop_0181__glm-5__qwen3.6-max-preview__tpl_placement_active_20260320f`
 - topic_id: `prop_0181`
 - matchup: **GLM-5** vs **Qwen 3.6 Max Preview**
-- overall judged result (normalized): **Tie**
+- overall judged result (normalized): **GLM-5**
 - overall judged result (raw): **Tie**
-- mean entertainment: `7.40 / 10`
-- mean signed normalized margin for `GLM-5`: `+0.44`
-- judgment rows: `5`
+- mean entertainment: `7.33 / 10`
+- mean signed normalized margin for `GLM-5`: `+0.63`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -50,14 +50,15 @@
 - debate_id: `prop_0181__qwen3.6-max-preview__glm-5__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0181__qwen3.6-max-preview__glm-5__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Qwen 3.6 Max Preview**, CON = **GLM-5**
-- judged result: Split `1-1`.
-- entertainment scores: `8`, `7`
-- mean signed raw margin (PRO+): `-0.05`
+- judged result: Split `2-1` for **GLM-5**.
+- entertainment scores: `8`, `7`, `7`
+- mean signed raw margin (PRO+): `-0.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | +1.4 | +1.17 | 8.0 |
 | Grok 4.3 | GLM-5 | -1.5 | -1.80 | 7.0 |
+| Kimi K2.6 | GLM-5 | -1.6 | -1.60 | 7.0 |
 
 ### Judge Notes
 
@@ -65,3 +66,5 @@
   Most decisive rebuttal noted: Side A's distinction between medical research (aggregate/de-identified/no state coercion) and police searches, as well as the point that warrants merely authorize rather than prevent the traversal of innocent relatives' data.
 - **Grok 4.3**: Side A (CON) won by anchoring in solved cases like Golden State Killer, directly addressing both pressure questions with mechanism clarifications, and exposing PRO's remains-ID concession as inconsistent with the strict-prohibition claim. PRO repeated dragnet and mission-creep...
   Most decisive rebuttal noted: Side A's A1/A2 answers to pressure questions that distinguished inference from access and used PRO's own concession on remains identification to undermine the hereditary-dragnet absolutism.
+- **Kimi K2.6**: CON won by exposing a decisive tension in PRO's case: PRO endorsed dedicated forensic systems for identifying remains, which undermined the claim that tracing familial DNA connections is inherently a "foundational violation." If the mechanism is acceptable for remains, the dis...
+  Most decisive rebuttal noted: CON's Rebuttal 2 and Closing argument that PRO's acceptance of dedicated forensic databases for remains identification collapses the "hereditary dragnet" framing, proving the real clash is about state oversight rather than mechanism and making regulation the coherent middle gr...

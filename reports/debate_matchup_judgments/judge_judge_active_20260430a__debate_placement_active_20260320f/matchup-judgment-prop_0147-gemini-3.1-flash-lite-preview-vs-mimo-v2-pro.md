@@ -6,9 +6,9 @@
 - matchup: **Gemini 3.1 Flash-Lite Preview** vs **Xiaomi MiMo V2 Pro**
 - overall judged result (normalized): **Xiaomi MiMo V2 Pro**
 - overall judged result (raw): **Xiaomi MiMo V2 Pro**
-- mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Gemini 3.1 Flash-Lite Preview`: `-1.35`
-- judgment rows: `2`
+- mean entertainment: `6.75 / 10`
+- mean signed normalized margin for `Gemini 3.1 Flash-Lite Preview`: `-1.50`
+- judgment rows: `4`
 - swap_complete: `0`
 - rating_eligible: `0`
 
@@ -25,17 +25,23 @@
 - debate_id: `prop_0147__mimo-v2-pro__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0147__mimo-v2-pro__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **Xiaomi MiMo V2 Pro**, CON = **Gemini 3.1 Flash-Lite Preview**
-- judged result: Unanimous `2-0` for **Xiaomi MiMo V2 Pro**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.35`
+- judged result: Unanimous `4-0` for **Xiaomi MiMo V2 Pro**.
+- entertainment scores: `6`, `7`, `7`, `7`
+- mean signed raw margin (PRO+): `+1.43`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Claude Sonnet 4.6 (high) | Xiaomi MiMo V2 Pro | +1.5 | +1.50 | 6.0 |
+| Grok 4.3 | Xiaomi MiMo V2 Pro | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | Xiaomi MiMo V2 Pro | +1.2 | +1.20 | 7.0 |
 | Qwen 3.6 Max Preview | Xiaomi MiMo V2 Pro | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Claude Sonnet 4.6 (high)**: Side A (PRO) wins on three decisive grounds. First, PRO established the strongest core mechanism—contingent, responsive attunement ("serve and return") as the engine of early language and attachment development—and CON never directly contested this developmental claim. CON's e...
+  Most decisive rebuttal noted: PRO's Rebuttal 1 distinguishing "consistent, high-quality interaction" from genuine attunement was the most decisive exchange. CON had framed AI patience as equivalent to skilled parenting [B1.3], and PRO's counter—that a device's "patience" is actually the inability to notice...
+- **Grok 4.3**: Side B wins by more convincingly establishing the substitutive nature of routine outsourcing, directly addressing pressure questions with clear thresholds, and maintaining focus on attachment and irreplaceability throughout; Side A offers practical counterpoints but fails to n...
+  Most decisive rebuttal noted: B's Rebuttal 2 A1/A2 exchange that clarifies qualitative shift without evasion or widening.
 - **Kimi K2.6**: Side A won by keeping the debate anchored to the motion's focus on routine outsourcing, establishing a clear qualitative threshold between occasional support and harmful displacement, and showing that contingent human attunement in early reading, conversation, and bedtime rout...
   Most decisive rebuttal noted: Side A's Rebuttal 2 answer A2, which defined the qualitative threshold between support and displacement and turned Side B's "lubricant" metaphor into an "algorithmic engine" that redefines care, while Side B failed to offer a convincing counter-threshold or explain how routine...
 - **Qwen 3.6 Max Preview**: Side B (PRO) wins by anchoring the debate on the developmental necessity of contingent, responsive human interaction for very young children and by clearly defining the qualitative threshold where occasional support becomes harmful routine displacement. Side A (CON) presented...

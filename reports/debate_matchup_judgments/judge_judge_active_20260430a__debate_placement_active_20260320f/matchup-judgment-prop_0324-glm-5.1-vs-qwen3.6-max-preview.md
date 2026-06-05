@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | +1.2 | +1.20 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | +1.2 | +1.20 | 7.0 |
 | Grok 4.3 | GLM-5.1 | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | GLM-5.1 | +1.6 | +1.60 | 8.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: PRO built a cleaner path to victory through the structural contradiction it crystallized in [B4.5] and [B5.2]: CON's own concessions reveal that mega-events require strong local capacity to succeed (Athens, Rio fail without it), yet CON recommends them specifically for declini...
+- **Claude Sonnet 4.6 (high)**: PRO built a cleaner path to victory through the structural contradiction it crystallized in [B4.5] and [B5.2]: CON's own concessions reveal that mega-events require strong local capacity to succeed (Athens, Rio fail without it), yet CON recommends them specifically for declini...
   Most decisive rebuttal noted: PRO's [B4.5]—"the amplifier needs something to amplify"—directly connected CON's own admission that governance matters to its claim that mega-events benefit declining cities. This exposed a genuine paradox: if the event only works when local capacity is already high, it is not...
 - **Grok 4.3**: Side B (PRO) wins because it exposes the structural risks and ownership deficits in mega-events more convincingly, answers the pressure questions directly, and crystallizes the paradox that CON's catalyst works best where least needed while leaving local recurring events as th...
   Most decisive rebuttal noted: B's Pressure Questions on governance and scripting, answered in B4, combined with the closing paradox, most decisively neutralized CON's deterministic transformation claim and forced weighing on capacity and sustainability.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Claude Sonnet 4.6 (high reasoning) | GLM-5.1 | -0.9 | -0.90 | 7.0 |
+| Claude Sonnet 4.6 (high) | GLM-5.1 | -0.9 | -0.90 | 7.0 |
 | Grok 4.3 | GLM-5.1 | -1.2 | -1.44 | 7.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +1.5 | +1.50 | 7.0 |
 
 ### Judge Notes
 
-- **Claude Sonnet 4.6 (high reasoning)**: Both sides argued competently throughout, but Side A (CON) built a slightly stronger path to victory on the key clashes. First, CON's "safe compounding of invisibility still yields invisibility" line—deployed in Rebuttal 2 against the Brisbane case—was the debate's most decisi...
+- **Claude Sonnet 4.6 (high)**: Both sides argued competently throughout, but Side A (CON) built a slightly stronger path to victory on the key clashes. First, CON's "safe compounding of invisibility still yields invisibility" line—deployed in Rebuttal 2 against the Brisbane case—was the debate's most decisi...
   Most decisive rebuttal noted: CON's Rebuttal 2 A1—"safe compounding of invisibility still yields invisibility"—was the sharpest exchange. It directly reversed PRO's risk-management framing: PRO had argued recurring events are safer; CON turned that back to show safety that preserves obscurity is no virtue...
 - **Grok 4.3**: Side A (CON) built the stronger case by establishing a clearer comparative frame: identity requires external recognition and transformative rupture for stagnant cities, supported by plausible mechanisms like forced coalition-building and integrated infrastructure (Barcelona, M...
   Most decisive rebuttal noted: Side A's Rebuttal 2 (A4.1-A4.3) decisively handling B's pressure questions by reframing failures as governance, showing local adaptation of standards, and preserving the transformation vs. maintenance clash.

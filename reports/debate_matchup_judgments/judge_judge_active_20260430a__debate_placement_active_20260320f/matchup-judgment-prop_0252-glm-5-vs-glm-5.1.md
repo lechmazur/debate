@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5 | +1.0 | +1.07 | 7.0 |
+| GPT-5.5 (high) | GLM-5 | +1.0 | +1.07 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | -2.0 | -1.67 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A won a close but clear debate by making the stronger normative and comparative case: productive work should not be exempted from wage protections merely because it offers experience, and unpaid internships systematically advantage those who can afford to work for free. S...
+- **GPT-5.5 (high)**: Side A won a close but clear debate by making the stronger normative and comparative case: productive work should not be exempted from wage protections merely because it offers experience, and unpaid internships systematically advantage those who can afford to work for free. S...
   Most decisive rebuttal noted: A’s rebuttal that “learning through productive tasks” would classify almost every entry-level job as educational was the sharpest exchange, because it exposed how B’s definition could hollow out wage protections while still calling the arrangement opportunity.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully turning Side A's inequality argument against them. By pointing out that Side A's strict institutional and curricular requirements for 'genuinely educational' placements would destroy informal entry points (like small nonprofits) and only preserve eli...
   Most decisive rebuttal noted: Side B's attack on the 'genuinely educational' standard, demonstrating how requiring formal institutional accountability bulldozes side entrances for the working class while leaving the elite front gates locked.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | GLM-5.1 | +1.1 | +1.18 | 7.0 |
+| GPT-5.5 (high) | GLM-5.1 | +1.1 | +1.18 | 7.0 |
 | Gemini 3.1 Pro Preview | GLM-5.1 | +1.5 | +1.25 | 8.0 |
 | Kimi K2.6 | GLM-5.1 | +1.6 | +1.60 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side A wins a clear but competitive debate. Side B’s strongest point was that some internships may be marginally worthwhile only at zero wage, so restriction may eliminate opportunities rather than convert them. But Side A gave the cleaner overall path: productive labor should...
+- **GPT-5.5 (high)**: Side A wins a clear but competitive debate. Side B’s strongest point was that some internships may be marginally worthwhile only at zero wage, so restriction may eliminate opportunities rather than convert them. But Side A gave the cleaner overall path: productive labor should...
   Most decisive rebuttal noted: Side A’s most decisive rebuttal was turning Side B’s opportunity claim by arguing that an unpaid “door” is not meaningful for students who cannot afford to walk through it, making the alleged access benefit look like a privilege multiplier.
 - **Gemini 3.1 Pro Preview**: Side A won by systematically dismantling Side B's claim that unpaid internships help working-class students. Side A effectively forced Side B to concede that poor students must take on debt or second jobs to participate, proving Side A's core thesis that the system functions a...
   Most decisive rebuttal noted: Side A's Rebuttal 2 and Closing brilliantly capitalized on Side B's admission that poor students must "scrape together resources" (debt, second jobs) to work for free, framing this not as student agency but as proof of structural exclusion.

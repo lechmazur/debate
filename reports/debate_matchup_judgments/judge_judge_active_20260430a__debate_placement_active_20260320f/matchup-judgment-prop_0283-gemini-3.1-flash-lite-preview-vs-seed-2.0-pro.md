@@ -7,8 +7,8 @@
 - overall judged result (normalized): **ByteDance Seed2.0 Pro**
 - overall judged result (raw): **ByteDance Seed2.0 Pro**
 - mean entertainment: `7.00 / 10`
-- mean signed normalized margin for `Gemini 3.1 Flash-Lite Preview`: `-1.50`
-- judgment rows: `4`
+- mean signed normalized margin for `Gemini 3.1 Flash-Lite Preview`: `-1.60`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -26,17 +26,20 @@
 - debate_id: `prop_0283__gemini-3.1-flash-lite-preview__seed-2.0-pro__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0283__gemini-3.1-flash-lite-preview__seed-2.0-pro__s0__tpl_placement_active_20260320f.md)
 - roles: PRO = **Gemini 3.1 Flash-Lite Preview**, CON = **ByteDance Seed2.0 Pro**
-- judged result: Unanimous `2-0` for **ByteDance Seed2.0 Pro**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.40`
+- judged result: Unanimous `3-0` for **ByteDance Seed2.0 Pro**.
+- entertainment scores: `7`, `7`, `7`
+- mean signed raw margin (PRO+): `-1.43`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | ByteDance Seed2.0 Pro | -1.5 | -1.80 | 7.0 |
 | Kimi K2.6 | ByteDance Seed2.0 Pro | -1.3 | -1.30 | 7.0 |
 | Qwen 3.6 Max Preview | ByteDance Seed2.0 Pro | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: Side A prevailed by establishing decisive practical harms (immediate budget diversion from cash aid and reparations plus enforceable privacy exposure under public-records law) that Side B never neutralized, while rebutting B's stability and gatekeeping claims with binding priv...
+  Most decisive rebuttal noted: A's A1/A2 answers on political budget volatility and community-held backups plus non-mandatory private portals directly dismantled B's long-term stability and accountability route.
 - **Kimi K2.6**: CON won by demonstrating that the proposed government program would be fiscally redundant, dangerously expose sensitive data under public records laws, and divert billions from immediate material aid, while effectively rebutting PRO's claims about corporate gatekeeping and ins...
   Most decisive rebuttal noted: CON's Rebuttal 2 (B4), which dismantled PRO's stability argument by noting that public archives face political defunding risks while private partners operate under legally binding perpetual agreements with redundant community backups, and defused the gatekeeping concern by cla...
 - **Qwen 3.6 Max Preview**: Side B wins by establishing a clearer, more concrete harm calculus and successfully defending against Side A’s core claims. B’s framing of the budget tradeoff—diverting immediate, tangible aid for a slow, duplicative archival project—resonated strongly and was never fully neut...
@@ -47,17 +50,20 @@
 - debate_id: `prop_0283__seed-2.0-pro__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0283__seed-2.0-pro__gemini-3.1-flash-lite-preview__s1__tpl_placement_active_20260320f.md)
 - roles: PRO = **ByteDance Seed2.0 Pro**, CON = **Gemini 3.1 Flash-Lite Preview**
-- judged result: Unanimous `2-0` for **ByteDance Seed2.0 Pro**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `+1.60`
+- judged result: Unanimous `3-0` for **ByteDance Seed2.0 Pro**.
+- entertainment scores: `7`, `7`, `7`
+- mean signed raw margin (PRO+): `+1.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | ByteDance Seed2.0 Pro | +1.5 | +1.80 | 7.0 |
 | Kimi K2.6 | ByteDance Seed2.0 Pro | +2.0 | +2.00 | 7.0 |
 | Qwen 3.6 Max Preview | ByteDance Seed2.0 Pro | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: Side B wins: directly addressed ongoing private-market exclusion of low-profit records and offered concrete, plausible safeguards (statutory funding, community veto, backups) that neutralized CON's future-risk claims while keeping focus on the proposition's access and equity b...
+  Most decisive rebuttal noted: B4's direct A1/A2 answers on ring-fenced funding and quasi-constitutional protections, plus clear current-vs-hypothetical weighing, damaged CON's centralization line more effectively than any single A turn.
 - **Kimi K2.6**: Side A demonstrated concrete, ongoing harms that private markets have failed to resolve for decades—paywalls excluding low-income descendants and documented data sales to predatory actors—while narrowing its proposal to the neglected, low-profit records that firms will not dig...
   Most decisive rebuttal noted: A’s second rebuttal (Turn 7), where it directly answered B’s pressure questions with specific institutional safeguards, clarified that the plan targets only records the private market neglects, and collapsed B’s recurring “state monopoly” strawman.
 - **Qwen 3.6 Max Preview**: Side A wins by successfully framing the debate around market failure for low-profit, high-stakes records and providing a clearer path to removing paywalls for marginalized descendants. While Side B raised valid concerns about state surveillance and inefficiency, Side A's struc...

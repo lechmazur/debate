@@ -32,13 +32,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | -1.3 | -1.39 | 6.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | -1.3 | -1.39 | 6.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | -2.2 | -1.83 | 7.0 |
 | Kimi K2.6 | Grok 4.3 | +1.2 | +1.20 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: Side B won a clear but competitive debate. Side A established a plausible credential-inflation mechanism, but relied heavily on the asserted premise that many jobs stayed basically unchanged and that degree attainment outran real skill demand. Side B more effectively framed th...
+- **GPT-5.5 (high)**: Side B won a clear but competitive debate. Side A established a plausible credential-inflation mechanism, but relied heavily on the asserted premise that many jobs stayed basically unchanged and that degree attainment outran real skill demand. Side B more effectively framed th...
   Most decisive rebuttal noted: Side B’s most decisive rebuttal was that if degree requirements were mainly hollow gates for unchanged work, returns should have weakened much more as graduate supply expanded; the enduring premium and changed task environment made credential inflation look secondary rather th...
 - **Gemini 3.1 Pro Preview**: Side A won by successfully dismantling Side B's core economic mechanism. Side A effectively argued that if jobs were truly unchanged and graduate supply was saturated, firms would not pay a persistent wage premium for an arbitrary signal. Side B failed to logically resolve why...
   Most decisive rebuttal noted: Side A's second rebuttal decisively answered Side B's pressure questions by detailing exactly how administrative roles have changed and exposing the fatal economic flaw in Side B's wage premium argument.
@@ -56,13 +56,13 @@
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| GPT-5.5 (high reasoning) | Qwen 3.6 Max Preview | +1.2 | +1.29 | 7.0 |
+| GPT-5.5 (high) | Qwen 3.6 Max Preview | +1.2 | +1.29 | 7.0 |
 | Gemini 3.1 Pro Preview | Qwen 3.6 Max Preview | +1.5 | +1.25 | 8.0 |
 | Kimi K2.6 | Qwen 3.6 Max Preview | +2.2 | +2.20 | 7.0 |
 
 ### Judge Notes
 
-- **GPT-5.5 (high reasoning)**: A won by making the more motion-specific comparison: mass expansion at the margin turned degrees into costly defensive screens for many static roles, while B mostly proved that some degrees and sectors create real value. B plausibly argued task complexity and access, but did n...
+- **GPT-5.5 (high)**: A won by making the more motion-specific comparison: mass expansion at the margin turned degrees into costly defensive screens for many static roles, while B mostly proved that some degrees and sectors create real value. B plausibly argued task complexity and access, but did n...
   Most decisive rebuttal noted: A's most decisive rebuttal was separating specialized high-skill degrees from marginal credential expansion, then pressing waivers, certifications, and static jobs as evidence that many requirements function as screening rather than genuine skill needs.
 - **Gemini 3.1 Pro Preview**: Side B won by successfully framing the debate around the marginal student and convincingly arguing that degree requirements spread to static jobs as a screening tool. Side B's rebuttal on internal promotions exposed a weakness in Side A's claim about task complexity, and Side...
   Most decisive rebuttal noted: Side B's A1 effectively neutralized Side A's examples of new tech occupations by conceding their existence but marginalizing their scale, redirecting the focus back to the inflation of requirements in static administrative roles.

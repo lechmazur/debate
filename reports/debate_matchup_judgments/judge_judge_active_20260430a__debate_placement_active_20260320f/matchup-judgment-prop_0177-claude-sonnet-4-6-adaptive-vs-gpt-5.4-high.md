@@ -3,12 +3,12 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0177__claude-sonnet-4-6-adaptive__gpt-5.4-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0177`
-- matchup: **Claude Sonnet 4.6 (high reasoning)** vs **GPT-5.4 (high reasoning)**
-- overall judged result (normalized): **Tie**
-- overall judged result (raw): **Tie**
-- mean entertainment: `7.75 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (high reasoning)`: `+0.05`
-- judgment rows: `4`
+- matchup: **Claude Sonnet 4.6 (high)** vs **GPT-5.4 (high)**
+- overall judged result (normalized): **Claude Sonnet 4.6 (high)**
+- overall judged result (raw): **Claude Sonnet 4.6 (high)**
+- mean entertainment: `7.50 / 10`
+- mean signed normalized margin for `Claude Sonnet 4.6 (high)`: `+0.63`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0177__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **GPT-5.4 (high reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0177__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Claude Sonnet 4.6 (high reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0177__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (high)**, CON = **GPT-5.4 (high)**
+- [Debate B transcript](../../../transcripts/prop_0177__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Claude Sonnet 4.6 (high)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0177__claude-sonnet-4-6-adaptive__gpt-5.4-high__tpl_placement_active_20260320f` or topic `prop_0177`.
 
@@ -25,18 +25,21 @@
 
 - debate_id: `prop_0177__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0177__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (high reasoning)**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
-- entertainment scores: `8`, `8`
-- mean signed raw margin (PRO+): `-1.50`
+- roles: PRO = **Claude Sonnet 4.6 (high)**, CON = **GPT-5.4 (high)**
+- judged result: Split `2-1` for **GPT-5.4 (high)**.
+- entertainment scores: `7`, `8`, `8`
+- mean signed raw margin (PRO+): `-0.50`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 8.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Grok 4.3 | Claude Sonnet 4.6 (high) | +1.5 | +1.80 | 7.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -1.5 | -1.50 | 8.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: Side B wins because its direct answers to pressure questions reframed CON concessions into an endorsement of adaptive approval, sharpened the tradeoff on waiting-list deaths versus unproven risks, and forced CON into defending an effectively open-ended wait while showing the 1...
+  Most decisive rebuttal noted: B's A1/A2 answers to A's questions on multi-year thresholds and infection mechanisms, which converted CON's evidentiary demands into a defense of staged acceleration and exposed that CON offered no quantified alternative burden.
 - **Kimi K2.6**: CON successfully undermined PRO's predictive claim that xenotransplantation will become routine within fifteen years by showing that current proof-of-principle data (weeks to months of survival) is vastly distant from the required threshold of multi-year, multi-center reproduc...
   Most decisive rebuttal noted: CON's Rebuttal 1 dismantling of PRO's "known mechanisms therefore engineering problems" framing by showing that named biological barriers interact in unpredictable ways, and that "known mechanism" does not mean "predictably solvable on schedule," paired with the irrefutable po...
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by successfully anchoring the debate on the irreducible timeline required to generate multi-year safety and durability data. While Side B (PRO) mounted a compelling urgency case and defended adaptive regulatory frameworks, CON effectively demonstrated that PR...
@@ -46,18 +49,21 @@
 
 - debate_id: `prop_0177__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0177__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Claude Sonnet 4.6 (high reasoning)**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (high reasoning)**.
-- entertainment scores: `7`, `8`
-- mean signed raw margin (PRO+): `-1.60`
+- roles: PRO = **GPT-5.4 (high)**, CON = **Claude Sonnet 4.6 (high)**
+- judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (high)**.
+- entertainment scores: `7`, `7`, `8`
+- mean signed raw margin (PRO+): `-1.57`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | Claude Sonnet 4.6 (high reasoning) | -1.7 | -1.70 | 7.0 |
-| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high reasoning) | -1.5 | -1.50 | 8.0 |
+| Grok 4.3 | Claude Sonnet 4.6 (high) | -1.5 | -1.80 | 7.0 |
+| Kimi K2.6 | Claude Sonnet 4.6 (high) | -1.7 | -1.70 | 7.0 |
+| Qwen 3.6 Max Preview | Claude Sonnet 4.6 (high) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: Side A (CON) wins by consistently forcing PRO to a narrower, experimental-use definition that fails the motion's "routine solution to the shortage" language, while exposing unresolvable biosafety scale-up risks; B's answers to pressure questions confirm insufficient projected...
+  Most decisive rebuttal noted: A4.1/A4.2 directly neutralizes B4.1's enrollment projection as falling short of routine clinical integration, crystallizing the definitional gap that persists through closing.
 - **Kimi K2.6**: Side B won by holding Side A to the precise wording of the motion. Under direct questioning, A conceded a fifteen-year outlook of only low-thousands of pig-kidney transplants annually at specialty centers, which B successfully framed as a boutique experimental program rather t...
   Most decisive rebuttal noted: B's second rebuttal (B4), which weaponized A's own low-thousands enrollment projection to show the scale was far too small to constitute a routine solution to the shortage, while sharpening the biosafety asymmetry between individual dialysis harm and population-level zoonotic...
 - **Qwen 3.6 Max Preview**: Side A (CON) wins by successfully holding PRO to the motion's explicit text. When pressured on scale, PRO conceded a projection of only "low-thousands annually" at designated centers, which CON effectively turned into proof that the proposal is a boutique specialty program, no...

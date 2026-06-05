@@ -3,12 +3,12 @@
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
 - side_swap_group_id: `prop_0159__claude-sonnet-4-6-0K__gpt-5.4-high__tpl_placement_active_20260320f`
 - topic_id: `prop_0159`
-- matchup: **Claude Sonnet 4.6 (no reasoning)** vs **GPT-5.4 (high reasoning)**
+- matchup: **Claude Sonnet 4.6 (no reasoning)** vs **GPT-5.4 (high)**
 - overall judged result (normalized): **Tie**
 - overall judged result (raw): **Tie**
-- mean entertainment: `7.50 / 10`
-- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+0.08`
-- judgment rows: `4`
+- mean entertainment: `7.33 / 10`
+- mean signed normalized margin for `Claude Sonnet 4.6 (no reasoning)`: `+0.05`
+- judgment rows: `6`
 - swap_complete: `1`
 - rating_eligible: `1`
 
@@ -16,8 +16,8 @@
 
 ## Source Links
 
-- [Debate A transcript](../../../transcripts/prop_0159__claude-sonnet-4-6-0K__gpt-5.4-high__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **GPT-5.4 (high reasoning)**
-- [Debate B transcript](../../../transcripts/prop_0159__gpt-5.4-high__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high reasoning)**, CON = **Claude Sonnet 4.6 (no reasoning)**
+- [Debate A transcript](../../../transcripts/prop_0159__claude-sonnet-4-6-0K__gpt-5.4-high__s0__tpl_placement_active_20260320f.md): PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **GPT-5.4 (high)**
+- [Debate B transcript](../../../transcripts/prop_0159__gpt-5.4-high__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md): PRO = **GPT-5.4 (high)**, CON = **Claude Sonnet 4.6 (no reasoning)**
 - [Rolling judgment CSV](../../../judgments/judge_results__judge_active_20260430a.csv)
   Search for `side_swap_group_id=prop_0159__claude-sonnet-4-6-0K__gpt-5.4-high__tpl_placement_active_20260320f` or topic `prop_0159`.
 
@@ -25,18 +25,21 @@
 
 - debate_id: `prop_0159__claude-sonnet-4-6-0K__gpt-5.4-high__s0__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0159__claude-sonnet-4-6-0K__gpt-5.4-high__s0__tpl_placement_active_20260320f.md)
-- roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **GPT-5.4 (high reasoning)**
-- judged result: Unanimous `2-0` for **GPT-5.4 (high reasoning)**.
-- entertainment scores: `7`, `7`
-- mean signed raw margin (PRO+): `-1.50`
+- roles: PRO = **Claude Sonnet 4.6 (no reasoning)**, CON = **GPT-5.4 (high)**
+- judged result: Unanimous `3-0` for **GPT-5.4 (high)**.
+- entertainment scores: `8`, `7`, `7`
+- mean signed raw margin (PRO+): `-1.60`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
-| Kimi K2.6 | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 7.0 |
-| Qwen 3.6 Max Preview | GPT-5.4 (high reasoning) | -1.5 | -1.50 | 7.0 |
+| Grok 4.3 | GPT-5.4 (high) | -1.8 | -2.16 | 8.0 |
+| Kimi K2.6 | GPT-5.4 (high) | -1.5 | -1.50 | 7.0 |
+| Qwen 3.6 Max Preview | GPT-5.4 (high) | -1.5 | -1.50 | 7.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: Side A won by establishing and sustaining a decisive triage comparison once diversion was conceded: concrete near-term protection for living species versus PRO's chain of indirect, hype-dependent spillovers. A answered pressure questions directly and crystallized the spectacle...
+  Most decisive rebuttal noted: A's Rebuttal 2 (A4) cleanly answered both pressure questions and reframed B's concession on hype as fatal to the government-funding case.
 - **Kimi K2.6**: Side B won by grounding the debate in the conceded diversion of government money and attention, then showing that PRO&#39;s two main benefits—technology transfer and private capital—do not require governments to fund or permit full de-extinction. B consistently reframed the ch...
   Most decisive rebuttal noted: B&#39;s handling of technology transfer: conceding that CRISPR, cryopreservation, and assisted reproduction are valuable, but showing this points away from the motion because governments should fund those tools directly for living species rather than subsidizing a costlier, ri...
 - **Qwen 3.6 Max Preview**: CON wins by more effectively leveraging the motion's explicit concession of diversion and framing public conservation as a triage problem where certainty and immediacy must outweigh speculative spillovers. While PRO made a compelling political-economy case that charismatic moo...
@@ -46,18 +49,21 @@
 
 - debate_id: `prop_0159__gpt-5.4-high__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f`
 - transcript: [read transcript](../../../transcripts/prop_0159__gpt-5.4-high__claude-sonnet-4-6-0K__s1__tpl_placement_active_20260320f.md)
-- roles: PRO = **GPT-5.4 (high reasoning)**, CON = **Claude Sonnet 4.6 (no reasoning)**
-- judged result: Unanimous `2-0` for **Claude Sonnet 4.6 (no reasoning)**.
-- entertainment scores: `8`, `8`
-- mean signed raw margin (PRO+): `-1.65`
+- roles: PRO = **GPT-5.4 (high)**, CON = **Claude Sonnet 4.6 (no reasoning)**
+- judged result: Unanimous `3-0` for **Claude Sonnet 4.6 (no reasoning)**.
+- entertainment scores: `6`, `8`, `8`
+- mean signed raw margin (PRO+): `-1.70`
 
 | Judge | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
 | --- | --- | ---: | ---: | ---: |
+| Grok 4.3 | Claude Sonnet 4.6 (no reasoning) | -1.8 | -2.16 | 6.0 |
 | Kimi K2.6 | Claude Sonnet 4.6 (no reasoning) | -1.8 | -1.80 | 8.0 |
 | Qwen 3.6 Max Preview | Claude Sonnet 4.6 (no reasoning) | -1.5 | -1.50 | 8.0 |
 
 ### Judge Notes
 
+- **Grok 4.3**: Side A wins because it squarely answered the motion's "even when it diverts" qualifier, showed that intermediate tools can be funded directly, and exposed Side B's reliance on idealized budget design that real legislatures will not deliver. Side B never closed the sequencing gap.
+  Most decisive rebuttal noted: A's Rebuttal 2 (A4) on earmarking and the wrapper cost, which directly neutralized B's pressure-question answers.
 - **Kimi K2.6**: CON won by exposing that PRO's R&D spillover case could be achieved more cheaply and directly without the de-extinction wrapper, which misoptimizes research toward extinct genomes. CON also showed that PRO's reliance on theoretical earmarking and budget design failed to justif...
   Most decisive rebuttal noted: B's Rebuttal 2 dismantling of the wrapper justification and the earmarking defense: arguing that de-extinction adds misaligned optimization and unnecessary cost if the real goal is reproductive R&D, and that PRO's design preferences do not negate the motion's built-in diversio...
 - **Qwen 3.6 Max Preview**: CON won by effectively leveraging the motion's explicit qualifier ("even when that diverts") to neutralize PRO's budget-design and earmarking solutions, correctly framing them as idealized workarounds that contradict the premise. CON also landed a decisive turn on PRO's core R...
