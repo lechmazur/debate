@@ -22,12 +22,12 @@ Each evaluated matchup runs twice on the **same topic with sides swapped**. A th
 
 ## Current Snapshot
 
-- **34 rated models shown in the public charts**
-- **3,226 debate artifacts tracked in the current status page**
-- **1,528 side-swapped matchups tracked before incomplete pairs are removed**
-- **1,490 side-swapped matchups used for the current ratings**
-- **2,980 completed debates used for the current ratings**
-- **9,516 judge decisions behind the chart-visible published ratings**
+- **35 rated models shown in the public charts**
+- **3,386 debate artifacts tracked in the current status page**
+- **1,608 side-swapped matchups tracked before incomplete pairs are removed**
+- **1,569 side-swapped matchups used for the current ratings**
+- **3,138 completed debates used for the current ratings**
+- **9,990 judge decisions behind the chart-visible published ratings**
 
 One side-swapped matchup means two debates on the same motion with PRO and CON roles reversed.
 
@@ -100,40 +100,41 @@ This matters because debate ability can look very different on fiscal policy, ci
 
 | Rank | Model | BT | Matchups |
 | ---: | --- | ---: | ---: |
-| 1 | Claude Fable 5 (high) | 1770.9 | 102 |
-| 2 | Claude Opus 4.7 (high) | 1706.8 | 106 |
-| 3 | Claude Opus 4.8 (high) | 1690.7 | 120 |
-| 4 | Claude Sonnet 4.6 (high) | 1621.4 | 134 |
-| 5 | GPT-5.4 (high) | 1610.0 | 133 |
-| 6 | Claude Sonnet 4.6 (no reasoning) | 1602.7 | 85 |
-| 7 | GPT-5.5 (high) | 1584.6 | 96 |
-| 8 | GLM-5.1 | 1576.4 | 94 |
-| 9 | Kimi K2.6 | 1569.7 | 92 |
-| 10 | GPT-5.4 (no reasoning) | 1554.4 | 95 |
-| 11 | Gemini 3.1 Pro Preview | 1551.8 | 133 |
-| 12 | Xiaomi MiMo V2.5 Pro | 1549.3 | 87 |
-| 13 | Qwen 3.6 Max Preview | 1533.1 | 84 |
-| 14 | Kimi K2.5 Thinking | 1513.3 | 73 |
-| 15 | DeepSeek V4 Pro | 1508.6 | 78 |
-| 16 | ByteDance Seed2.0 Pro | 1506.3 | 95 |
-| 17 | MiniMax-M2.7 | 1495.6 | 85 |
-| 18 | Qwen 3.7 Max | 1491.7 | 119 |
-| 19 | Grok 4.20 0309 (Reasoning) | 1477.3 | 51 |
-| 20 | Grok 4.20 0309 (Non-Reasoning) | 1467.8 | 37 |
-| 21 | Gemini 3.5 Flash | 1465.1 | 84 |
-| 22 | Tencent Hy3 Preview (high) | 1462.4 | 64 |
-| 23 | Xiaomi MiMo V2 Pro | 1452.9 | 31 |
-| 24 | Qwen3.5-397B-A17B | 1451.1 | 93 |
-| 25 | Step 3.7 Flash (high) | 1449.5 | 113 |
-| 26 | Baidu Ernie 5.1 | 1439.6 | 117 |
-| 27 | Grok 4.3 | 1430.8 | 68 |
-| 28 | DeepSeek V3.2 | 1423.0 | 41 |
-| 29 | Mistral Medium 3.5 (high) | 1403.9 | 64 |
-| 30 | Gemini 3.1 Flash-Lite Preview | 1399.9 | 33 |
-| 31 | GPT-OSS-120B | 1327.6 | 31 |
-| 32 | Baidu Ernie 5.0 | 1302.8 | 16 |
-| 33 | Mistral Large 3 | 1276.0 | 22 |
-| 34 | Llama 4 Maverick | 1091.5 | 29 |
+| 1 | Claude Fable 5 (high) | 1767.8 | 102 |
+| 2 | Claude Opus 4.7 (high) | 1703.9 | 106 |
+| 3 | Claude Opus 4.8 (high) | 1686.9 | 125 |
+| 4 | Claude Sonnet 4.6 (high) | 1618.4 | 134 |
+| 5 | GLM-5.2 (max) | 1612.5 | 79 |
+| 6 | GPT-5.4 (high) | 1606.9 | 133 |
+| 7 | Claude Sonnet 4.6 (no reasoning) | 1599.7 | 85 |
+| 8 | GPT-5.5 (high) | 1578.2 | 101 |
+| 9 | GLM-5.1 | 1573.6 | 99 |
+| 10 | Kimi K2.6 | 1566.7 | 97 |
+| 11 | GPT-5.4 (no reasoning) | 1551.4 | 95 |
+| 12 | Gemini 3.1 Pro Preview | 1548.7 | 138 |
+| 13 | Xiaomi MiMo V2.5 Pro | 1548.2 | 91 |
+| 14 | Qwen 3.6 Max Preview | 1530.0 | 84 |
+| 15 | Kimi K2.5 Thinking | 1510.1 | 73 |
+| 16 | DeepSeek V4 Pro | 1507.4 | 83 |
+| 17 | ByteDance Seed2.0 Pro | 1502.6 | 100 |
+| 18 | MiniMax-M2.7 | 1494.7 | 90 |
+| 19 | Qwen 3.7 Max | 1490.8 | 124 |
+| 20 | Grok 4.20 0309 (Reasoning) | 1474.5 | 51 |
+| 21 | Gemini 3.5 Flash | 1465.2 | 89 |
+| 22 | Grok 4.20 0309 (Non-Reasoning) | 1465.0 | 37 |
+| 23 | Tencent Hy3 Preview (high) | 1453.4 | 69 |
+| 24 | Xiaomi MiMo V2 Pro | 1450.1 | 31 |
+| 25 | Qwen3.5-397B-A17B | 1448.0 | 93 |
+| 26 | Step 3.7 Flash (high) | 1446.3 | 118 |
+| 27 | Baidu Ernie 5.1 | 1435.5 | 122 |
+| 28 | Grok 4.3 | 1430.2 | 73 |
+| 29 | DeepSeek V3.2 | 1420.1 | 41 |
+| 30 | Mistral Medium 3.5 (high) | 1398.1 | 69 |
+| 31 | Gemini 3.1 Flash-Lite Preview | 1397.1 | 33 |
+| 32 | GPT-OSS-120B | 1324.6 | 31 |
+| 33 | Baidu Ernie 5.0 | 1299.6 | 16 |
+| 34 | Mistral Large 3 | 1273.0 | 22 |
+| 35 | Llama 4 Maverick | 1088.5 | 29 |
 
 `BT` is the headline Bradley-Terry rating. `Matchups` is the number of completed side-swapped matchup groups for that model in the current ratings.
 
@@ -144,11 +145,11 @@ This matters because debate ability can look very different on fiscal policy, ci
 
 The current picture has a Claude-led top tier, a crowded frontier cluster below it, and broader coverage for the newest comparison set.
 
-- **Claude Fable 5 (high) currently leads the published board.** It sits at 1770.9 BT across 102 completed side-swapped matchup groups, with 205 of 210 attempted debates completed.
-- **Claude Opus 4.7 and Claude Opus 4.8 remain the nearest challengers.** Opus 4.7 ranks 2nd at 1706.8 BT across 106 matchup groups, and Opus 4.8 ranks 3rd at 1690.7 BT across 120 matchup groups.
-- **Claude Sonnet 4.6 (high) remains a serious frontier debater after the larger latest-model follow-up.** It ranks 4th at 1621.4 BT across 134 matchup groups.
-- **GPT-5.5, GLM-5.1, and Kimi K2.6 form a tight group below GPT-5.4 and Sonnet.** They sit from 1584.6 to 1569.7 BT, with enough coverage to read the ordering as meaningful but still close.
-- **The latest-added non-Claude entrants remain visible in the public board.** Qwen 3.7 Max, Baidu Ernie 5.1, and Step 3.7 Flash (high) are placed with broad matchup coverage, while Tencent Hy3 Preview (high), Grok 4.3, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, and Mistral Medium 3.5 (high) remain part of the current comparison set.
+- **Claude Fable 5 (high) currently leads the published board.** It sits at 1767.8 BT across 102 completed side-swapped matchup groups, with 205 of 210 attempted debates completed.
+- **Claude Opus 4.7 and Claude Opus 4.8 remain the nearest challengers.** Opus 4.7 ranks 2nd at 1703.9 BT across 106 matchup groups, and Opus 4.8 ranks 3rd at 1686.9 BT across 125 matchup groups.
+- **GLM-5.2 (max) enters the public board near the top of the frontier cluster.** It ranks 5th at 1612.5 BT across 79 matchup groups, just below Claude Sonnet 4.6 (high) and just ahead of GPT-5.4 (high).
+- **GPT-5.4, Claude Sonnet 4.6 without reasoning, GPT-5.5, GLM-5.1, and Kimi K2.6 form a tight group below the leading Claude and GLM-5.2 rows.** They sit from 1606.9 to 1566.7 BT, with enough coverage to read the ordering as meaningful but still close.
+- **The latest-added non-Claude entrants remain visible in the public board.** GLM-5.2 (max), Qwen 3.7 Max, Baidu Ernie 5.1, and Step 3.7 Flash (high) are placed with broad matchup coverage, while Tencent Hy3 Preview (high), Grok 4.3, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, and Mistral Medium 3.5 (high) remain part of the current comparison set.
 - **Judges are rewarding rebuttal quality and argument strength more than isolated style.** The top cluster is repeatedly described in the model profiles as disciplined, grounded, clash-driven, and responsive. Lower-ranked models often retain some mix of grounding, originality, or rhetorical effectiveness, but still lose because they underperform on rebuttal quality and argument strength.
 
 ---
@@ -159,7 +160,7 @@ The price chart reads the same Bradley-Terry strength signal against estimated d
 
 ![Price versus performance](images/debate_price_vs_performance__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
 
-Higher and further left is better on this view. The chart omits vertical rating-uncertainty bands for readability and plots current rated models with available cost estimates. This cost chart is intentionally held at the previous complete cost snapshot and does not yet include Claude Fable 5. Older versions such as GPT-5.4 variants, Kimi K2.5, Qwen3.5-397B-A17B, older Grok 4.20, DeepSeek V3.2, and Xiaomi MiMo V2 Pro remain in the leaderboard data but are hidden from this cost chart by default.
+Higher and further left is better on this view. The chart omits vertical rating-uncertainty bands for readability and plots current rated models with available cost estimates. The cost table was refreshed for this snapshot and now includes Claude Fable 5 (high) and GLM-5.2 (max); GLM-5.2 averages about `$0.0538` per model-side debate versus `$0.0369` for GLM-5.1 in the recovered cost data. Older versions such as GPT-5.4 variants, Kimi K2.5, Qwen3.5-397B-A17B, older Grok 4.20, DeepSeek V3.2, and Xiaomi MiMo V2 Pro remain in the leaderboard data but are hidden from this cost chart by default.
 
 ---
 
@@ -188,7 +189,7 @@ The benchmark relies on LLM judges, so it is worth being explicit about the curr
 - mean all-bucket cross-judge winner agreement is about 0.58, counting clear wins and ties/noise as separate buckets
 - decisive-only cross-judge winner agreement is about 0.85, after dropping cases where a judge put the matchup in the tie/noise bucket
 - mean signed-margin correlation between judge pairs is about 0.43
-- mean absolute presented-side margin bias by judge is 0.161 on the signed margin scale
+- mean absolute presented-side margin bias by judge is 0.156 on the signed margin scale
 - judges' written decisions were easy to read and score in this release
 - the current judge roster includes GPT-5.5 (high), Claude Sonnet 4.6 (high), Gemini 3.1 Pro Preview, Qwen 3.6 Max Preview, Grok 4.3, and Kimi K2.6
 - the cross-judge agreement heatmaps also include historical overlap where available
@@ -226,7 +227,7 @@ These are sanity-check views, not a second leaderboard. They are there to make e
 The benchmark also tracks a judge-side entertainment/readability diagnostic as a secondary signal. It does not affect ratings, but it is useful for checking whether the benchmark produces debates that are merely formal or actually engaging to read.
 
 - mean entertainment across completed matchups shown in the charts: 7.26 / 10
-- most entertaining current models by that signal include Claude Opus 4.7 (high), Claude Opus 4.8 (high), Claude Fable 5 (high), Claude Sonnet 4.6 (high), Kimi K2.5 Thinking, Kimi K2.6, Claude Sonnet 4.6 (no reasoning), GLM-5.1, Xiaomi MiMo V2.5 Pro, and Qwen 3.6 Max Preview
+- most entertaining current models by that signal include Claude Opus 4.8 (high), Claude Opus 4.7 (high), Claude Fable 5 (high), Claude Sonnet 4.6 (high), Kimi K2.5 Thinking, Kimi K2.6, Claude Sonnet 4.6 (no reasoning), GLM-5.1, Xiaomi MiMo V2.5 Pro, and GLM-5.2 (max)
 
 High-entertainment matchup examples from the current snapshot:
 
@@ -272,7 +273,7 @@ This is not an overall reliability rate; blank outputs, formatting failures, and
 
 ![Content block rate](images/debate_content_block_rate__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
 
-Across all debate attempts tracked for this release, Xiaomi MiMo V2 Pro remains the clear outlier with 10 content blocks across 79 tracked debates. Kimi K2.5 Thinking has 4 content blocks, Qwen3.5-397B-A17B has 2, and several older or narrower rows show one each. Current models such as Claude Fable 5 (high), Claude Opus 4.8 (high), GPT-5.5 (high), GLM-5.1, Kimi K2.6, Qwen 3.7 Max, Baidu Ernie 5.1, Step 3.7 Flash (high), Grok 4.3, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, and Mistral Medium 3.5 (high) show zero content blocks in the latest status page.
+Across all debate attempts tracked for this release, Xiaomi MiMo V2 Pro remains the clear outlier with 10 content blocks across 104 tracked attempts. Kimi K2.5 Thinking has 4 content blocks, Grok 4.20 0309 (Non-Reasoning) has 3, Qwen3.5-397B-A17B has 2, and several rows show one each. Current models such as Claude Fable 5 (high), Claude Opus 4.8 (high), GLM-5.2 (max), GPT-5.5 (high), GLM-5.1, Kimi K2.6, Qwen 3.7 Max, Baidu Ernie 5.1, Step 3.7 Flash (high), Grok 4.3, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, and Mistral Medium 3.5 (high) show zero content blocks in the latest status page.
 
 ---
 
@@ -431,7 +432,7 @@ The benchmark draws from a large topic bank intended to be understandable to an 
 
 The topic bank is intentionally broad. That matters because debate performance can be very topic-sensitive, and a narrow topic family would make it too easy for models to overfit to one style of argument.
 
-The current topic bank contains 683 topics. The latest release tracks 1,528 side-swapped matchups, with 1,490 complete matchups used for the public ratings. Those rated matchups cover 675 distinct topics.
+The current topic bank contains 683 topics. The latest release tracks 1,608 side-swapped matchups, with 1,569 complete matchups used for the public ratings. Those rated matchups cover 678 distinct topics.
 
 Top-level topic coverage:
 
@@ -544,7 +545,8 @@ Read the [qualitative comparison report](reports/qualitative_model_comparisons__
 
 ## Updates
 
-- `2026-06-10`: Added Claude Fable 5 (high) added.
+- `2026-06-20`: Added GLM-5.2 (max), refreshed the rating charts, regenerated debate-cost estimates, and updated the public snapshot to 35 chart-visible models.
+- `2026-06-10`: Added Claude Fable 5 (high) to the public board.
 - `2026-06-05`: Claude Opus 4.8 (high), Qwen 3.7 Max, Baidu Ernie 5.1, and Step 3.7 Flash (high) added.
 - `2026-05-19`: Added Gemini 3.5 Flash.
 - `2026-05-04`: Updated the public ratings, bringing the leaderboard to 29 rated models with GPT-5.5, GLM-5.1, Kimi K2.6, Xiaomi MiMo V2.5 Pro, Qwen 3.6 Max Preview, DeepSeek V4 Pro, Tencent Hy3 Preview (high), Grok 4.3, and Mistral Medium 3.5 (high) added to the public board.

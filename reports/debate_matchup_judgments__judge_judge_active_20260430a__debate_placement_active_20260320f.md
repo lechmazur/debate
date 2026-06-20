@@ -1,7 +1,7 @@
 # Debate Matchup Judgments
 
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
-- report_count: `1528`
+- report_count: `1608`
 - source: per-matchup judgment summaries over the current aggregate scope
 
 ## Most Entertaining Reports

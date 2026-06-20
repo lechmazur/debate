@@ -5,7 +5,7 @@
 
 ## Claude Fable 5 (high)
 
-Snapshot: Ranked #1 in this scope, BT 1771, Glicko 1651, availability 97. It has 102 rated pair groups across 99 topics and 21 opponents.
+Snapshot: Ranked #1 in this scope, BT 1768, Glicko 1651, availability 97. It has 102 rated pair groups across 99 topics and 21 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 
@@ -32,7 +32,7 @@ Signature Excerpts
 
 ## Claude Opus 4.7 (high)
 
-Snapshot: Ranked #2 in this scope, BT 1707, Glicko 1606, availability 98. It has 106 rated pair groups across 104 topics and 29 opponents.
+Snapshot: Ranked #2 in this scope, BT 1704, Glicko 1606, availability 98. It has 106 rated pair groups across 104 topics and 29 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 
@@ -59,7 +59,7 @@ Signature Excerpts
 
 ## Claude Opus 4.8 (high)
 
-Snapshot: Ranked #3 in this scope, BT 1691, Glicko 1600, availability 95. It has 120 rated pair groups across 99 topics and 22 opponents.
+Snapshot: Ranked #3 in this scope, BT 1687, Glicko 1598, availability 95. It has 125 rated pair groups across 104 topics and 23 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 
@@ -74,7 +74,7 @@ Weaknesses
 
 Readout
 - It has looked fairly balanced across PRO and CON.
-- It currently has 108 winning pair groups, 7 ties, and 5 losses.
+- It currently has 112 winning pair groups, 8 ties, and 5 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -86,7 +86,7 @@ Signature Excerpts
 
 ## Claude Sonnet 4.6 (high)
 
-Snapshot: Ranked #4 in this scope, BT 1621, Glicko 1552, availability 93. It has 134 rated pair groups across 130 topics and 30 opponents.
+Snapshot: Ranked #4 in this scope, BT 1618, Glicko 1552, availability 93. It has 134 rated pair groups across 130 topics and 30 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 
@@ -111,9 +111,36 @@ Signature Excerpts
 - Pressure move on prop_0500: Early literacy policy should prioritize structured reading instruction over classroom autonomy in curriculum... against Grok 4.20 0309 (Non-Reasoning) (Pressure Questions, PRO, mean margin +3.10): “Q1: You claim autonomy means "professional discretion grounded in training," but if every trained teacher already applies reading science reliably, why do literacy outcomes vary so dramatically across classrooms serving identical populations?”
 - Rough patch on prop_0031: Cities should ban new single-family-only zoning districts entirely rather than just allow incremental... against Claude Sonnet 4.6 (no reasoning) (Closing, CON, mean margin -2.31): “CON wins because we stop exclusion without removing legitimate judgment.”
 
+## GLM-5.2 (max)
+
+Snapshot: Ranked #6 in this scope, BT 1613, Glicko 1566, availability 99. It has 79 rated pair groups across 79 topics and 16 opponents.
+
+Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
+
+Strengths
+- Judges were most consistently positive about rebuttal quality, and argument strength.
+- Its cleanest topic result came on prop_0554: The EU and UK should relax restrictions on onshore wind and grid expansion... (mean normalized margin +2.14).
+- It has looked most comfortable against Mistral Medium 3.5 (high) so far (mean normalized margin +1.84).
+
+Weaknesses
+- Its thinnest diagnostic areas were grounding, and rhetorical effectiveness.
+- Its hardest topic in this shard was prop_0060: Working from home on net increases productivity for many knowledge workers compared with... (mean normalized margin -1.20).
+
+Readout
+- It has looked fairly balanced across PRO and CON.
+- It currently has 61 winning pair groups, 13 ties, and 5 losses.
+- Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
+- The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
+
+Signature Excerpts
+- Signature line on prop_0637: Municipalities should allow densification by-right near transit even if it increases local displacement... against Baidu Ernie 5.1 (Closing, PRO, mean margin +2.57): “The opponent argues by-right mandates might not hold because developers walk away.”
+- Signature line on prop_0554: The EU and UK should relax restrictions on onshore wind and grid expansion... against Mistral Medium 3.5 (high) (Closing, CON, mean margin +2.42): “Denmark and Scotland succeeded through community ownership and benefit-sharing—consent mechanisms that dissolved opposition rather than overriding it.”
+- Pressure move on prop_0637: Municipalities should allow densification by-right near transit even if it increases local displacement... against Baidu Ernie 5.1 (Pressure Questions, PRO, mean margin +2.57): “Q1: You defend discretionary review as communities' shield, but you named San Francisco and D.C. — cities that already use that exact system and have catastrophic displacement. What mechanism makes the same process suddenly protect renters?”
+- Rough patch on prop_0060: Working from home on net increases productivity for many knowledge workers compared with... against Claude Opus 4.8 (high) (Closing, CON, mean margin -1.78): “But a worker whose output depends on regular office presence isn't proof that home increases productivity—it's proof that the office does, with fewer commuting days attached.”
+
 ## GPT-5.4 (high)
 
-Snapshot: Ranked #6 in this scope, BT 1610, Glicko 1546, availability 97. It has 133 rated pair groups across 133 topics and 30 opponents.
+Snapshot: Ranked #7 in this scope, BT 1607, Glicko 1546, availability 97. It has 133 rated pair groups across 133 topics and 30 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and inventive in framing.
 
@@ -140,7 +167,7 @@ Signature Excerpts
 
 ## Claude Sonnet 4.6 (no reasoning)
 
-Snapshot: Ranked #7 in this scope, BT 1603, Glicko 1542, availability 95. It has 85 rated pair groups across 85 topics and 18 opponents.
+Snapshot: Ranked #8 in this scope, BT 1600, Glicko 1542, availability 95. It has 85 rated pair groups across 85 topics and 18 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 
@@ -167,9 +194,9 @@ Signature Excerpts
 
 ## GPT-5.5 (high)
 
-Snapshot: Ranked #9 in this scope, BT 1585, Glicko 1522, availability 100. It has 96 rated pair groups across 87 topics and 21 opponents.
+Snapshot: Ranked #10 in this scope, BT 1578, Glicko 1518, availability 100. It has 101 rated pair groups across 91 topics and 22 opponents.
 
-Style: It currently reads as inventive in framing.
+Style: Style signal is still mixed in this shard.
 
 Strengths
 - Judges were most consistently positive about originality, and rebuttal quality.
@@ -182,7 +209,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 49 winning pair groups, 28 ties, and 19 losses.
+- It currently has 49 winning pair groups, 29 ties, and 23 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -194,7 +221,7 @@ Signature Excerpts
 
 ## GLM-5.1
 
-Snapshot: Ranked #10 in this scope, BT 1576, Glicko 1516, availability 97. It has 94 rated pair groups across 92 topics and 21 opponents.
+Snapshot: Ranked #11 in this scope, BT 1574, Glicko 1514, availability 97. It has 99 rated pair groups across 97 topics and 22 opponents.
 
 Style: It currently reads as clash-driven and responsive, and inventive in framing.
 
@@ -208,8 +235,8 @@ Weaknesses
 - Its hardest topic in this shard was prop_0542: Courts should allow broader use of “risk-based” pretrial detention when validated tools predict... (mean normalized margin -1.90).
 
 Readout
-- It has looked fairly balanced across PRO and CON.
-- It currently has 45 winning pair groups, 23 ties, and 26 losses.
+- It has looked stronger on PRO than CON in this shard.
+- It currently has 45 winning pair groups, 25 ties, and 29 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -221,7 +248,7 @@ Signature Excerpts
 
 ## Kimi K2.6
 
-Snapshot: Ranked #11 in this scope, BT 1570, Glicko 1512, availability 98. It has 92 rated pair groups across 84 topics and 21 opponents.
+Snapshot: Ranked #12 in this scope, BT 1567, Glicko 1510, availability 98. It has 97 rated pair groups across 89 topics and 22 opponents.
 
 Style: It currently reads as disciplined and grounded, clash-driven and responsive, and clear and persuasive.
 
@@ -236,7 +263,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 40 winning pair groups, 25 ties, and 27 losses.
+- It currently has 40 winning pair groups, 27 ties, and 30 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -248,7 +275,7 @@ Signature Excerpts
 
 ## GPT-5.4 (no reasoning)
 
-Snapshot: Ranked #12 in this scope, BT 1554, Glicko 1527, availability 96. It has 95 rated pair groups across 95 topics and 21 opponents.
+Snapshot: Ranked #13 in this scope, BT 1551, Glicko 1527, availability 96. It has 95 rated pair groups across 95 topics and 21 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -275,12 +302,12 @@ Signature Excerpts
 
 ## Gemini 3.1 Pro Preview
 
-Snapshot: Ranked #13 in this scope, BT 1552, Glicko 1501, availability 94. It has 133 rated pair groups across 127 topics and 33 opponents.
+Snapshot: Ranked #14 in this scope, BT 1549, Glicko 1499, availability 95. It has 138 rated pair groups across 132 topics and 34 opponents.
 
 Style: Style signal is still mixed in this shard.
 
 Strengths
-- Judges were most consistently positive about rebuttal quality, and rhetorical effectiveness.
+- Judges were most consistently positive about rhetorical effectiveness, and rebuttal quality.
 - Its cleanest topic result came on prop_0501: Public universities should cap international student recruitment when local housing shortages become severe... (mean normalized margin +1.99).
 - It has looked most comfortable against Baidu Ernie 5.0 so far (mean normalized margin +1.93).
 
@@ -290,7 +317,7 @@ Weaknesses
 
 Readout
 - It has looked fairly balanced across PRO and CON.
-- It currently has 47 winning pair groups, 39 ties, and 47 losses.
+- It currently has 47 winning pair groups, 40 ties, and 51 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -302,7 +329,7 @@ Signature Excerpts
 
 ## Xiaomi MiMo V2.5 Pro
 
-Snapshot: Ranked #14 in this scope, BT 1549, Glicko 1497, availability 98. It has 87 rated pair groups across 85 topics and 21 opponents.
+Snapshot: Ranked #15 in this scope, BT 1548, Glicko 1496, availability 97. It has 91 rated pair groups across 89 topics and 22 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -317,7 +344,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 33 winning pair groups, 24 ties, and 30 losses.
+- It currently has 33 winning pair groups, 26 ties, and 32 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -329,7 +356,7 @@ Signature Excerpts
 
 ## Qwen 3.6 Max Preview
 
-Snapshot: Ranked #15 in this scope, BT 1533, Glicko 1490, availability 100. It has 84 rated pair groups across 80 topics and 20 opponents.
+Snapshot: Ranked #16 in this scope, BT 1530, Glicko 1490, availability 100. It has 84 rated pair groups across 80 topics and 20 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -356,7 +383,7 @@ Signature Excerpts
 
 ## Kimi K2.5 Thinking
 
-Snapshot: Ranked #17 in this scope, BT 1513, Glicko 1489, availability 90. It has 73 rated pair groups across 70 topics and 26 opponents.
+Snapshot: Ranked #18 in this scope, BT 1510, Glicko 1489, availability 90. It has 73 rated pair groups across 70 topics and 26 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -383,7 +410,7 @@ Signature Excerpts
 
 ## DeepSeek V4 Pro
 
-Snapshot: Ranked #18 in this scope, BT 1509, Glicko 1473, availability 100. It has 78 rated pair groups across 76 topics and 21 opponents.
+Snapshot: Ranked #19 in this scope, BT 1507, Glicko 1471, availability 100. It has 83 rated pair groups across 81 topics and 22 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -398,7 +425,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 14 winning pair groups, 19 ties, and 45 losses.
+- It currently has 15 winning pair groups, 19 ties, and 49 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -410,7 +437,7 @@ Signature Excerpts
 
 ## ByteDance Seed2.0 Pro
 
-Snapshot: Ranked #19 in this scope, BT 1506, Glicko 1483, availability 100. It has 95 rated pair groups across 92 topics and 24 opponents.
+Snapshot: Ranked #20 in this scope, BT 1503, Glicko 1480, availability 100. It has 100 rated pair groups across 96 topics and 25 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -420,12 +447,12 @@ Strengths
 - It has looked most comfortable against Baidu Ernie 5.0 so far (mean normalized margin +1.86).
 
 Weaknesses
-- Its thinnest diagnostic areas were grounding, and argument strength.
+- Its thinnest diagnostic areas were grounding, and rebuttal quality.
 - Its hardest topic in this shard was prop_0094: Robotaxi fleets should remain geofenced and numerically capped in dense city centers until... (mean normalized margin -2.08).
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 30 winning pair groups, 25 ties, and 40 losses.
+- It currently has 30 winning pair groups, 25 ties, and 45 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -437,7 +464,7 @@ Signature Excerpts
 
 ## MiniMax-M2.7
 
-Snapshot: Ranked #20 in this scope, BT 1496, Glicko 1475, availability 93. It has 85 rated pair groups across 83 topics and 23 opponents.
+Snapshot: Ranked #21 in this scope, BT 1495, Glicko 1474, availability 94. It has 90 rated pair groups across 88 topics and 24 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -452,7 +479,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 18 winning pair groups, 33 ties, and 34 losses.
+- It currently has 18 winning pair groups, 35 ties, and 37 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -464,7 +491,7 @@ Signature Excerpts
 
 ## Qwen 3.7 Max
 
-Snapshot: Ranked #21 in this scope, BT 1492, Glicko 1473, availability 98. It has 119 rated pair groups across 113 topics and 22 opponents.
+Snapshot: Ranked #22 in this scope, BT 1491, Glicko 1473, availability 98. It has 124 rated pair groups across 118 topics and 23 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -479,7 +506,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 32 winning pair groups, 40 ties, and 47 losses.
+- It currently has 32 winning pair groups, 41 ties, and 51 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -491,7 +518,7 @@ Signature Excerpts
 
 ## Grok 4.20 0309 (Reasoning)
 
-Snapshot: Ranked #22 in this scope, BT 1477, Glicko 1459, availability 96. It has 51 rated pair groups across 51 topics and 16 opponents.
+Snapshot: Ranked #23 in this scope, BT 1475, Glicko 1459, availability 96. It has 51 rated pair groups across 51 topics and 16 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -516,9 +543,36 @@ Signature Excerpts
 - Pressure move on prop_0380: Public-facing digital services should face meaningful fines when they repeatedly fail basic accessibility... against GLM-5 (Pressure Questions, PRO, mean margin +2.85): “Q2: When CON admits fines are a mere "rounding error" for Meta or Google [C2.4], what actual incentive does their flexible alternative create to stop deferring accessibility?”
 - Rough patch on prop_0613: Governments should require social media platforms to offer interoperable, user-portable messaging and social... against Claude Opus 4.6 (high) (Closing, PRO, mean margin -2.22): “Users gain genuine exit—migrating to better moderation or privacy tools without orphaning their contacts—while platforms finally compete on merit rather than inertia.”
 
+## Gemini 3.5 Flash
+
+Snapshot: Ranked #24 in this scope, BT 1465, Glicko 1451, availability 99. It has 89 rated pair groups across 85 topics and 20 opponents.
+
+Style: It currently reads as more conventional than inventive.
+
+Strengths
+- Judges were most consistently positive about rhetorical effectiveness, and grounding.
+- Its cleanest topic result came on prop_0027: The 2003 invasion of Iraq made the Middle East less stable than it... (mean normalized margin +1.45).
+- It has looked most comfortable against Mistral Medium 3.5 (high) so far (mean normalized margin +0.53).
+
+Weaknesses
+- Its thinnest diagnostic areas were rebuttal quality, and originality.
+- Its hardest topic in this shard was prop_0683: On balance, social media platforms should be legally required to provide due-process protections... (mean normalized margin -2.40).
+
+Readout
+- It has looked stronger on PRO than CON in this shard.
+- It currently has 9 winning pair groups, 31 ties, and 49 losses.
+- Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
+- The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
+
+Signature Excerpts
+- Signature line on prop_0110: Public healthcare systems deliver better population health outcomes per dollar than predominantly private... against Baidu Ernie 5.1 (Closing, PRO, mean margin +2.74): “When money is structurally directed toward preventing illness rather than managing administrative complexity, superior health outcomes per dollar are not just achieved—they are mathematically and economically inevitable.”
+- Signature line on prop_0336: Real-name policies on major social platforms do more harm to dissidents, whistleblowers, and... against MiniMax-M2.7 (Closing, PRO, mean margin +2.13): “In the real world of data breaches, state coercion, and systemic design failures, requiring a real name creates an absolute, irreversible point of failure.”
+- Pressure move on prop_0110: Public healthcare systems deliver better population health outcomes per dollar than predominantly private... against Baidu Ernie 5.1 (Pressure Questions, PRO, mean margin +2.74): “Q2: What economic incentive prevents private insurers from underinvesting in long-term preventative care when high customer turnover ensures the financial benefits of those investments will only accrue to competing insurers?”
+- Rough patch on prop_0683: On balance, social media platforms should be legally required to provide due-process protections... against Claude Fable 5 (high) (Closing, PRO, mean margin -2.67): “This debate boils down to one fundamental clash: do we accept a permanent constitutional vacuum in our primary public square, or do we demand the rule of law?”
+
 ## Grok 4.20 0309 (Non-Reasoning)
 
-Snapshot: Ranked #23 in this scope, BT 1468, Glicko 1482, availability 92. It has 37 rated pair groups across 37 topics and 12 opponents.
+Snapshot: Ranked #25 in this scope, BT 1465, Glicko 1482, availability 92. It has 37 rated pair groups across 37 topics and 12 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -543,41 +597,14 @@ Signature Excerpts
 - Pressure move on prop_0608: Carbon offsets used for corporate “net-zero” claims should be legally limited to a... against Xiaomi MiMo V2 Pro (Pressure Questions, PRO, mean margin +2.81): “Q2: You concede hard-to-abate sectors lack the tech today [C2.2]; if those emissions cannot yet be eliminated, why should companies be allowed to brand them “net-zero” via offsets rather than label them truthfully as unabated?”
 - Rough patch on prop_0500: Early literacy policy should prioritize structured reading instruction over classroom autonomy in curriculum... against Claude Sonnet 4.6 (high) (Closing, CON, mean margin -3.10): “Policy should prioritize giving trained teachers the authority to integrate science intelligently rather than pretending a mandated script magically becomes a floor once paperwork is filed.”
 
-## Gemini 3.5 Flash
-
-Snapshot: Ranked #24 in this scope, BT 1465, Glicko 1452, availability 99. It has 84 rated pair groups across 80 topics and 19 opponents.
-
-Style: It currently reads as more conventional than inventive.
-
-Strengths
-- Judges were most consistently positive about rhetorical effectiveness, and grounding.
-- Its cleanest topic result came on prop_0027: The 2003 invasion of Iraq made the Middle East less stable than it... (mean normalized margin +1.45).
-- It has looked most comfortable against Mistral Medium 3.5 (high) so far (mean normalized margin +0.53).
-
-Weaknesses
-- Its thinnest diagnostic areas were rebuttal quality, and originality.
-- Its hardest topic in this shard was prop_0683: On balance, social media platforms should be legally required to provide due-process protections... (mean normalized margin -2.40).
-
-Readout
-- It has looked stronger on PRO than CON in this shard.
-- It currently has 9 winning pair groups, 30 ties, and 45 losses.
-- Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
-- The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
-
-Signature Excerpts
-- Signature line on prop_0110: Public healthcare systems deliver better population health outcomes per dollar than predominantly private... against Baidu Ernie 5.1 (Closing, PRO, mean margin +2.74): “When money is structurally directed toward preventing illness rather than managing administrative complexity, superior health outcomes per dollar are not just achieved—they are mathematically and economically inevitable.”
-- Signature line on prop_0336: Real-name policies on major social platforms do more harm to dissidents, whistleblowers, and... against MiniMax-M2.7 (Closing, PRO, mean margin +2.13): “In the real world of data breaches, state coercion, and systemic design failures, requiring a real name creates an absolute, irreversible point of failure.”
-- Pressure move on prop_0110: Public healthcare systems deliver better population health outcomes per dollar than predominantly private... against Baidu Ernie 5.1 (Pressure Questions, PRO, mean margin +2.74): “Q2: What economic incentive prevents private insurers from underinvesting in long-term preventative care when high customer turnover ensures the financial benefits of those investments will only accrue to competing insurers?”
-- Rough patch on prop_0683: On balance, social media platforms should be legally required to provide due-process protections... against Claude Fable 5 (high) (Closing, PRO, mean margin -2.67): “This debate boils down to one fundamental clash: do we accept a permanent constitutional vacuum in our primary public square, or do we demand the rule of law?”
-
 ## Tencent Hy3 Preview (high)
 
-Snapshot: Ranked #25 in this scope, BT 1462, Glicko 1448, availability 97. It has 64 rated pair groups across 62 topics and 21 opponents.
+Snapshot: Ranked #26 in this scope, BT 1453, Glicko 1441, availability 97. It has 69 rated pair groups across 66 topics and 22 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
 Strengths
-- Judges were most consistently positive about argument strength, and grounding.
+- Judges were most consistently positive about grounding, and argument strength.
 - Its cleanest topic result came on prop_0317: Major live-event ticketing platforms should be required to cap resale markups or provide... (mean normalized margin +1.54).
 - It has looked most comfortable against Grok 4.3 so far (mean normalized margin +0.84).
 
@@ -587,7 +614,7 @@ Weaknesses
 
 Readout
 - It has looked fairly balanced across PRO and CON.
-- It currently has 11 winning pair groups, 15 ties, and 38 losses.
+- It currently has 11 winning pair groups, 15 ties, and 43 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -599,7 +626,7 @@ Signature Excerpts
 
 ## Xiaomi MiMo V2 Pro
 
-Snapshot: Ranked #26 in this scope, BT 1453, Glicko 1450, availability 62. It has 31 rated pair groups across 31 topics and 15 opponents.
+Snapshot: Ranked #27 in this scope, BT 1450, Glicko 1450, availability 62. It has 31 rated pair groups across 31 topics and 15 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -626,7 +653,7 @@ Signature Excerpts
 
 ## Qwen3.5-397B-A17B
 
-Snapshot: Ranked #27 in this scope, BT 1451, Glicko 1446, availability 96. It has 93 rated pair groups across 90 topics and 30 opponents.
+Snapshot: Ranked #28 in this scope, BT 1448, Glicko 1446, availability 96. It has 93 rated pair groups across 90 topics and 30 opponents.
 
 Style: Style signal is still mixed in this shard.
 
@@ -653,7 +680,7 @@ Signature Excerpts
 
 ## Step 3.7 Flash (high)
 
-Snapshot: Ranked #28 in this scope, BT 1450, Glicko 1445, availability 98. It has 113 rated pair groups across 113 topics and 22 opponents.
+Snapshot: Ranked #29 in this scope, BT 1446, Glicko 1443, availability 98. It has 118 rated pair groups across 118 topics and 23 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -668,7 +695,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 12 winning pair groups, 31 ties, and 70 losses.
+- It currently has 12 winning pair groups, 31 ties, and 75 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -680,7 +707,7 @@ Signature Excerpts
 
 ## Baidu Ernie 5.1
 
-Snapshot: Ranked #29 in this scope, BT 1440, Glicko 1437, availability 100. It has 117 rated pair groups across 110 topics and 22 opponents.
+Snapshot: Ranked #30 in this scope, BT 1435, Glicko 1434, availability 100. It has 122 rated pair groups across 115 topics and 23 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -695,7 +722,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 14 winning pair groups, 24 ties, and 79 losses.
+- It currently has 14 winning pair groups, 24 ties, and 84 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -707,7 +734,7 @@ Signature Excerpts
 
 ## Grok 4.3
 
-Snapshot: Ranked #30 in this scope, BT 1431, Glicko 1425, availability 99. It has 68 rated pair groups across 65 topics and 21 opponents.
+Snapshot: Ranked #31 in this scope, BT 1430, Glicko 1423, availability 99. It has 73 rated pair groups across 70 topics and 22 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -722,7 +749,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 0 winning pair groups, 12 ties, and 56 losses.
+- It currently has 0 winning pair groups, 12 ties, and 61 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -734,7 +761,7 @@ Signature Excerpts
 
 ## DeepSeek V3.2
 
-Snapshot: Ranked #31 in this scope, BT 1423, Glicko 1441, availability 93. It has 41 rated pair groups across 41 topics and 13 opponents.
+Snapshot: Ranked #32 in this scope, BT 1420, Glicko 1441, availability 93. It has 41 rated pair groups across 41 topics and 13 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -761,7 +788,7 @@ Signature Excerpts
 
 ## Mistral Medium 3.5 (high)
 
-Snapshot: Ranked #32 in this scope, BT 1404, Glicko 1410, availability 100. It has 64 rated pair groups across 62 topics and 21 opponents.
+Snapshot: Ranked #33 in this scope, BT 1398, Glicko 1405, availability 100. It has 69 rated pair groups across 67 topics and 22 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -776,7 +803,7 @@ Weaknesses
 
 Readout
 - It has looked stronger on PRO than CON in this shard.
-- It currently has 2 winning pair groups, 12 ties, and 50 losses.
+- It currently has 2 winning pair groups, 12 ties, and 55 losses.
 - Judges have supplied 4 positive evidence blocks and 4 negative ones for this model in the current scope.
 - The scouting bundle also includes 4 direct turn excerpts chosen to reveal recurring style.
 
@@ -788,7 +815,7 @@ Signature Excerpts
 
 ## Gemini 3.1 Flash-Lite Preview
 
-Snapshot: Ranked #33 in this scope, BT 1400, Glicko 1435, availability 92. It has 33 rated pair groups across 33 topics and 11 opponents.
+Snapshot: Ranked #34 in this scope, BT 1397, Glicko 1435, availability 92. It has 33 rated pair groups across 33 topics and 11 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -815,7 +842,7 @@ Signature Excerpts
 
 ## GPT-OSS-120B
 
-Snapshot: Ranked #34 in this scope, BT 1328, Glicko 1415, availability 100. It has 31 rated pair groups across 31 topics and 8 opponents.
+Snapshot: Ranked #35 in this scope, BT 1325, Glicko 1415, availability 100. It has 31 rated pair groups across 31 topics and 8 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -842,7 +869,7 @@ Signature Excerpts
 
 ## Baidu Ernie 5.0
 
-Snapshot: Ranked #35 in this scope, BT 1303, Glicko 1359, availability 100. It has 16 rated pair groups across 16 topics and 6 opponents.
+Snapshot: Ranked #36 in this scope, BT 1300, Glicko 1359, availability 100. It has 16 rated pair groups across 16 topics and 6 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -869,7 +896,7 @@ Signature Excerpts
 
 ## Mistral Large 3
 
-Snapshot: Ranked #36 in this scope, BT 1276, Glicko 1408, availability 89. It has 22 rated pair groups across 22 topics and 7 opponents.
+Snapshot: Ranked #37 in this scope, BT 1273, Glicko 1408, availability 89. It has 22 rated pair groups across 22 topics and 7 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
@@ -896,7 +923,7 @@ Signature Excerpts
 
 ## Llama 4 Maverick
 
-Snapshot: Ranked #37 in this scope, BT 1091, Glicko 1276, availability 97. It has 29 rated pair groups across 29 topics and 8 opponents.
+Snapshot: Ranked #38 in this scope, BT 1088, Glicko 1276, availability 97. It has 29 rated pair groups across 29 topics and 8 opponents.
 
 Style: It currently reads as more conventional than inventive.
 
