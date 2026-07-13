@@ -1,7 +1,7 @@
 # Debate Matchup Judgments
 
 - template_id: `judge_judge_active_20260430a__debate_placement_active_20260320f`
-- report_count: `1608`
+- report_count: `1683`
 - source: per-matchup judgment summaries over the current aggregate scope
 
 ## Most Entertaining Reports
@@ -41,5 +41,5 @@
 | Gemini 3.1 Pro Preview vs Qwen 3.7 Max | prop_0360 | Tie | 7.00 | [report](debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0360-gemini-3.1-pro-preview-vs-qwen3.7-max.md) |
 | GPT-5.5 (high) vs Qwen 3.6 Max Preview | prop_0081 | Tie | 7.67 | [report](debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0081-gpt-5.5-high-vs-qwen3.6-max-preview.md) |
 | DeepSeek V4 Pro vs Kimi K2.6 | prop_0246 | Tie | 7.50 | [report](debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0246-deepseek-v4-pro-vs-kimi-k2.6.md) |
+| GLM-5.2 (max) vs MiniMax-M3 | prop_0551 | Tie | 7.33 | [report](debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0551-glm-5-2-vs-minimax-m3.md) |
 | Baidu Ernie 5.1 vs Qwen3.5-397B-A17B | prop_0326 | Tie | 6.83 | [report](debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0326-ernie-5.1-vs-qwen3.5-397b-a17b.md) |
-| Kimi K2.5 Thinking vs Qwen 3.6 Max Preview | prop_0331 | Tie | 7.50 | [report](debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0331-kimi-k2.5-vs-qwen3.6-max-preview.md) |

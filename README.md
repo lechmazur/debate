@@ -6,7 +6,7 @@ Each evaluated matchup runs twice on the **same topic with sides swapped**. A th
 
 ---
 
-![Bradley-Terry leaderboard](images/debate_bt_ratings__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Bradley-Terry leaderboard](images/debate_bt_ratings__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
 ---
 
@@ -15,25 +15,27 @@ Each evaluated matchup runs twice on the **same topic with sides swapped**. A th
 - Each bar is one model’s current **Bradley-Terry rating**.
 - Higher bars mean stronger judged debate performance.
 - Bradley-Terry is a relative within-pool rating centered near `1500`; it is not an absolute capability score.
-- The grey band behind each bar is the **95% robust confidence interval** for that model’s rating.
+- The grey band behind each bar spans the **95% robust confidence interval**; darker shading means higher relative density for the rating location.
 - The published order uses **Bradley-Terry**.
 
 ---
 
 ## Current Snapshot
 
-- **35 rated models shown in the public charts**
-- **3,386 debate artifacts tracked in the current status page**
-- **1,608 side-swapped matchups tracked before incomplete pairs are removed**
-- **1,569 side-swapped matchups used for the current ratings**
-- **3,138 completed debates used for the current ratings**
-- **9,990 judge decisions behind the chart-visible published ratings**
+- **40 rated models shown in the public charts**
+- **4,380 debate artifacts tracked in the current status page**
+- **2,103 side-swapped matchups tracked before incomplete pairs are removed**
+- **2,053 side-swapped matchups used for the current ratings**
+- **4,106 completed debates used for the current ratings**
+- **12,894 judge decisions behind the published ratings**
 
 One side-swapped matchup means two debates on the same motion with PRO and CON roles reversed.
 
 The transcript links below point to completed debates that are ready to read directly.
 
 Older models remain in the data for comparison, but the README and charts emphasize the current model set by default. The price-vs-performance chart also hides older model versions by default so the cost comparison emphasizes current successors.
+
+This snapshot is an explicit append-only blend: the April 2026 public judgment scope supplies the historical matchups, while the accepted July seven-family roster supplies the 829 newly completed frontier debates. The 150-debate judge bridge is used only for agreement diagnostics and does not enter ratings.
 
 ---
 
@@ -42,9 +44,9 @@ Older models remain in the data for comparison, but the README and charts emphas
 There are four useful ways to read this snapshot:
 
 1. **Fast ranking check**: start with the Bradley-Terry chart, then use the [full leaderboard table](#current-full-leaderboard) to see coverage for each model.
-2. **Design sanity check**: read the [pairwise heatmap](#pairwise-view), [judge sanity checks](#judge-sanity-checks), [cross-judge agreement heatmaps](#cross-judge-agreement), [status summary](reports/debate_benchmark_status__judge_judge_active_20260430a__debate_placement_active_20260320f.md), and [reliability diagnostics](#reliability-diagnostics) to see whether the headline ranking is being distorted by narrow matchups, judge disagreement, or model-service problems.
-3. **Transcript-level read**: jump to the [worked examples](#worked-examples), then use the [matchup results index](reports/debate_matchup_judgments__judge_judge_active_20260430a__debate_placement_active_20260320f.md), [model profiles](reports/debate_model_profiles__judge_judge_active_20260430a__debate_placement_active_20260320f.md), and [model deep dives](reports/debate_model_dossiers__judge_judge_active_20260430a__debate_placement_active_20260320f__gpt-5.4-low.md) for broader transcript-driven patterns.
-4. **Quality/readability check**: use the [debate quality signal](#debate-quality-signal) and [entertainment report](reports/debate_entertainment_report__judge_judge_active_20260430a__debate_placement_active_20260320f.md) to see which models produce debates judges found readable or engaging. This is diagnostic only and does not affect ratings.
+2. **Design sanity check**: read the [pairwise heatmap](#pairwise-view), [judge sanity checks](#judge-sanity-checks), [cross-judge agreement heatmaps](#cross-judge-agreement), [status summary](reports/debate_benchmark_status__judge_judge_blend_20260712a__debate_placement_active_20260320f.md), and [reliability diagnostics](#reliability-diagnostics) to see whether the headline ranking is being distorted by narrow matchups, judge disagreement, or model-service problems.
+3. **Transcript-level read**: jump to the [worked examples](#worked-examples), then use the [matchup results index](reports/debate_matchup_judgments__judge_judge_blend_20260712a__debate_placement_active_20260320f.md), [model profiles](reports/debate_model_profiles__judge_judge_blend_20260712a__debate_placement_active_20260320f.md), and [model deep dives](reports/debate_model_dossiers__judge_judge_active_20260430a__debate_placement_active_20260320f__gpt-5.4-low.md) for broader transcript-driven patterns.
+4. **Quality/readability check**: use the [debate quality signal](#debate-quality-signal) and [entertainment report](reports/debate_entertainment_report__judge_judge_blend_20260712a__debate_placement_active_20260320f.md) to see which models produce debates judges found readable or engaging. This is diagnostic only and does not affect ratings.
 
 The charts are meant to answer “who is ahead?” quickly. The worked examples, matchup reports, model profiles, and model deep dives are meant to answer the more important follow-up: “what did the better debate actually look like?”
 
@@ -54,7 +56,7 @@ The charts are meant to answer “who is ahead?” quickly. The worked examples,
 
 The pairwise heatmap shows how models perform against each other after aggregation across completed, side-swapped matchups. This is useful because a single scalar leaderboard always hides some structure. A model can be strong overall while still having a few specific bad matchups.
 
-![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
 Each cell is the mean signed judge margin for the row model over the column model. Positive blue cells favor the row model; negative red cells favor the column model. The number in parentheses is the count of completed side-swapped matchups for that head-to-head cell.
 
@@ -100,41 +102,46 @@ This matters because debate ability can look very different on fiscal policy, ci
 
 | Rank | Model | BT | Matchups |
 | ---: | --- | ---: | ---: |
-| 1 | Claude Fable 5 (high) | 1767.8 | 102 |
-| 2 | Claude Opus 4.7 (high) | 1703.9 | 106 |
-| 3 | Claude Opus 4.8 (high) | 1686.9 | 125 |
-| 4 | Claude Sonnet 4.6 (high) | 1618.4 | 134 |
-| 5 | GLM-5.2 (max) | 1612.5 | 79 |
-| 6 | GPT-5.4 (high) | 1606.9 | 133 |
-| 7 | Claude Sonnet 4.6 (no reasoning) | 1599.7 | 85 |
-| 8 | GPT-5.5 (high) | 1578.2 | 101 |
-| 9 | GLM-5.1 | 1573.6 | 99 |
-| 10 | Kimi K2.6 | 1566.7 | 97 |
-| 11 | GPT-5.4 (no reasoning) | 1551.4 | 95 |
-| 12 | Gemini 3.1 Pro Preview | 1548.7 | 138 |
-| 13 | Xiaomi MiMo V2.5 Pro | 1548.2 | 91 |
-| 14 | Qwen 3.6 Max Preview | 1530.0 | 84 |
-| 15 | Kimi K2.5 Thinking | 1510.1 | 73 |
-| 16 | DeepSeek V4 Pro | 1507.4 | 83 |
-| 17 | ByteDance Seed2.0 Pro | 1502.6 | 100 |
-| 18 | MiniMax-M2.7 | 1494.7 | 90 |
-| 19 | Qwen 3.7 Max | 1490.8 | 124 |
-| 20 | Grok 4.20 0309 (Reasoning) | 1474.5 | 51 |
-| 21 | Gemini 3.5 Flash | 1465.2 | 89 |
-| 22 | Grok 4.20 0309 (Non-Reasoning) | 1465.0 | 37 |
-| 23 | Tencent Hy3 Preview (high) | 1453.4 | 69 |
-| 24 | Xiaomi MiMo V2 Pro | 1450.1 | 31 |
-| 25 | Qwen3.5-397B-A17B | 1448.0 | 93 |
-| 26 | Step 3.7 Flash (high) | 1446.3 | 118 |
-| 27 | Baidu Ernie 5.1 | 1435.5 | 122 |
-| 28 | Grok 4.3 | 1430.2 | 73 |
-| 29 | DeepSeek V3.2 | 1420.1 | 41 |
-| 30 | Mistral Medium 3.5 (high) | 1398.1 | 69 |
-| 31 | Gemini 3.1 Flash-Lite Preview | 1397.1 | 33 |
-| 32 | GPT-OSS-120B | 1324.6 | 31 |
-| 33 | Baidu Ernie 5.0 | 1299.6 | 16 |
-| 34 | Mistral Large 3 | 1273.0 | 22 |
-| 35 | Llama 4 Maverick | 1088.5 | 29 |
+| 1 | Claude Fable 5 (high) | 1759.9 | 130 |
+| 2 | Claude Opus 4.7 (high) | 1690.1 | 120 |
+| 3 | Muse Spark 1.1 (high) | 1687.6 | 98 |
+| 4 | GPT-5.6 Sol (high) | 1684.2 | 98 |
+| 5 | Claude Opus 4.8 (high) | 1672.7 | 150 |
+| 6 | Claude Sonnet 5 (high) | 1622.1 | 110 |
+| 7 | Claude Sonnet 4.6 (high) | 1603.7 | 139 |
+| 8 | GLM-5.2 (max) | 1597.6 | 109 |
+| 9 | GPT-5.4 (high) | 1592.5 | 133 |
+| 10 | Claude Sonnet 4.6 (no reasoning) | 1586.2 | 85 |
+| 11 | GPT-5.5 (high) | 1567.4 | 126 |
+| 12 | GLM-5.1 | 1558.5 | 99 |
+| 13 | Kimi K2.6 | 1553.8 | 126 |
+| 14 | MiniMax-M3 | 1541.0 | 100 |
+| 15 | GPT-5.4 (no reasoning) | 1538.0 | 95 |
+| 16 | Gemini 3.1 Pro Preview | 1535.8 | 163 |
+| 17 | Xiaomi MiMo V2.5 Pro | 1532.0 | 120 |
+| 18 | Grok 4.5 (high) | 1523.9 | 100 |
+| 19 | Qwen 3.6 Max Preview | 1514.7 | 84 |
+| 20 | Kimi K2.5 Thinking | 1495.5 | 73 |
+| 21 | ByteDance Seed2.0 Pro | 1494.7 | 148 |
+| 22 | DeepSeek V4 Pro | 1482.9 | 113 |
+| 23 | MiniMax-M2.7 | 1480.7 | 90 |
+| 24 | Qwen 3.7 Max | 1475.4 | 149 |
+| 25 | Grok 4.20 0309 (Reasoning) | 1461.0 | 51 |
+| 26 | Grok 4.20 0309 (Non-Reasoning) | 1452.0 | 37 |
+| 27 | Gemini 3.5 Flash | 1449.4 | 114 |
+| 28 | Xiaomi MiMo V2 Pro | 1437.1 | 31 |
+| 29 | Qwen3.5-397B-A17B | 1433.5 | 93 |
+| 30 | Step 3.7 Flash (high) | 1424.9 | 143 |
+| 31 | Baidu Ernie 5.1 | 1422.2 | 147 |
+| 32 | Tencent Hy3 Preview (high) | 1421.6 | 99 |
+| 33 | Grok 4.3 | 1409.7 | 88 |
+| 34 | DeepSeek V3.2 | 1407.1 | 41 |
+| 35 | Mistral Medium 3.5 (high) | 1384.5 | 98 |
+| 36 | Gemini 3.1 Flash-Lite Preview | 1384.1 | 33 |
+| 37 | GPT-OSS-120B | 1310.5 | 31 |
+| 38 | Baidu Ernie 5.0 | 1287.4 | 16 |
+| 39 | Mistral Large 3 | 1259.0 | 22 |
+| 40 | Llama 4 Maverick | 1074.5 | 29 |
 
 `BT` is the headline Bradley-Terry rating. `Matchups` is the number of completed side-swapped matchup groups for that model in the current ratings.
 
@@ -143,13 +150,14 @@ This matters because debate ability can look very different on fiscal policy, ci
 
 ## What Stands Out
 
-The current picture has a Claude-led top tier, a crowded frontier cluster below it, and broader coverage for the newest comparison set.
+The current picture still has a Claude-led top tier, but the July entrants materially reshape the nearest-challenger cluster.
 
-- **Claude Fable 5 (high) currently leads the published board.** It sits at 1767.8 BT across 102 completed side-swapped matchup groups, with 205 of 210 attempted debates completed.
-- **Claude Opus 4.7 and Claude Opus 4.8 remain the nearest challengers.** Opus 4.7 ranks 2nd at 1703.9 BT across 106 matchup groups, and Opus 4.8 ranks 3rd at 1686.9 BT across 125 matchup groups.
-- **GLM-5.2 (max) enters the public board near the top of the frontier cluster.** It ranks 5th at 1612.5 BT across 79 matchup groups, just below Claude Sonnet 4.6 (high) and just ahead of GPT-5.4 (high).
-- **GPT-5.4, Claude Sonnet 4.6 without reasoning, GPT-5.5, GLM-5.1, and Kimi K2.6 form a tight group below the leading Claude and GLM-5.2 rows.** They sit from 1606.9 to 1566.7 BT, with enough coverage to read the ordering as meaningful but still close.
-- **The latest-added non-Claude entrants remain visible in the public board.** GLM-5.2 (max), Qwen 3.7 Max, Baidu Ernie 5.1, and Step 3.7 Flash (high) are placed with broad matchup coverage, while Tencent Hy3 Preview (high), Grok 4.3, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, and Mistral Medium 3.5 (high) remain part of the current comparison set.
+- **Claude Fable 5 (high) remains first.** It sits at 1759.9 BT across 130 completed side-swapped matchup groups.
+- **Muse Spark 1.1 and GPT-5.6 Sol remain almost level with Claude Opus 4.7.** They rank 3rd and 4th at 1687.6 and 1684.2 BT, between Opus 4.7 and Opus 4.8; their confidence intervals overlap substantially.
+- **Claude Sonnet 5 remains sixth.** Its 1622.1 BT across 110 matchup groups places it above Claude Sonnet 4.6, GLM-5.2, and GPT-5.4 in this snapshot.
+- **Grok 4.5 improves sharply over Grok 4.3.** It ranks 18th at 1523.9 BT across 100 matchup groups, while Grok 4.3 ranks 33rd at 1409.7.
+- **The middle frontier remains tightly packed.** GPT-5.5, GLM-5.1, Kimi K2.6, MiniMax-M3, GPT-5.4 without reasoning, Gemini 3.1 Pro Preview, and Xiaomi MiMo V2.5 Pro sit from 1567.4 to 1532.0 BT, so small rank differences should be read with the uncertainty bands.
+- **Qwen 3.7 remains below Qwen 3.6 in debate performance despite broader coverage.** Qwen 3.7 ranks 24th at 1475.4 BT across 149 matchup groups; Qwen 3.6 ranks 19th at 1514.7 across 84.
 - **Judges are rewarding rebuttal quality and argument strength more than isolated style.** The top cluster is repeatedly described in the model profiles as disciplined, grounded, clash-driven, and responsive. Lower-ranked models often retain some mix of grounding, originality, or rhetorical effectiveness, but still lose because they underperform on rebuttal quality and argument strength.
 
 ---
@@ -158,9 +166,9 @@ The current picture has a Claude-led top tier, a crowded frontier cluster below 
 
 The price chart reads the same Bradley-Terry strength signal against estimated debate cost. The x-axis is model-side USD per completed debate and excludes the cost of judging. When exact billing data is available, the chart uses it; otherwise it estimates cost from the debate text. Costs are shown only where USD estimates are available.
 
-![Price versus performance](images/debate_price_vs_performance__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Price versus performance](images/debate_price_vs_performance__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
-Higher and further left is better on this view. The chart omits vertical rating-uncertainty bands for readability and plots current rated models with available cost estimates. The cost table was refreshed for this snapshot and now includes Claude Fable 5 (high) and GLM-5.2 (max); GLM-5.2 averages about `$0.0538` per model-side debate versus `$0.0369` for GLM-5.1 in the recovered cost data. Older versions such as GPT-5.4 variants, Kimi K2.5, Qwen3.5-397B-A17B, older Grok 4.20, DeepSeek V3.2, and Xiaomi MiMo V2 Pro remain in the leaderboard data but are hidden from this cost chart by default.
+Higher and further left is better on this view. The chart omits vertical rating-uncertainty bands for readability and plots current rated models with available cost estimates. This release refreshed costs across 40,180 stored debater turns: 41 of 43 rated models have usable USD estimates. Qwen 3.7 is omitted because its matched records do not expose usable USD pricing; no currency conversion or invented estimate is substituted. Older model versions remain in leaderboard data but are hidden from the default cost chart when a current successor is available.
 
 ---
 
@@ -186,13 +194,13 @@ So the headline unit is not “one debate,” but “one completed side-swapped 
 The benchmark relies on LLM judges, so it is worth being explicit about the current sanity checks:
 
 - the Bradley-Terry graph is connected
-- mean all-bucket cross-judge winner agreement is about 0.58, counting clear wins and ties/noise as separate buckets
-- decisive-only cross-judge winner agreement is about 0.85, after dropping cases where a judge put the matchup in the tie/noise bucket
-- mean signed-margin correlation between judge pairs is about 0.43
-- mean absolute presented-side margin bias by judge is 0.156 on the signed margin scale
+- mean all-bucket cross-judge winner agreement is about 0.45, counting clear wins and ties/noise as separate buckets
+- decisive-only cross-judge winner agreement is about 0.76, after dropping cases where a judge put the matchup in the tie/noise bucket
+- mean signed-margin correlation between judge pairs is about 0.41
+- mean absolute presented-side margin bias by judge is 0.165 on the signed margin scale
 - judges' written decisions were easy to read and score in this release
-- the current judge roster includes GPT-5.5 (high), Claude Sonnet 4.6 (high), Gemini 3.1 Pro Preview, Qwen 3.6 Max Preview, Grok 4.3, and Kimi K2.6
-- the cross-judge agreement heatmaps also include historical overlap where available
+- the current judge roster includes GPT-5.6 (high), Claude Sonnet 5 (high), Gemini 3.1 Pro Preview, Qwen 3.7 Max, Grok 4.5 (high), Kimi K2.6, and Muse Spark 1.1 (high)
+- the cross-judge agreement heatmaps include historical overlap and the accepted 150-debate old/new judge bridge
 - every active judge contributed scored debates in the current status page
 
 This does not make the judges perfect. But it does mean the current snapshot is not obviously being driven by output-format problems or a huge systematic side-presentation bias.
@@ -206,13 +214,13 @@ The judge-agreement data are rendered as two companion heatmaps so it is easier 
 
 The first chart includes all winner buckets: Side A, Side B, and tie/noise-level margins.
 
-![Judge agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Judge agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
 Each off-diagonal cell is a judge-pair agreement rate; the number in parentheses is the count of overlapping side-swapped matchup groups. Because ties are included, this chart is sensitive to close debates where one judge calls a narrow win and another calls a tie.
 
 The second chart excludes tie/noise cases and asks the narrower question: when both judges picked a clear winner, how often was it the same winner?
 
-![Decisive judge agreement heatmap](images/debate_judge_decisive_agreement_heatmap__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Decisive judge agreement heatmap](images/debate_judge_decisive_agreement_heatmap__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
 The margin correlation is a separate check. It asks whether two judges' signed margin scores tend to move in the same direction, not just whether their final winner bucket matched. In the current snapshot, the judges agree much more often on clear winners than on all close-or-tie cases, and their margin scores are moderately correlated.
 
@@ -226,22 +234,22 @@ These are sanity-check views, not a second leaderboard. They are there to make e
 
 The benchmark also tracks a judge-side entertainment/readability diagnostic as a secondary signal. It does not affect ratings, but it is useful for checking whether the benchmark produces debates that are merely formal or actually engaging to read.
 
-- mean entertainment across completed matchups shown in the charts: 7.26 / 10
-- most entertaining current models by that signal include Claude Opus 4.8 (high), Claude Opus 4.7 (high), Claude Fable 5 (high), Claude Sonnet 4.6 (high), Kimi K2.5 Thinking, Kimi K2.6, Claude Sonnet 4.6 (no reasoning), GLM-5.1, Xiaomi MiMo V2.5 Pro, and GLM-5.2 (max)
+- mean entertainment across completed matchups shown in the charts: 7.32 / 10
+- most entertaining current models by that signal include Claude Opus 4.7 (high), Claude Opus 4.8 (high), Claude Fable 5 (high), Muse Spark 1.1 (high), Claude Sonnet 5 (high), Kimi K2.6, Claude Sonnet 4.6 (high), Kimi K2.5 Thinking, GLM-5.2 (max), and Claude Sonnet 4.6 (no reasoning)
 
 High-entertainment matchup examples from the current snapshot:
 
 - Claude Opus 4.8 (high) vs ByteDance Seed2.0 Pro on limiting actuarial fairness in insurance pricing
+- Claude Opus 4.7 (high) vs Muse Spark 1.1 (high) on democratic and human-rights conditions for diplomatic recognition
 - Claude Opus 4.7 (high) vs Claude Sonnet 4.6 (high) on privacy-by-design defaults for minors on large social platforms
 - Claude Fable 5 (high) vs Claude Opus 4.8 (high) on expanded accountable hot-spot policing
-- Claude Opus 4.8 (high) vs Xiaomi MiMo V2.5 Pro on workforce-reserved board seats at large public companies
 
 This signal is diagnostic rather than decisive, but it helps show that the benchmark is producing debates judges generally find readable and engaging.
-For the model table and example matchups behind this view, see the [current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260430a__debate_placement_active_20260320f.md). That report uses the same model set as the charts, so its charted-matchup average can differ slightly from the overall clean-debate average above.
+For the model table and example matchups behind this view, see the [current entertainment report](reports/debate_entertainment_report__judge_judge_blend_20260712a__debate_placement_active_20260320f.md). That report uses the same model set as the charts, so its charted-matchup average can differ slightly from the overall clean-debate average above.
 
-![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
-In the scatter, the x-axis is Bradley-Terry rating, the y-axis is mean entertainment/readability score, bubble size is rated matchup coverage, and grey horizontal bands show rating uncertainty.
+In the scatter, the x-axis is Bradley-Terry rating, the y-axis is mean entertainment/readability score, bubble size is rated matchup coverage, and grey horizontal bands show rating uncertainty density across each model's 95% interval.
 
 Read against the main strength rating, this view separates three cases that a single leaderboard hides: models that are strong and lively, models that are strong but comparatively dry, and models that are readable or vivid without being top-tier debaters. Entertainment still stays diagnostic only; it does not feed the rating.
 
@@ -269,11 +277,11 @@ The [full highlights report](reports/debate_highlights__judge_judge_active_20260
 ## Content Block Rate
 
 Content blocks reflect a distinct moderation/content-fragility problem rather than simple latency, formatting trouble, or blank outputs.
-This is not an overall reliability rate; blank outputs, formatting failures, and model-service failures are tracked separately in the [current status summary](reports/debate_benchmark_status__judge_judge_active_20260430a__debate_placement_active_20260320f.md).
+This is not an overall reliability rate; blank outputs, formatting failures, and model-service failures are tracked separately in the [current status summary](reports/debate_benchmark_status__judge_judge_blend_20260712a__debate_placement_active_20260320f.md).
 
-![Content block rate](images/debate_content_block_rate__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Content block rate](images/debate_content_block_rate__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
-Across all debate attempts tracked for this release, Xiaomi MiMo V2 Pro remains the clear outlier with 10 content blocks across 104 tracked attempts. Kimi K2.5 Thinking has 4 content blocks, Grok 4.20 0309 (Non-Reasoning) has 3, Qwen3.5-397B-A17B has 2, and several rows show one each. Current models such as Claude Fable 5 (high), Claude Opus 4.8 (high), GLM-5.2 (max), GPT-5.5 (high), GLM-5.1, Kimi K2.6, Qwen 3.7 Max, Baidu Ernie 5.1, Step 3.7 Flash (high), Grok 4.3, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, and Mistral Medium 3.5 (high) show zero content blocks in the latest status page.
+Across all debate attempts tracked for this release, Xiaomi MiMo V2 Pro remains the clear outlier with 10 content blocks across 104 tracked attempts. Kimi K2.5 Thinking has 4 content blocks, Grok 4.20 0309 (Non-Reasoning) has 3, Qwen3.5-397B-A17B has 2, and several rows show one each. New entrants GPT-5.6 Sol, Claude Sonnet 5, Muse Spark 1.1, and Grok 4.5 show zero content blocks in the latest status page; Claude Fable 5, Claude Opus 4.8, GLM-5.2, Kimi K2.6, Qwen 3.7 Max, and MiniMax-M3 also remain at zero.
 
 ---
 
@@ -281,11 +289,11 @@ Across all debate attempts tracked for this release, Xiaomi MiMo V2 Pro remains 
 
 Content blocks are only one reliability issue. The reliability views show the broader availability picture: completed debates, content blocks, blank outputs, formatting failures, model-service failures, and other failed debate attempts.
 
-![Strength versus reliability](images/debate_strength_vs_reliability__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Strength versus reliability](images/debate_strength_vs_reliability__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
 The dumbbell chart keeps the Bradley-Terry rating as the headline quality score and shows how an availability-adjusted score would move when reliability problems are penalized. Longer connectors mean a larger reliability penalty; they do not mean the completed debates were judged worse.
 
-![Reliability breakdown](images/debate_reliability_breakdown__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+![Reliability breakdown](images/debate_reliability_breakdown__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 
 The stacked breakdown is the best view when the question is what kind of reliability issue occurred.
 
@@ -295,9 +303,9 @@ The stacked breakdown is the best view when the question is what kind of reliabi
 
 If you want to jump straight into transcript pairs that are especially worth reading:
 
-- Frontier matchup: Claude Sonnet 4.6 (high) vs GPT-5.4 (high) on banning location-data sales. This is one of the best current top-tier matchups to read because the topic is strong, the execution is strong, and the side swap materially changes the picture. Mean entertainment across the pair: 8.00 / 10. Read [Debate A](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0541-claude-sonnet-4-6-adaptive-vs-gpt-5.4-high.md).
-- Clear separation example: GPT-5.4 (high) vs Llama 4 Maverick on forced-sterilization redress. This is a cleaner blowout where the stronger debater stays better as PRO and as CON. Mean entertainment across the pair: 6.25 / 10. Read [Debate A](transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0214-gpt-5.4-high-vs-llama4-maverick.md).
-- High-readability close clash: MiniMax-M2.7 vs Qwen3.5-397B-A17B on algorithmic dynamic pricing. MiniMax wins the current public version of this pair, but the side-swapped rematch is split and the transcript remains a sharp read. Mean entertainment across the pair: 7.75 / 10. Read [Debate A](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md).
+- Frontier matchup: Claude Sonnet 4.6 (high) vs GPT-5.4 (high) on banning location-data sales. This is one of the best current top-tier matchups to read because the topic is strong, the execution is strong, and the side swap materially changes the picture. Mean entertainment across the pair: 8.00 / 10. Read [Debate A](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_blend_20260712a__debate_placement_active_20260320f/matchup-judgment-prop_0541-claude-sonnet-4-6-adaptive-vs-gpt-5.4-high.md).
+- Clear separation example: GPT-5.4 (high) vs Llama 4 Maverick on forced-sterilization redress. This is a cleaner blowout where the stronger debater stays better as PRO and as CON. Mean entertainment across the pair: 6.25 / 10. Read [Debate A](transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_blend_20260712a__debate_placement_active_20260320f/matchup-judgment-prop_0214-gpt-5.4-high-vs-llama4-maverick.md).
+- High-readability close clash: MiniMax-M2.7 vs Qwen3.5-397B-A17B on algorithmic dynamic pricing. MiniMax wins the current public version of this pair, but the side-swapped rematch is split and the transcript remains a sharp read. Mean entertainment across the pair: 7.75 / 10. Read [Debate A](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md), and the [matchup judgment report](reports/debate_matchup_judgments/judge_judge_blend_20260712a__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md).
 
 <details>
 <summary>Claude Sonnet 4.6 (high) vs GPT-5.4 (high) on banning location-data sales</summary>
@@ -308,8 +316,8 @@ Full transcripts:
 
 - [Debate A: Claude Sonnet 4.6 (high) as PRO, GPT-5.4 (high) as CON](transcripts/prop_0541__claude-sonnet-4-6-adaptive__gpt-5.4-high__s0__tpl_placement_active_20260320f.md)
 - [Debate B: GPT-5.4 (high) as PRO, Claude Sonnet 4.6 (high) as CON](transcripts/prop_0541__gpt-5.4-high__claude-sonnet-4-6-adaptive__s1__tpl_placement_active_20260320f.md)
-- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0541-claude-sonnet-4-6-adaptive-vs-gpt-5.4-high.md)
-- [Judge decision table (search for `prop_0541`)](judgments/judge_results__judge_active_20260430a.csv)
+- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_blend_20260712a__debate_placement_active_20260320f/matchup-judgment-prop_0541-claude-sonnet-4-6-adaptive-vs-gpt-5.4-high.md)
+- [Judge decision table (search for `prop_0541`)](judgments/judge_results__judge_blend_20260712a.csv)
 
 Judges in this example: Kimi K2.6 and Qwen 3.6 Max Preview.
 
@@ -366,8 +374,8 @@ Full transcripts:
 
 - [Debate A: GPT-5.4 (high) as PRO, Llama 4 Maverick as CON](transcripts/prop_0214__gpt-5.4-high__llama4-maverick__s0__tpl_placement_active_20260320f.md)
 - [Debate B: Llama 4 Maverick as PRO, GPT-5.4 (high) as CON](transcripts/prop_0214__llama4-maverick__gpt-5.4-high__s1__tpl_placement_active_20260320f.md)
-- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0214-gpt-5.4-high-vs-llama4-maverick.md)
-- [Judge decision table (search for `prop_0214`)](judgments/judge_results__judge_active_20260430a.csv)
+- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_blend_20260712a__debate_placement_active_20260320f/matchup-judgment-prop_0214-gpt-5.4-high-vs-llama4-maverick.md)
+- [Judge decision table (search for `prop_0214`)](judgments/judge_results__judge_blend_20260712a.csv)
 
 Judges in this example: Kimi K2.6 and Qwen 3.6 Max Preview.
 
@@ -401,8 +409,8 @@ Full transcripts:
 
 - [Debate A: MiniMax-M2.7 as PRO, Qwen3.5-397B-A17B as CON](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
 - [Debate B: Qwen3.5-397B-A17B as PRO, MiniMax-M2.7 as CON](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md)
-- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_active_20260430a__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md)
-- [Judge decision table (search for `prop_0041`)](judgments/judge_results__judge_active_20260430a.csv)
+- [Matchup judgment report](reports/debate_matchup_judgments/judge_judge_blend_20260712a__debate_placement_active_20260320f/matchup-judgment-prop_0041-minimax-m2.7-vs-qwen3.5-397b-a17b.md)
+- [Judge decision table (search for `prop_0041`)](judgments/judge_results__judge_blend_20260712a.csv)
 
 Judged result:
 
@@ -432,16 +440,16 @@ The benchmark draws from a large topic bank intended to be understandable to an 
 
 The topic bank is intentionally broad. That matters because debate performance can be very topic-sensitive, and a narrow topic family would make it too easy for models to overfit to one style of argument.
 
-The current topic bank contains 683 topics. The latest release tracks 1,608 side-swapped matchups, with 1,569 complete matchups used for the public ratings. Those rated matchups cover 678 distinct topics.
+The current topic bank contains 683 topics. The latest release tracks 2,103 side-swapped matchups, with 2,053 complete matchups used for the public ratings. Those rated matchups cover 682 distinct topics.
 
 Top-level topic coverage:
 
 | Theme | Topic bank | Topics with debates | Topics used for ratings |
 | --- | ---: | ---: | ---: |
-| Law / regulation / courts | 135 | 135 | 133 |
-| Labor / education / social policy | 122 | 122 | 120 |
-| Media / culture / internet | 111 | 111 | 110 |
-| Macro / trade / industrial policy | 108 | 108 | 106 |
+| Law / regulation / courts | 135 | 135 | 135 |
+| Labor / education / social policy | 122 | 122 | 122 |
+| Media / culture / internet | 111 | 111 | 111 |
+| Macro / trade / industrial policy | 108 | 108 | 108 |
 | Health / bioethics | 65 | 65 | 65 |
 | Energy / climate / infrastructure | 49 | 49 | 49 |
 | Science / space / frontier tech | 34 | 34 | 33 |
@@ -472,7 +480,7 @@ Each debate uses a 10-turn structure: PRO opening, CON opening, PRO rebuttal 1, 
 Each completed debate is intended to be judged by a three-model panel. Judges pick a winner, estimate the margin, and score a few diagnostic qualities. Those diagnostic sub-scores are useful for interpretation, but the main ranking comes from who won the side-swapped matchup, not from averaging rubric categories into the leaderboard.
 Panels are constructed from three distinct model families and, when feasible, avoid same-family judges against the debaters.
 
-The current judge roster in this snapshot is drawn from GPT-5.5 (high), Claude Sonnet 4.6 (high), Gemini 3.1 Pro Preview, Qwen 3.6 Max Preview, Grok 4.3, and Kimi K2.6.
+The current judge roster in this snapshot is drawn from GPT-5.6 (high), Claude Sonnet 5 (high), Gemini 3.1 Pro Preview, Qwen 3.7 Max, Grok 4.5 (high), Kimi K2.6, and Muse Spark 1.1 (high).
 
 ---
 
@@ -502,28 +510,28 @@ Read the [qualitative comparison report](reports/qualitative_model_comparisons__
 
 ## Further Reading And Data
 
-- [Current leaderboard table](reports/debate_leaderboard__judge_judge_active_20260430a__debate_placement_active_20260320f.md)
-- [Current status summary](reports/debate_benchmark_status__judge_judge_active_20260430a__debate_placement_active_20260320f.md)
-- [Current model profiles](reports/debate_model_profiles__judge_judge_active_20260430a__debate_placement_active_20260320f.md)
-- [Current model deep dives](reports/debate_model_dossiers__judge_judge_active_20260430a__debate_placement_active_20260320f__gpt-5.4-low.md)
+- [Current leaderboard table](reports/debate_leaderboard__judge_judge_blend_20260712a__debate_placement_active_20260320f.md)
+- [Current status summary](reports/debate_benchmark_status__judge_judge_blend_20260712a__debate_placement_active_20260320f.md)
+- [Current model profiles](reports/debate_model_profiles__judge_judge_blend_20260712a__debate_placement_active_20260320f.md)
+- [Prior-scope model deep dives](reports/debate_model_dossiers__judge_judge_active_20260430a__debate_placement_active_20260320f__gpt-5.4-low.md)
 - [Qualitative comparison report](reports/qualitative_model_comparisons__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
 - [Qualitative comparison summaries](reports/qualitative_model_comparison_summaries__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md)
 - [Qualitative comparison overview](reports/qualitative_model_comparison_synthesis__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md)
-- [Current entertainment report](reports/debate_entertainment_report__judge_judge_active_20260430a__debate_placement_active_20260320f.md)
-- [Current matchup results index](reports/debate_matchup_judgments__judge_judge_active_20260430a__debate_placement_active_20260320f.md)
+- [Current entertainment report](reports/debate_entertainment_report__judge_judge_blend_20260712a__debate_placement_active_20260320f.md)
+- [Current matchup results index](reports/debate_matchup_judgments__judge_judge_blend_20260712a__debate_placement_active_20260320f.md)
 - [Highlights report](reports/debate_highlights__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-low.md)
-- [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current strength-vs-reliability chart](images/debate_strength_vs_reliability__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current reliability-breakdown chart](images/debate_reliability_breakdown__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current price-vs-performance chart](images/debate_price_vs_performance__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current all-bucket judge-agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current decisive-only judge-agreement heatmap](images/debate_judge_decisive_agreement_heatmap__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
-- [Current strength-vs-entertainment chart](images/debate_strength_vs_entertainment__judge_judge_active_20260430a__debate_placement_active_20260320f.png)
+- [Current Bradley-Terry chart](images/debate_bt_ratings__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current content-block-rate chart](images/debate_content_block_rate__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current strength-vs-reliability chart](images/debate_strength_vs_reliability__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current reliability-breakdown chart](images/debate_reliability_breakdown__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current price-vs-performance chart](images/debate_price_vs_performance__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current pairwise heatmap](images/debate_pair_margin_heatmap__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current all-bucket judge-agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current decisive-only judge-agreement heatmap](images/debate_judge_decisive_agreement_heatmap__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
+- [Current strength-vs-entertainment chart](images/debate_strength_vs_entertainment__judge_judge_blend_20260712a__debate_placement_active_20260320f.png)
 - [Completed public debate transcripts](transcripts/)
-- [Current judge decision table](judgments/judge_results__judge_active_20260430a.csv)
-- [Full judge decision records](judgments/judge_results__judge_active_20260430a.jsonl)
+- [Current judge decision table](judgments/judge_results__judge_blend_20260712a.csv)
+- [Full judge decision records](judgments/judge_results__judge_blend_20260712a.jsonl)
 
 ## Related Benchmarks
 
@@ -545,6 +553,7 @@ Read the [qualitative comparison report](reports/qualitative_model_comparisons__
 
 ## Updates
 
+- `2026-07-13`: Added MiniMax-M3, Claude Sonnet 5 (high), Grok 4.5 (high), GPT-5.6 Sol (high), and Muse Spark 1.1 (high).
 - `2026-06-20`: Added GLM-5.2 (max), refreshed the rating charts, regenerated debate-cost estimates, and updated the public snapshot to 35 chart-visible models.
 - `2026-06-10`: Added Claude Fable 5 (high) to the public board.
 - `2026-06-05`: Claude Opus 4.8 (high), Qwen 3.7 Max, Baidu Ernie 5.1, and Step 3.7 Flash (high) added.
