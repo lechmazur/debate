@@ -22,7 +22,8 @@ Each evaluated matchup runs twice on the **same topic with sides swapped**. A th
 
 ## Current Snapshot
 
-- **42 rated models shown in the public charts**
+- **42 rated models retained in public leaderboards and matrix charts**
+- **24 models shown in current-focused scatter plots: 23 current models plus Claude Opus 4.8**
 - **4,770 debate artifacts tracked in the current status page**
 - **2,284 side-swapped matchups tracked before incomplete pairs are removed**
 - **2,233 side-swapped matchups used for the current ratings**
@@ -33,7 +34,7 @@ One side-swapped matchup means two debates on the same motion with PRO and CON r
 
 The transcript links below point to completed debates that are ready to read directly.
 
-Older models remain in the data for comparison, but the README and charts emphasize the current model set by default. The price-vs-performance chart makes one deliberate exception: it retains cost-backed predecessor chains that lead to current models so arrows can show how price and debate strength changed between versions.
+Older models remain in the data for comparison, but public scatter plots show the current model set by default. They make one narrow exception: the immediate predecessor of a highlighted model is retained for direct comparison. Claude Opus 5 is the sole highlight in this release, so Claude Opus 4.8 is the only historical model shown in the scatters and the Opus 4.8 → Opus 5 transition is the only version arrow.
 
 This refresh adds Claude Opus 5 (high) through 199 completed debate directions, forming 99 complete side-swapped matchups against 19 opponents. One attempted direction against ByteDance Seed2.0 Pro was refused, so it remains recorded as a terminal content block and was neither resumed nor imputed. The new judge pass produced all 597 planned decisions for the 199 completed debates. Kimi K3 also gains ten complete matchups against Opus 5, bringing its published coverage to 104 groups. An integrity audit continues to quarantine 14 older side-swapped groups whose stored transcripts contained literal upstream proxy-error text; their source artifacts remain preserved, but they do not feed ratings. The 150-debate judge bridge remains agreement-only and does not enter ratings.
 
@@ -172,7 +173,7 @@ The price chart reads the same Bradley-Terry strength signal against estimated d
 
 ![Price versus performance with Claude Opus 5 highlighted](images/debate_price_vs_performance__judge_judge_blend_20260724a__debate_placement_active_20260320f_highlighted.png)
 
-Higher and further left is better on this view. Arrows run from older to newer model versions. The chart omits vertical rating-uncertainty bands for readability and plots current rated models plus their cost-backed predecessor chains. This release refreshed costs across 44,864 stored debater turns: all 45 stored rated models have usable USD estimates, and 39 appear in the public cost chart after report-time suppression and lineage filtering. The 15 visible arrows include Claude Opus 4.8 → Opus 5, Kimi K2.5 → Kimi K2.6 → Kimi K3, Baidu Ernie 5.0 → 5.1, and Qwen 3.5 → 3.6 → 3.7. The very close Opus 4.7 → 4.8 pair remains unconnected because a logo-safe arrow cannot fit. Opus 5's exact log-derived average is about $0.149 per completed debate, compared with about $0.132 for Opus 4.8. Kimi K3 remains the most expensive of the top three at about $0.255 per completed debate.
+Higher and further left is better on this view. The chart omits vertical rating-uncertainty bands for readability and shows 23 current rated models plus Claude Opus 4.8, the immediate predecessor of the sole highlighted model. This release refreshed costs across 44,864 stored debater turns: all 45 stored rated models have usable USD estimates, while 24 appear in the current-focused public cost chart. The only version arrow is Claude Opus 4.8 → Opus 5; older Kimi, Qwen, Ernie, GPT, Grok, GLM, MiniMax, and other predecessor points remain in stored results but are intentionally omitted from public scatters. Opus 5's exact log-derived average is about $0.149 per completed debate, compared with about $0.132 for Opus 4.8. Kimi K3 remains the most expensive of the top three at about $0.255 per completed debate.
 
 ---
 
@@ -238,8 +239,8 @@ These are sanity-check views, not a second leaderboard. They are there to make e
 
 The benchmark also tracks a judge-side entertainment/readability diagnostic as a secondary signal. It does not affect ratings, but it is useful for checking whether the benchmark produces debates that are merely formal or actually engaging to read.
 
-- mean entertainment across completed matchups shown in the charts: 7.37 / 10
-- most entertaining current models by that signal include Claude Opus 5 (high), Kimi K3, Muse Spark 1.1 (high), Claude Fable 5 (high), Claude Opus 4.8 (high), Claude Opus 4.7 (high), Claude Sonnet 5 (high), GLM-5.2 (max), Kimi K2.6, and Claude Sonnet 4.6 (high)
+- matchup-coverage-weighted mean entertainment across models shown in the scatter: 7.38 / 10
+- most entertaining models shown by that signal include Claude Opus 5 (high), Kimi K3, Muse Spark 1.1 (high), Claude Fable 5 (high), Claude Opus 4.8 (high), Claude Sonnet 5 (high), GLM-5.2 (max), GPT-5.6 Sol (high), MiniMax-M3, and Xiaomi MiMo V2.5 Pro
 
 High-entertainment matchup examples from the current snapshot:
 
@@ -249,11 +250,11 @@ High-entertainment matchup examples from the current snapshot:
 - Kimi K3 vs Muse Spark 1.1 (high) on long-term block grants for fundamental science
 
 This signal is diagnostic rather than decisive, but it helps show that the benchmark is producing debates judges generally find readable and engaging.
-For the model table and example matchups behind this view, see the [current entertainment report](reports/debate_entertainment_report__judge_judge_blend_20260724a__debate_placement_active_20260320f.md). That report uses the same model set as the charts, so its charted-matchup average can differ slightly from the overall clean-debate average above.
+For the broader model table and example matchups behind this view, see the [current entertainment report](reports/debate_entertainment_report__judge_judge_blend_20260724a__debate_placement_active_20260320f.md). The report retains report-visible historical diagnostics, while the scatter applies the current-model-plus-highlight-predecessor display rule.
 
 ![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_blend_20260724a__debate_placement_active_20260320f.png)
 
-In the scatter, the x-axis is Bradley-Terry rating, the y-axis is mean entertainment/readability score, bubble size is rated matchup coverage, and grey horizontal bands show rating uncertainty density across each model's 95% interval.
+In the scatter, the x-axis is Bradley-Terry rating, the y-axis is mean entertainment/readability score, bubble size is rated matchup coverage, and grey horizontal bands show rating uncertainty density across each model's 95% interval. As in the price scatter, Claude Opus 4.8 is the only non-current model retained because it is the immediate predecessor of highlighted Claude Opus 5.
 
 Read against the main strength rating, this view separates three cases that a single leaderboard hides: models that are strong and lively, models that are strong but comparatively dry, and models that are readable or vivid without being top-tier debaters. Entertainment still stays diagnostic only; it does not feed the rating.
 
