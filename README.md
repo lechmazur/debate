@@ -564,7 +564,7 @@ Read the [qualitative comparison report](reports/qualitative_model_comparisons__
 
 ## Updates
 
-- `2026-08-04`: Added Qwen 3.8 Max, refreshed the public benchmark, moved the sole chart highlight to Qwen 3.8, and added Qwen 3.7 → Qwen 3.8 arrows to eligible scatters.
+- `2026-08-04`: Added Qwen 3.8 Max.
 - `2026-07-24`: Added Claude Opus 5 (high).
 - `2026-07-17`: Added Kimi K3.
 - `2026-07-13`: Added MiniMax-M3, Claude Sonnet 5 (high), Grok 4.5 (high), GPT-5.6 Sol (high), and Muse Spark 1.1 (high).
