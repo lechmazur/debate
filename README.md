@@ -173,9 +173,9 @@ The current picture has an Opus-led top tier, with Claude Fable 5 and Kimi K3 cl
 
 The price chart reads the same Bradley-Terry strength signal against estimated debate cost. The x-axis is model-side USD per completed debate and excludes the cost of judging. When exact billing data is available, the chart uses it; otherwise it estimates cost from the debate text. Costs are shown only where USD estimates are available.
 
-![Price versus performance with the Qwen 3.8 Max cost limitation highlighted](images/debate_price_vs_performance__judge_judge_blend_20260804a__debate_placement_active_20260320f_highlighted.png)
+![Price versus performance with Qwen 3.8 Max highlighted and an arrow from Qwen 3.7](images/debate_price_vs_performance__judge_judge_blend_20260804a__debate_placement_active_20260320f_highlighted.png)
 
-Higher and further left is better on this view. The chart omits vertical rating-uncertainty bands for readability. This release refreshed costs across 46,823 stored debater turns: 45 of 46 stored rated models have usable USD estimates. The current-focused chart shows 23 costed points—22 current models plus Qwen 3.7, the immediate predecessor of the sole highlighted model. Qwen 3.8 matched 967 router records, but neither shared pricing metadata nor those logs provide a usable USD price, so its point and the Qwen 3.7 → Qwen 3.8 arrow are explicitly marked unavailable rather than estimated through an implicit CNY conversion. Other historical predecessor points remain in stored results but are omitted from public scatters. Among the top three, Opus 5 averages about $0.161 per completed debate, Kimi K3 about $0.254, and Claude Fable 5 about $0.288.
+Higher and further left is better on this view. The chart omits vertical rating-uncertainty bands for readability. This release refreshed costs across 46,823 stored debater turns, and all 46 stored rated models now have usable USD estimates. The current-focused chart shows 24 costed points—23 current models plus Qwen 3.7, the immediate predecessor of the sole highlighted model. Qwen 3.8 matched and costed 967 of 970 router turns, producing a partial-exact estimate of about $0.143 per completed debate. Qwen 3.7 averages about $0.099, so Qwen 3.8 is roughly 45% more expensive by this measure; the chart draws the Qwen 3.7 → Qwen 3.8 arrow directly. Other historical predecessor points remain in stored results but are omitted from public scatters. Among the top three, Opus 5 averages about $0.161 per completed debate, Kimi K3 about $0.254, and Claude Fable 5 about $0.288.
 
 ---
 
@@ -256,7 +256,7 @@ For the broader model table and example matchups behind this view, see the [curr
 
 ![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_blend_20260804a__debate_placement_active_20260320f.png)
 
-In the scatter, the x-axis is Bradley-Terry rating, the y-axis is mean entertainment/readability score, bubble size is rated matchup coverage, and grey horizontal bands show rating uncertainty density across each model's 95% interval. Qwen 3.7 is the only non-current model retained because it is the immediate predecessor of highlighted Qwen 3.8.
+In the scatter, the x-axis is Bradley-Terry rating, the y-axis is mean entertainment/readability score, bubble size is rated matchup coverage, and grey horizontal bands show rating uncertainty density across each model's 95% interval. Qwen 3.7 is the only non-current model retained because it is the immediate predecessor of highlighted Qwen 3.8, and the arrow connects that previous release to the current one.
 
 Read against the main strength rating, this view separates three cases that a single leaderboard hides: models that are strong and lively, models that are strong but comparatively dry, and models that are readable or vivid without being top-tier debaters. Entertainment still stays diagnostic only; it does not feed the rating.
 
@@ -564,7 +564,7 @@ Read the [qualitative comparison report](reports/qualitative_model_comparisons__
 
 ## Updates
 
-- `2026-08-04`: Added Qwen 3.8 Max, refreshed the public benchmark, and moved the sole chart highlight to Qwen 3.8.
+- `2026-08-04`: Added Qwen 3.8 Max, refreshed the public benchmark, moved the sole chart highlight to Qwen 3.8, and added Qwen 3.7 → Qwen 3.8 arrows to eligible scatters.
 - `2026-07-24`: Added Claude Opus 5 (high).
 - `2026-07-17`: Added Kimi K3.
 - `2026-07-13`: Added MiniMax-M3, Claude Sonnet 5 (high), Grok 4.5 (high), GPT-5.6 Sol (high), and Muse Spark 1.1 (high).
