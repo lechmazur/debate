@@ -6,7 +6,7 @@ Each matchup runs twice on the **same motion with sides swapped**. A three-model
 
 ---
 
-![Bradley-Terry leaderboard with the August 2026 entrants highlighted](images/debate_bt_ratings__judge_judge_blend_20260814a__debate_all_templates_highlighted.png)
+![Bradley-Terry leaderboard](images/debate_bt_ratings__judge_judge_blend_20260814a__debate_all_templates.png)
 
 ---
 
@@ -114,7 +114,7 @@ Each cell is the mean signed judge margin for the row model over the column mode
 
 ## Price vs. performance
 
-![Price versus performance with current entrants highlighted](images/debate_price_vs_performance__judge_judge_blend_20260814a__debate_all_templates_highlighted.png)
+![Price versus performance](images/debate_price_vs_performance__judge_judge_blend_20260814a__debate_all_templates.png)
 
 Higher and further left is better. The x-axis is estimated debater-side USD per completed debate and excludes judging cost. Price estimates cover 52,381 stored turns, and all 49 rated model identities have usable estimates. Among the new entrants, Gemini 3.7 Flash is estimated at about `$0.020` per completed debate, DeepSeek V4 Pro 0813 at `$0.071`, and Grok 4.6 at `$0.146`. Among the top three, Claude Opus 5 averages about `$0.176`, Kimi K3 about `$0.254`, and Claude Fable 5 about `$0.319`.
 
