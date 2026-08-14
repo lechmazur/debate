@@ -37,12 +37,6 @@ One side-swapped matchup means two debates on the same motion with PRO and CON r
 
 The raw judge table contains 16,384 stored decisions; 16,203 belong to complete matchups used for ratings. These scopes answer different questions, so their counts are not expected to match.
 
-This refresh adds **Grok 4.6 (high)**, **Gemini 3.7 Flash (high)**, and **DeepSeek V4 Pro 0813 (high)**. We planned 558 individual debates for the new entrants and completed 555. Three model refusals remain preserved as reliability outcomes. The new set contributes 277 complete side-swapped matchups to ratings; one completed debate is excluded because its reverse-side partner failed. All 1,665 planned judge decisions for the completed debates were captured.
-
-The three entrants are the only highlighted models in this release. Current-focused scatter plots retain each one's immediate predecessor for comparison and draw the eligible Grok 4.5 → Grok 4.6, Gemini 3.5 Flash → Gemini 3.7 Flash, and DeepSeek V4 Pro Preview → DeepSeek V4 Pro 0813 arrows.
-
-The integrity audit finds 22 historical debates containing literal upstream proxy-error text, but **zero affected rating groups** in this release. Their source artifacts remain preserved while the contaminated groups remain outside rating inputs.
-
 ## Reader paths
 
 1. **Ranking:** start with the chart above and the [full leaderboard report](reports/debate_leaderboard__judge_judge_blend_20260814a__debate_all_templates.md).
@@ -152,9 +146,6 @@ The qualitative layer covers every eligible current-v-current debate in the 33-m
 - **11,241 judge rows** feeding judge-consensus and diagnostic summaries
 - **33 current-model dossiers** generated from current-peer evidence only
 
-The model cards keep judge opinions, blinded transcript behavior, side-swap stability, outcome associations, execution facts, and the five diagnostic subscores separate. GPT-5.6 Sol (medium) tags stored judge rationales and blinded transcripts, then synthesizes the dossiers. “Judge-panel consensus” means at least two judges in the panel received the same behavior tag for that debate; it is not a fresh panel vote. Subscores remain secondary perceptions rather than rating inputs.
-
-This annotation layer uses one model, so its taxonomy and summaries can share that model's blind spots. The GPT-5.6 Sol dossier is also self-analysis by the same model family. The reports retain deterministic counts, quoted evidence, and separate judge signals so readers can audit those interpretations.
 
 ![Current-model diagnostic subscores](images/debate_behavior_diagnostic_subscores__judge_judge_blend_20260814a__debate_all_templates__gpt-5.6-medium.png)
 
@@ -230,7 +221,7 @@ The ten turns are PRO opening, CON opening, first rebuttals, pressure questions,
 
 ## Updates
 
-- `2026-08-14`: Added Grok 4.6 (high), Gemini 3.7 Flash (high), and DeepSeek V4 Pro 0813 (high), then refreshed ratings, charts, costs, qualitative behavior coverage, and current-model dossiers from all retained eligible debates.
+- `2026-08-14`: Added Grok 4.6 (high), Gemini 3.7 Flash (high). Added qualitative behavior coverage and current-model dossiers.
 - `2026-08-04`: Added Qwen 3.8 Max.
 - `2026-07-24`: Added Claude Opus 5 (high).
 - `2026-07-17`: Added Kimi K3.
