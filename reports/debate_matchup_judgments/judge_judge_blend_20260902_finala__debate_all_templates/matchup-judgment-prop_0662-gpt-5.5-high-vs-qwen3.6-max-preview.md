@@ -1,0 +1,71 @@
+# Debate Matchup Judgment Report
+
+**GPT-5.5 (high)** vs **Qwen 3.6 Max Preview**
+
+- Paired result: **GPT-5.5 (high)**
+- Mean entertainment: `7.33 / 10`
+- Judge decisions: `6` across two side-swapped debates
+
+**Motion:** Governments should require platform work to count toward unemployment insurance and social-insurance eligibility using standardized earnings records.
+
+## Debates and evidence
+
+- [Debate A transcript](../../../transcripts/prop_0662__gpt-5.5-high__qwen3.6-max-preview__s0__tpl_placement_active_20260320f.md): PRO = **GPT-5.5 (high)**, CON = **Qwen 3.6 Max Preview**
+- [Debate B transcript](../../../transcripts/prop_0662__qwen3.6-max-preview__gpt-5.5-high__s1__tpl_placement_active_20260320f.md): PRO = **Qwen 3.6 Max Preview**, CON = **GPT-5.5 (high)**
+- [Public judge decision table](../../../judgments/judge_results__judge_blend_20260902_finala.csv)
+
+## Debate A
+
+- Transcript: [read the full debate](../../../transcripts/prop_0662__gpt-5.5-high__qwen3.6-max-preview__s0__tpl_placement_active_20260320f.md)
+- Roles: PRO = **GPT-5.5 (high)**, CON = **Qwen 3.6 Max Preview**
+- Judged result: Split `2-1` for **GPT-5.5 (high)**.
+- Entertainment scores: `8`, `8`, `7`
+- Mean signed raw margin (PRO+): `+0.60`
+
+| Judge | Presented sides | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
+| --- | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | A = Qwen 3.6 Max Preview (CON); B = GPT-5.5 (high) (PRO) | Qwen 3.6 Max Preview | -1.2 | -1.00 | 8.0 |
+| Grok 4.3 | A = Qwen 3.6 Max Preview (CON); B = GPT-5.5 (high) (PRO) | GPT-5.5 (high) | +1.5 | +1.80 | 8.0 |
+| Kimi K2.6 | A = GPT-5.5 (high) (PRO); B = Qwen 3.6 Max Preview (CON) | GPT-5.5 (high) | +1.5 | +1.50 | 7.0 |
+
+### Judge Notes
+
+- **Gemini 3.1 Pro Preview** (A = Qwen 3.6 Max Preview (CON); B = GPT-5.5 (high) (PRO)): Side A won by systematically demonstrating the structural mismatch between gig work and traditional UI. While Side B made a strong normative case for ending platform "subsidies," Side A persuasively explained how the mechanics of liability pricing would inevitably force platforms to eliminate flexibility and purge marginal workers to control costs.
+  Most decisive rebuttal noted: Side A's A1 response in Rebuttal 2 was the decisive moment, directly answering Side B's pressure by explaining that platforms will kill flexibility not because of "paperwork," but to manage unpredictable liability pricing and claim exposure.
+- **Grok 4.3** (A = Qwen 3.6 Max Preview (CON); B = GPT-5.5 (high) (PRO)): Side B wins because its rebuttals directly neutralize CON's core claims on eligibility triggers and flexibility loss with workable objective tests and cross-platform aggregation, making the case for portable protection without forced restructuring; CON's later turns repeat speculative inevitability of platform controls without fully engaging the workable mechanics offered.
+  Most decisive rebuttal noted: B's rebuttal 2, which opens with direct A1/A2 answers to pressure questions on distinguishing log-offs vs. deactivations and pool viability, then ties them to why records enable reviewable eligibility without surveillance or exclusivity mandates.
+- **Kimi K2.6** (A = GPT-5.5 (high) (PRO); B = Qwen 3.6 Max Preview (CON)): PRO wins because it successfully defended the core principle that real economic activity should generate social-insurance credit, and it blunted CON's strongest attacks. CON's entire case rested on a speculative causal chain—that standardized earnings reporting would inevitably trigger liability pricing that forces platforms to impose shifts, caps, and exclusivity. PRO sharply exposed that this is a predicted business choice, not an administrative requirement of the policy itself, and noted that contractors already generate tax records without becoming shift employees. PRO also gave a workable, plausible answer to CON's "false promise" objection: eligibility can rely on objective earnings drops, availability attestation, and penalties for fraud, just as existing UI systems already handle intermittent and part-time workers. CON repeatedly asserted the liability-pricing doom loop but never bridged the gap from "reporting payments" to "destroying flexibility" with a necessary mechanism, while PRO's aggregation argument showed standardized records would actually help multi-appers. In the closing, PRO's framing of CON's position as "risk transfer" and "keeping work socially invisible" was cleaner and more memorable than CON's "purge" narrative. The debate was competitive and well-argued on both sides, but PRO left the decisive clash with a live route to victory and a cleaner comparative frame.
+  Most decisive rebuttal noted: PRO's response to CON's claim that standardized records create a "false promise" of eligibility because gig work is voluntary (A2.4/A4.1). PRO argued that existing UI systems already handle intermittent workers, and that objective earnings drops plus availability requirements can distinguish genuine loss from voluntary logoff without requiring surveillance or scheduling. This rebuttal directly neutralized CON's central mechanism argument and survived CON's pressure questions about intent and throttling.
+
+## Debate B
+
+- Transcript: [read the full debate](../../../transcripts/prop_0662__qwen3.6-max-preview__gpt-5.5-high__s1__tpl_placement_active_20260320f.md)
+- Roles: PRO = **Qwen 3.6 Max Preview**, CON = **GPT-5.5 (high)**
+- Judged result: Split `2-1` for **GPT-5.5 (high)**.
+- Entertainment scores: `8`, `7`, `6`
+- Mean signed raw margin (PRO+): `-0.40`
+
+| Judge | Presented sides | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
+| --- | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | A = GPT-5.5 (high) (CON); B = Qwen 3.6 Max Preview (PRO) | GPT-5.5 (high) | -1.5 | -1.25 | 8.0 |
+| Grok 4.3 | A = GPT-5.5 (high) (CON); B = Qwen 3.6 Max Preview (PRO) | Qwen 3.6 Max Preview | +1.5 | +1.80 | 7.0 |
+| Kimi K2.6 | A = Qwen 3.6 Max Preview (PRO); B = GPT-5.5 (high) (CON) | GPT-5.5 (high) | -1.2 | -1.20 | 6.0 |
+
+### Judge Notes
+
+- **Gemini 3.1 Pro Preview** (A = GPT-5.5 (high) (CON); B = Qwen 3.6 Max Preview (PRO)): Side A won by successfully proving that standardizing earnings data does not solve the fundamental mismatch between self-directed platform work and unemployment insurance. Side A effectively turned Side B's mechanisms against them, showing that using metrics like "historical acceptance baselines" requires exactly the type of employer-like behavioral policing Side A warned about.
+  Most decisive rebuttal noted: Side A's Rebuttal 2, which pointed out that Side B's reliance on "historical acceptance baselines" proves the mandate turns a financial ledger into a behavioral file, forcing platforms to monitor gig workers like traditional employees.
+- **Grok 4.3** (A = GPT-5.5 (high) (CON); B = Qwen 3.6 Max Preview (PRO)): Side B won because it directly answered the live pressure questions with concrete platform metrics and UI thresholds to separate involuntary loss from volatility without forcing employer-style monitoring, then crystallized that the mandate updates the ledger while internalizing costs; Side A landed strong design-fit critiques but suffered execution costs from multiple clipped turns, repeated unaddressed burdens on behavioral policing, and weaker weighing of general taxation alternatives.
+  Most decisive rebuttal noted: Side B's Rebuttal 2 A1/A2 directly resolved Side A's Q1 on distinguishing log-offs via deactivation and acceptance baselines plus Q2 on thresholds filtering trivial claims, exposing that standardized records enable fair eligibility without new surveillance or tiny-benefit churn.
+- **Kimi K2.6** (A = Qwen 3.6 Max Preview (PRO); B = GPT-5.5 (high) (CON)): CON wins by exposing a structural mismatch between unemployment insurance—which covers involuntary separation from covered employment—and the nature of platform work, where earnings fluctuations reflect worker choice, multi-apping, and variable availability as much as demand shocks. PRO argued standardized earnings records could bridge this gap, but CON effectively turned PRO's own "objective test" (using historical acceptance rates and offer volumes) into evidence that platforms would need to monitor worker behavior like employers to prevent paying for ordinary volatility. This created a durable double-bind: either the mandate erodes flexibility through employer-like control, or it dilutes UI by treating volatile self-employment as layoffs. PRO's compliance and subsidy arguments were competent but could not overcome this core design-fit problem, and CON crystallized the clash cleanly in the closing.
+  Most decisive rebuttal noted: CON's second rebuttal turned PRO's proposed eligibility metrics into a liability, showing that tracking historical acceptance baselines and offer collapses to distinguish involuntary loss from voluntary choice would require precisely the employer-style surveillance PRO claimed to avoid.
+
+## Technical metadata
+
+- Evaluation scope: `judge_judge_blend_20260902_finala__debate_all_templates`
+- Topic ID: `prop_0662`
+- Side-swap group ID: `prop_0662__gpt-5.5-high__qwen3.6-max-preview__tpl_placement_active_20260320f`
+- Raw paired winner: **GPT-5.5 (high)**
+- Mean normalized margin for GPT-5.5 (high): `+0.49`
+- Complete side swap: `yes`
+- Included in ratings: `yes`

@@ -1,0 +1,71 @@
+# Debate Matchup Judgment Report
+
+**Claude Fable 5 (high)** vs **Claude Opus 5 (high)**
+
+- Paired result: **Tie**
+- Mean entertainment: `8.17 / 10`
+- Judge decisions: `6` across two side-swapped debates
+
+**Motion:** Governments should guarantee universal primary care even if some elective and supplementary services remain in private markets.
+
+## Debates and evidence
+
+- [Debate A transcript](../../../transcripts/prop_0111__claude-fable-5-high__claude-opus-5-high__s0__tpl_placement_active_20260320f.md): PRO = **Claude Fable 5 (high)**, CON = **Claude Opus 5 (high)**
+- [Debate B transcript](../../../transcripts/prop_0111__claude-opus-5-high__claude-fable-5-high__s1__tpl_placement_active_20260320f.md): PRO = **Claude Opus 5 (high)**, CON = **Claude Fable 5 (high)**
+- [Public judge decision table](../../../judgments/judge_results__judge_blend_20260902_finala.csv)
+
+## Debate A
+
+- Transcript: [read the full debate](../../../transcripts/prop_0111__claude-fable-5-high__claude-opus-5-high__s0__tpl_placement_active_20260320f.md)
+- Roles: PRO = **Claude Fable 5 (high)**, CON = **Claude Opus 5 (high)**
+- Judged result: Split `2-1` for **Claude Opus 5 (high)**.
+- Entertainment scores: `8`, `7`, `9`
+- Mean signed raw margin (PRO+): `-1.17`
+
+| Judge | Presented sides | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
+| --- | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | A = Claude Fable 5 (high) (PRO); B = Claude Opus 5 (high) (CON) | Claude Opus 5 (high) | -2.5 | -2.12 | 8.0 |
+| Grok 4.5 (high) | A = Claude Fable 5 (high) (PRO); B = Claude Opus 5 (high) (CON) | Claude Fable 5 (high) | +1.5 | +1.70 | 7.0 |
+| Qwen 3.7 Max | A = Claude Opus 5 (high) (CON); B = Claude Fable 5 (high) (PRO) | Claude Opus 5 (high) | -2.5 | -2.12 | 9.0 |
+
+### Judge Notes
+
+- **Gemini 3.1 Pro Preview** (A = Claude Fable 5 (high) (PRO); B = Claude Opus 5 (high) (CON)): CON won by exposing the scarcity tradeoff PRO tried to avoid. PRO's weighing relied on claiming catastrophic care could just be added to primary care, but CON successfully argued that subsidizing checkups for the wealthy consumes budget needed for timely catastrophic care, and weaponized PRO's own concession that 'speed' remains private.
+  Most decisive rebuttal noted: CON's Rebuttal 2 brilliantly weaponized PRO's boundary definition, arguing that if only 'speed' remains private, then 'speed IS the treatment' in medicine, meaning PRO guarantees a diagnosis but leaves timely care behind a paywall.
+- **Grok 4.5 (high)** (A = Claude Fable 5 (high) (PRO); B = Claude Opus 5 (high) (CON)): A won by keeping the motion as written in focus: a floor guarantee that remains compatible with catastrophic cover, while forcing B to defend either a caricatured boundary (inhaler/chemo paywall with no real hybrid) or a means-test that recreates priced-out patients. B’s scarcity-and-speed attacks were sharp and landed cleanly on dual practice and queues, but never escaped the asymmetry that denying the floor leaves patients invisible rather than merely delayed; A’s comparative weighing on that point decided the exchange.
+  Most decisive rebuttal noted: A’s first rebuttal dismantling B’s asthma/inhaler story as a non-motion caricature and resetting the burden to “six minutes beats none.”
+- **Qwen 3.7 Max** (A = Claude Opus 5 (high) (CON); B = Claude Fable 5 (high) (PRO)): Side A won by decisively exploiting the specific wording of the motion. By forcing Side B to define what the "even if" clause actually licenses, Side A trapped Side B into conceding that the private market sells "speed and amenity" for essential, schedulable treatments like hip replacements and oncology scans. Side A's argument that "speed is the treatment" effectively neutralized Side B's claim that the public floor guarantees care. Furthermore, Side A successfully dismantled Side B's "compatibility" argument by emphasizing that a guarantee is a priority claim on a scarce budget, making Side A's trade-off (depth over breadth) much more compelling to a third-party reader.
+  Most decisive rebuttal noted: Side A's Rebuttal 2, where they capitalized on Side B's concession that the private tier sells "speed" for publicly covered surgeries, arguing that in medicine, speed is the treatment itself, and thus the public guarantee is merely a nominal entitlement while the private market rations timely care.
+
+## Debate B
+
+- Transcript: [read the full debate](../../../transcripts/prop_0111__claude-opus-5-high__claude-fable-5-high__s1__tpl_placement_active_20260320f.md)
+- Roles: PRO = **Claude Opus 5 (high)**, CON = **Claude Fable 5 (high)**
+- Judged result: Split `2-1` for **Claude Fable 5 (high)**.
+- Entertainment scores: `9`, `8`, `8`
+- Mean signed raw margin (PRO+): `-0.87`
+
+| Judge | Presented sides | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
+| --- | --- | --- | ---: | ---: | ---: |
+| Gemini 3.1 Pro Preview | A = Claude Opus 5 (high) (PRO); B = Claude Fable 5 (high) (CON) | Claude Fable 5 (high) | -1.4 | -1.19 | 9.0 |
+| Grok 4.5 (high) | A = Claude Opus 5 (high) (PRO); B = Claude Fable 5 (high) (CON) | Claude Opus 5 (high) | +1.3 | +1.47 | 8.0 |
+| Qwen 3.7 Max | A = Claude Fable 5 (high) (CON); B = Claude Opus 5 (high) (PRO) | Claude Fable 5 (high) | -2.5 | -2.12 | 8.0 |
+
+### Judge Notes
+
+- **Gemini 3.1 Pro Preview** (A = Claude Opus 5 (high) (PRO); B = Claude Fable 5 (high) (CON)): Side B won by decisively winning the structural economic clash. While Side A delivered a brilliant R1 turning the "poor person's service" against B's means-tested voucher, B successfully countered in R2 by explaining the asymmetry in budget cuts: B's plan caps government spending (causing a manageable gap for patients), while A's plan caps provider revenue (causing doctors to migrate to the private tier). B's closing weighed this perfectly.
+  Most decisive rebuttal noted: B's Rebuttal 2 distinction between capping government spending versus capping provider revenue, which cleanly resolved the budget-line clash in B's favor.
+- **Grok 4.5 (high)** (A = Claude Opus 5 (high) (PRO); B = Claude Fable 5 (high) (CON)): A won a close, high-quality clash by converting B's own political-economy warning into a standing burden against means-testing, then forcing shared scarcity so the vote turns on exclusion at the margin and who defends the budget line. B landed real damage on dual-tier staff drain and fee-schedule asymmetry, but never fully escaped the poor-person's-service trap or the fact that a voucher still reintroduces price gaps and cliffs. A's closing crystallized that comparison more cleanly for the motion as written.
+  Most decisive rebuttal noted: A's turn that B's means-tested alternative is the archetypal poorly defended "poor person's service" B itself warned against (A2.4–A2.5), later sharpened in the closing gap/cliff frame.
+- **Qwen 3.7 Max** (A = Claude Fable 5 (high) (CON); B = Claude Opus 5 (high) (PRO)): Side A won by decisively dismantling Side B's political coalition argument and exposing the structural flaws in the motion's two-tier design. Side A's trap regarding fee schedules versus open checkbooks forced Side B into a corner, and Side A's closing comparison of failure modes (a funding gap vs. a hollowed-out delivery system) provided a cleaner, more compelling reason to vote CON. Side B's case relied heavily on universality protecting funding, but failed to adequately answer Side A's point that the affluent will exit the public queue for primary care when wait times bite, undermining that very coalition.
+  Most decisive rebuttal noted: Side A's Rebuttal 1 and 2, specifically the trap showing that Side B cannot simultaneously claim the guarantee is fiscally bounded and open to innovative private providers without either blowing up the budget or causing a staffing drain via capped fee schedules.
+
+## Technical metadata
+
+- Evaluation scope: `judge_judge_blend_20260902_finala__debate_all_templates`
+- Topic ID: `prop_0111`
+- Side-swap group ID: `prop_0111__claude-fable-5-high__claude-opus-5-high__tpl_placement_active_20260320f`
+- Raw paired winner: **Tie**
+- Mean normalized margin for Claude Fable 5 (high): `-0.12`
+- Complete side swap: `yes`
+- Included in ratings: `yes`
