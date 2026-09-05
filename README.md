@@ -257,8 +257,9 @@ The ten turns are PRO opening, CON opening, first rebuttals, pressure questions,
 ## Updates
 
 - `2026-09-05`: Added blind participant judging among the current top eight: 450 debates, both presentation orders, graded margins, and per-model summaries.
-- `2026-09-04`: Added GPT-6 Astra (high) and GLM-5.3 (high).
-- `2026-09-03`: Added Claude Fable 5.1 (high), Tencent Hy4 Preview (high), Gemini 3.8 Flash (high), and Muse Spark 1.3 (high).
+- `2026-09-04`: Added GPT-6 Astra (high) and GLM-5.3 (high), expanded opponent coverage for highlighted models, completed six new qualitative profiles, and refreshed the cost chart using recorded token usage.
+
+- `2026-09-03`: Added Claude Fable 5.1 (high), Tencent Hy4 Preview (high), Gemini 3.8 Flash (high), and Muse Spark 1.3 (high) after two-stage adaptive placement.
 - `2026-08-14`: Added Grok 4.6 (high), Gemini 3.7 Flash (high). Added qualitative behavior coverage and current-model dossiers.
 - `2026-08-04`: Added Qwen 3.8 Max.
 - `2026-07-24`: Added Claude Opus 5 (high).

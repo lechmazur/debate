@@ -73,35 +73,35 @@ Each planned topic group contains two directions with sides swapped. GLM-5.2 is 
 - Terminal debate content block/refusal: `prop_0056__claude-fable-5-1-high__mimo-v2.5-pro__s0__tpl_placement_active_20260813a`.
 - Terminal debate content block/refusal: `prop_0075__gemini-3.8-flash-high__step-3.7-flash-high__s0__tpl_placement_active_20260813a`.
 - Terminal debate content block/refusal: `prop_0333__claude-fable-5-1-high__qwen3.8-max__s0__tpl_placement_active_20260813a`.
-- Exhausted formatting failure: `prop_0102__claude-fable-5-1-high__claude-sonnet-5-high__s0__tpl_placement_active_20260813a`. Sonnet pre-assigned nonexistent C2 reference labels in all six rejected responses across the initial run and two exact resumes. Its three saved speeches are unchanged. The direction remains a validation error and is excluded from completed-only judging; the complete mate is retained. [Evidence](frontier_expansion_glm53_coverage_20260904_exhausted_validation_failures.json).
-- Terminal judge refusal: `qwen3.7-max` on `prop_0161__muse-spark-1.3-high__glm-5-3-high__s1__tpl_placement_active_20260813a`; [raw evidence](prop_0161__muse-spark-1.3-high__glm-5-3-high__s1__tpl_placement_active_20260813a__server_refusal_01.txt).
-- GLM's two HTTP 400 responses were diagnosed as terminal Z.ai moderation code 1301 from preserved router logs, with exact saved-prompt matches. Original metadata was archived before correcting availability classification; neither direction was retried. [Diagnosis](diagnosis.json).
+- Exhausted formatting failure: `prop_0102__claude-fable-5-1-high__claude-sonnet-5-high__s0__tpl_placement_active_20260813a`. Sonnet pre-assigned nonexistent C2 reference labels in all six rejected responses across the initial run and two exact resumes. Its three saved speeches are unchanged. The direction remains a validation error and is excluded from completed-only judging; the complete mate is retained. Evidence (canonical archive).
+- Terminal judge refusal: `qwen3.7-max` on `prop_0161__muse-spark-1.3-high__glm-5-3-high__s1__tpl_placement_active_20260813a`; raw evidence (canonical archive).
+- GLM's two HTTP 400 responses were diagnosed as terminal Z.ai moderation code 1301 from preserved router logs, with exact saved-prompt matches. Original metadata was archived before correcting availability classification; neither direction was retried. Diagnosis (canonical archive).
 
 ## Exact resumptions
 
 Recoverable validation and request failures were resumed without overwrite. Saved valid speeches were preserved. Terminal moderation/refusal outcomes were not retried.
 
-- [frontier_expansion_glm53_coverage_20260904_muse_cap_repair_batch1](repair.json): 10 debate(s) repaired; 5 cached turn(s) verified unchanged.
-- [frontier_expansion_glm53_coverage_20260904_minimax_format_repair1](repair.json): 1 debate(s) repaired; 7 cached turn(s) verified unchanged.
-- [frontier_expansion_glm53_coverage_20260904_sonnet_citation_repair1](repair.json): 1 debate(s) repaired; 3 cached turn(s) verified unchanged.
-- [frontier_expansion_glm53_coverage_20260904_sonnet_citation_repair2](repair.json): six responses rejected; retained as an exhausted formatting failure; 3 cached turn(s) verified unchanged.
+- frontier_expansion_glm53_coverage_20260904_muse_cap_repair_batch1 (canonical archive): 10 debate(s) repaired; 5 cached turn(s) verified unchanged.
+- frontier_expansion_glm53_coverage_20260904_minimax_format_repair1 (canonical archive): 1 debate(s) repaired; 7 cached turn(s) verified unchanged.
+- frontier_expansion_glm53_coverage_20260904_sonnet_citation_repair1 (canonical archive): 1 debate(s) repaired; 3 cached turn(s) verified unchanged.
+- frontier_expansion_glm53_coverage_20260904_sonnet_citation_repair2 (canonical archive): six responses rejected; retained as an exhausted formatting failure; 3 cached turn(s) verified unchanged.
 
-Two Astra/Fable preflight clients were stopped while waiting for Mistral native batch results, before generating any debate turns. Their exact shards resumed using `--model-port mistral-medium-3.5-high=8006`, while Astra and Fable stayed on 8040. Both replacement preflights passed. [Routing audit](repair.json).
+Two Astra/Fable preflight clients were stopped while waiting for Mistral native batch results, before generating any debate turns. Their exact shards resumed using `--model-port mistral-medium-3.5-high=8006`, while Astra and Fable stayed on 8040. Both replacement preflights passed. Routing audit (canonical archive).
 
-One exact `qwen3.7-max` assignment was resumed on 8006 after score-field validation failed. The saved prompt is unchanged and both rejected responses remain archived. [Judge repair](repair.json).
+One exact `qwen3.7-max` assignment was resumed on 8006 after score-field validation failed. The saved prompt is unchanged and both rejected responses remain archived. Judge repair (canonical archive).
 
 The runtime token-cap fix makes every shard apply configured caps to each participating speaker. This preserves Muse’s validated 131072-token cap when Gemini owns their matchup. Focused validation passed 131 tests; preparation passed 47 tests.
 
 ## Outputs
 
-- [Highlighted current-model leaderboard](debate_bt_ratings_current_models__judge_judge_blend_glm53_coverage_20260904a__debate_all_templates_highlighted.png)
-- [Highlighted price/performance comparison](debate_price_vs_performance__judge_judge_blend_glm53_coverage_20260904a__debate_all_templates_highlighted.png)
+- Highlighted current-model leaderboard (canonical archive)
+- [Highlighted price/performance comparison](../images/debate_price_vs_performance__judge_judge_blend_glm53_coverage_20260904a__debate_all_templates.png)
 - [Full leaderboard](debate_leaderboard__judge_judge_blend_glm53_coverage_20260904a__debate_all_templates.md)
-- [Rating table](debate_model_ratings__judge_judge_blend_glm53_coverage_20260904a__debate_all_templates.csv)
-- [Campaign manifest](frontier_expansion_glm53_coverage_20260904_manifest.json)
+- Rating table (canonical archive)
+- Campaign manifest (canonical archive)
 - [Integrity audit](debate_proxy_error_audit__judge_judge_blend_glm53_coverage_20260904a__debate_all_templates.md)
 
-The initial chart render used API list pricing; the subsequent [cost correction](debate_cost_refresh_20260904.md) restores token-based average debate costs, including Gemini thinking tokens. All six highlights have complete cost coverage for rating-eligible debates. Generated artifacts remain under `/mnt/r/debate-data`; publication is a separate stage.
+The initial chart render used API list pricing; the subsequent cost correction (canonical archive) restores token-based average debate costs, including Gemini thinking tokens. All six highlights have complete cost coverage for rating-eligible debates. Generated artifacts remain under the canonical benchmark archive; publication is a separate stage.
 
 ## Validation and completion
 
