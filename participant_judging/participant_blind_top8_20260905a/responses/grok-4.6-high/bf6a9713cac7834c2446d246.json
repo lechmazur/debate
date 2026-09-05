@@ -1,0 +1,9 @@
+{
+  "task_id": "bf6a9713cac7834c2446d246",
+  "debate_id": "prop_0204__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "9a1b5e3998cd626ab8ea6196528737a122c552bf2ef5c9c666614796f727417e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by staying on the motion\u2019s actual decision rule: who loses when the reviewer cannot tell. The presumption-as-burden-shift, the mitigation path (trustee, offtake, divest-on-trigger), and the irreversibility comparison (stalled ore vs sunk rival control) remained live after full exchange. A damaged B\u2019s original \u201ccheap error is a lower sale price\u201d claim and landed the stronger host-license / third-country / scarce-capital story, but never neutralized the fork or the hard case of a compelled firm demanding full control. A\u2019s closing also tried to recast the motion as \u201cdoes a default no ship metal,\u201d which is weighing, not the written presumption question. B\u2019s clipped first rebuttal is a real execution cost, but later speeches recovered and made the vote easier.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2 fork: if title does not control flows the block is cheap, and if losing the bidder kills the mine then title is a supply lever state acquirers pay for\u2014plus the A1 answer that compulsion can be structurally severed rather than treated as a ban.</best_rebuttal>"
+}

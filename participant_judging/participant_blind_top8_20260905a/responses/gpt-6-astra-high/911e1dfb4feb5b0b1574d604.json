@@ -1,0 +1,9 @@
+{
+  "task_id": "911e1dfb4feb5b0b1574d604",
+  "debate_id": "prop_0526__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "84d872fe9ada1bb99b916bca0af4e5ca2f2c8a4450a57e9820f19de0201e7e62",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly defends a bounded, rebuttable family priority. It includes residents\u2019 relational interests within the public interest, answers chain-migration concerns with dependency limits, and allows substantial public harm to override reunification. B correctly distinguishes integration from economic contribution, but A explicitly accommodates that distinction. B\u2019s chosen-versus-imposed-cost argument remains competitive, yet does not establish why ordinary fiscal advantages generally outweigh continued separation. Its closing also calls family eligibility expandable without adequately addressing A\u2019s stated limits.</reason>\n<best_rebuttal>A directly answers B\u2019s claim that economic exceptions destroy family priority: a presumption is not an absolute entitlement. B\u2019s subsequent parent-child exception reinforces that distinction without conceding the entire motion. On the remaining scope dispute, calling spousal and caregiving separation \u201cqueuing\u201d does little to answer A\u2019s account of irreplaceable relational losses.</best_rebuttal>"
+}

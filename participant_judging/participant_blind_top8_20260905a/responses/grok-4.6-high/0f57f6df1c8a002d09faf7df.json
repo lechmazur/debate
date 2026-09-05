@@ -1,0 +1,9 @@
+{
+  "task_id": "0f57f6df1c8a002d09faf7df",
+  "debate_id": "prop_0127__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "804e483d10f54d536f6d73063b4f33a5f461546fd1daf658c39e97dd67539f43",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a close, high-quality clash by giving the cleaner decision rule: a timed \u201crealistic\u201d markdown or donation duty uniquely distorts the first-price aisle through waiting, extra handling, earlier culls, and thinner everyday range, while pricing disposal can tax waste without commandeering the shopping channel. PRO\u2019s private-vs-social and transfer arguments were theoretically sharp and well bounded, but they never showed those gains dominate the distortions or that records and inspections can stop preemptive unsaleable labeling.</reason>\n<best_rebuttal>CON\u2019s R2 reply that a markdown can be a transfer while the mandate still creates net loss via handling, postponed demand, and missing regular stock, and that a dumpster charge does not order a second market in the aisle.</best_rebuttal>"
+}

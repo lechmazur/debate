@@ -1,0 +1,9 @@
+{
+  "task_id": "c38a7d0a4a2e54c4aef5ec26",
+  "debate_id": "prop_0105__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "508f0a7956f73d6cdd909809a3a255f028bec2f965f5581443e81c6eed032019",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the mechanism clash. After PRO owned the leftover-hours gap, CON made the easier vote: existing pre-conviction tools already act on probable cause or a clinician, while red-flag orders occupy the weaker zone, skip the person, and still send a supposedly imminent shooter home. PRO\u2019s lethality/triage and reversible-pause framing stayed live and the Rebuttal 2 clip cost CON, but \u201cimplies a hearing\u201d never put the motion\u2019s process on the page, and leftover risk plus the notice/send-home tension were not dissolved.</reason>\n<best_rebuttal>CON Rebuttal 1 (B2.1\u2013B2.3): notice that \u201ccan trigger the shooting\u201d cannot coexist with sending that person home as triage, so the tool lives only where other emergency powers would not fire.</best_rebuttal>"
+}

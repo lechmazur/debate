@@ -1,0 +1,9 @@
+{
+  "task_id": "f06d641a6919f1a30d1a39b7",
+  "debate_id": "prop_0418__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1bbbba1e0871d772af5b6b7564abe2cec19709d2a35063683c7a31fe2a186a81",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a competitive debate by keeping the motion\u2019s \u201cenough\u201d bar tied to night trust, shared-inventory costs, and identity/fallback ops, while PRO overclaimed that nobody else is slowed, then retreated to \u201cseconds\u201d and definitional arithmetic. PRO\u2019s matched-ride harm story stayed live, but it never fully answered cream-skimming, thin-supply failure, or complexity, and two clipped rebuttals plus a premature \u201cno name came\u201d shot weakened the close.</reason>\n<best_rebuttal>CON\u2019s Q2/A2 exchange forced PRO to admit leftover-inventory inefficiency, then showed \u201cseconds\u201d is a dense-daytime story that collapses at 11 p.m.\u2014the hour PRO used to sell the feature.</best_rebuttal>"
+}

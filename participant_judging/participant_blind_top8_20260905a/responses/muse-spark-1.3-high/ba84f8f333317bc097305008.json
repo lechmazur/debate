@@ -1,0 +1,9 @@
+{
+  "task_id": "ba84f8f333317bc097305008",
+  "debate_id": "prop_0604__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "a87449eba9eabbba36ba37eba984ca4612fe2ba33d8bd37c7c30e18ab93363e8",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won the burden and irreversibility clash. Requiring acceptance of adequacy vs completing paperwork, plus diffusion cannot be undone, survived CON's delay and foreign-availability attacks. PRO's symmetry reply \u2014 withdrawal fails abroad too \u2014 and concrete material-upgrade plus 30-day bounded review with continued use neutralized the queue and two-tier charges enough that bounded wait outweighed ex-post enforcement.</reason>\n<best_rebuttal>PRO's symmetry turn that foreign queryability undermines CON's withdrawal orders as much as licensing, so licensing still reduces large-scale EU exposure, blunted CON's strongest self-denial argument.</best_rebuttal>"
+}

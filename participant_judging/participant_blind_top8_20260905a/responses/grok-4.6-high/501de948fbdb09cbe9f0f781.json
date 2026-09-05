@@ -1,0 +1,9 @@
+{
+  "task_id": "501de948fbdb09cbe9f0f781",
+  "debate_id": "prop_0367__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e9624b8ada74c5e1a963c5979be7683827f78324618ae08a4e1dff46a1e97582",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO kept the motion\u2019s actual comparison live: easier pause/split/remix versus cable-style traps, not a promise of cheap catalogs forever. CON\u2019s production economics were the strongest single argument in the room, but they repeatedly treated an option as if it were universal peak-hopping and never showed why a stay-put discount plus a click to drop an idle seat is infeasible. PRO\u2019s pressure questions exposed that tension; CON answered it only by narrowing to a 5\u201310% threshold that still left lock-in looking like a policy, not a constraint.</reason>\n<best_rebuttal>PRO\u2019s R2 collapse of CON\u2019s two questions (rare pause cannot threaten commissioning; common pause only proves the cheap sticker needed idle seats) versus CON\u2019s best hit that idle months are cheap to serve but costly to buy.</best_rebuttal>"
+}

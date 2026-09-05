@@ -1,0 +1,9 @@
+{
+  "task_id": "d9a14548a94ca247c4586c3c",
+  "debate_id": "prop_0303__claude-fable-5-1-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b4e379cae25586118ad83d5552805423652693aa87ffc30e295d3bc494752000",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins a clear but competitive decision. B persuasively explained how inherited preparation and financial cushions reproduce advantage despite honest examinations. But A exposed B's false choices between developed competence and privilege, and between class influencing outcomes and determining them. Crucially, B's account of grit-centered success stories remained too sweeping to establish what most successful people underacknowledge; demanding that A produce fuller admissions reversed that burden. A answered the pressure questions directly, while B repeatedly treated a concession that privilege persists as conceding the entire proposition.</reason>\n<best_rebuttal>A's second rebuttal accepted that the hypothetical founder could conceal decisive support, then distinguished that stipulated concealment from evidence about most successful people. Its accompanying challenge to B's equation of residual class prediction with class determining selection also directly damaged B's answer to pressure.</best_rebuttal>"
+}

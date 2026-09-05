@@ -1,0 +1,9 @@
+{
+  "task_id": "999eb64dee8696ba0920077f",
+  "debate_id": "prop_0423__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "93fb7a3350bcde800233a4c118d716b7e7428a4396f2f54cadf4abf668f4897e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B won by making the live comparison easier to decide: hosting justifies direct remedies, not an automatic insider queue; a reserve neither prices tickets nor stops resale inside the eligible group; and \u201cor members\u201d plus PRO\u2019s insistence on the rule even without lockout showed overbreadth. A had a coherent civic-standing story and sharper rhetoric, but mostly restated first claim instead of justifying outsiders\u2019 certain exclusion once buyer protections and need-based seats can also run before general sale.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2 after the pressure answers: PRO\u2019s concession that a reserve is still required even when locals already get access undercut the lockout justification, and B showed PRO was crediting the reserve with affordability and purchase-limit work it does not do.</best_rebuttal>"
+}

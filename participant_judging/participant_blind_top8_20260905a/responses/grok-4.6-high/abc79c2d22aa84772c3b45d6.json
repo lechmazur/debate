@@ -1,0 +1,9 @@
+{
+  "task_id": "abc79c2d22aa84772c3b45d6",
+  "debate_id": "prop_0410__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "590c2728c2c4e796cfcd8dc36d4d67893aec2f4d9903ad3812525fff9a13afc5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making \u201con average\u201d the live test of the motion and showing that A\u2019s stable-to-stable leftover rewrites that claim instead of proving it. The by-design missing-sex distinction and the split between rescue placement and legal interchangeability kept B\u2019s route alive; A\u2019s consistency and waiting-child appeals were sharp but never escaped that comparison problem.</reason>\n<best_rebuttal>B\u2019s first rebuttal flipping A\u2019s control/drug-trial analogy: subtracting breakup, donor conception, and a withheld sex does not isolate cause\u2014it changes the sample\u2014plus the stepfather-still-leaves-a-mother contrast.</best_rebuttal>"
+}

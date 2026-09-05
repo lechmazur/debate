@@ -1,0 +1,9 @@
+{
+  "task_id": "45b9a292ee7a7788fa36b6b4",
+  "debate_id": "prop_0041__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "886e369e17dcbf46de7ee459fc23cd25358511cb3ab1582d527bd470f88e12e9",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-quality clash by making workability and competition the decision rule. B never cleanly showed how a ban could keep coupons, loyalty, and scarcity pricing while excluding WTP inference from the same engines, and A's extraction-rebuttal undercut B's monopoly-style ceiling-raising story. B had the sharper fairness rhetoric, but A left the cleaner reason to reject the ban as written.</reason>\n<best_rebuttal>A's reply that B smuggles a monopolist who can raise every ceiling, and that B's hold-scarcity-vary-profile audit would also outlaw the targeted discounts B claimed to preserve.</best_rebuttal>"
+}

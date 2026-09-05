@@ -1,0 +1,9 @@
+{
+  "task_id": "1ba0d4840d3bc81544fd3e8f",
+  "debate_id": "prop_0145__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c529e1a54bfbced36cb01a70380159047e43cb1a1363111793445dc08280c362",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the timing clash that decides the motion. PRO allowed targeted monitoring for specific concern but never solved the first-incident problem: its pre-harm signals arrive after the drink, curfew, or concealment. CON answered PRO's audit and end-point pressures with a workable who-not-what filter and an age-based stop at 18, while PRO's dot-only-records and evasion points were blunted by intervene-if-running and seatbelt replies.</reason>\n<best_rebuttal>CON's Rebuttal 1 circularity plus Rebuttal 2 late-signals turn - smell after drink, missed curfew after gone, pattern of lying is concealment that worked - which left PRO relying on teen-initiated pickup that fails for the pressured teen who will not call.</best_rebuttal>"
+}

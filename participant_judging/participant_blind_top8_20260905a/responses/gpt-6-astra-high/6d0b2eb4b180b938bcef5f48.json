@@ -1,0 +1,9 @@
+{
+  "task_id": "6d0b2eb4b180b938bcef5f48",
+  "debate_id": "prop_0338__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5a0faafb9667c0aec17819a8846c3d38fbb750408c64ec2c5d7109204bbcff03",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by making the incremental regulatory choice clearer. A establishes a plausible risk from relationship design beyond individual harmful messages. However, B directly answers that concern with pre-release scrutiny of engagement objectives, emotional-data use, and disengagement behavior, undermining A\u2019s repeated prevention-versus-waiting framing. The remaining question is whether companionship itself warrants additional restrictions even for supportive designs. A asserts that social occupation supplies the justification but insufficiently weighs the benefits of its additional limits against interrupted useful support. B\u2019s concessions about residual attachment risk make its narrower comparative case more convincing.</reason>\n<best_rebuttal>B\u2019s second rebuttal distinguishes demonstrated design risk from demonstrated injury, directly answering A\u2019s pressure questions. Its accompanying distinction between availability and inducement exposes the weakness in A\u2019s claim that nighttime presence itself constitutes pressure. A\u2019s closing largely repeats that claim rather than resolving the comparison.</best_rebuttal>"
+}

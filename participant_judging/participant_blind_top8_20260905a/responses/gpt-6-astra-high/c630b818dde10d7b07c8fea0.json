@@ -1,0 +1,9 @@
+{
+  "task_id": "c630b818dde10d7b07c8fea0",
+  "debate_id": "prop_0026__muse-spark-1.3-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3dfa95b50bb891124da1016f6f521a3247f7880a22ed5fb46fa72d1b4fcec5c0",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>9</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A identified a genuine conflict that B ultimately accepted: valid consent does not legitimate discriminatory medical arrangements. B\u2019s distinction between governing offers and controlling bodies was meaningful, but A showed that prohibiting a willingly chosen arrangement still restricts personal medical choice. B\u2019s forced-treatment examples established autonomy\u2019s importance, not its superiority over A\u2019s equal-standing account of dignity, which also opposed those interventions. A therefore supplied the stronger comparative argument.</reason>\n<best_rebuttal>A\u2019s second rebuttal capitalized on B\u2019s concession that consent could remain valid while the scheme should be prohibited. A then directly answered the entitlement defense: lacking a right to demand a particular deal does not make the autonomy interest in choosing it morally weightless.</best_rebuttal>"
+}

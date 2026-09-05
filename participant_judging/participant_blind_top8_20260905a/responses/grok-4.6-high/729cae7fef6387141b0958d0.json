@@ -1,0 +1,9 @@
+{
+  "task_id": "729cae7fef6387141b0958d0",
+  "debate_id": "prop_0650__grok-4.6-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d20a8fcd3123b56f8dc85d57919374850604956b4a436c7239d3c5ad6725310e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by shrinking the unique public-health increment of non-diabetic CGMs and making the unique cost clearer. After A centered within-person rankings, B showed that the bread-versus-lentil \u201carrow\u201d was already public, so a live red-line graph adds alarm theater more than new knowledge; existing A1c checks further undercut \u201cmissing signal.\u201d A\u2019s best reply\u2014\u201cthe table was always there; people still slid\u201d\u2014was sharp, and B\u2019s crowding-out claim stayed thin, but A never restored a large unique benefit over anxiety/over-medicalization, and the clipped close cost crystallization.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2 turn of A\u2019s ranking example: glycemic-index tables already supplied the bread-vs-lentils arrow, so the CGM\u2019s marginal product is repeated alarm, not missing meaning.</best_rebuttal>"
+}

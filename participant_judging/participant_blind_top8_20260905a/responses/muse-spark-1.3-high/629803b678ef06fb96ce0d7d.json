@@ -1,0 +1,9 @@
+{
+  "task_id": "629803b678ef06fb96ce0d7d",
+  "debate_id": "prop_0096__claude-opus-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "28fc23d913e497e571cf090be64aafccfd7b10274d4b6e1b54b0e8091bfdc295",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won by breaking the translation analogy and turning CON's concessions: new channels vs new speech, Klaus goes home while model stays, and opt-in at hiring with priced scope answers holdout and coercion better than broad boilerplate. CON's legibility-vs-veto refinement conceded itemization, leaving only a veto CON never showed was costlier than the ambiguity PRO attacked.</reason>\n<best_rebuttal>PRO's manufacturing vs distributing plus channels vs speech turn, capped by using CON's take-it-or-leave-it line against boilerplate and reframing permanence as the harm.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "6b9d1926e2580dd1375e2806",
+  "debate_id": "prop_0288__gpt-6-astra-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "9b88eeaeaa848b1efac8d25d5480933aac988a1ec6231d1e9cda913cd517d400",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.7</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B better defended the actual requirement: individualized scrutiny rather than a human signature. It answered both pressure questions directly, supplied an auditable process standard, and acknowledged that some fraud could escape. A established a serious protective-hold argument, but repeatedly treated suspected hijacking as established theft and meaningful review as necessarily rubber-stamping. Its closing also revived the indefinite-queue comparison despite B explicitly prohibiting that outcome. B therefore provided the cleaner, more responsive case.</reason>\n<best_rebuttal>B\u2019s response that withholding an existing benefit \u201cpending review\u201d is itself the prohibited suspension dismantled A\u2019s comparison between a bounded hold and indefinite deprivation. Its accompanying distinction between imperfect review and nonexistent scrutiny also answered A\u2019s claim that meaningful review was defined to exclude every failure.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "f2f7b64b6955c953afc086b3",
+  "debate_id": "prop_0623__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "cb6802a2a818284908c6f10adb285c9e8a928dde641e5a6411dbd957211f454d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the debate easier to decide by isolating what the motion uniquely adds\u2014extension of insider deals\u2014and showing that A's safeguards collapse the table into a statute while unconstrained bargaining recreates capture and exclusion. A was vivid on fissuring and status-quo degradation, but overclaimed B's industry-floor concession and never established why the table is necessary once government can already write public, industry-specific rules.</reason>\n<best_rebuttal>B's second rebuttal: A1/A2 plus the constrained-vs-unconstrained dilemma (statute wearing a bargaining label vs insider cartel), which neutralized A's design answer and kept the displaced worker live.</best_rebuttal>"
+}

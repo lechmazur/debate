@@ -1,0 +1,9 @@
+{
+  "task_id": "e167b1dab432daf7b01c6681",
+  "debate_id": "prop_0635__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "34dfb78e1036a036a0b4c6425d455f40d3a4a4a634195aeaa0f238ba8a5afa7e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON made the debate decidable: the motion either duplicates existing negligence/consumer/sector law on PRO\u2019s documented \u201clethal dosage\u201d parade case, or else it lacks a bounded spec and becomes hindsight liability. PRO\u2019s user-as-deployer gap was real, but its own limiters (evals, contemporaneous practice) were turned into a diligence tax and a free first injury and never recovered. The clipped CON rebuttal is a real cost, not enough to offset the unanswered comparative frame.</reason>\n<best_rebuttal>A\u2019s Rebuttal 2: converting PRO\u2019s \u201cvisible in evals / already used by prudent providers\u201d answers into a tax on transparency and a rule that leaves the first victim of each new failure class uncompensated.</best_rebuttal>"
+}

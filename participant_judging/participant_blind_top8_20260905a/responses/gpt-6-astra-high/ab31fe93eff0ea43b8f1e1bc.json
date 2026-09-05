@@ -1,0 +1,9 @@
+{
+  "task_id": "ab31fe93eff0ea43b8f1e1bc",
+  "debate_id": "prop_0229__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3216adc43a2c92864e428b41318aa052164fd5b02b4aba808e8622b608f98c7c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly separated the benefits of subsidy reform from the justification for a uniform five-year deadline. Its conditional alternative captured some savings while addressing exclusion and unreliable delivery. B established substantial costs of delay, but did not adequately justify proceeding when compensation still fails. A directly answered the certification challenge and acknowledged temporary leakage. B also incorrectly alleged unanswered questions before A\u2019s scheduled response and invoked a nonexistent reference, weakening its rebuttal credibility.</reason>\n<best_rebuttal>A\u2019s answer to \u201cWe proceed\u201d exposed the central gap: gradual price increases and years of registry-building do not compensate a household the system still misses. B treated exclusion as manageable underpayment; A showed why those are materially different risks.</best_rebuttal>"
+}

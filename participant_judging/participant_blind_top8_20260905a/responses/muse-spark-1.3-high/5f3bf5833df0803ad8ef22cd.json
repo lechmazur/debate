@@ -1,0 +1,9 @@
+{
+  "task_id": "5f3bf5833df0803ad8ef22cd",
+  "debate_id": "prop_0145__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d94526a0109622e0cdeb4015956554a315d9eca673ce97c18b02ee4a79218e76",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won by forcing a dilemma CON never escaped: if danger looks normal default scrolling misses it too, if it is obvious it already counts as a specific concern the motion allows. Combined with bedroom-camera reductio and exposing that friend chats as doorway collapses CON's own intimacy vs lethal-entry limit, PRO left a live route while CON's tragedy vs awkwardness trade lost its causal link.</reason>\n<best_rebuttal>PRO's A4-A5 turn answering pressure then pressing that subtle grooming defeats the dashboard and blatant signals already trigger concern, collapsing CON's justification for standing inspection of all intimacy.</best_rebuttal>"
+}

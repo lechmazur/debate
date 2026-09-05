@@ -1,0 +1,9 @@
+{
+  "task_id": "ffa306d34e53b55b497ff6e0",
+  "debate_id": "prop_0291__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "af1ea8a9865065992c854e3b9d7c017aa89a1489bf3964146083bc48db719451",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B won by making the vote easier: the dial is never empty, the tool is optional, and CON must either leave ordinary homes to engagement systems or deny every parent an effective OS chokepoint. CON\u2019s architecture case (monopoly definition, silence, abuse, capability-as-duty) was sharper and more motion-faithful, but it stayed partly conjectural, was clipped in R1, and never escaped B\u2019s cage-versus-workaround dilemma or the concession that teens are not free today.</reason>\n<best_rebuttal>B2.1\u2013B2.2\u2019s cage-versus-workaround trap, later converted after A4.1\u2019s \u201cnot free today\u201d concession into family vs. ad-market weighing.</best_rebuttal>"
+}

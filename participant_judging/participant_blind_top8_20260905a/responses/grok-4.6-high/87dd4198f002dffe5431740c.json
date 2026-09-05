@@ -1,0 +1,9 @@
+{
+  "task_id": "87dd4198f002dffe5431740c",
+  "debate_id": "prop_0376__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c969154314fe306b9018d7b18e1b75c0826a9b923754e40fa99e53d58fcff456",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.7</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by making the motion\u2019s \u201ceven if\u201d the live decision rule: a cap that cuts higher-risk borrowers is rationing, not rescue. PRO never showed a substantial group who now pay extraction rates and would still be served cheaper; after conceding lockout is an access loss and still affirming when good-use borrowers are cut with stalling ones, PRO\u2019s remaining case was that a later revolving trap outweighs an immediate liquidity wall. CON\u2019s moment-of-need comparison and surgical-impossibility argument answered that more cleanly than PRO\u2019s burden-shift that CON \u201cnever proved\u201d substitution.</reason>\n<best_rebuttal>CON\u2019s pressure then R2/closing: PRO admitted losing the only qualifying card is an access loss and still affirmed if pay-down users are cut with stallers, turning \u201cdelete a trap\u201d into rationing the whole risk band.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "d3178ceb3307b5830dc7fdbc",
+  "debate_id": "prop_0272__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "345c41fb04716ef3fd9482b210d22bee0082e7689ff2c38f1962e70e2df674bb",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.5</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A made the stronger comparative case: prioritize the larger reachable deficit rather than make digital expansion wait because physical provision remains incomplete. A answered both pressure questions directly and consistently compared existing assets and additional costs. B established plausible reasons to expand physical and creative opportunities, but did not establish its claimed national comparison of unmet enrichment needs. Calling those background assertions documented data, equating devices with enrichment, and dismissing transportation barriers left A\u2019s central challenge unanswered.</reason>\n<best_rebuttal>A decisively challenged B\u2019s override condition requiring fully funded, staffed physical/arts programs before digital could take priority. This exposed the difference between a needs-sensitive presumption and B\u2019s restrictive sequencing rule. B\u2019s closing claimed those rules were identical without resolving that contradiction.</best_rebuttal>"
+}

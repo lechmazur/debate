@@ -1,0 +1,9 @@
+{
+  "task_id": "d4a2dddf28206c2498247910",
+  "debate_id": "prop_0168__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5ee391d733b38fe1d867437c92f7aeb4472ba58b5e8570e648659d9835c69210",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.1</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A established a strong structural case for robotic science efficiency, but B more convincingly challenged the leap to transferring most funding. B distinguished prospective capability losses from sunk costs and explicitly permitted retiring unjustified crewed programs, undermining A's \u201ccadence veto\u201d characterization. Crucially, A accepted potentially eliminating viable planetary exploration while excluding rebuilding costs for that eliminated capability. B showed why future scientific capabilities belong in the policy comparison without claiming astronauts deserve guaranteed majority funding. A's closing exploited B's efficiency concession but did not adequately resolve that portfolio-level objection.</reason>\n<best_rebuttal>B's second rebuttal directly challenged A's answer on capability loss: retaining station research does not preserve surface-exploration capabilities, and uncertain rebuilding costs should be discounted rather than excluded. This exposed a substantive gap in A's accounting, not merely a demand for more precise budget figures.</best_rebuttal>"
+}

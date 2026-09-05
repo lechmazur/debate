@@ -1,0 +1,9 @@
+{
+  "task_id": "ad4b25f27be3694fa80f78e7",
+  "debate_id": "prop_0216__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "986419d1ff448c8eebb55c153c81f7604f1e5903cbca07be028d910441000d60",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B better establishes why targeted expansion restrictions justify some forgone earnings: destructive conversion imposes potentially irreversible costs on other livelihoods. A raises serious enforcement and leakage objections, but B answers with focused permitting, retained existing production, and benefits that partial displacement does not automatically erase. A\u2019s mapped-enforcement alternative concedes usable capacity, weakening its categorical implementation objection. Its later treatment of uncertain leakage as proof that benefits remain wholly unproven overstates B\u2019s concession. B provides the clearer marginal-policy comparison and more directly resolves the central tradeoff.</reason>\n<best_rebuttal>B\u2019s closing effectively challenges A\u2019s \u201ccertain costs, speculative benefits\u201d asymmetry: when a damaging conversion is prevented, lost expansion earnings and protected land follow from the same decision. B also explains how closing exceptions can use the existing mapped boundaries that A\u2019s alternative already relies upon.</best_rebuttal>"
+}

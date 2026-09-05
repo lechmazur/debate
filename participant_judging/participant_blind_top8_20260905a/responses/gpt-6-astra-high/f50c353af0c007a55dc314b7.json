@@ -1,0 +1,9 @@
+{
+  "task_id": "f50c353af0c007a55dc314b7",
+  "debate_id": "prop_0443__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "2a4444485d6b0d701831872ae404d85aa15b553b3fc924232158c9d451c0bde9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.7</margin>\n<fun>6</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by defending an open default while directly accommodating legitimate privacy, rights, and commercialization constraints. A identifies genuine risks to exclusivity and integrated projects, but never adequately explains why advance, project-wide exceptions would fail. Its repeated prediction that partners would refuse participation remains insufficiently supported. B makes the decisive comparison clearer: both policies assess whether restrictions are necessary, but only B guarantees reuse rights when no sufficient reason for restriction exists. A\u2019s publication-and-deposit alternative leaves that benefit unanswered.</reason>\n<best_rebuttal>B directly answers A\u2019s commercialization pressure by protecting necessary exclusivity before funding or release, including across integrated projects. B then uses A\u2019s concession that restrictive needs must be real to expose the comparative weakness: A counts justification as collaboration-killing under openness without establishing why its own assessment avoids that burden.</best_rebuttal>"
+}

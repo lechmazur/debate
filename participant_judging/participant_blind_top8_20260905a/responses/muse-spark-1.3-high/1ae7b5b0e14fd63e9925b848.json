@@ -1,0 +1,9 @@
+{
+  "task_id": "1ae7b5b0e14fd63e9925b848",
+  "debate_id": "prop_0579__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a526530b86474858b2a453ee500b843f53e7eaee81fe8a6fd37a5a46dd524747",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A (CON) won by turning B's already-exists defense into a difference in kind: SSN proves little and scattered copies cannot be queried live, while a blessed signature is instantly trusted everywhere, concentrating payoff, enabling live logging and function creep via incentives and SSN history. A answered pressure directly with finite vs generative harm and delay-as-mandate, and weighed diffuse compensable fraud against permanent indexed traceability. B's statute caps and parallel-door reply never solved future expansion or revocation checks.</reason>\n<best_rebuttal>A's concentration and revocability counter \u2014 SSN cobbles forgeries vs master key, revocation freezes victim, offline still needs enrollment/revocation and verifier logs \u2014 most damaged B's live route that revocable selective disclosure is strictly better than the leaky analog baseline.</best_rebuttal>"
+}

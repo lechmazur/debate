@@ -1,0 +1,9 @@
+{
+  "task_id": "c0f9081735d75f5d98ccda96",
+  "debate_id": "prop_0616__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3d95ad4ed51ed88de2ac61ec4cfa75324781de5d4d1939174f68fdf4496a4f1b",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by making irreversibility the decision rule and then winning it: the ban, not a maintained foreign tool base, is what creates a captive domestic order book. PRO never named the delay it treated as the product, and CON\u2019s dilemma\u2014if the frontier matters, do not build their ladder; if it does not, the ban buys little\u2014was the cleaner vote path. PRO\u2019s factory-cannot-be-recalled case stayed powerful but did not neutralize servicing-as-lever or the dual-use order-book argument.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2 (A4): answering PRO\u2019s pressure by layering current vs future military use, then flipping irreversibility so the ban, not the shipment, is the step that cannot be recalled.</best_rebuttal>"
+}

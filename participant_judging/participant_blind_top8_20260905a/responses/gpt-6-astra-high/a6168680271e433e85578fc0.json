@@ -1,0 +1,9 @@
+{
+  "task_id": "a6168680271e433e85578fc0",
+  "debate_id": "prop_0303__claude-fable-5-1-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "fc384009d204a63e49328d73776f3c0a0fd81a60ebaf8f05591ca684e72312eb",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by better resolving the motion\u2019s comparative burden. A persuasively explained how class advantage can persist through competence-based selection, but repeatedly treated that persistence as conceding the entire proposition. B exposed the additional, insufficiently supported claim that most successful people understate that advantage, while directly answering the pressure questions and acknowledging genuine reproduction mechanisms. A\u2019s reliance on generic success narratives and demands that B supply contrary admissions did not close that gap.</reason>\n<best_rebuttal>B\u2019s strongest exchange challenged \u201cclass decides who becomes partner\u201d: passing a competence floor does not eliminate meaningful performance differences above it. A sharpened its response with equally reviewed associates facing different financial constraints, but B correctly distinguished that plausible mechanism from establishing its broader weight or beneficiaries\u2019 underacknowledgment.</best_rebuttal>"
+}

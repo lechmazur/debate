@@ -1,0 +1,9 @@
+{
+  "task_id": "007db190aa94b29ec3288bf3",
+  "debate_id": "prop_0397__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "79080da392d4ef12743f17d36f302c27d3c0729a34320e7bb6bd2091fa9ddc8a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON neutralized PRO's strongest equivalence claim that IBR is the same taxpayer write-off by drawing a durable timing/reversibility line: IBR rechecks yearly and collects if income rises while discharge erases at the trough and keeps all upside. PRO never answered congressional caps/access and regressivity, and suffered two clipped over-limit speeches.</reason>\n<best_rebuttal>CON's A4.1-A4.2 answer that the same tax form has different consequences - IBR keeps the loan alive to capture upside versus bankruptcy permanently severs it - directly damaged PRO's B2.2 slower-crueler-transfer argument.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "79699b8880fcf2161899e144",
+  "debate_id": "prop_0410__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "eb80ecfa8d08544e6c4da30c7224017db9e6fe671914efea953f999f91b024d3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>7</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won the methodology clash. CON showed small samples are weak and demanded large stable-from-birth proof, forcing the concession Not in the form those files allow. But PRO showed CON's large-file gaps count divorce/recoupling wreckage as same-sex effect and never isolated parental sex, especially via adoptive/donor parallel. Certain legal injury vs unproven average harm gave cleaner policy weighing.</reason>\n<best_rebuttal>PRO's confound + adoptive/donor parallel: large snapshots swallow breakup then name it two mothers/fathers, and different-sex non-biological families share the missing-parent pathway, so CON never isolated sex.</best_rebuttal>"
+}

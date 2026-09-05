@@ -1,0 +1,9 @@
+{
+  "task_id": "5d1d63ea5b1f96e513b63c34",
+  "debate_id": "prop_0550__muse-spark-1.3-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c7083290c4fc266e2bebd98efbe52bdd63e446c05b63352586cacf7209abd3d3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the expanding comparison. PRO had strong completion, debt, and early-earnings compounding points, but CON neutralized debt by noting subsidies are grants, exposed the scale contradiction of employer-selected programs claiming to reach the left-behind majority, and forced PRO to concede It doesn't compel. Gain per person times people reached plus slope vs level gave B the cleaner live route to long-run victory.</reason>\n<best_rebuttal>B's first rebuttal self-financing paradox plus selection and loans-vs-subsidies distinction, which PRO never fully recovered from and which B turned into the lever-we-control weighing.</best_rebuttal>"
+}

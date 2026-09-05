@@ -1,0 +1,9 @@
+{
+  "task_id": "c1822adf0c26abcef62ee1e6",
+  "debate_id": "prop_0446__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "2e49e96887968c0708e32d16ea7dacc9ae68238063dc596c4aa228a5ece0a109",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>9</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won the central comparison between binding emissions performance and a common coal endpoint. B offered plausible investment-certainty and coordination benefits, but repeatedly treated A\u2019s binding budgets as voluntary delay. A directly answered the first-mover questions: waiting would still require equivalent emissions reductions. A also used B\u2019s concessions on gas replacement and infrastructure extensions to expose unresolved costs of the deadline. B never adequately explained why eliminating tightly emission-limited reserve plants delivers enough additional climate benefit to justify those costs.</reason>\n<best_rebuttal>After B conceded that long-lived gas replacement could satisfy the agreement, A explained why \u201cnot required\u201d misses the objection: a binding deadline can incentivize that compliant substitute when clean replacements arrive late. This connected the engineering objection directly to cumulative emissions rather than merely resisting coal retirement.</best_rebuttal>"
+}

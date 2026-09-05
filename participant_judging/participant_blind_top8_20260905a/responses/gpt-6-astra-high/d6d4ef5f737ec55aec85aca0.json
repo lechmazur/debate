@@ -1,0 +1,9 @@
+{
+  "task_id": "d6d4ef5f737ec55aec85aca0",
+  "debate_id": "prop_0443__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "28f791d8bebf49d1b39c817fbe3a0c4d42660c0bf9ce2ed05983359e2e453683",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins by distinguishing broad open licensing from enforceable access and research reuse, then making its alternative concrete under pressure. B retained a genuine advantage on frictionless downstream reuse, but its closing still portrayed immediately exercisable permissions as dependence on future generosity. A also exposed the gap between recognizing community exceptions and identifying the interests they protect before release. These rebuttals left A with the cleaner comparison between reduced reuse friction and difficult-to-reverse licensing mistakes.</reason>\n<best_rebuttal>A answered the post-grant-access challenge with institutional deposits, immediate research-reuse permissions, and enforceable release schedules. B\u2019s subsequent \u201cpromise versus present right\u201d framing did not adequately engage that answer, weakening its central claim that rejecting the open-license default necessarily leaves researchers waiting.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "e724879bb2b2fc229b062d60",
+  "debate_id": "prop_0077__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b8343bc44618ea92a9543c6c3ab783673aca6adf1beabbc637cb7682b5bfc8a2",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>Side A (CON) kept the stronger live route: concrete recidivism after jail releases vs speculative trust, plus the jail-as-safest-enforcement-point turnaround that sanctuary forces fear-producing field arrests. Its warrant-veto point that civil detainers cannot meet a criminal-warrant demand was never answered, and its real-as-enacted vs ideal framing blunted B's notification-concession trap. B's anecdote-vs-aggregate point was good but left core enforcement mechanics unrebutted, with a clipped opening as added cost.</reason>\n<best_rebuttal>A's civil-detainer vs criminal-warrant veto in Rebuttal 1, answered with probable-cause standard in Rebuttal 2, which directly damaged B's claim that sanctuary already cooperates via judicial warrant and was never repaired.</best_rebuttal>"
+}

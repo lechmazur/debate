@@ -1,0 +1,9 @@
+{
+  "task_id": "3e1db5f8a9f3183c4fd5999d",
+  "debate_id": "prop_0359__glm-5-3-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "96da2c5a6b34bac4c4c5bcc851847916da2c9fc69929e297058db2e040e67a26",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won on decision-relevance and consequences. A framed any reaction to truth as justification, but B showed true without costs misleads, rider price adds no dollars-per-mile math, and default in-car display drives anchoring on outliers, cherry-picking, tip loss, off-app risk, and caps killing cross-subsidy. A never answered the audit-vs-screen and face-to-face distinctions and conceded the harms as features, losing the earnings/pickups weighing, plus a clipping cost on opening.</reason>\n<best_rebuttal>B Rebuttal 1 diner-menu/paystub vs stranger-price plus single-rate vs personalized in-car split and outlier screenshot anchoring, which turned A's truth-reveals-harm boast into misinformation-without-context.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "0a8aa82077db2c7090bb40d5",
+  "debate_id": "prop_0206__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "353730f3f7881f27d5ca0cb7e956f11a92f64a310cc8babeb59a48cd1d0fb1e6",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the decisive incidence clash: indexing to average longevity collects in years from short-lived, lower-capacity workers, while progressive finance can load the bill onto those who actually gained the extra years. PRO\u2019s PAYGO ratio case and the \u201cfrozen age still bills the roofer\u201d turn were serious and motion-faithful, but CON left standing the labor-market/cost-shifting objection, the weakness of disability as a mass patch, and PRO\u2019s refusal of any failure threshold. CON also answered unbounded-tax pressure by allowing democratic age rises without conceding automatic averaging as the main instrument.</reason>\n<best_rebuttal>CON\u2019s currencies reply (R1\u2013R2): both policies take from the short-lived worker, but an age hike takes retirement years\u2014the substance of the promise\u2014while a structured tax is a fraction of wages that can be shifted onto high earners.</best_rebuttal>"
+}

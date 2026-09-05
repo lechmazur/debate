@@ -1,0 +1,9 @@
+{
+  "task_id": "eb3cfbe6e6b33f0f9e3a7216",
+  "debate_id": "prop_0107__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "387df823f97aef4102ecf253253cd26fb54908bb96496a5cf1ba4b6fb3a0bb04",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>4</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B offered the stronger comparative case: qualified evidence of sustained relief, acknowledged treatment risks, and lasting harms from delayed treatment. A correctly identified substantial long-term uncertainty, but weakened that challenge by demanding lifelong predictive screening and asserting an inadequately supported treatment-induced \u201cpipeline.\u201d B answered both pressure questions directly and clarified that its case included hormones, not merely a supposedly harmless pause. Its net-benefit argument remained provisional but better supported.</reason>\n<best_rebuttal>B\u2019s strongest rebuttal was that high continuation among selected patients cannot establish treatment-manufactured persistence by comparison with adolescents generally. Combined with distinguishing careful assessment from guaranteed lifelong prediction, this defeated A\u2019s main attempt to invalidate the screened population.</best_rebuttal>"
+}

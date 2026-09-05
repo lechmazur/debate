@@ -1,0 +1,9 @@
+{
+  "task_id": "ff3f138d0a0c908d94c8bcef",
+  "debate_id": "prop_0312__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "cb93a6a54761d7443ab790023fd262c29639c9481e34c5796a70ff13d1173134",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.4</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the trade-off substantially clearer: greater free-final reach deserves weight, but does not automatically outweigh development and season-long coverage. B honestly answered the symmetrical-evidence challenge and distinguished fragmentation from price exclusion. A established genuine access and cultural benefits, but repeatedly inflated better recruitment into indispensable recruitment and did not meaningfully answer the funding trade-off. B also directly dismantled A\u2019s closing claim that only lost exposure creates irreversible costs.</reason>\n<best_rebuttal>B\u2019s strongest rebuttal used A\u2019s own discovery settings: relatives\u2019 televisions and barbecues can also expose newcomers to free regular-season games or household subscription finals. This undermined A\u2019s claim that paywalling marquee games deletes accidental discovery, leaving an incremental benefit that needed comparative justification rather than automatic priority.</best_rebuttal>"
+}

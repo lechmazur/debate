@@ -1,0 +1,9 @@
+{
+  "task_id": "dc4350e9ca04aaa0685b8aac",
+  "debate_id": "prop_0374__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "68f30068482586fd41fd7e04180c7e64c0b2ecf56fe0165016f4191c234336cf",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins by dismantling B\u2019s central comparative asymmetries. A showed that political pressure can target genuinely false curricula, that misleading content can spread and resist correction, and that missing learning can leave assessable evidence. B offered a credible chilling mechanism, but repeatedly treated harmful content as bounded and reliably correctable while treating omissions as effectively undetectable. Its concession that justified lobbying counts also undermined its initial exclusion of A\u2019s examples. A more convincingly explained why B\u2019s mechanisms did not establish the proposition\u2019s present ranking of educational harms.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal identified inconsistent assumptions about oversight: if political fear can hollow out assessments, it can also compromise review of misleading content. B\u2019s closing emphasized Dover\u2019s successful correction but did not resolve why institutional vulnerability should count primarily against omissions.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "19a6068f352b1cd6b68188fc",
+  "debate_id": "prop_0392__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "93de8278d8b923fa48c7a16a2872f10fc3f0891441e6189441a0f91bcbbb7566",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by keeping the motion as written at the center: fines hit the named public-facing service on a basic-standards checklist, including when the operator cannot rewrite a locked vendor stack. Side B\u2019s admission that it would still fine that hospital made \u201crepeatedly\u201d look like a surcharge on incapacity rather than proof of refusal, and the \u201cboth\u201d answer on checklist vs. task completion never restored a clean trigger. Side B\u2019s live residual\u2014who forces procurement if not an external cost\u2014was real but overclaimed that only post-hoc fines have teeth, while a clipped opening and a late metric wobble capped the case.</reason>\n<best_rebuttal>A\u2019s pressure on whether a second failed audit of an unrewritable third-party scheduler is a \u201cdecision,\u201d then using B\u2019s \u201cyes, still fine them\u201d answer to recast the resolution as billing incapacity rather than deterring refusal.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "e7cefa08cd97293f4fe8facc",
+  "debate_id": "prop_0252__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "560ca59650c207ea1a8451a67de814aa4a21dff46caf3f3aee9bfb595df739d9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won a close, high-quality clash by making the live comparison easier to vote on: unpaid non-educational placements as a family-income filter, not an open first rung. CON landed real blows\u2014conversion largely failed, PRO admitted typical deletion, and the educational line is messy\u2014but never cleanly answered the wage-floor stopping-point or showed that the typical contested slot was actually usable by the unconnected. PRO\u2019s honest \u201coften a deleted slot\u201d plus \u201cshe could not take that slot\u201d reframing, and the \u201conly makes sense unpaid\u201d crystallization, outweighed CON\u2019s ash-and-nephew second-order story.</reason>\n<best_rebuttal>PRO\u2019s R1 dilemma (valued labour is already a sham; genuine teaching is carved out) and the later turn of CON\u2019s \u201conly makes sense if cash is not required\u201d into a means-test indictment, which CON never fully unpicked.</best_rebuttal>"
+}

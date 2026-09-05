@@ -1,0 +1,9 @@
+{
+  "task_id": "8d74464c332816cc1c4df86b",
+  "debate_id": "prop_0204__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b767607d02956fc2044f73dd651bdb5b3f47c3f28acea8c13933a112cae3635f",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the live comparison: on PRO\u2019s own crisis metric, idle rock is not commandable inventory, and PRO\u2019s listed rebuttal conditions are mitigation that can be imposed without a denial default. PRO remained strong on processing chokepoints, information lag, and capture, but never escaped the decade-versus-weeks weigh or showed that blocking mines loosens rival refining. The R2 clip is a real CON cost, yet the concession-turning still decided the debate.</reason>\n<best_rebuttal>CON\u2019s use of PRO\u2019s A1 showings (allied offtake, audited capital, personnel limits) plus the \u201cdecade is a commercial cost\u201d answer: those conditions neutralize leverage without paying undeveloped deposits.</best_rebuttal>"
+}

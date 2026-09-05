@@ -1,0 +1,9 @@
+{
+  "task_id": "a0539ba4485516fcb454cdc1",
+  "debate_id": "prop_0443__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "2a4444485d6b0d701831872ae404d85aa15b553b3fc924232158c9d451c0bde9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won a competitive debate by making the choice easier: after genuine privacy, safety, third-party, and exclusivity needs are protected at planning, leftover permission barriers on safe publicly funded outputs still fail the public-return test. CON\u2019s translation/formation story was vivid and live, but PRO absorbed it into pre-release exceptions and showed CON\u2019s \u201cjustified sharing\u201d still leaves reuse optional. CON never fully explained why residual access-without-reuse is enough once the extra commercial right is no longer needed.</reason>\n<best_rebuttal>PRO\u2019s judo on access vs. license, then Rebuttal 2: CON\u2019s own real-need test already requires review, so partner veto cannot remain the default while safe leftover outputs stay locked.</best_rebuttal>"
+}

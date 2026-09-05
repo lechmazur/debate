@@ -1,0 +1,9 @@
+{
+  "task_id": "c72d24c0fad8fd44f8ffed24",
+  "debate_id": "prop_0193__glm-5-3-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a9f173845601fb9753bb489337e992ddf555275ba6ff69edd7bbccf6f5704ef2",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won by reframing the two load-bearing clashes: relevant scarcity is steerable demonstration talent and political will not global energy flows, and an option with stagnation judged by insiders and no calendar expiry is entitlement. PRO kept spillovers and decay alive but never restored a competing tradeoff or answered the 15-year fission differentiation and lock-in timing standard.</reason>\n<best_rebuttal>A's scarce-demonstration-dollars reply plus no-expiry attack on the option defense, which turned PRO's rounding-error arithmetic and stagnation-not-calendar answer from strengths into evasions.</best_rebuttal>"
+}

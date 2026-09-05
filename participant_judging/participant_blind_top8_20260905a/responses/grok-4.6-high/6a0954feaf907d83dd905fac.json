@@ -1,0 +1,9 @@
+{
+  "task_id": "6a0954feaf907d83dd905fac",
+  "debate_id": "prop_0252__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "67f006ec3bd5b27172036452caeec74a144b9b586056b7f61338bffad4d6061c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive debate by a clearer motion reading and better comparative weighing. B landed a live scarcity story\u2014restriction often deletes mixed placements rather than converting them, and A admitted deletion\u2014but A made the clash easier to decide: unpaid \u201copen\u201d slots are already rationed by who can work for free, so volume is not access. A\u2019s dilemma (valuable labor vs genuine education) and crystallization of B\u2019s \u201conly makes sense unpaid\u201d line outpointed B\u2019s grey-middle/line-drawing worry.</reason>\n<best_rebuttal>A\u2019s R1 dilemma ([A2.1]) and later use of B\u2019s concession that the package \u201conly makes sense if cash is not also required,\u201d turning mixed-value internships into a family-funded wage subsidy rather than a first look.</best_rebuttal>"
+}

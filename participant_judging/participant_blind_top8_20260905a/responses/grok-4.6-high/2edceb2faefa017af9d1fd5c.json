@@ -1,0 +1,9 @@
+{
+  "task_id": "2edceb2faefa017af9d1fd5c",
+  "debate_id": "prop_0127__grok-4.6-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "470cfa317c5d1b0207ceecd6da9cf5bc7c9e9c60214bd98e56bfce0c96af3661",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won a competitive debate by making the motion easier to decide: if dumpstering lawful edible food stays legally cheaper, waste remains a normal cost of doing business. B\u2019s honest yes to that pressure question, plus an incentives plan that leaves destruction optional, never closed A\u2019s core license. B\u2019s best live argument\u2014ex ante ordering risk turning a last-use duty into scarcity\u2014was sharp and better on mechanism than A fully admitted, but it was overweighted against small grocers the motion does not cover, underweighted the markdown path, and did not show why subsidies beat a floor when trash remains easier.</reason>\n<best_rebuttal>A\u2019s Q1 forced B to concede stores stay free to trash when the dumpster is cheaper; A then treated that remaining license as the vote issue rather than a mere drafting detail.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "e5e39223627682395b694f47",
+  "debate_id": "prop_0546__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "838442af6575c7357fe2e3eb97b2358e5d9be2bc11417953b7a49191d51bd5d7",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality debate by locking onto the motion as written: not any reporter versus a vacuum, but whether firewalled public pay would net-reduce polarization and corruption. A\u2019s news-desert case was vivid and current, yet never fully converted into evidence for this instrument; B repeatedly treated that gap as fatal and kept independence as the condition the promised reductions require. A\u2019s \u201cunfalsifiable capture proves too much\u201d close landed, but B\u2019s funder-identity and \u201ccredential as cover\u201d frames stayed live and easier to vote on.</reason>\n<best_rebuttal>B2.1\u2013B2.4: journalism is not an IG/judge, and desert studies measure dying private papers, not a subsidy\u2014this defined the clash.</best_rebuttal>"
+}

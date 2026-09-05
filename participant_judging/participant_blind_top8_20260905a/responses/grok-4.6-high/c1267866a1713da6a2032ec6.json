@@ -1,0 +1,9 @@
+{
+  "task_id": "c1267866a1713da6a2032ec6",
+  "debate_id": "prop_0320__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "fb936b91578ff3dfab804aff44ff330a83eeafb0f8468e7025d1d623c64507e0",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by keeping the motion\u2019s \u201cmainly\u201d test live and winning the core causal clash: extra licensed hours add drinks on top of pre-loading, so the surge is larger and drunker, not merely relocated. PRO\u2019s \u201csame appetite in a safer room\u201d story never overcame that, and treating CON\u2019s timed exit pulse as a concession of the proposition overreached. CON answered Sydney, workers, and the walk-versus-drive bind more cleanly than PRO answered the extra-rounds / unbounded-night questions.</reason>\n<best_rebuttal>CON\u2019s R2/closing distinction between a last-train corridor timed to last call and a 2\u20134am entertainment grid, paired with the preload-plus-extra-doubles reply to PRO\u2019s supervised-venue claim.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "327fc9e6499fbf3e3df4e84e",
+  "debate_id": "prop_0619__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "bc8787a48ffd9ffe2a530771bfce2012e269b03d398383bbbcc6804ba345c172",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>0.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A wins narrowly. B established a genuine protection gap before orders arrive, which A candidly conceded. But A better tested the breadth of B\u2019s proposed duty: targeting a \u201cthrowaway brigade\u201d still requires distinguishing harassment infrastructure from anonymous lawful organizing. A explained why the express shield leaves platforms incentivized to suppress disputed networks. B\u2019s closing returned to obvious swatting materials rather than resolving that boundary or justifying the wider obligation.</reason>\n<best_rebuttal>B argued that an express shield broke the liability asymmetry. A directly replied that preserving a network still requires defending its classification, while disabling it avoids that dispute without corresponding liability for lost lawful reach. This preserved A\u2019s central objection despite B\u2019s strongest safeguard.</best_rebuttal>"
+}

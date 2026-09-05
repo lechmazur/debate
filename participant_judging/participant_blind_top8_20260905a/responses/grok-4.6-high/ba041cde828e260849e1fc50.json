@@ -1,0 +1,9 @@
+{
+  "task_id": "ba041cde828e260849e1fc50",
+  "debate_id": "prop_0648__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cd112a1bc0853fb9fca6f8493e1201685f6226ce65b4e907b1545e913d30eabe",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by treating the motion as substitution of reliance and keeping dual unavailability live: a reservist at the plant is still one body, and command, campaign picture, and continuity cannot be surged when firms lock down together. Side B was strong on terrain, skill currency, and lumpy surge, and its closing reframe was memorable, but it overclaimed that CON\u2019s extra civilian hands equaled the proposition, and its clipped first rebuttal cost landing.</reason>\n<best_rebuttal>A\u2019s dual-unavailability reply to \u201calready at the console\u201d: stay and she is still the plant\u2019s employee; pull her and the utility loses the topology expert\u2014so a badge does not create national reliance.</best_rebuttal>"
+}

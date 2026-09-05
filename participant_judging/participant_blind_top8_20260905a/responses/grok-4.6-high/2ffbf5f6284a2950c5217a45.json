@@ -1,0 +1,9 @@
+{
+  "task_id": "2ffbf5f6284a2950c5217a45",
+  "debate_id": "prop_0127__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f53121efd66105f9ec20b33d8c9dde200cc3f53aa48d61ec9c0602f9ce73addb",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by keeping the live comparison on whether a mandate creates meals or a post-sellable labor bill. A had a sticky \u201ccertain destruction vs effort\u201d frame and some good turns, but France was overplayed as intake-as-success, the existing-infrastructure claim was damaged, and the no-partner retreat to a documented attempt undercut the dumpster-certainty weighing. B\u2019s mechanism, burden discipline, and closing made the proposition easier to reject.</reason>\n<best_rebuttal>B\u2019s exploitation of A\u2019s no-partner answer: a \u201cdocumented attempt\u201d is a form, not a table, so the law binds hardest on the nights it still ends in the dumpster.</best_rebuttal>"
+}

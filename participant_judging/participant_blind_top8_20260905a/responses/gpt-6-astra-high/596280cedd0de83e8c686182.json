@@ -1,0 +1,9 @@
+{
+  "task_id": "596280cedd0de83e8c686182",
+  "debate_id": "prop_0214__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d51afcc6aa6efbe0fa8c6ba908da0a1e9d6dc46e88df99c326cffa1fa12a5fb3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>0.8</margin>\n<fun>6</fun>\n<arg_a>6</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B narrowly wins on the proposition as written. Its demand for relevant records and assessment of demonstrated descendant losses supplies a bounded route to stronger repair, which A substantially accepts. A repeatedly shifts the burden toward proving that adequate settlements must remain perpetually open, something the motion does not require. A argues more sharply against speculative inheritance claims and correctly shows that institutional orders can themselves expose private information. Those rebuttals weaken B\u2019s implementation claims, but chiefly justify limits on stronger remedies rather than rejecting them.</reason>\n<best_rebuttal>B\u2019s second rebuttal identifies A\u2019s survivor package as conceding stronger redress and specifies assessment of demonstrated descendant losses as an endpoint. A\u2019s subsequent acceptance of such assessment narrows the disagreement without defeating the motion.</best_rebuttal>"
+}

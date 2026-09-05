@@ -1,0 +1,9 @@
+{
+  "task_id": "8a6a367b69d157a9f4241b81",
+  "debate_id": "prop_0402__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "c269c452152fe1ee997e2c7f9b56cdc3abfe55d9f6809046c9d05732ef1662bb",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A more convincingly distinguished tenant qualification from the obligations attached to a payment arrangement. B established serious housing-access harms and directly answered the timing question, but never substantiated its claim that additional program obligations amount to negligible paperwork. Its closing treated uniform exclusion as sufficient proof of illegitimacy rather than answering the contractual justification. A answered pressure cleanly and progressively narrowed the debate to that unresolved burden.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal was that a requirement shared by every voucher arrangement can produce a uniform contractual objection without establishing prejudice. Calling those terms \u201cstandard\u201d neither eliminates their burdens nor justifies compulsory acceptance, undermining B\u2019s central proxy-discrimination argument.</best_rebuttal>"
+}

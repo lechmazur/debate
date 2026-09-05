@@ -1,0 +1,9 @@
+{
+  "task_id": "22bcf6add95cf3e8c6dfe283",
+  "debate_id": "prop_0316__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c04a326d7de155931dad1ec2a5c0d289eaa12abd905f34442e2cbb28fa8d4e6b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making the live clash easier to decide: the right as written is a thin AI badge, and A\u2019s harm story (burial to sell boosts, loaded odds, self-blame vs the machine) needed facts that badge never states. B held the motion to ranking-as-product, emptiness, and an arbitrary AI trigger, then used A\u2019s concessions\u2014that the sentence does not say you were penalized, and that secret human grading would also be wrong\u2014to show the material claim was being smuggled in. A was vivid on intimacy and modest notice, but never closed that gap.</reason>\n<best_rebuttal>B\u2019s second rebuttal: A admits the label never says they were penalized, then loads \u201crigged game/loaded odds\u201d; B answers that \u201ccomputers run the tables\u201d is not loaded odds, so the notice still cannot separate burial from a thin room.</best_rebuttal>"
+}

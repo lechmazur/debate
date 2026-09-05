@@ -1,0 +1,9 @@
+{
+  "task_id": "99a32e08a1fa0e42909dfa71",
+  "debate_id": "prop_0312__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d77d2e0ddab6c8cc67c328b82234ffd75df9b9ad9ae2880e2b64c325ad682b63",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A made the stronger comparative case. B established genuine reach and access benefits, but repeatedly treated better recruitment as indispensable recruitment and subscription funding as merely short-term. A candidly answered the symmetrical-burden challenge, distinguished fragmentation from price exclusion, and explained why both choices carry long-term opportunity costs. A also directly rebutted B\u2019s closing reversibility argument. Neither side quantified the tradeoff, but A handled the uncertainty and opposing pressure substantially better.</reason>\n<best_rebuttal>A used B\u2019s own barbecue and relatives\u2019 television examples to show that household subscriptions and free ordinary-season games still permit accidental discovery. This directly undermined B\u2019s central leap from free marquee broadcasts enlarging recruitment opportunities to their absence deleting those opportunities.</best_rebuttal>"
+}

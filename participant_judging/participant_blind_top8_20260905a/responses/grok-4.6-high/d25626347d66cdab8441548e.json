@@ -1,0 +1,9 @@
+{
+  "task_id": "d25626347d66cdab8441548e",
+  "debate_id": "prop_0576__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "4b868d8fdc3a5857f3c36957411a9c36ce08275697041b8eecba557460aecdbf",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive debate by keeping the motion as a high-bar equal-treatment rule and forcing B into a near-immunity position that could not explain why subsidized campaign machinery should stay tax-free when identical work costs secular charities their status. B\u2019s theologian/chilling frame was memorable and live, but it did not neutralize subsidy-plus-neutrality after B already conceded some partisan operations forfeit advantages.</reason>\n<best_rebuttal>A\u2019s pressure questions plus Rebuttal 2: B\u2019s \u201cconduct is conscience\u201d left no limit short of already-banned checks, while A distinguished protected moral preaching from using tax-free staff, buildings, and lists as a campaign engine.</best_rebuttal>"
+}

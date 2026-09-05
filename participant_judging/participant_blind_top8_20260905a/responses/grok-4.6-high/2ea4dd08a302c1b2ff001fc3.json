@@ -1,0 +1,9 @@
+{
+  "task_id": "2ea4dd08a302c1b2ff001fc3",
+  "debate_id": "prop_0197__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "fa113b39bf37262a70133669501479f8024b68284bb8464227313718142b1694",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by tying the vote to the motion\u2019s own justification: long-term cascades. The 2007/2021 vs 2008/2019 distinction, plus the incentive that a blanket ban deletes a low-altitude path while leaving reckless testers unbound, was a cleaner comparative than PRO\u2019s high-leverage story. PRO remained coherent on loopholes and first-defector prestige, but late speeches stretched \u201cmonths of crossing debris\u201d into cascade prevention and never named lasting harm from the low intercepts. B\u2019s clipped closing is a real cost, not enough to reverse the clash.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2: PRO swapped the motion\u2019s cascade harm for a collision lottery, and \u201call\u201d deletes the compliant low shot so remaining testers have no reason to shoot low.</best_rebuttal>"
+}

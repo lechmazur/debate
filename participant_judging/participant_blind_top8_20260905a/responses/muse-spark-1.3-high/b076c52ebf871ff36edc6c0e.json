@@ -1,0 +1,9 @@
+{
+  "task_id": "b076c52ebf871ff36edc6c0e",
+  "debate_id": "prop_0559__claude-fable-5-1-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8351fe74a6008bc6ba40a22a95b215e94f0d726413706c97a714d4efda33289d",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won the central clash on third-party consent. PRO's lock-in case was strong but CON answered it with turnover, multi-homing, and narrow bans, while PRO never resolved the privacy-or-portability dilemma: unilateral transfer exports others without consent, reciprocal transfer leaves the mover alone. CON's typed-address vs platform-built-graph and fungible-dollars vs other-people distinctions dismantled the phone/email/banking analogies, and exposed PRO's late shift to ongoing federation as beyond one-time transfer.</reason>\n<best_rebuttal>CON's privacy-or-portability fork in R1/R2 \u2014 if links need acceptance the mover lands alone, if not 400 strangers are bulk-exported \u2014 which survived PRO's pointer/interoperability answer and framed the closing choice as lock-in vs leak-out.</best_rebuttal>"
+}

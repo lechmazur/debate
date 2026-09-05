@@ -1,0 +1,9 @@
+{
+  "task_id": "25e174598eda27979dad324e",
+  "debate_id": "prop_0114__glm-5-3-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "0be9f3b1eaaa0f715781f707a877ea1ac6670ae276e55da04290d8ebcc42a746",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by making the clash decidable: a pension credit is a vested claim on other workers, not delayed care pay, so messy verification and \u201csee the carer\u201d can support cash/respite without minting contribution years. Side B\u2019s verification trap and existing-credits comparison were sharp, but the fiscal \u201ccheap if care happens anyway\u201d line was internally weak, compounding was never shown to be a mere difference of degree, and two clipped turns were an execution cost.</reason>\n<best_rebuttal>A\u2019s R2/closing split: time-limited care benefits can live with a rough gate because the error dies; a credited year compounds and bills strangers\u2014defusing B\u2019s verification-hypocrisy trap without abandoning support for carers.</best_rebuttal>"
+}

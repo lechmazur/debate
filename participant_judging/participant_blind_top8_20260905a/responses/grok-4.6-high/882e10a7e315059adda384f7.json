@@ -1,0 +1,9 @@
+{
+  "task_id": "882e10a7e315059adda384f7",
+  "debate_id": "prop_0409__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "20dae80f89cbb2d248cb7febd4ba02446881767c581a9ba098626957b061c9c6",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won a close, high-quality debate by converting B\u2019s free-entry floor into a comparative loss. B\u2019s default, ratchet, and gate-versus-tools framing was the cleaner reading of the motion and forced A to defend growth of peak charges, not just parking or concerts. A still prevailed because the nurse test and the funding constraint stayed live: timed-entry and lotteries also lock out the weekend worker and raise no staff money, while pricing lots and picnics but never the sand shoves overflow onto the last free surface. B\u2019s \u201cbudget choice\u201d and \u201cyour concessions are the motion\u201d lines never fully answered that usable-access comparison, so enclosure-by-ruin remained the stronger path.</reason>\n<best_rebuttal>A\u2019s overflow reply to B\u2019s hard line against expanding the gate: peak parking/picnic tools without pricing the sand still wreck the free lawn, exclude the nurse, and fail to hire weekend staff.</best_rebuttal>"
+}

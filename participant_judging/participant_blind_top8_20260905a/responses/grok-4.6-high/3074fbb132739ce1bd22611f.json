@@ -1,0 +1,9 @@
+{
+  "task_id": "3074fbb132739ce1bd22611f",
+  "debate_id": "prop_0277__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "616a993c88c53c2f3f805ab230e4dafc129758544652c009c91ba80e5fc3df8d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won the live comparison after both sides accepted caps and housing rules: remaining demand need not be shared, because relief tracks actual pressure and extra service costs, not a district\u2019s share of sightseeing. PRO was punchier on fairness and boom-bust, but never escaped the double standard of treating regulation as protection only when tourism is spread, so CON left the cleaner reason to reject the motion.</reason>\n<best_rebuttal>CON\u2019s reply that a high share of a genuinely smaller cap is not still a crush, and that PRO cannot count licensing as sufficient only in newly promoted neighborhoods.</best_rebuttal>"
+}

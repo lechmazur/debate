@@ -1,0 +1,9 @@
+{
+  "task_id": "a0545059d9670a3032faf315",
+  "debate_id": "prop_0193__glm-5-3-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e9b93249463e70b650e8037fa7d04b1b7bcc46e162c9cb275dce26b1e48b9059",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>7</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the decisive clashes: corrected PRO's rounding-error math to scarce public demonstration budgets and talent, showed lock-in makes pre-mid-century bankability decisive, distinguished fission/geothermal's rapid electricity payoff from fusion's 50-year no-power record, and exposed PRO's no-calendar option as open-ended entitlement. PRO's long-horizon and spillover points survived but never justified large flagship scope, plus opening was clipped.</reason>\n<best_rebuttal>B's scarcity plus history rebuttal: wrong-budget correction and fission-in-15-years audit, capped by no-expiry-is-faith attack on PRO's refusal to name a calendar failure date.</best_rebuttal>"
+}

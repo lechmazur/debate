@@ -1,0 +1,9 @@
+{
+  "task_id": "08c04accfd33d7bafd078438",
+  "debate_id": "prop_0312__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "097cd19571e3917b39323d0e5572ec6adb9e6733f3697869b0e0235c98097d67",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>3.1</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>3</reb_a>\n<reb_b>9</reb_b>\n<ground_a>3</ground_a>\n<ground_b>8</ground_b>\n<orig_a>4</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>5</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the decisive comparison clearer: some exclusivity revenue versus dependable live access, while preserving most paid marquee inventory. B directly answered the revenue and definition questions and honestly conceded possible financial losses. A established a plausible opportunity cost but never justified its claimed consequences for development and safety. It also repeatedly misrepresented free-to-air as requiring cable despite explicit corrections. Its answer on access offered paid passes or non-viewing substitutes without establishing comparable free live coverage.</reason>\n<best_rebuttal>B dismantled A\u2019s funding-versus-access dichotomy: most marquee games remain monetisable, free broadcasters still pay rights fees, and losing some premium does not establish threatened development budgets. B then exposed why cheap passes, radio, text and highlights do not answer exclusion from live viewing.</best_rebuttal>"
+}

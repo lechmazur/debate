@@ -1,0 +1,9 @@
+{
+  "task_id": "78654b0101bf879faa1fc1a7",
+  "debate_id": "prop_0022__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cd24cd854120e6c5f3d5048644f6edbe1dc779859e6c0df36c96b80d9aa90e0f",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>0.8</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B narrowly wins on the comparative motion. A expressly accepts fund-style oversight for reserve-investing issuers, encompassing the principal operating examples debated. Its cash-only alternative and compliance-cost argument support tailored requirements or exceptions, but do not establish that issuers generally belong closer to ordinary software projects. A nevertheless handled pressure better and exposed significant weaknesses: B\u2019s nonexistent Tether collapse, unsupported counterfactual, and exaggerated claims that only prudential supervision could prevent failures. Those errors substantially narrow B\u2019s victory.</reason>\n<best_rebuttal>B\u2019s closing applies A\u2019s investment-activity trigger to the major issuers, turning an apparent disagreement into substantial agreement with the proposition. A\u2019s response about encouraging safer cash-only architectures preserves a meaningful exception, but does not overturn that central concession.</best_rebuttal>"
+}

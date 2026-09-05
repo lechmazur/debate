@@ -1,0 +1,9 @@
+{
+  "task_id": "9c6333f45d3553eff26571c7",
+  "debate_id": "prop_0363__gpt-6-astra-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b94105a67000773cb5a51fcc331eedcbc3f365ac6145050c5bc138a0cf349605",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>4</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A built the stronger portfolio-renewal case and answered why cheap discovery does not necessarily substitute for mid-budget execution. B raised legitimate marketing-cost and marginal-investment objections, but repeatedly substituted unsupported categorical claims and demands for numerical precision for comparative analysis. A also directly rebutted the status-quo charge by distinguishing selection standards from spending allocation; B merely repeated it. A\u2019s limited demonstration of current underinvestment keeps the win competitive.</reason>\n<best_rebuttal>A exposed that B\u2019s production-and-marketing example could not establish a required hit rate without success payoffs, failure losses, and comparable sequel returns. B subsequently portrayed this justified rejection of false precision as refusing arithmetic, rather than resolving the missing comparison.</best_rebuttal>"
+}

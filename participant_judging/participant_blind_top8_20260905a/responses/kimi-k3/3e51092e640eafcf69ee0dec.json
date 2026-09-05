@@ -1,0 +1,9 @@
+{
+  "task_id": "3e51092e640eafcf69ee0dec",
+  "debate_id": "prop_0080__kimi-k3__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "kimi-k3",
+  "side_a_source": "con",
+  "prompt_sha256": "ceeaf6ad071af232c73b3a6344dc375ed594639249ffac4622ffe65836640f17",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>9</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>9</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>CON won the crux: it showed the tax/visa/workers'-comp cascade attaches to the employee declaration that bargaining legally requires, not to revenue payments structured as licensing, while PRO's counter (\"economics settles status\") was an overclaim. CON then granted PRO's best answer (the Big Ten) and reframed to one conference versus the SEC, caught PRO's \"playing rules aren't labor terms\" defense contradicting its own opening list of bargained transfer rules, and dismantled the department-wide unit by noting non-revenue athletes aren't employees under PRO's own logic. PRO's state-patchwork reassertion (B4.5) ignored CON's unrebutted point that a federal class settlement binds all states. PRO's consent/voice framing was its best surviving offense and its rhetoric was superb, but CON left more live routes standing. CON's two clipped turns and PRO's cleaner execution keep the margin moderate.</reason>\n<best_rebuttal>CON's Rebuttal 2: answering B's pressure questions, it argued that even a court finding of employment creates no bargaining rights in Texas or Alabama (so the cascade isn't comparative), then caught PRO listing transfer rules as CBA subjects in B1.3 while claiming labor terms never touch competition\u2014exposing the \"two eligibility rulebooks for one playoff\" problem PRO never repaired.</best_rebuttal>"
+}

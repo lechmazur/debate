@@ -1,0 +1,9 @@
+{
+  "task_id": "dcdc73d28b7b4500dd9d87f7",
+  "debate_id": "prop_0341__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "1fb7afd03392f51d95e887c948f28386b264d0581461ec8dea44d259ea64b9d0",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.6</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>4</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the proportionality comparison while conceding genuinely private technology and some protective benefit. It distinguished reduced exposure from blocked visits, exclusion from annoyance, and transactional gambling controls from pornography gates. A supplied plausible friction and fallback mechanisms, but overstated their effectiveness and treated the proposition\u2019s intrusion clause as settling the very balance under debate. B answered both pressure questions directly; A repeatedly mischaracterized B\u2019s stronger rationale for gambling as an outright concession and its proposed mandatory defaults as merely opt-in tools.</reason>\n<best_rebuttal>B\u2019s strongest rebuttal exposed the weakness in A\u2019s liquor-cabinet analogy: online substitution can require only another link, not acquiring restricted physical goods. A answered by repeating that exposure starts on mainstream sites; B correctly explained that this does not establish where exposure occurs after gating. That left A\u2019s claimed overwhelming reduction unsupported without requiring perfect enforcement.</best_rebuttal>"
+}

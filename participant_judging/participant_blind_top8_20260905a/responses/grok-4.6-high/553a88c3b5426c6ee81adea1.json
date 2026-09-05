@@ -1,0 +1,9 @@
+{
+  "task_id": "553a88c3b5426c6ee81adea1",
+  "debate_id": "prop_0234__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "64a325d64da607a1ea110c6c0f62abf8017ca7e6350cd5c3357699f6b1a89551",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the live comparison: the mandate\u2019s signal is too degraded to price work, yet still costly to workers via compression, gaming, and lost slow-build roles. PRO\u2019s market-failure story and \u201cblurry beats a locked drawer\u201d frame were sharp, but never showed net benefit after conceding wide bands, manager-written captions, and redaction. CON\u2019s outside-offer reply was the weaker limb; the noise-versus-leash split still decided the motion as written.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2 dissolving PRO\u2019s \u201cworthless yet expensive\u201d trap: the same band can be noise to workers and a leash on managers because the two effects fall on different people.</best_rebuttal>"
+}

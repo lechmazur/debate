@@ -1,0 +1,9 @@
+{
+  "task_id": "4cd3689c165199bece63f2b6",
+  "debate_id": "prop_0216__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "28762842e071439895dc6539592f031fe98a54149da3f72d1e57e5217dd328ba",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins a competitive debate. B identifies a genuine benefit: stopping currently lawful forest and peat conversion. But its comparison relies too heavily on treating tighter rules as uniquely enforceable and household income losses as readily reversible. A undermines both assumptions, distinguishes immediate enforcement from delaying additional restrictions, and exposes B\u2019s inadequate answer on schooling and existing debt. B retains substantial ecological stakes, but A more convincingly challenges whether the proposed additional restrictions justify their additional costs.</reason>\n<best_rebuttal>A directly refutes B\u2019s claim that burning bans require catching someone mid-fire, then shows that monitoring, permit audits, and buyer scrutiny can support either policy. This substantially weakens B\u2019s claimed enforcement advantage without denying that its prohibitions reach additional land.</best_rebuttal>"
+}

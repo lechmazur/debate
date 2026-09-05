@@ -1,0 +1,9 @@
+{
+  "task_id": "950d87f3157b2765c4bb3253",
+  "debate_id": "prop_0576__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "dd50a221f9e48e20ea279c59284c41ad6b0c14f6eaf8d9ccf00f3e6a39d31830",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by keeping the live question on the proposition\u2019s own line: who scores \u201cprimarily spiritual\u201d versus \u201covert partisan,\u201d and at what cost. PRO\u2019s equal-treatment and subsidy case was sharp, but its operational test kept folding pulpit naming, altar ratings, and sermon-adjacent hours into \u201cobservable conduct,\u201d which CON used to collapse the referee/theologian distinction. PRO\u2019s closing overclaim that a check/PAC concession decided the debate was weaker than CON\u2019s cash-versus-worship-audit reply. History and chilling/capture weighing also landed more cleanly for CON.</reason>\n<best_rebuttal>After PRO listed pulpit endorsements, altar ratings, staff time, and facilities as the stripping metric, CON turned that into a running ledger of prophecy rather than a phone-bank-in-the-narthex rule, showing the high bar still taxes naming rulers as faith.</best_rebuttal>"
+}

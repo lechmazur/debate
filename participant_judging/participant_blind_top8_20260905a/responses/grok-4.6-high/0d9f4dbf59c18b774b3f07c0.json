@@ -1,0 +1,9 @@
+{
+  "task_id": "0d9f4dbf59c18b774b3f07c0",
+  "debate_id": "prop_0294__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "ef35cf32ec8912bc3f98f60bcf1f6183c5f910fffa9cf4eee388904851c5410a",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality debate by making last-word accountability and narrative selection the decisive clash. A was sharp on political incentives and the child who cannot vote, but never showed how a single textbook can transmit a non-selective \u201crecord.\u201d B\u2019s appointment dilemma and \u201cfirst sentence\u201d pressure boxed in A\u2019s insulation design, and B honestly met the late-correction point: no system unteaches a lie, while insulation severs firing for the story itself and can slow reversal.</reason>\n<best_rebuttal>B\u2019s R2 (B4.4) turning A\u2019s line that \u201cthe panel decides what evidence students must see\u201d into confirmation that review selects the civic narrative, not merely fact-checks a waiting record.</best_rebuttal>"
+}

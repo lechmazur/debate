@@ -1,0 +1,9 @@
+{
+  "task_id": "0ebc8571383301ceb4180115",
+  "debate_id": "prop_0577__glm-5-3-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "claude-fable-5-1-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f6218006e14186a722be1f860d8061cda6132ca8eb2d2fe566a40cdfedb21bf1",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO built a clean \"substitution vs. suppression\" market frame, but CON's opening planted the decisive test\u2014does the seasonal permit substitute for what the actual crossers want?\u2014and PRO conceded it outright in A4.3 (\"it wouldn't\"). CON also neutralized PRO's rerouting story (totals fell; Australia is an island), corrected the Bracero sequence plausibly, and forced a second concession that boats stopped with no visa scheme. PRO's fallback on overstays was clever, but CON turned it: widening visas widens the \"channel enforcement cannot police,\" and PRO's own fix (exit tracking, interior removal) is enforcement. PRO's pressure questions were fair but less damaging, and it cited a nonexistent reference [C3.1]. Both sides stayed within reasonable epistemic bounds; CON made the vote easier by narrowing PRO to a residual population under a cap.</reason>\n<best_rebuttal>CON's B3.1/B3.2 pressure questions and follow-up in B4.5\u2013B4.7: forcing PRO to concede Australia's boats simply stopped and that a seasonal permit \"wouldn't\" stop Honduran or Syrian families, then weighing those admissions to show PRO's lever cannot move the largest share of the flows the motion targets.</best_rebuttal>"
+}

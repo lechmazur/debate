@@ -1,0 +1,9 @@
+{
+  "task_id": "32e67e967e93540e52f9fa5b",
+  "debate_id": "prop_0156__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1f12a85e31997bf53e7bc865b75f435b04a0dfc6af329d14dfd8eade51473c41",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>B won the live comparison: both sides conceded rising distrust and euro survival, but A kept collapsing solidarity into retained membership while B made that metric look thin, nearly unfalsifiable, and at odds with democratic overrides, creditor-bank protection, lasting party-system damage, and the architects\u2019 own refusal to repeat the playbook. A\u2019s political-constraint and different-shock replies were real, yet they never showed why those cheques outweighed the residue B described.</reason>\n<best_rebuttal>B\u2019s pressure-to-closing sequence: force a fail-condition for \u201ceveryone stayed,\u201d then map 2015 Greece and the pandemic redesign onto A\u2019s own internment/cheques test and treat the new fund as participants\u2019 verdict on the old method.</best_rebuttal>"
+}

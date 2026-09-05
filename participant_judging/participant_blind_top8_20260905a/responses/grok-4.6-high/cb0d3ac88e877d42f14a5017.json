@@ -1,0 +1,9 @@
+{
+  "task_id": "cb0d3ac88e877d42f14a5017",
+  "debate_id": "prop_0236__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f4a2dce5435f0526cb3fc31afc8145cbfb6d079aa41b042573eb5e3f42741a64",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the live comparison: after both sides treated heavy outsourcing as a fail and logs as fakeable, the motion\u2019s remaining effect is to make middle-zone offloading compliant and to send an open-door message. PRO never showed disclosure creates the struggle or that teachers can verify process at scale; \u201cfail the empty room you can see\u201d was sharp but did not beat CON\u2019s incentive/norm and exception-swallows-the-rule weighing.</reason>\n<best_rebuttal>CON turning PRO\u2019s A1 (a truthful \u201cthesis/outline/draft by model\u201d log earns incomplete) into the self-incriminating-log point: heavy users then falsify, so secrecy returns and the motion mainly legalizes the middle-zone skip.</best_rebuttal>"
+}

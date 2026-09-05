@@ -1,0 +1,9 @@
+{
+  "task_id": "f9ef9c4a212d6dcb80e42ce8",
+  "debate_id": "prop_0326__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "245146f767191077d68c8a8504673739cde70bba564e32306c9d2094c0d8e023",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A established the clearer boundary between authorized roleplay and abusive commercial pressure. B plausibly explained dependency risks, but after permitting opted-in jealousy and ordinary subscription endings, it did not convincingly establish why the remaining abuses required an additional companion-specific duty. Its payment-triggered panic example remained strong. However, repeatedly equating A's consent standard with fine print ignored A's explicit requirements of genuine choice and working controls, leaving the central rebuttal unanswered.</reason>\n<best_rebuttal>A's opt-in and subscription-expiry questions forced B to narrow its proposed bans. A then distinguished deliberate, revocable fiction from payment-conditioned coercion, answering B's disclosure challenge without treating entertainment status as immunity. B's closing repeated its consent objection rather than overcoming that distinction.</best_rebuttal>"
+}

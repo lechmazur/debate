@@ -1,0 +1,9 @@
+{
+  "task_id": "b80357fbb4447042f912ac70",
+  "debate_id": "prop_0402__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "7b90cb52af28ff051a625f29474a613829af7dd0b487210997267a7c5d68425b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.3</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>4</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by distinguishing tenant qualification from the additional obligations attached to a payment arrangement. A established serious housing-access harms, but repeatedly assumed that agency contracts and conditions were negligible paperwork. B answered the pressure questions directly and exposed A\u2019s unsupported distinction between permissible timing constraints and impermissible contractual objections. A\u2019s closing treated categorical effects as sufficient proof of illegitimate discrimination rather than answering B\u2019s justification for those distinctions.</reason>\n<best_rebuttal>B\u2019s response to A\u2019s mandatory acceptance of \u201cstandard\u201d program terms was decisive: routine terms remain additional obligations on landlords, and an applicant\u2019s qualifications cannot absorb obligations imposed on somebody else. B also explained why individualized screening cannot resolve an objection to a contractual requirement shared by every participant.</best_rebuttal>"
+}

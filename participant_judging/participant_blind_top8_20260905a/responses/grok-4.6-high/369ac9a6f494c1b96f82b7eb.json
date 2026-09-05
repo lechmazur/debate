@@ -1,0 +1,9 @@
+{
+  "task_id": "369ac9a6f494c1b96f82b7eb",
+  "debate_id": "prop_0505__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0bacf42a7e9c6cad0a0e410e495b24fcf698c2f422f9ef53bdddbaf331bc1843",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won a competitive debate by making the live choice easier: identifiable correspondence is two-party, irreversible, and not licensed by one user's terms. B's clipped opening and the unanswered non-user (therapist/hotline) gap left CON's after-the-fact controls looking weaker than A's ask-first rule, even though B landed real workability blows on dual-party opt-in.</reason>\n<best_rebuttal>A converting B's \"opt-in is a de facto ban\" into a confession of extraction, then pressing who speaks for the non-user before weights exist; B's best counter was that de-id either makes the motion surplus or freezes the hired corpus.</best_rebuttal>"
+}

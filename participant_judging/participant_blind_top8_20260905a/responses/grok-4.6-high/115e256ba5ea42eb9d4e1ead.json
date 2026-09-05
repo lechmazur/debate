@@ -1,0 +1,9 @@
+{
+  "task_id": "115e256ba5ea42eb9d4e1ead",
+  "debate_id": "prop_0635__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3d7ce3abb567302476632e07c251163b52b5f38c20684ebab71115b4b8a8f831",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive debate by keeping the actual motion in view: product-liability-style duties misfit general-purpose models, while existing negligence already covers documented ignored risks. B was punchier on victims, joint causation, and \u201cwho pays,\u201d but repeatedly collapsed the clash into whether a reckless maker should ever pay\u2014a claim A never denied. A answered the immunity fork honestly, kept cheapest-avoider/control and hindsight problems live, and showed comparative fault cannot define a defect in unguarded language.</reason>\n<best_rebuttal>A\u2019s Rebuttal 2 (A4.3\u2013A4.6) rejecting B\u2019s immunity/concession fork: liability for a documented ignored risk is negligence, not product-liability for model behavior, and B cannot both discharge duty via warnings and treat unguarded language as the product.</best_rebuttal>"
+}

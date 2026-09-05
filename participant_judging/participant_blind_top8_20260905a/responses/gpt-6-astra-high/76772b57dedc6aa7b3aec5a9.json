@@ -1,0 +1,9 @@
+{
+  "task_id": "76772b57dedc6aa7b3aec5a9",
+  "debate_id": "prop_0435__claude-fable-5-1-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "def0298bf3bca98ba8289565abaeaf764fe743362b17121d69ab84d6ed812c18",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.4</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B established the decisive distinction between requiring adequate protection and requiring stronger plans. A made a persuasive general case for prevention, but repeatedly mischaracterized B\u2019s mandatory advance assessment as reactive or incomplete. Against existing enforceable plans already covering later hours, A never established why additional strengthening was necessary; its eventual concession that reattaching plans might close no gap weakened its central comparison.</reason>\n<best_rebuttal>B clarified that risk-specific remedies follow comprehensive assessment, neutralizing A\u2019s stranded-crowd example. It also directly resolved the transit-delay challenge: delaying approval to fix inadequate transport is justified, while delaying an already-safe extension for unnecessary strengthening is not.</best_rebuttal>"
+}

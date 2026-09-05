@@ -1,0 +1,9 @@
+{
+  "task_id": "77a0d7d7a4dc69b0fa7e3b8b",
+  "debate_id": "prop_0084__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "a9504a2ca3cc4ab7167904834286bde130d59653c82933eff373b858a829de83",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive round by keeping a clearer comparative: dating apps uniquely sell private meetings, status-quo bans attach to restockable objects, and raising per-account cost still shrinks industrial spray. B did real damage on stolen IDs, false leads, lockout, and false safety, and A\u2019s clipped closing was a cost, but B conceded that verification raises attacker cost and never offered a non-restockable alternative that answered the sticky-ban problem.</reason>\n<best_rebuttal>A\u2019s conversion of B\u2019s phone/device/hash/card tools into restockable \u201ctoll booths,\u201d after B\u2019s strongest attack that a stolen license plus rented face is a false lead rather than \u201cthe person.\u201d</best_rebuttal>"
+}

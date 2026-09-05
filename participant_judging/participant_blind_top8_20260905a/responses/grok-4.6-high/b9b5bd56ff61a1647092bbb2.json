@@ -1,0 +1,9 @@
+{
+  "task_id": "b9b5bd56ff61a1647092bbb2",
+  "debate_id": "prop_0105__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "e53cc97b48bfa598dc45f3813a29c07f598e25cc1f39a8f8993e4854cf5263d3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO made the live choice easier to decide: CON would still bar removal under gold-standard process, would confine the person rather than briefly take the gun, and never closed the suicide-tool gap. CON was more complete, honest on the predicate line, and stronger on search-first costs, but the least-intrusive paradox and funeral-versus-calendar weighing carried the motion. B\u2019s three clipped turns keep this competitive rather than dominant.</reason>\n<best_rebuttal>PRO\u2019s Q2 forced CON\u2019s \u201cyes, I would still oppose it,\u201d then used that plus the 72-hour-hold leftover-gun problem to recast CON as seizing the body while leaving the cabinet untouched.</best_rebuttal>"
+}

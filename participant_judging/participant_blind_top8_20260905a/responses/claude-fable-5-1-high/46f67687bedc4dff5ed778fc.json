@@ -1,0 +1,9 @@
+{
+  "task_id": "46f67687bedc4dff5ed778fc",
+  "debate_id": "prop_0176__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "claude-fable-5-1-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5c4eacb1a772df0b35deca36bd9e16b6d4dafbe71560defee9188a5ab6cbb5cc",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.7</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>CON anchored the debate in the motion's actual category (resource-rich developing countries) and built a record-based case (Angola, Chad, Nigeria's ECA) that PRO never directly contested; PRO's case rested on what a well-designed fund \"can\" do, which CON attacked effectively as design-versus-delivery. PRO's Chile answer was its best moment, but CON pre-empted and absorbed it convincingly as an exception explained by pre-existing institutions, and then weaponized PRO's own concession that there is \"no guaranteed stopper\" under capture. PRO's strongest surviving point\u2014that cash leaves the public budget exposed in a bust\u2014was only partly answered by CON's \"ordinary tax base,\" but CON's Nigeria point (borrowed anyway, and lost the fund too) blunted it. Minor costs for CON: a clipped rebuttal and misassigned [P...] reference IDs. Still, CON made the choice easier to decide with asymmetric-downside weighing and cleaner rhetoric.</reason>\n<best_rebuttal>The Chile exchange: PRO offered Chile as a surviving developing-country fund; CON turned it into \"my witness,\" arguing it worked because of an independent central bank, fiscal rule, and binding courts\u2014institutions the motion's modal country lacks\u2014then paired this with PRO's \"no guaranteed stopper\" concession to argue PRO's own framework picks cash.</best_rebuttal>"
+}

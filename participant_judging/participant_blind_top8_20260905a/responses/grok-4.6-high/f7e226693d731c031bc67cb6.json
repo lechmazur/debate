@@ -1,0 +1,9 @@
+{
+  "task_id": "f7e226693d731c031bc67cb6",
+  "debate_id": "prop_0681__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "4e522e84d2857366a14d50455dea0ef13ebc4a90bf1e1ae8741b0824cb9b2e96",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by treating the motion\u2019s \u201ceven if\u201d as the decision rule and making presence the prerequisite: extra wait on imperfectly triaged scenes is an empty driveway, a mixed call that can change species, or a bounce to a delayed cop. B was sharp on documented police escalation versus hypothetical delay deaths and on CON\u2019s undated training note, but tried to have expansion both sit alongside EMS and reroute wellness checks, which never fully answered imperfect dispatch. A\u2019s path was easier to vote.</reason>\n<best_rebuttal>A\u2019s R2 collapse of B\u2019s \u201calongside EMS\u201d answer: slower times only happen if patrol is swapped off the call, so B cannot deny substitution while asking neighborhoods to wait; presence cannot de-escalate from a vacant stoop.</best_rebuttal>"
+}

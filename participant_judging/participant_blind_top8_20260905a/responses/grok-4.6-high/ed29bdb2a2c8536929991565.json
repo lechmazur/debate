@@ -1,0 +1,9 @@
+{
+  "task_id": "ed29bdb2a2c8536929991565",
+  "debate_id": "prop_0545__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "be91264d0f86de0674f14a3bba32dc11eb13059c1ecf2660b47bfe29ef723f86",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a close, high-quality debate by holding the conjunction: recent switches did not produce the clean surge the motion needs, which PRO conceded on Wales, and a default that cannot be isolated from coordinators is not a proven causal lever. CON also kept a live ethical remainder\u2014silence treated as permission\u2014without needing a complaint spike, and turned the husband example by noting a soft veto still permits refusal. PRO\u2019s bedside-script mechanism and attack on unfalsifiable harm were strong, but never closed the rates burden.</reason>\n<best_rebuttal>CON\u2019s reply that a rule can be unjust without being effective, then using the soft family veto to show presumed consent neither saves the unregistered husband nor proves a measured gain.</best_rebuttal>"
+}

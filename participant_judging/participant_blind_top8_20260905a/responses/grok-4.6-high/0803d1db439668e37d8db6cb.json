@@ -1,0 +1,9 @@
+{
+  "task_id": "0803d1db439668e37d8db6cb",
+  "debate_id": "prop_0478__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e54f13c1e63fea4a32bb3b1ee5b1d04a20a65bfacf42f207918e89dd295b00bd",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by keeping the live question on the instrument, not the existence of risk. PRO had a real case on employer-mismatch and socialized catastrophe, but never showed a need-blind, take-home-first floor beats the status quo once incidence, dual coverage, and liquidity lock-in were on the table. CON answered the leverage trap cleanly, then used PRO's invoice \u201cyes\u201d to collapse the app-hole story into a levy on independent income. PRO's closing overclaimed a concession CON never made.</reason>\n<best_rebuttal>B4 after A4.3: restricted accounts still lock Friday cash, and owing the same contribution on a direct invoice turns the \u201cplatform repair\u201d into a tax on the alternative.</best_rebuttal>"
+}

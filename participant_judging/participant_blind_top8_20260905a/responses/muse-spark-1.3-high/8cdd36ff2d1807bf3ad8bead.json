@@ -1,0 +1,9 @@
+{
+  "task_id": "8cdd36ff2d1807bf3ad8bead",
+  "debate_id": "prop_0153__claude-fable-5-1-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "488b2b4ffe633c25eceb08d1e978dd79cf5013e7147c8f5062d182f12c8f2c1d",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO kept the comparative on the woman who still signs after a ban and showed bans export demand to worse markets, while CON conceded the ban does not end the trade and protects only the woman who never signs. PRO's unpaid-surrogacy pressure exposed that medical risk alone cannot justify a paid-only ban, and CON's deterrence/scale claim was asserted without answering displacement.</reason>\n<best_rebuttal>PRO's warehouse/rent rebuttal plus Q2 on unpaid surrogacy forced CON to retreat to payment-as-product; CON's cannot-quit-at-month-seven reply was strong but did not solve the German-to-Ukraine export conceded elsewhere.</best_rebuttal>"
+}

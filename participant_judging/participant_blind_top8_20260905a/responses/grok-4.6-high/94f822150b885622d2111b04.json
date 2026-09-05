@@ -1,0 +1,9 @@
+{
+  "task_id": "94f822150b885622d2111b04",
+  "debate_id": "prop_0206__glm-5-3-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d8ee51fbed2bf7a82c0a6d82ee220e92a470ddeb1a70978ef60d506d6e77ad28",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close debate by making incidence the decisive clash: age-indexing is a gate tied to a mean the least-healthy still walk through. A\u2019s PAYG arithmetic and tax-treadmill case stayed live, but never showed carve-outs fix a default A admitted tracks the national mean, and two clipped speeches left that salvage thinner. B forced the concession that extra work lands at 67 and kept the cleaner comparative: taxes can be aimed, age cannot.</reason>\n<best_rebuttal>B\u2019s turn on the care-aide \u201cmonths spread over decades\u201d claim\u2014those months land at 67, after jobs vanish\u2014then converting A\u2019s concession into the gate-versus-dial weighing.</best_rebuttal>"
+}

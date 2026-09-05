@@ -1,0 +1,9 @@
+{
+  "task_id": "9283797a65bfc741f99b3079",
+  "debate_id": "prop_0493__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d2de002530f7933e61462124b4c01fa19b93df9acb8b252c16d8830302874d0d",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-quality clash by making the live voting issue institutional: who bears aquifer uncertainty and how costly it is to say no. B\u2019s \u201ccreek doesn\u2019t read the deed\u201d turn was the sharpest single attack, especially after A allowed continued pumping under public contract, but A converted that into an opposite-default comparison CON never fully escaped. B\u2019s better-instrument alternative still depended on writing and enforcing the permits both sides already treated as a repeated failure mode. Trade and private-takings costs remained live for B, yet more theoretical than A\u2019s clearer reason to prefer a categorical rule.</reason>\n<best_rebuttal>A\u2019s Rebuttal 2 answers to B\u2019s well/creek questions: public title makes \u201cno\u201d a nonrenewal rather than a taking, so the same pump has the opposite default and the hydrology fight becomes unnecessary.</best_rebuttal>"
+}

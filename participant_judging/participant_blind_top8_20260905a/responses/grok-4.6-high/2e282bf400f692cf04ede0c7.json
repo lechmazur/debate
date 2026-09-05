@@ -1,0 +1,9 @@
+{
+  "task_id": "2e282bf400f692cf04ede0c7",
+  "debate_id": "prop_0409__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "01ef43f4104b446c3b7b47d6a7f69ac838eab9033e48174ef81df3f71863609f",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A held the motion as written: keep the prize of parks and waterfronts free, with commerce at the edge rather than a second rent on the view, water, and sand. That through-line was already in the opening and survived B\u2019s funding scare. B was sharp on neglect, budget politics, and visible-vs-quiet failure, but the defended model kept sliding between ticketed decks as saviors and fenced sand as someone else\u2019s problem, which is closer to swapping the question than answering it. Once both sides needed political will, A\u2019s cleaner principle\u2014vendor versus gate\u2014was the easier reason to vote.</reason>\n<best_rebuttal>A\u2019s R2 vendor-versus-gate answer plus the lease/levy symmetry: if a city can police a contract it can fund the park, so B\u2019s mixed model still needs the will it claimed only ropes can supply.</best_rebuttal>"
+}

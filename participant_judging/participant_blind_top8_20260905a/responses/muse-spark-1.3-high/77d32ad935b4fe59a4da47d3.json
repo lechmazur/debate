@@ -1,0 +1,9 @@
+{
+  "task_id": "77d32ad935b4fe59a4da47d3",
+  "debate_id": "prop_0295__muse-spark-1.3-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "fb242d57ac960bd41805794ed85a59d217afc19b1edf562a2f7386bd64f7312c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept a live path that CON never neutralized: return without capacity preserves the theft's second half, and a recipient-directed, finite endowment can be duty-based without control. CON's central dilemma - aid vs boardroom colonialism - was answered by duty-why-pay vs control-what-to-command and who-decides in Lagos, while CON's ship-apologize-silence left deterioration and survival unanswered and relied on asserting no third option exists. Clipped opening added execution cost to CON.</reason>\n<best_rebuttal>B's endowment/design reply turning control into a design choice plus you-can-care-so-we-owe-the-means reversal of the insult charge, which defused CON's strongest moral and institutional attacks.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "16120ecef12c85b57806d7c2",
+  "debate_id": "prop_0008__muse-spark-1.3-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c1168a60180a75086fdb8bd732804e46fa94ebf862a3456391e4cb9c3d993315",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won the central access clash and the comparison. Its peer-supplier mechanism \u2014 18-year-olds supplying 16-year-old classmates, removed only when no school cohort can ever buy legally and the legal pool only shrinks \u2014 was conceded as an advantage by CON, while CON's resale and inequality objections apply as much or more to 21-only rules that refill legal youth buyers every year. CON kept a valid proportionality worry but never solved the replenishment problem.</reason>\n<best_rebuttal>PRO's Rebuttal 1 peer-bridge response: teen supply is barely-legal friends, not cartels, so a cutoff creates an aging gap outside the peer group and the legal pool shrinks through quitting/death instead of replenishing.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "c53760723073598f7290aa90",
+  "debate_id": "prop_0517__muse-spark-1.3-high__kimi-k3__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d7fe8bcb05824f4a94895c9a6246cb264f7b5dc58b0348b192f70a6c402b4f4e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B reframed barrier to cost of wrong decision and held it; A's concession on high-risk licensing plus acceptance of error-cost test let B force the empty-or-dangerous fork, and B's detection-vs-delisting reply beat A's one-click revocability. A kept fairness/shortage alive but never escaped the reliance problem.</reason>\n<best_rebuttal>B's revocation-without-detection and empty-or-dangerous turn in Rebuttal 1 tightened in Rebuttal 2: delisting is cheap because it remedies nothing, and if firms re-test recognition is decorative, if they rely the state manufactures unsafe reliance.</best_rebuttal>"
+}

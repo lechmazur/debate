@@ -1,0 +1,9 @@
+{
+  "task_id": "ff2d6315fd650e40222af967",
+  "debate_id": "prop_0320__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "4d9859524de1090991817208cfff96f9905228f0950745ed662911edacc75239",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the load-bearing comparison: extra pouring hours add drinks on top of pre-loading rather than relocating a fixed appetite into a safer room, so the surge is larger and drunker, not merely better supervised. B also kept the motion\u2019s \u201cmainly\u201d live by distinguishing an exit pulse timed to last call from an all-night grid that staffs peak-BAC hours. A\u2019s opening and first rebuttal were excellent, but A never claimed a shorter night, overread B\u2019s timed corridor as a concession of the proposition, and closed as if B had named no displacement mechanism after B had (friction, last-entry, hosting cost).</reason>\n<best_rebuttal>B\u2019s R2/closing: late trains do not relocate a fixed crowd; they subsidize extra rounds, so a lit 4am platform is a manufactured crush, and an exit pulse serves closing rather than replacing it as the main tool.</best_rebuttal>"
+}

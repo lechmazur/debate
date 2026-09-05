@@ -1,0 +1,9 @@
+{
+  "task_id": "0be0cfc126f0be420413700a",
+  "debate_id": "prop_0272__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "82123877015193dbb0b6e24700410bb46446c775cc224485709e5dd960801109",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.6</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>3</reb_a>\n<reb_b>9</reb_b>\n<ground_a>4</ground_a>\n<ground_b>8</ground_b>\n<orig_a>4</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>5</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly distinguished the importance of physical opportunities from justification for making their expansion precede digital enrichment. It answered both pressure questions directly, compared costs consistently, and exposed A\u2019s shift from a flexible default to near-complete physical provision as the exception threshold. A offered plausible developmental benefits and underfunding concerns, but repeatedly called general assertions documented data and dismissed transportation barriers without support. Those weaknesses left B\u2019s access-and-opportunity-cost challenge substantially unanswered.</reason>\n<best_rebuttal>B\u2019s second rebuttal identified the decisive inconsistency: prioritizing the greater reachable need is not equivalent to requiring physical programs to be fully funded before digital expansion can take priority. Its distinction between allowing students to use digital enrichment and actually expanding the program also directly challenged A\u2019s transportation concession.</best_rebuttal>"
+}

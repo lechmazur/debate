@@ -1,0 +1,9 @@
+{
+  "task_id": "7b975db678b7114c70a49126",
+  "debate_id": "prop_0649__muse-spark-1.3-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e91204417d7e092718d3b45dba7a66d88648951ff1a18347e211d58da4733e8d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won the additionality clash. PRO pivoted well from physical delivery to behavior incentives, but CON showed the same behavior could be rewarded by time-varying export/consumption tariffs, exposed the regulate-wires-but-not-tariffs contradiction, and showed PRO double-counted avoided costs while leaving the funding of both discount and premium after full cost recovery unproven.</reason>\n<best_rebuttal>CON's Rebuttal 1 to Rebuttal 2 sequence demanding trading vs direct reward comparison and showing relabeling buyer creates no new physical saving was decisive; PRO's toll-road reply never solved curtailment or full capacity/balancing cost recovery.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "7914d94eed3c2c93f519f219",
+  "debate_id": "prop_0022__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "ebd6267e4a08655119bb88eaeddeb9c46087f6e8a1dc697e585037ee02fead71",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>3.0</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>9</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>4</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>5</rhet_b>\n<reason>A wins the actual comparison: enforceable reserve and liquidity supervision resembles financial-institution regulation more than ordinary software governance. A answered the demand for a concrete tool with a stressed-redemption liquidity requirement and consistently defended proportionality. B\u2019s custody alternative initially created useful pressure, but B ultimately accepted a liquidity floor while insisting that A must import an entire bank/MMF template. That requirement does not follow from \u201cmore like,\u201d and several supposedly abandoned policies were expressly excluded in A\u2019s opening.</reason>\n<best_rebuttal>A\u2019s distinction between full backing and immediate payability directly defeated B\u2019s claim that safe assets and real-time reserve reporting suffice. Reporting cannot release inaccessible custodial funds or prevent a liquidity shortfall. B\u2019s subsequent acceptance of enforceable liquid-reserve requirements substantially conceded the underlying need while leaving its objection largely about labels.</best_rebuttal>"
+}

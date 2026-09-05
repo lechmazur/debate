@@ -1,0 +1,9 @@
+{
+  "task_id": "4a80d7e7ab8ac5256ec45a5d",
+  "debate_id": "prop_0681__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a92e33d69d2133ad995163b967ebcb4f878610e742a07c36663a0b30d32161af",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by making the motion\u2019s actual tradeoff\u2014accepting slower arrival\u2014the decision rule and showing that wait is unsorted, uncapped, and unnecessary given co-response/crisis-trained alternatives. B\u2019s \u201cwho comes through the door\u201d and non-caller frames stayed live but were weaker than A\u2019s real-caller weighing and the dispatch trap. Competitive: B\u2019s equity/silence argument never fully died, and A\u2019s second rebuttal was clipped.</reason>\n<best_rebuttal>A\u2019s post-pressure turn: B\u2019s rule to withhold the fast responder for \u201csuicidal talk without a weapon,\u201d plus no minute cap, converted B\u2019s own sorting answer into a reason to reject the motion as written.</best_rebuttal>"
+}

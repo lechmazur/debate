@@ -1,0 +1,9 @@
+{
+  "task_id": "f1aadce1c944639d5616d991",
+  "debate_id": "prop_0120__gpt-6-astra-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "9be545e63f91f4ee3b8f08234bb9a4fe0a53fc5d36792e5759dbff37ce580be8",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B establishes the stronger comparative case: liquid fortunes can contribute currently, while restricted deferral preserves annual obligations without forcing asset sales. A raises legitimate valuation, enforcement, and historical concerns, but overstates what repeal proves and repeatedly treats moving assets as escaping residence-based liability. B answers the pressure questions directly and distinguishes its proposal from estate taxation. A never adequately defeats those distinctions, instead presenting acknowledged implementation risks as categorical failure.</reason>\n<best_rebuttal>B\u2019s worldwide-liability rebuttal forces A to concede that transferring shares abroad does not itself reduce liability. Combined with B\u2019s distinction between annually accrued obligations and wealth measured at death, this substantially weakens A\u2019s closing claim that liquid wealth escapes while illiquid wealth merely duplicates estate taxation.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "53aa79b3907911145dd2aa47",
+  "debate_id": "prop_0443__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "28f791d8bebf49d1b39c817fbe3a0c4d42660c0bf9ce2ed05983359e2e453683",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by keeping the motion on an open-license default, not sharing in general: papers/data/code are not interchangeable, verification is not irrevocable commercial reuse, and an enforceable deposit/reuse plan can capture access and reproducibility. B was punchier on incentives and \u201cwho waits,\u201d but repeatedly recast A\u2019s alternative as discretionary enclosure and never showed why presumptive commercial redistribution must be the residual rule once usable research rights exist.</reason>\n<best_rebuttal>A\u2019s R1 split rerun/modify/extend rights from unrecallable commercial licenses and showed B\u2019s access/preservation goods do not require the default.</best_rebuttal>"
+}

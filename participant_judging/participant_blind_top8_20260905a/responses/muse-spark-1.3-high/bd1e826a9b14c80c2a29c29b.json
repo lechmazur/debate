@@ -1,0 +1,9 @@
+{
+  "task_id": "bd1e826a9b14c80c2a29c29b",
+  "debate_id": "prop_0514__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "918247f1dd927569728e7b0b58a4a4f5eab2faef2ac86fbf17fa6a5256986220",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO kept a live leverage route CON never neutralized: captive renewal pricing and gatekept integration require credible exit. CON's fallback to award-stage competition and whole-stack rebid concedes leverage matters but needs portability to be credible, making the rebid a bluff. CON's safety and poor-district pressures were real but answered enough by staged swaps and conformance testing to leave PRO's comparison cleaner.</reason>\n<best_rebuttal>A's closing turn of B's rebid defense into a concession: if retraining makes portability a bluff, whole-stack rebid is a bigger bluff, and a rebid without portability is renegotiating with a monopolist.</best_rebuttal>"
+}

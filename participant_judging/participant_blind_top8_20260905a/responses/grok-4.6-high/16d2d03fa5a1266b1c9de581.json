@@ -1,0 +1,9 @@
+{
+  "task_id": "16d2d03fa5a1266b1c9de581",
+  "debate_id": "prop_0411__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "2ef06416c578c87732a07e3afd28d351660b5993ab398cded0ed9f8ad2c950fb",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by making comparable, passenger-facing service the success metric and converting CON\u2019s matching/cost attack into a weighing dispute: concentrated exclusion versus modest shared delay. B\u2019s idle-density critique stayed live and memorable, especially for ride-hail, but never showed those costs outweigh the harm or that absolute floors would close day-ahead gaps. A also answered pressure more directly, defining \u201cclose\u201d and naming a rationing priority.</reason>\n<best_rebuttal>A\u2019s Rebuttal 2 (A4.1\u2013A4.5): substitution/coverage versus exclusive idle vans, an illustrative wait-gap, and concentrated exclusion versus modest edge cuts.</best_rebuttal>"
+}

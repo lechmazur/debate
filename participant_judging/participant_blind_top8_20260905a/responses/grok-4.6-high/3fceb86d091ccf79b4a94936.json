@@ -1,0 +1,9 @@
+{
+  "task_id": "3fceb86d091ccf79b4a94936",
+  "debate_id": "prop_0216__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5075b31a6bfdb9a31fc51ee6dcb267c6d511860991363040498a2b1a30f7f579",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.0</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close debate by keeping the motion\u2019s even-if structure in view and turning B\u2019s concession that remaining primary forest and deep peat should not be converted into a timing/instrument comparison: B\u2019s mapping-fire-buyer sequence still leaves that land legally convertible. B\u2019s capture and scarcity-rent attacks were sharper political economy, but they did not neutralize the cheap-channel argument or convert \u201csome smallholder opportunity cost\u201d into a reason to vote down a motion that already prices that cost in.</reason>\n<best_rebuttal>A\u2019s R2/closing against B\u2019s toolkit: fire and concession law punish smoke after the fact and do not retire the permit, so sequencing without a hard stop is a land race with better manners.</best_rebuttal>"
+}

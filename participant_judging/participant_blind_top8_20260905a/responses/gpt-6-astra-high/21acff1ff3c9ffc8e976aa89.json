@@ -1,0 +1,9 @@
+{
+  "task_id": "21acff1ff3c9ffc8e976aa89",
+  "debate_id": "prop_0527__gpt-6-astra-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9b4410a2c1920c45bb456183af040b201092f8515e387c3eb708081937456472",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.7</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>9</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A establishes the stronger decision rule: assess total public value and credible access rather than make high unit prices an automatic veto. It directly answers double-payment, hospital-budget, and rationing objections while explaining why guaranteed demand need not make low-volume development viable at low prices. B raises legitimate budget and bargaining concerns, but repeatedly assumes equivalent cheaper supply and treats permission as surrendering negotiating leverage. Its demand for a verified developer walk-away does not defeat A\u2019s permissible economic mechanism. A also exposes the tension between B\u2019s prohibition and its willingness to revisit terms and pay more.</reason>\n<best_rebuttal>A\u2019s pressure question forces B to concede that centrally purchasing expensive courses and supplying hospitals free remains an AMC. This defeats B\u2019s subscription-based dismissal. A then distinguishes manufacturer price from patient access, leaving B needing to establish unnecessary expenditure rather than merely point to a high per-course price.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "3766df0b1421cedf43ba0995",
+  "debate_id": "prop_0423__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "be85c1437800210a5df16325c43a3113d865664c779a15206506a9ca62c78a7b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B better justified and weighed the allocation rule: reciprocity identifies eligible communities, while a lottery prevents wealth from deciding access within that allocation. A raised legitimate concerns about excluded outsiders and imperfect eligibility, but repeatedly treated calling the reservation a privilege as sufficient to defeat its justification. B acknowledged those costs and defended a bounded reservation alongside continued general sale. A\u2019s answer that priced-out members could buy if they valued attendance enough also reinforced B\u2019s distinction between purchasing power and commitment.</reason>\n<best_rebuttal>B directly defeated A\u2019s inference that an imperfect poverty or passion test cannot improve access: reciprocity determines eligibility, and the lottery improves poorer eligible applicants\u2019 chances. B also weakened A\u2019s automatic-surcharge claim by noting that reserved-ticket recipients leave general-sale demand as well as inventory.</best_rebuttal>"
+}

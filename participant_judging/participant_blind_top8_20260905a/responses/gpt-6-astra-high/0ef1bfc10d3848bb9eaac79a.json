@@ -1,0 +1,9 @@
+{
+  "task_id": "0ef1bfc10d3848bb9eaac79a",
+  "debate_id": "prop_0667__kimi-k3__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "6d6debc5ca3fa824c32b4224f94f18d33bb4960b8895a6f81d73d15eadac04b2",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly challenged the proposition\u2019s combined promise. Its compliant-employer/evasive-contractor comparison explained how limited employment reductions and substantial recruitment problems could coexist, defeating B\u2019s claimed contradiction. Seasonal whole-crew hiring also directly weakened B\u2019s gradual-adjustment defense. B offered plausible deterrence mechanisms and legitimately pressed for evidence of large harms, but overread state departures as national employment reductions and repeatedly mischaracterized conditional arguments as concessions. Its accusation of unanswered questions was also premature in the actual chronology. A\u2019s limited direct evidence of harm keeps this a competitive win.</reason>\n<best_rebuttal>A distinguished pre-offer discrimination from abuse recorded after hiring. B subsequently acknowledged that verification logs address post-hire conduct and invoked separate enforcement tools, undermining its original claim that E-Verify\u2019s audit trail itself makes rejected applicants\u2019 exclusion detectable.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "2c0f65630f6ea394bc2e29b1",
+  "debate_id": "prop_0254__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d85166791a30f6d2791f0cdae7f9610531a426e6f09fa8b64248319b1ebaa5e3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly distinguished a primary economic benchmark from an exclusive measure of governmental success. A's argument about headline incentives remained relevant, but repeatedly treated GDP's omissions as zero policy weight despite B's binding-standards alternative. B also exposed unresolved distributional and forecasting choices in A's satisfaction headline. A's closing defended democratic contestation without establishing that replacement would make accountability firmer. B answered the pressure more directly and better explained why welfare outcomes could remain enforceable without displacing GDP.</reason>\n<best_rebuttal>B's strongest reply distinguished individuals weighting aspects of their own lives from government weighting different people: average satisfaction can improve while the low-well-being group grows. This directly undercut A's claim that respondents' own judgments eliminate political discretion over the headline.</best_rebuttal>"
+}

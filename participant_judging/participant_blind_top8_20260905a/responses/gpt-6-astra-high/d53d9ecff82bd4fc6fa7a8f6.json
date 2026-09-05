@@ -1,0 +1,9 @@
+{
+  "task_id": "d53d9ecff82bd4fc6fa7a8f6",
+  "debate_id": "prop_0216__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b5f340855c7dc68cc40a6cfa6e7d13e73de5850637adddaed0830dcdba88bd71",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly justified accepting some lost income to prevent durable harms imposed on other communities. It answered enforcement pressure with targeted permitting, acknowledged imperfect implementation and leakage, and explained why neither necessarily defeats protection. B raised substantial distributional and capacity concerns, but repeatedly treated limited capacity as effectively unusable and uncertain displacement as sufficient to invalidate benefits. Its existing-enforcement alternative remained vulnerable to A\u2019s argument that closing exceptions can use the same capacity. A provided the stronger comparative weighing of livelihoods, irreversible damage, and forgone growth.</reason>\n<best_rebuttal>A\u2019s closing exposed B\u2019s selective certainty: when a rule actually prevents damaging conversion, forgone earnings and protected land follow from the same restriction. Combined with A\u2019s distinction between investment migration and equivalent replacement destruction, this substantially weakened B\u2019s certain-cost-versus-speculative-benefit framing.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "3cf2b70abbcf62680ae035df",
+  "debate_id": "prop_0145__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c529e1a54bfbced36cb01a70380159047e43cb1a1363111793445dc08280c362",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by defending the motion as a default-versus-targeted rule: intervention remains available after ordinary warning signs, while always-on tools often record harm, invite evasion, and spend trust that might produce the 11pm call. B\u2019s timing frame was strong but did not show default monitoring uniquely prevents first incidents, and \u201cevery claim needs a map until 18\u201d made childhood itself the concern. Both were disciplined and closely matched; A left the cleaner comparative path.</reason>\n<best_rebuttal>A\u2019s circularity turn: treating \u201cI\u2019m at Sarah\u2019s\u201d as never-checkable without a map swallows the motion\u2019s exception, while a ping likewise arrives after the teen has already left\u2014so CON pays distrust without solving the \u201ctoo late\u201d problem it attributed to PRO.</best_rebuttal>"
+}

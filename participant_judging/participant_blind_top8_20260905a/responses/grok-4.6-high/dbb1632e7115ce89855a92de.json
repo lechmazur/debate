@@ -1,0 +1,9 @@
+{
+  "task_id": "dbb1632e7115ce89855a92de",
+  "debate_id": "prop_0635__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b5d6d8ac0652ee62960db7a68a7b4e3ed19f2de9e997cac1557c4095eeb8272d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making the debate easier to decide: PRO's parade cases are already owned by negligence/warnings/sector law, so the motion's distinctive remainder is unbounded, reconstructed after the fact, and a tax on looking. A kept a live user-as-deployer gap and a fair design-defect analogy, but did not weigh those past B's redundancy, first-victim, and diligence-tax hits; B's closing crystallized the choice more cleanly.</reason>\n<best_rebuttal>B's Rebuttal 2 converting A's lethal-dosage hypo into ordinary negligence, then turning A's evals-based foreseeability test into a tax on red-teaming that leaves first victims of new failure classes unpaid.</best_rebuttal>"
+}

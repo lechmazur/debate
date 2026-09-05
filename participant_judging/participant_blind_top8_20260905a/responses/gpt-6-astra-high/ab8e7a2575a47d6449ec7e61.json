@@ -1,0 +1,9 @@
+{
+  "task_id": "ab8e7a2575a47d6449ec7e61",
+  "debate_id": "prop_0303__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ad57e85f62cc15ac0e0e5590cb4fa568ae9c1c7b369f9711a0b53041728e344d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>7</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly explained how inherited resources become genuine competence and credentials, defeating A's repeated separation of meritocratic selection from class reproduction. B also showed why aggregate mobility and successful outsiders do not establish that elite pathways are class-neutral. A's strongest surviving objection concerned the limited support for what \u201cmost successful people\u201d admit; B's qualitative inference leaves that clause less securely established and keeps the result competitive. Nevertheless, B directly answered the acknowledgment challenge, while A repeatedly overstated concessions and treated demands for quantification as substitutes for engaging B's causal comparison.</reason>\n<best_rebuttal>B answered the unfalsifiability challenge by giving a concrete statement that would count as adequate acknowledgment and explaining why class and ability are not independent competing causes. A's closing nevertheless claimed that no confession could count, despite having explicitly discussed B's acceptable example in the preceding rebuttal.</best_rebuttal>"
+}

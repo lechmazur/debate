@@ -1,0 +1,9 @@
+{
+  "task_id": "8426ddc12db15ee76a7e377e",
+  "debate_id": "prop_0619__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c3c217b18c8bf12393fd2e8eec553679253d98f7b3d1b0ef38bb4000dbb9bcff",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by making the voting issue easier: the duty either duplicates already-criminal threats/doxxing at the core or prices still-lawful swarms as foreseeable harm after injury, so over-removal remains the rational response. PRO had the cleaner tort framing (distinct actor, complementary interruption, bounded precautions) and stayed format-disciplined, but never fully escaped hindsight or showed why a litigable \u201cwhen warranted\u201d harbor beats throttling.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2: PRO\u2019s live-location example collapses into stalking or ordinary protest, and a post-injury harbor still leaves \u201ccredible/proportionate/when warranted\u201d litigable\u2014so vanishing the swarm stays cheaper than proving reasonableness.</best_rebuttal>"
+}

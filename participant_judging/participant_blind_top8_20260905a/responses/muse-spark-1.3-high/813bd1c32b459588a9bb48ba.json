@@ -1,0 +1,9 @@
+{
+  "task_id": "813bd1c32b459588a9bb48ba",
+  "debate_id": "prop_0663__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "3a0a1ac48317a23889ff76f5f20777abd7877f6e91cf89e5d61e5c3b830ad147",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won the central incentive clash. CON's earlier-concealment and hesitation-equals-guilt mechanism was plausible but PRO showed respiratory spread cannot be vanished, only confirmation can be withheld, and answered with short-window distinction and refusal-as-signal plus markets react without army. CON never explained how pre-emptive burial beats clinicians/leaks/travelers, leaving PRO's veto-removal and verification-to-aim-aid route live.</reason>\n<best_rebuttal>PRO's A2.1-A2.4 plus A4.1-A4.3 answer to B1.1/B3.1: concealment gets riskier not easier, overwhelmed proves it by opening door, only sustained refusal counts, denial starts clock leaks finish.</best_rebuttal>"
+}

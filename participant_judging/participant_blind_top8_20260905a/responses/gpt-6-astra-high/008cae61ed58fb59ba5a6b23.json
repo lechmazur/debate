@@ -1,0 +1,9 @@
+{
+  "task_id": "008cae61ed58fb59ba5a6b23",
+  "debate_id": "prop_0377__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "beecbaa2437b27994eb1bc2006246357a227f0b9059c4d1912f79285bb546c5c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly challenged both B\u2019s comparison and its justification for substantially higher rates. B supplied a credible mechanism of multigenerational capital persistence, but A exposed its assumptions about income-funded advantage and investment incentives, while directly answering both pressure questions. B repeatedly substituted \u201cleaving fortunes untouched\u201d for A\u2019s actual position and ultimately relied on a mistaken characterization of A\u2019s proposed tax.</reason>\n<best_rebuttal>B claimed A\u2019s proposed tax on unrealized gains conceded that dynastic wealth was the greater threat. A correctly distinguished taxing appreciation from taxing principal, explained why taxing accumulated gains establishes no such ranking, and reiterated support for collecting untaxed gains at death. This defeated B\u2019s chosen closing argument without conceding the case for much higher inheritance rates.</best_rebuttal>"
+}

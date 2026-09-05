@@ -1,0 +1,9 @@
+{
+  "task_id": "c929f5613429f912677f75bc",
+  "debate_id": "prop_0316__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "e3dcb18bb3bb33b6ef5e758a9dca009072071357f6789a739da84b965d915e9a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close debate by making the live comparison easier to decide: the proposed notice is not a usable consent tool. PRO\u2019s inventory/consent frame stayed principled and memorable, but never showed a concrete move the lonely user can execute that they cannot already approximate, especially if every matcher ranks. CON\u2019s fusion/no-clean-seam attack and the empty-of-guidance vs loaded-as-story split survived pressure and undercut stay/pay/leave.</reason>\n<best_rebuttal>CON\u2019s R2 A1/A2: the notice is empty of executable choice yet loaded as a machine-verdict and gamer signal, which defused PRO\u2019s contradiction and recast stay/pay/leave as quitting dating rather than informed consent.</best_rebuttal>"
+}

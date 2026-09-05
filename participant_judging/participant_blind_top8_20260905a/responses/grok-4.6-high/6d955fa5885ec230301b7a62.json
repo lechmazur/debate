@@ -1,0 +1,9 @@
+{
+  "task_id": "6d955fa5885ec230301b7a62",
+  "debate_id": "prop_0260__glm-5-3-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "cb80332a76f7918b5c770dfc16a4008a5eff55d25aed71029908f12709e0709b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by keeping the clash on the specific tool in the motion: a legal, system-level default filter. A made a strong consent-theater and owner-default case, but B inverted concentration into a first-party moat, distinguished prior filtering from pop-up/cookie rules, and showed that sticky opt-out plus list-writing is not restored choice. A\u2019s clipped R2 and thinner answers on who writes lists and what still loads after blocking left B\u2019s mechanism harms live.</reason>\n<best_rebuttal>B\u2019s R1/R2 turn that a uniform third-party block is a platform moat, plus the pressure that after OS stripping the page cannot carry a real, revenue-restoring opt-out ask.</best_rebuttal>"
+}

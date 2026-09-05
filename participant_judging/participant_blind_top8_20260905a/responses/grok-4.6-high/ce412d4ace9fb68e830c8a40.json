@@ -1,0 +1,9 @@
+{
+  "task_id": "ce412d4ace9fb68e830c8a40",
+  "debate_id": "prop_0533__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "837616cd3458059e447fe9c91d8e0ebce2dc994a49fad3e81baca2828fae30b3",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by forcing PRO to admit Ethiopia must slow in a collapse, then showing the leftover dispute is who verifies that trigger. Self-judged filling by the party that holds the reservoir and turbines is a weak duty, and CON\u2019s postponement-versus-unrefundable-harvest weighing beat PRO\u2019s sovereignty slogans. PRO stayed closer to the motion and scored with delay-as-veto, but did not kill the auditor problem. Three clipped CON speeches keep the margin modest.</reason>\n<best_rebuttal>A\u2019s R2: taking B\u2019s \u201cslow if inflow collapses\u201d concession and recasting the debate as unaudited self-certification versus a pre-agreed hydrological floor.</best_rebuttal>"
+}

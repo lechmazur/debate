@@ -1,0 +1,9 @@
+{
+  "task_id": "bf5976e45ade3fea40f751ad",
+  "debate_id": "prop_0577__glm-5-3-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "claude-fable-5-1-high",
+  "side_a_source": "con",
+  "prompt_sha256": "0851afe3d3878af6a590d9233961707d45993fbea5f7fcea4edf56e09a3dc484",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON (Side A) built the sharper decision rule from the opening\u2014substitution only works if the product substitutes\u2014and then extracted two concessions that PRO never repaired: Australia's boats simply stopped with no visa scheme, and a seasonal permit \"wouldn't\" affect the Honduran mother or Syrian family who constitute the headline flows. PRO's \"wrong test / mixed flows\" reply was asserted rather than argued, and PRO's closing misdescribed CON's position as \"no legal channels\" and cited a nonexistent reference ID. PRO's best line\u2014overstays as enforcement's blind spot and CON's overstay tools as visa management\u2014was clever, but CON preempted it by showing pathways multiply the very leak PRO called unpoliceable, and that exit tracking and interior removal are enforcement. CON also corrected the Bracero timeline convincingly. CON made the debate easier to decide; PRO's market framing remained plausible but never overcame the population-mismatch concession.</reason>\n<best_rebuttal>A's Rebuttal 2 weighing after the pressure round: taking PRO's honest \"the boats stopped\" and \"it wouldn't\" answers and reducing PRO's case to a residual of single working-age men under a cap, each facing the overstay decision PRO itself called unpoliceable\u2014turning PRO's concessions into the closing frame.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "67f1453b4d48354c961f27cb",
+  "debate_id": "prop_0012__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "7788a508e9b2bd44864bc0575b6fdad8335c2d795a212f2d24675bd6d2c58b37",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly compares a short, independently controlled delay with permanent loss of substantial evidence of abuse. A establishes a serious consent-and-sovereignty case, but does not adequately justify its categorical priority in the hard case it expressly accepts. Its repeated claim that every incomplete file could prolong retention also fails to engage B's necessity threshold and concrete example requiring return. B answers both pressure questions directly and progressively narrows the dispute rather than merely defending scientific value generally.</reason>\n<best_rebuttal>B decisively challenges A's reliance on archives and later authorized study: those alternatives cannot resolve the scenario A accepted, where evidence would otherwise be irretrievably lost. B also answers the procedural-delay objection by specifying that filing a proposal earns no stay and identifying a routine collection that fails its test.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "09b4d37c5e77b6d98b1b2776",
+  "debate_id": "prop_0277__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0b1fda00922c711278aa84b89cfb8554f51e1d116dde74d0722958599332c11a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.2</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A establishes the stronger comparison: peak limits combined with suitable alternatives can reduce overload without eliminating popular hubs. It answers housing safeguards and demand flexibility directly, while distinguishing fully booked attractions from overloaded districts. B raises legitimate concerns about additional demand and exported disruption, but repeatedly assumes substitution cannot occur and overreads the motion as requiring most visitors to abandon the hubs. A's magnitude remains uncertain, but its plausible marginal-relief mechanism survives B's categorical objections.</reason>\n<best_rebuttal>A's distinction between rescheduled trips and additional trips exposes B's central false dilemma. B never establishes why travelers free to visit in May could not otherwise have chosen July, or why replacing a crowded secondary stop necessarily adds another visit.</best_rebuttal>"
+}

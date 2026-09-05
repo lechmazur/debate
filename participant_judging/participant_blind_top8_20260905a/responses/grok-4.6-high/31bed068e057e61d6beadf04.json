@@ -1,0 +1,9 @@
+{
+  "task_id": "31bed068e057e61d6beadf04",
+  "debate_id": "prop_0296__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b8972145c1181f72565dbd2d3332e24b23a8e987a91522098977a26ad3b50b98",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won a close, high-quality clash by keeping the motion\u2019s honor-versus-archive distinction decisive, especially for holidays and school mastheads that resist B\u2019s \u201cfossilized address\u201d story. B landed real damage on administrability and Washington-as-reductio, but slightly recast the motion as an endpoint-free purge and never fully escaped needing names to be both a live civic model and a non-endorsing relic.</reason>\n<best_rebuttal>A\u2019s fork that B cannot treat names as continuing civic models for the Washington scare and as non-endorsing fossils for harm and pedagogy; B\u2019s past-tense/present-endorsement reply was clever but weaker on calendars and school titles.</best_rebuttal>"
+}

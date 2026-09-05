@@ -1,0 +1,9 @@
+{
+  "task_id": "8c1d09eca6b9af158c0d6c39",
+  "debate_id": "prop_0678__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "7e109755bae63b7f3dfd0d619787b9bfcef4cc08c40d808414f903e0a895bf25",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won a close, high-clash debate by keeping a live middle path: high-need roles can still be monitored with a yes and purpose limits, while CON\u2019s default camera-in-the-home is the dragnet the motion exists to block. CON was sharper on mechanics (notice-plus-office is not \u201crefuse and stay remote,\u201d logs do not prove who sat in the chair, and the dual lock can hobble a real presence check), but PRO\u2019s kitchen-table frame, teller-versus-copywriter distinction, and closing recast of A4.3 as face-matching plus durable automated punishment made the ballot easier. CON never showed why output-verified roles must accept that package or lose remote work; PRO never fully killed firm flight from remote, but did not need to once the modest check looked invasive.</reason>\n<best_rebuttal>PRO\u2019s close on A4.3: the supposedly modest chair-check required matching, long-lived records, and flags without a human queue, turning CON\u2019s verification story into the bedroom dragnet.</best_rebuttal>"
+}

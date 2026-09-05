@@ -1,0 +1,9 @@
+{
+  "task_id": "dcceabb97f0512c604393126",
+  "debate_id": "prop_0096__muse-spark-1.3-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d7748657a32bb0dd604a6f454272f889770118068beca364d565fe65e4dab556",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won the three central clashes: distinguished AI cloning as false self-performance versus openly other-voiced dubbing, defused the hostage claim with refuse-the-clone-keep-the-human-dub separability, and absorbed CON's leverage point with non-waivable bundling ban plus individual yes plus floors. CON's enforcement critique was strong but left paid impersonation without permission intact.</reason>\n<best_rebuttal>A's R1 separability move \u2014 no to cloning is not no to dubbing, only a veto over impersonation not the film \u2014 directly neutralized B's holdout/blocking-Tatalog argument and set up the later synthesis.</best_rebuttal>"
+}

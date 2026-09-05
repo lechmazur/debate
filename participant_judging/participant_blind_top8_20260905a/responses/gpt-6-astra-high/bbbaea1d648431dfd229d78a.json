@@ -1,0 +1,9 @@
+{
+  "task_id": "bbbaea1d648431dfd229d78a",
+  "debate_id": "prop_0132__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "6eb6f4b4f4047318f424b0835292253314f6678f9eba945cf30f081cbf7d8afe",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly established the mismatch between harmful amplification and a political-topic gate. B offered meaningful autonomy and auditability arguments, but did not adequately weigh them against lost civic discovery. Its one-click response assumed the awareness recommendations might create, while its claim that reweighted rankings necessarily preserve radicalization was asserted rather than established. A answered both pressure questions directly and used B\u2019s concessions to sharpen the case against the proposed default.</reason>\n<best_rebuttal>A\u2019s worker-safety question forced B to defend gating a reform appeal while allowing the underlying grievance. A\u2019s response\u2014that grievances can be furious and proposed remedies calm\u2014directly undermined B\u2019s claim that this political boundary tracks outrage rather than merely subject matter.</best_rebuttal>"
+}

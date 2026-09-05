@@ -1,0 +1,9 @@
+{
+  "task_id": "912045a848ba5db53eb36359",
+  "debate_id": "prop_0057__claude-opus-5-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "claude-fable-5-1-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "2ce6e10a701ab340c2f1d0db2e13904973280fbda89dcbb5c4c70ca0bf58b3aa",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Both sides argued well, but CON progressively narrowed the debate to one decisive question\u2014what actually determines Iran's distance to a bomb\u2014and won it. CON established that the HEU survived (PRO conceded), that the final step fits in a warehouse, and that verification guarded the feedstock rather than buildings, which dissolved PRO's \"contradiction\" charge and turned PRO's \"standing veto\" into a promise to bomb whatever is visible. PRO's answers under pressure were comparatively soft: the veto runs on Iranian \"belief,\" and the gain is a \"direction\" rather than a magnitude. CON also landed an unanswered factual hit that 60% enrichment followed U.S. withdrawal from a deal Iran had honored, undercutting PRO's \"never once honored\" claim. PRO's \"subscription Iran can cancel\" framing was memorable, but CON's \"cancellation was the alarm\" answered it directly. CON's two clipped turns are a real execution cost and keep the margin competitive rather than solid.</reason>\n<best_rebuttal>CON's A2 in [B4.3]-[B4.4]: answering PRO's \"notification service\" attack by arguing notification is the barrier because the watched feedstock, not buildings, set the sprint timeline\u2014so the strikes \"did Iran's diversion for it,\" taking the HEU off the books without a broken seal.</best_rebuttal>"
+}

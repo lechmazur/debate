@@ -1,0 +1,9 @@
+{
+  "task_id": "1b6ee9aedeb19e13e46699b1",
+  "debate_id": "prop_0125__gpt-6-astra-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1ed8a3e52f467d78aaf1a246a8ab19d67c1556dc6ee24041af3707e99fca9969",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.7</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>4</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B established why private unprofitability need not imply poor public value, then defended a selective, technology-neutral subsidy policy. A raised legitimate appraisal, capture, and opportunity-cost concerns, but B answered with reviewable outcomes, conservative assumptions, and lifetime costing. A repeatedly treated uncertainty as grounds for automatic refusal while relying on uncertain future coverage. Its closing also falsely characterized B as conceding that appraisal cannot address error and misread \u201ceven when\u201d as requiring funding whenever carriers decline.</reason>\n<best_rebuttal>B distinguished construction costs from operating costs and showed that vouchers either leave the construction gap unresolved or become expansion subsidies themselves. A conceded that an operationally sustainable network can remain unbuilt, then raised demand risks without defeating that financing mechanism. This substantially weakened A\u2019s proposed alternative.</best_rebuttal>"
+}

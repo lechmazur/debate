@@ -1,0 +1,9 @@
+{
+  "task_id": "f148d1ea31fd8f50bf15ce5f",
+  "debate_id": "prop_0649__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "632c41fe9c9e291c0afd67ebcfce7ab8ad8a867e85b4c5746c18778b1b6cb6a3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by separating permission to compete from exemption from shared costs. A raises legitimate financing, enforcement, and transaction-cost concerns, but B answers the pressure directly with retained network contributions, participant-funded backup and upgrades, and binding export limits. A's remaining national-regime objection depends on insufficiently established claims that safeguards will fail or meaningful savings will disappear. B offers the stronger comparison: commercially unsuccessful trades need not proceed, while compliant, worthwhile trades should remain available.</reason>\n<best_rebuttal>B's \u201cProtection is mandatory; profit is conditional\u201d directly undercuts A's harmful-or-pointless dilemma. A subsequently treats B's concession that efficient retailers may eliminate margins in some markets as though it establishes their disappearance generally, without answering B's restricted-purchaser competition mechanism.</best_rebuttal>"
+}

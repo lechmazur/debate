@@ -1,0 +1,9 @@
+{
+  "task_id": "7aefb4db4427df58f170b4f2",
+  "debate_id": "prop_0667__kimi-k3__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "8a83b1bb21688a0ebc8c58ea3136e42e7d18f70a4710bf41bc6cda95d0bf2e00",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly challenged the proposition\u2019s promised combination of benefits and limited harms. It explained why state-level departures do not establish national employment reductions, why seasonal hiring weakens A\u2019s gradual-adjustment defense, and why verification logs miss pre-offer discrimination. A offered plausible deterrence mechanisms but repeatedly treated conditional arguments as concessions and asserted adjustment without resolving replacement constraints. A also prematurely accused B of ignoring questions before B\u2019s designated answer turn. B\u2019s limited evidence establishing the magnitude of harms prevents a dominant win, but its comparative reasoning was substantially stronger.</reason>\n<best_rebuttal>B decisively answered A\u2019s alleged contradiction between evasion and shortages: compliant growers can experience recruitment shocks while evasive contractors retain unauthorized workers. Its follow-up\u2014that new-hire-only implementation provides little cushion for employers recruiting entire seasonal crews\u2014directly undermined A\u2019s proposed benign middle.</best_rebuttal>"
+}

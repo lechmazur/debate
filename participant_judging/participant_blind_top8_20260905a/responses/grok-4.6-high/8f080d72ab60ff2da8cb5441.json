@@ -1,0 +1,9 @@
+{
+  "task_id": "8f080d72ab60ff2da8cb5441",
+  "debate_id": "prop_0326__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "070f66e4f0d94d81f240f46770b0ad6f018de911412d7e826afb9ef9bc8efdc4",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making the live choice easier: adult fiction plus a working checkout still leaves a distinctive gap if sellers can convert disclosed insecurities into payment leverage. A was tighter on category and chilling, but its honest \u201cyes\u201d on exploiting abandonment fear if cancel works left B\u2019s conduct-based duty as the more convincing vote.</reason>\n<best_rebuttal>B\u2019s Q1, then Rebuttal 2/closing, turning A\u2019s concession that deliberate fear-to-loyalty pressure is fine if cancellation works into the decisive supplier-leverage comparison.</best_rebuttal>"
+}

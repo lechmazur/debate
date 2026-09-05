@@ -1,0 +1,9 @@
+{
+  "task_id": "c9c293fe39f6b72d296a21a1",
+  "debate_id": "prop_0260__glm-5-3-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "e217f1218604d327bfe9c7ec7396b70cc6c2cb798bc2436e2678d7acc06761c6",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive clash by taking the motion as written: a sticky, system-level ad-and-tracker filter is a prior commercial cut, not restored owner control. PRO\u2019s owner-default principle and consent-theater case were strong, but never neutralized the live-veto/list problem, first-party platform moat, or how an audible opt-out survives after the funding stack is stripped. PRO\u2019s clipped R2 and weaker answers to those pressures left CON\u2019s \u201csilent poorer web\u201d comparison easier to vote on.</reason>\n<best_rebuttal>CON\u2019s prior-filter exchange: after robust OS blocking, nothing carries a publisher\u2019s ask the way cookie banners on a still-funded page do, so PRO\u2019s \u201copt-out / make the case directly\u201d claim is not matching reversibility.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "b7c11841f8beb6d003a5f9f6",
+  "debate_id": "prop_0650__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "51df4a419328f9a4e70aa697f335fb9b9a381082f537a6a1fd9abf3b349cbda1",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won by keeping the motion as written and breaking PRO\u2019s weighing. PRO\u2019s best path was end-stage diabetes averted via earlier feedback, but CON forced the missing cutoff and then used PRO\u2019s own concession that no outcome evidence ties consumer CGMs on non-diabetics to those complications. What remained\u2014earlier lifestyle advice for patterns a normal A1c may not call disease\u2014did not clearly beat immediate medicalization of meals. PRO\u2019s symmetry/stakes argument had force, and both sides argued from mechanism, but CON answered the reach question (broader cheap screening) and made the comparison easier to decide. PRO\u2019s clipped opening was a further execution cost.</reason>\n<best_rebuttal>CON\u2019s pressure questions on what reading counts as detection and what outcome shows consumer CGMs prevent amputation/dialysis, followed by PRO\u2019s concession of no such trial and CON\u2019s use of that collapse in weighing.</best_rebuttal>"
+}

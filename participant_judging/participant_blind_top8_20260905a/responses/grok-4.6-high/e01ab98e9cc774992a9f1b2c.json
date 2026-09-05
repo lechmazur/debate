@@ -1,0 +1,9 @@
+{
+  "task_id": "e01ab98e9cc774992a9f1b2c",
+  "debate_id": "prop_0105__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "110fd851f0df37cbf6801007c557c9a80f1566b10830067a1c1ef67845dc7549",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by making the clash easier to decide: both sides wanted pre-conviction emergency action, but red-flag uniquely lives in the leftover zone where arrest, holds, and protective orders do not fire, seizing property without a gatekeeper while leaving the person free. B\u2019s lethality and \u201creversible pause versus a body\u201d weighing stayed live, yet was damaged by leftover weapons, the Maryland doorway death, and the concession that the motion only \u201cimplies\u201d a hearing. B\u2019s clipped-free answers were coherent, but A\u2019s dilemma and threshold argument were the cleaner vote path.</reason>\n<best_rebuttal>A\u2019s Rebuttal 1 leftover-risk trap: B cannot treat notice as lethally triggering and sending the uncharged respondent home as triage, so the tool either fails to confront the person or operates only on evidence other emergency powers would reject.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "002fadc1aa784d03d62a83ff",
+  "debate_id": "prop_0392__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "88d376e6e09f8bda5ba845a091bf3a0b393ee343d3ff78c2f928896a2a217f71",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON built the cleaner path to victory on targeting and control: fines bill the named public-facing service after lockout, often a locked agency that cannot rewrite vendor code, while buying checklist patches rather than completed tasks. PRO\u2019s 20-year voluntary-failure story and \u201cwho forces the procurement clause\u201d pressure were real, but they never displaced CON\u2019s claim that the motion\u2019s instrument is systematically misaimed. PRO\u2019s clipped opening and the mid-debate slide toward task-completion fines (then a walk-back) also left CON with the easier vote on the motion as written.</reason>\n<best_rebuttal>CON\u2019s first rebuttal recast PRO\u2019s alleged contradiction as one instrument failing twice, then Pressure Q2 plus PRO\u2019s \u201cyes, still fine them\u201d turned repeated failure after a grace period into a surcharge on incapacity rather than proof of refusal.</best_rebuttal>"
+}

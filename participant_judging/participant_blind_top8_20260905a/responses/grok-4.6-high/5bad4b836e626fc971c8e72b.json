@@ -1,0 +1,9 @@
+{
+  "task_id": "5bad4b836e626fc971c8e72b",
+  "debate_id": "prop_0505__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "57a0200733bba9498cef9961e81fb08b984bdabf649cda03d5d8666c00380466",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON made the debate easier to decide: they flipped PRO's two-author point into a ban, showed opt-in neither stops the harms PRO named nor protects the unasked correspondent, and forced a narrowing of \"commercial AI\" the motion does not write. PRO's appropriation frame stayed coherent and memorable, but \"other rules can reach them\" and the security carve-out left CON holding the comparative.</reason>\n<best_rebuttal>CON's use of PRO's \"if the yeses cannot be collected, the training does not happen\" to own the ban, then answering that twelve silences still permit training under harm duties while PRO still allows retention, review, and profiling.</best_rebuttal>"
+}

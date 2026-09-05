@@ -1,0 +1,9 @@
+{
+  "task_id": "7b615d01e927ef6c5698b739",
+  "debate_id": "prop_0327__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0de57e36c97eaa791daf49c22c65c5588a2b2fac766f0aaf1615d2594cc7fd19",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>4</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly resolved the conflict between creator access and intermediaries\u2019 commercial interests. A established a serious chokepoint concern, but did not justify requiring unlimited reputation-driven losses or restricting the motion to dominant platforms. B supplied enforceable access protections while preserving a narrowly justified refusal. A\u2019s closing misrepresented that standard as permitting exclusion whenever partners might object, rather than answering its evidentiary threshold. A\u2019s sweeping claims about other industries and reputation-only deplatforming also weakened its grounding.</reason>\n<best_rebuttal>B\u2019s pressure-question answer specified independent review empowered to restore access, proof of substantial losses, and consideration of less restrictive measures. This directly defeated A\u2019s claim that allowing any reputational defense necessarily produces zero enforceable duties. B then effectively exposed why A\u2019s \u201cban with paperwork\u201d response ignored those substantive protections.</best_rebuttal>"
+}

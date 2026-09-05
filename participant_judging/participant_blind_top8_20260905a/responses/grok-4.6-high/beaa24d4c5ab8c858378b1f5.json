@@ -1,0 +1,9 @@
+{
+  "task_id": "beaa24d4c5ab8c858378b1f5",
+  "debate_id": "prop_0286__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c433f6076225a7205a740055b426ae1fdf0ddf607f993e486fa299b2d9e7235e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by making the clash easier to decide: carbon as a quantity harm, a vanishing-scale activity, and a \u201cpriority\u201d that transfers nothing. PRO kept a live written-motion case (hardness without uniqueness) and answered the veto question with a directional threshold, but the concession that yachts can be equally hard plus \u201cclean the soot and the objection survives\u201d let CON recast the case as anti-ostentation purity rather than ordered duty. CON slightly overreached by treating uniqueness as the motion, and PRO\u2019s clipped R1 was a real cost, but CON\u2019s weighing and rebuttals did more damage.</reason>\n<best_rebuttal>CON\u2019s R1 break of the ivory analogy (act-harm vs quantity-harm), then closing the trap on PRO\u2019s \u201cboth can be hard.\u201d</best_rebuttal>"
+}

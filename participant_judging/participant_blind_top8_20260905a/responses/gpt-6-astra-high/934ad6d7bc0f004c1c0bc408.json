@@ -1,0 +1,9 @@
+{
+  "task_id": "934ad6d7bc0f004c1c0bc408",
+  "debate_id": "prop_0233__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ba84fdc1ab4c7da3721896e3077308d588cabd0825cb045990dd5b092327cf01",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A wins the incremental, net-safety comparison. B identified a plausible role for time-bound flashpoint searches and answered the review question directly, but never adequately weighed lost cooperation and diverted investigative capacity. A answered the proof-standard challenge, distinguished existing preventive action from expanded coercion, and consistently separated weapon seizures from additional reductions in violence. B\u2019s closing largely repeated its reversible-friction-versus-death framing after A had materially undermined it. The clipped closing adds a minor execution cost.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal was that oversight can reverse a policy but cannot reverse deaths caused by lost warnings or displaced investigative work. This directly damaged B\u2019s central asymmetry. A then sharpened the comparison: both a confiscated knife and a lost warning require downstream behavioral assumptions before they establish lives saved or lost.</best_rebuttal>"
+}

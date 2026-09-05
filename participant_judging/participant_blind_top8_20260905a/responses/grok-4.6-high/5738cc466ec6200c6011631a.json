@@ -1,0 +1,9 @@
+{
+  "task_id": "5738cc466ec6200c6011631a",
+  "debate_id": "prop_0084__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "c5464f91e459eda1c92b0abbdd8e59c84419305c40358014c60f9812e66466b6",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.0</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B won a close debate by keeping the cleaner comparison: dating apps uniquely broker private meetings, status-quo bans are disposable, and even imperfect verification raises volume-fraud costs. A landed the sharpest attack\u2014stolen IDs and rented faces yield false leads, plus lockout and moral hazard\u2014and rightly pressed extras not in the motion, but never fully neutralized sticky bans or the conceded price increase. B\u2019s \u201cyou named none\u201d jab and clipped close kept the margin modest.</reason>\n<best_rebuttal>A\u2019s stolen-license/rented-face pressure, which punctured B\u2019s \u201cmorning after, a person\u201d claim; B recovered only to \u201ca lead vs Gmail,\u201d which narrowed rather than restored the original architecture argument.</best_rebuttal>"
+}

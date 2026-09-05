@@ -1,0 +1,9 @@
+{
+  "task_id": "6d4a6461cff6029f0b723eb3",
+  "debate_id": "prop_0145__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "96b6a01ff038be5c4749916220122f2d2ec9d8efe6fd6f53026f0e5a3f8bab33",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B won by separating emergency location from standing message-copy and forcing an efficacy dilemma: if danger looks normal default scrolling sees nothing, if explicit it already is a specific concern the motion allows, so CON pays standing trust/concealment cost without unique benefit. CON never resolved that its intimacy-monitoring default contradicts its own lethal-doorway limit.</reason>\n<best_rebuttal>B's Rebuttal 2 A2 plus Pressure Q2 pincer that CON's hardest cases defeat CON's tool \u2014 normal-looking grooming evades the dashboard, explicit don't-tell-mom/pin cases already authorize looking.</best_rebuttal>"
+}

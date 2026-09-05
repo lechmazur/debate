@@ -1,0 +1,9 @@
+{
+  "task_id": "f563c20bcfc07497c7af6bbf",
+  "debate_id": "prop_0312__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9965bcc7d7024d0efc9d59c5865d41329b5159e0100b17e9ff32932fe0b649a3",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>3.0</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>4</arg_b>\n<reb_a>9</reb_a>\n<reb_b>3</reb_b>\n<ground_a>8</ground_a>\n<ground_b>3</ground_b>\n<orig_a>6</orig_a>\n<orig_b>4</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>5</rhet_b>\n<reason>A wins by making the actual trade-off clearer: recurring access to important live games versus some additional exclusivity revenue, not access versus a funded league. A directly answered both pressure questions, acknowledged a possible net revenue sacrifice, and clarified that most marquee inventory remains monetizable. B raised a legitimate opportunity-cost objection but repeatedly exaggerated its consequences, misrepresented A\u2019s concessions, and incorrectly insisted that free-to-air requires cable. B also failed to explain why additional revenue would reliably produce benefits outweighing the access A preserves.</reason>\n<best_rebuttal>A decisively challenged B\u2019s purported substitutes for free live viewing: highlights, radio, and text do not provide the same experience, while cheaper passes still require payment. This exposed B\u2019s failure to answer the central access question despite being pressed directly.</best_rebuttal>"
+}

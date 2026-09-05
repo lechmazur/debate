@@ -1,0 +1,9 @@
+{
+  "task_id": "a54b7a1995135414dc9a54c7",
+  "debate_id": "prop_0277__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "616a993c88c53c2f3f805ab230e4dafc129758544652c009c91ba80e5fc3df8d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.6</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins the central comparison: protective caps can reduce actual pressure while established districts retain most sightseeing. A repeatedly assumes concentration remains destructive under safeguards it treats as effective elsewhere, rather than demonstrating that dispersal\u2019s benefits outweigh additional hosting costs. B answers both pressure questions directly and sharpens this inconsistency across rounds. A offers plausible employment and lower-intensity benefits, but its seasonal substitution mechanism remains uncertain and its closing repeats the central error instead of resolving it.</reason>\n<best_rebuttal>B directly rebuts A\u2019s claim that \u201ca high share of a smaller total is not relief\u201d: residents experience absolute crowding, not tourism percentages. Combined with B\u2019s demand for equal treatment of regulation in existing and newly promoted districts, this substantially undermines A\u2019s case that retaining the same destinations necessarily perpetuates overload.</best_rebuttal>"
+}

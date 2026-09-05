@@ -1,0 +1,9 @@
+{
+  "task_id": "ad90e532599756b0d9c8aab6",
+  "debate_id": "prop_0579__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "a5334ea02fe0d029f2c66fc6129d238ada8ea08797c64f9fe2ff0171c900b0a5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B won the decisive qualitative-shift clash. PRO argued the bad index already exists in SSNs and photocopies, but CON showed a signed credential proves everything instantly and is queryable live, so same thieves get larger payoff. CON's incentive mechanism for option-to-obligation and verifier-side logging neutralized selective-disclosure and paper-stays promises, while PRO repeated present-harms outweigh contingent-harms without answering the assurance upgrade.</reason>\n<best_rebuttal>CON's Rebuttal 2 on why offline attributes still need central enrollment plus revocation check and verifier logs, and revocation kills the key not the trail, most damaged PRO's disclose-less and revoke-to-fix route.</best_rebuttal>"
+}

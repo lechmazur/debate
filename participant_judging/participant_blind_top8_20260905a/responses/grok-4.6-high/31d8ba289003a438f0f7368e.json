@@ -1,0 +1,9 @@
+{
+  "task_id": "31d8ba289003a438f0f7368e",
+  "debate_id": "prop_0156__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "10900ea38f1a97b98a1b043089f778a8bc40aac64a3ff29fcc8e62f8c6b8c49a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won the live comparison after both sides conceded that distrust rose and the euro survived. A made B's solidarity-as-non-exit standard look too thin, using leverage vs. aid, democratic bypass, unfinished risk-sharing, and the 2020 fund's rejection of the old playbook. B's counterfactual and parliamentary-constraint replies were coherent but never neutralized A's durability and institutional-encoding case.</reason>\n<best_rebuttal>A's first rebuttal turning B's line that votes could change governments but not the currency into the distrust mechanism itself, then treating the pandemic fund as the architects' refusal to repeat that method.</best_rebuttal>"
+}

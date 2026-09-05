@@ -1,0 +1,9 @@
+{
+  "task_id": "cca84e83517a546cd46f537d",
+  "debate_id": "prop_0012__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d736a074343201b076de1b2bf21620f4933a4d46a5f9e172d4bd413cd471ed26",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B made the clash easier to decide: undonated remains cannot stay in institutional custody because researchers, or even an independent board, say study still matters. A\u2019s presumption-plus-exception was careful, but it never escaped B\u2019s live attacks that process is delay, a hearing over descendant refusal is possession, and burial already accepts some unanswered questions. B answered pressure directly, handled disagreement by returning first, and held the hard case without evasion.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2 (A1\u2013A2): return first so descendants decide among themselves, and \u201cYes. Immediate return even then,\u201d recasting CON\u2019s otherwise-lost-evidence case as still illegitimate custody.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "de77664329bf3959a54d4f4f",
+  "debate_id": "prop_0277__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ef53b02b5e0c4bec162123231065b8a21ad69fa01314acfdae3840b88f651406",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A made the decisive distinction between tourism\u2019s geographic share and its actual intensity: enforceable caps can relieve overload without expanding the visitor footprint. B offered plausible benefits from secondary attractions and steadier employment, but repeatedly treated regulated concentration as necessarily destructive while assuming regulation would protect newly promoted neighborhoods. A answered both pressure questions directly and developed the stronger comparison of marginal relief against additional disruption and servicing costs. B\u2019s concession that shoulder-season growth is not necessarily redistribution also left its seasonal case insufficiently resolved.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal was that a high share of a smaller, controlled total need not constitute a crush. This directly defeated B\u2019s repeated claim that unchanged itineraries prevent relief, while A\u2019s equal-safeguards challenge exposed the inconsistent treatment of housing rules and caps across the two policies.</best_rebuttal>"
+}

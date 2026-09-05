@@ -1,0 +1,9 @@
+{
+  "task_id": "a84fe0d4e0911bfa04614a07",
+  "debate_id": "prop_0125__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "feffc4c1d5edae3a203b9a8159f5577e4e36425081326ca603888132f65dc3fb",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A more convincingly distinguished valuable connectivity from justified public expenditure. It supplied a concrete outcomes-per-dollar test, counted ongoing costs, and acknowledged the harms of waiting. B established plausible benefits and honestly accepted continuing taxpayer support, but did not resolve the opportunity-cost comparison. Its closing mistook agreement on a funding test for demonstration that its recommendation passed. B also repeatedly attributed a permanent-gap concession to A and accused A of refusing a metric before A\u2019s answer was due.</reason>\n<best_rebuttal>A\u2019s second rebuttal exposed B\u2019s restriction of alternative-spending comparisons to the same communities despite using a national budget. Its distinction between auctions disciplining bids and justifying the purchase directly undercut B\u2019s claim that procurement safeguards answered the allocation objection. B\u2019s closing did not repair that gap.</best_rebuttal>"
+}

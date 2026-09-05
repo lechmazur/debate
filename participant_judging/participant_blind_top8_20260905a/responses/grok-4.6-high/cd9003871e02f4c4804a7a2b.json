@@ -1,0 +1,9 @@
+{
+  "task_id": "cd9003871e02f4c4804a7a2b",
+  "debate_id": "prop_0316__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0ae12a6913f74f4c3adf26af8e3aa2b90000fa15080d8278af31b58f94b6964d",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-quality clash by keeping the motion modest (know that ranking is happening, not the formula) and making consent/power the voting issue. B\u2019s best hits\u2014no clean seam, no score/fix, illusory exit, shame and gaming\u2014were real, but they never defeated a limited right to name the scoring layer. B\u2019s \u201cempty of guidance, loaded as a signal\u201d split was clever yet conceded that the fact matters, which A converted into the cleaner reason to affirm.</reason>\n<best_rebuttal>A\u2019s empty-vs-powerful dilemma: if notice is inert, B\u2019s obsession/gamer harms collapse; if it is potent, users are missing a fact about being ranked as inventory. B\u2019s \u201cboth\u201d answer never fully escaped that bind.</best_rebuttal>"
+}

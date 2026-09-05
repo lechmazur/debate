@@ -1,0 +1,9 @@
+{
+  "task_id": "73b3f3571313be6bad92d9d5",
+  "debate_id": "prop_0616__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5317d544993201c804d17fcff63bf4afa8ee2570173a332c454c992f4db15094",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality clash by matching the motion to development rather than already-fielded kits, compounding CON\u2019s \u201cmonths\u201d into a cycle-by-cycle gap, and turning CON\u2019s industrial \u201cemergency\u201d plus the shared-fab pool into evidence the delay is real. A\u2019s mature-node, prestige-foundry, and volume-learning attacks were sharp and better than B\u2019s commercial-cost story, but they never fully showed that narrower tasks make the chokepoint militarily irrelevant.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2: Q1 is a trick because fielded systems are already trained, then the emergency/budget-line contradiction plus \u201cno separate military fab.\u201d That pair did the most damage to A\u2019s live route.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "638160dbbdf26920bc15c36e",
+  "debate_id": "prop_0326__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "245146f767191077d68c8a8504673739cde70bba564e32306c9d2094c0d8e023",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by holding the motion\u2019s comparison: special duty-of-care versus ordinary entertainment plus ordinary consumer rules. After PRO conceded opted-in jealousy with a working disable and ordinary subscription endings, CON showed the leftover wrongs (ignored controls, payment-conditioned persona panic) are identifiable coercion or abusive collection, not a reason to regulate attachment itself. PRO\u2019s product-difference story stayed vivid but was narrowed until it no longer justified treating companionship as a distinct legal relationship.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2 used PRO\u2019s A1/A2 answers as a concession collapse: if requested, disableable, retention-optimized romance and post-bonding cutoff are allowed, remaining harms reduce to commercial pressure that entertainment-status consumer rules can already target.</best_rebuttal>"
+}

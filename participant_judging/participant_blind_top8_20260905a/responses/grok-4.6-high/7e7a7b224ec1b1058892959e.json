@@ -1,0 +1,9 @@
+{
+  "task_id": "7e7a7b224ec1b1058892959e",
+  "debate_id": "prop_0338__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5a0faafb9667c0aec17819a8846c3d38fbb750408c64ec2c5d7109204bbcff03",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won a close, high-quality debate by making the motion easier to decide: for minors, companionship is the product, so ordinary chatbot conduct rules leave the nightly-confidant business standing. CON was sharp on overbreadth and access versus inducement, but its refusal to let the social role itself trigger heightened duties never beat PRO\u2019s youth-social-product analogy.</reason>\n<best_rebuttal>The R2 clash after CON\u2019s \u201cgood companion\u201d hypo: PRO\u2019s leftover-is-the-product reply versus CON\u2019s access-versus-inducement distinction; CON\u2019s honest \u201cwould not stop a nightly confidant solely for companionship\u201d did more damage to CON on this motion.</best_rebuttal>"
+}

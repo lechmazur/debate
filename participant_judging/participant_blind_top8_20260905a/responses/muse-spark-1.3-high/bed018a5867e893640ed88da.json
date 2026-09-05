@@ -1,0 +1,9 @@
+{
+  "task_id": "bed018a5867e893640ed88da",
+  "debate_id": "prop_0077__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "681a1e04add2244b51cd7943aebe238edb95ba71147bfae36015d7e0a65a6d38",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept a live net-benefit path: practice-based trust where calling for help does not trigger screening travels neighbor-to-neighbor, predators lose easy prey, and witnesses solve violent crime. CON's two strongest pushes - fear is asymmetric and detainer refusal is practical release because criminal warrants are unavailable for civil status - were answered by firewall-necessity and ICE-retains-arrest/notification/judicial-warrant options, plus the point the person was already released by a judge. CON never answered liability for extra civil detention or resource diversion, dropped the two-tier claim, and its victim-versus-inmate population split was rebutted by spillover learning that any police-to-ICE pipeline chills calls.</reason>\n<best_rebuttal>B's Rebuttal 2 A1/A2 plus trade framing was decisive: reframing the file as already released by criminal law, refusing extra time as rights protection not predator release, and weighing one extra-day hold against a standing rule that removes dozens of future victims by preserving witnesses.</best_rebuttal>"
+}

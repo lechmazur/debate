@@ -1,0 +1,9 @@
+{
+  "task_id": "1baf4ec8473a7163a80e1b6f",
+  "debate_id": "prop_0260__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "56c86fb54a39f55c9f145876c47f6c9e87e52c0e8e0d3587f768e29bbcb771cb",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won the live policy-design fight. After pressure, CON made the debate easier to decide by showing PRO\u2019s Safari/Firefox proof supported narrower tracking prevention, not the motion\u2019s maximal ad-and-tracker floor, and that Chrome\u2019s gap is more naturally an antitrust problem than a statutory architecture for every OS. PRO\u2019s coverage-gap and \u201cchoose the switch\u201d framing stayed vivid, but left funding, \u201crobust\u201d definition, and liability under-repaired. CON\u2019s clipped opening was a real cost, not enough to erase the clearer comparative case.</reason>\n<best_rebuttal>CON\u2019s R2 answer that Safari/Firefox shipped narrow tracking prevention, not ad blocking, and survived via calibrated/ad-funded deals\u2014defusing PRO\u2019s strongest pressure question and exposing the leap to a crude everywhere-mandate.</best_rebuttal>"
+}

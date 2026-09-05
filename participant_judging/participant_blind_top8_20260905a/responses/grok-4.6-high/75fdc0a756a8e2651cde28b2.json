@@ -1,0 +1,9 @@
+{
+  "task_id": "75fdc0a756a8e2651cde28b2",
+  "debate_id": "prop_0545__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8ff55cb04662a77dbab6fce38f7cf1ccebb384ca08c7d943cb352df99c61f9d5",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.7</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won because the motion required rates, ethics, and distress together, and A made that joint burden decisive. Spain/Wales plus the admission that a clean default-only test \u201calmost never exists\u201d left the rate claim confounded; the vise then showed any extra yeses come from scoring family ignorance as retrieval rather than refusal. PRO stayed coherent on complementarity and listed-patient harm, but never escaped that the gain and the alleged non-violation were the same cases.</reason>\n<best_rebuttal>A's vise, crystallized in R2 and the closing daughter scene: if the default changes no answers, rates fail; if it converts hesitation into a yes, ethics fail on the same organs.</best_rebuttal>"
+}

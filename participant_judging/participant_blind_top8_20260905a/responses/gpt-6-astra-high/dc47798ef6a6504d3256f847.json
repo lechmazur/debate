@@ -1,0 +1,9 @@
+{
+  "task_id": "dc47798ef6a6504d3256f847",
+  "debate_id": "prop_0527__gpt-6-astra-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "40619a4b2d7dd5d454a296f5751d59f6dd52543718fa03a57b0ae0adb67a1f8d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.6</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by distinguishing high manufacturer prices from unaffordable treatment and judging commitments by clinical coverage and total public value. It directly answers the double-payment and hospital-budget objections while explaining why guaranteed demand does not eliminate development costs. A\u2019s capped-budget argument creates genuine pressure, but its comparison repeatedly assumes an equivalent cheaper deal exists. B\u2019s conditional permission fits the motion better than A\u2019s attempt to equate permitting high prices with surrendering bargaining power.</reason>\n<best_rebuttal>B decisively attacks A\u2019s fallback that governments can revisit affordable-price conditions later: allowing a justified high-price commitment then concedes the motion, while continuing to forbid one leaves the incentive problem unresolved. B also explains why development delay is not the harmless, recoverable cost A claims.</best_rebuttal>"
+}

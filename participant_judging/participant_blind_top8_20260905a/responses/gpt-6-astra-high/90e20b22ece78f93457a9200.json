@@ -1,0 +1,9 @@
+{
+  "task_id": "90e20b22ece78f93457a9200",
+  "debate_id": "prop_0021__gpt-6-astra-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "39e4945f8a613c77312343ea9d8b6f942a8d398599bdaeb100552591e5406ccb",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A builds the stronger decision rule: proceed despite objections only where restoration is worthwhile, implementation is feasible, and livelihoods are protected. It answers enforcement and cancellation pressure directly. B raises substantial trust and poaching risks, but repeatedly assumes community opposition necessarily prevents cooperation. Its closing equation of cooperation with consent sidesteps A\u2019s central distinction. B also continues calling consultation predetermined despite A\u2019s explicit cancellation conditions. A therefore better justifies why objections deserve accommodation without becoming decisive authority over shared ecological benefits.</reason>\n<best_rebuttal>A\u2019s closing distinguishes community approval from sufficient cooperation: residents can oppose predators while participating in workable management. This directly undermines B\u2019s claim that every viable project already satisfies its consent rule. B\u2019s \u201cconsent wearing a frown\u201d response relabels that scenario rather than disproving it.</best_rebuttal>"
+}

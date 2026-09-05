@@ -1,0 +1,9 @@
+{
+  "task_id": "f7faad728a8d35053ab22dc8",
+  "debate_id": "prop_0193__muse-spark-1.3-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "06efd3c1c61a3d24ad685bb2eee8cf2694ba17287add6963d2d4b0a0228e9459",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept a live route: post-2050 dense always-on need + public foundation for private + rounding-error tradeoff, and answered CON's open-ended check attack with explicit mid-2030s stage-gates. CON never quantified the near-term carbon bought by redirect and overclaimed that gated large research equals CON's small program, misreading large as fleet-build.</reason>\n<best_rebuttal>B's Rebuttal 2 A1/A2: different denominators oxygen vs dust plus ten-year blocks with fallback to lab science, which neutralized the rounding-error contradiction and date-or-open-ended pressure.</best_rebuttal>"
+}

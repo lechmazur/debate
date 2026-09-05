@@ -1,0 +1,9 @@
+{
+  "task_id": "056dc1e0895825d49c8d2853",
+  "debate_id": "prop_0367__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "64db992ee4357abc087a23f20d31fb1e6bb36ebf87ecb0ed0fafb288f5c67cde",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.0</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Close, high-quality debate. B won the live clash: easier monthly pause/split/reconfigure is not just anti-cable hygiene; it turns the middle household into a peak-chaser and leaves next year's library underfunded. A's coexistence concession never recovered after B showed that a discount without troughs is a coupon, that addressable is not revenue, and that peaks, no troughs, and no higher sticker cannot travel together.</reason>\n<best_rebuttal>B's demolition of A's 'annual plans can compete beside a one-toggle default': without friction the four-month household never buys twelve, so the motion converts remaining middling payers into tourists rather than keeping a real open trade.</best_rebuttal>"
+}

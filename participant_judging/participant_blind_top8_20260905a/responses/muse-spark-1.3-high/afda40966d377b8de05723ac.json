@@ -1,0 +1,9 @@
+{
+  "task_id": "afda40966d377b8de05723ac",
+  "debate_id": "prop_0031__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8867b7ab425f56a33f0f1351ad91b485c09d55b2ce0e66b9d35d650df54e2aab",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won by neutralizing CON's two live routes \u2014 fragility and capacity \u2014 while keeping exclusion-as-default as the deciding clash. CON's surge retreated to slow strain and its funding-as-fees claim was met by tax-base plus scarcity-dilution, whereas PRO's scale-defenders and 50-vs-50000 lots points were never squarely answered.</reason>\n<best_rebuttal>B's A1 in Rebuttal 2 on repeal: vested permits survive either way, but a ban creates thousands of defenders in every precinct while a bonus can be killed quietly with no vote, which directly collapsed CON's single-vote fragility case.</best_rebuttal>"
+}

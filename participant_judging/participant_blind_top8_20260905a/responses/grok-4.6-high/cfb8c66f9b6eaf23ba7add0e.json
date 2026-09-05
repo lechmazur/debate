@@ -1,0 +1,9 @@
+{
+  "task_id": "cfb8c66f9b6eaf23ba7add0e",
+  "debate_id": "prop_0579__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5a497bddc8a107d1df531408813f972dd2cbf3757de524d128f691402791ee8e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making the motion\u2019s comparison easier to decide: the large fraud and access gains A needs arrive only with near-universal use, and that use is the surveillance spine and breach target rather than a contingent design risk. A\u2019s strongest live route\u2014today\u2019s unrevocable SSN is already worse, and a revocable yes-or-no check can be ubiquitous without being centralized\u2014was serious, but B treated SSN capture as the incentive pattern that repeats at higher speed, not a reason to add a hotter national token. A\u2019s bans-and-auditors answer to de facto mandatoriness and the credit-card analogy never showed a force that splits what convenience fuses.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2 takedown of A\u2019s \u201cscale is not concentration\u201d and credit-card analogy: a card authorizes money from one account, while a national credential authorizes who you are everywhere, so cryptographic yeses still map a life and remain a broker-ready signal even under selective disclosure.</best_rebuttal>"
+}

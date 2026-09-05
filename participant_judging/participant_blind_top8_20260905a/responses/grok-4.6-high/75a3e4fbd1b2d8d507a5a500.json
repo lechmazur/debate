@@ -1,0 +1,9 @@
+{
+  "task_id": "75a3e4fbd1b2d8d507a5a500",
+  "debate_id": "prop_0280__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "864e282299850d8e9548cc5e4c82d7296944e6eac831759207fbe8470e673bde",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won a close clash by tying \u201ctraditional expectations\u201d to the family-enforced wedding script couples actually face, not CON\u2019s purified cheap core. CON\u2019s pedigree and circularity hits were sharper, but CON already denied a duty to headcount, look, and pageant\u2014the demands still arriving under tradition\u2019s name\u2014which is enough for the motion.</reason>\n<best_rebuttal>PRO turning CON\u2019s \u201cowe a mother a seat, not 200 plates\u201d into the proposition: if the policed pageant is optional, obligation to lived traditional expectations has already shrunk.</best_rebuttal>"
+}

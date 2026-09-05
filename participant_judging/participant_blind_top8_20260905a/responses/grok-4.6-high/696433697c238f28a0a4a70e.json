@@ -1,0 +1,9 @@
+{
+  "task_id": "696433697c238f28a0a4a70e",
+  "debate_id": "prop_0376__grok-4.6-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "2044482956c395497ce0fb05fc2a1d2b9734a0f2d598b5ee9c2ad6b4b9122c6a",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.1</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B won the live comparison: a cap\u2019s savings accrue to remaining revolvers while the opening\u2019s own desperate borrowers are the ones priced out toward worse substitutes or no liquidity. A was punchier and correctly noted the motion\u2019s \u201ceven if,\u201d but treated stipulated access loss as a reason not to weigh substitution and never showed remaining-borrower gains dominate. Clipped B opening/closing kept the margin modest.</reason>\n<best_rebuttal>B2.3\u2013B2.5: fringe lenders already serve the uncarded, so a binding cap expands that pool rather than leaving substitution unchanged\u2014and the leaked borrowers are exactly the population A claimed to protect.</best_rebuttal>"
+}

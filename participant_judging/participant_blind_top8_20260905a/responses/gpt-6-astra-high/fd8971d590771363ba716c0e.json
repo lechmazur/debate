@@ -1,0 +1,9 @@
+{
+  "task_id": "fd8971d590771363ba716c0e",
+  "debate_id": "prop_0443__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "6b2386f3875ac5074f5add6e3a59144eda776d73732da334f128a1febce866f0",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A won by distinguishing an open default from unconditional release and defending advance exceptions covering genuine investment needs, including integrated projects. B identified a credible risk to commercialization, but repeatedly asserted that partners would withdraw without explaining why A\u2019s pre-funding assessment would uniquely cause that result. Its later objections to delayed waivers and file-by-file petitions did not address A\u2019s actual proposal. A consequently preserved the decisive comparative benefit: guaranteed reuse for publicly funded outputs where no sufficient reason for restriction exists.</reason>\n<best_rebuttal>A\u2019s closing turned B\u2019s demand that justification belong in the project bargain against it: A already allowed that assessment before funding. Coupled with B\u2019s concession that exclusivity needs must be real, this substantially weakened B\u2019s claim that the open default necessarily destroys collaborations.</best_rebuttal>"
+}

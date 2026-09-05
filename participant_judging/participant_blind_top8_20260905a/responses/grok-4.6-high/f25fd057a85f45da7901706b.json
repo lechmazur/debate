@@ -1,0 +1,9 @@
+{
+  "task_id": "f25fd057a85f45da7901706b",
+  "debate_id": "prop_0280__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "50d8d61cb07c851469339bd696d5324af75d4704c9e33548c7ec2102a58f6383",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive definitional clash: the motion\u2019s \u201cbecause expensive/performative, therefore little obligation to traditional expectations\u201d is a non sequitur unless those expectations are the commercial script. CON kept a live, usable test (old, cross-cultural, enactment vs display), treated vows/witnesses/family/meal as still owed, and parked expense on a parasite rather than the host. PRO\u2019s lived-enforcement reading was rhetorically closer to ordinary wedding pressure but stayed circular and inconsistent (diamond as marketing, guest list as tradition), so it never cleanly carried \u201clittle obligation\u201d to tradition as such.</reason>\n<best_rebuttal>CON\u2019s R2 circularity turn: if tradition is whatever is enforced under that name, the motion collapses into a claim about pressure, contradicts PRO calling the equally enforced diamond \u201cmarketing,\u201d and cannot even privilege PRO\u2019s own small-wedding alternatives.</best_rebuttal>"
+}

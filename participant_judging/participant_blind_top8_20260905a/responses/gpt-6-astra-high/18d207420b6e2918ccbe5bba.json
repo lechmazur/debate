@@ -1,0 +1,9 @@
+{
+  "task_id": "18d207420b6e2918ccbe5bba",
+  "debate_id": "prop_0112__gpt-6-astra-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5fa79c09003b007ca978d9f5b134e794671882b4d0545487d47c89449c7f0e9d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>4</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by exposing A's asymmetric comparison: A grants its preferred system effective regulation and durable subsidies while treating public-system funding failures as inevitable. B supplies concrete accountability mechanisms and shows why legal enrollment elsewhere does not establish affordability or uninterrupted treatment. A's concentrated-risk objection is meaningful, but its guarantees about provider continuity and annual public appropriations are unsupported. B more convincingly establishes employment-linked eligibility as an additional vulnerability without a demonstrated compensating advantage.</reason>\n<best_rebuttal>B directly attacks A's distinction between standing subsidies and annually appropriated public coverage: A never establishes that this funding asymmetry is inherent. A's final reply then demands protection from legislative changes, although B explicitly conceded that no system has such immunity.</best_rebuttal>"
+}

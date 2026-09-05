@@ -1,0 +1,9 @@
+{
+  "task_id": "6fe98a39da5444db97a32e3c",
+  "debate_id": "prop_0579__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a526530b86474858b2a453ee500b843f53e7eaee81fe8a6fd37a5a46dd524747",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won by making the kind-of-harm comparison easier to vote on: a nationally trusted credential concentrates attacker payoff and builds a queryable checkpoint architecture, unlike SSNs that prove little until paired with forgeries. PRO\u2019s present-versus-contingent frame was the right motion rule, but it flattened that distinction, treated a funded-paper statute as a full stop to mandate creep, and never neutralized the incentive path from optional fast lane to de facto obligation. Both sides were disciplined and format-clean; A\u2019s weighing of reimbursable diffuse fraud against a generative, hard-to-undo index was the cleaner path to victory.</reason>\n<best_rebuttal>A\u2019s reply that optionality dies by delay and private demand (the SSN path), and that a stolen payment is finite while a trusted digital credential is generative until the victim wins a help-desk race.</best_rebuttal>"
+}

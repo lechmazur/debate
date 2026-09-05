@@ -1,0 +1,9 @@
+{
+  "task_id": "e63407b199c84e4c06878108",
+  "debate_id": "prop_0168__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "590eef8765793e7ad7e4c1d61ef9d6ab94da05f0b4fe2df3c018030702efc3b7",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.5</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins the portfolio comparison: it counts astronauts\u2019 distinctive science while explaining why recurring support costs favor robotic exploration. It also honestly accepts that some crew capabilities would be lost. A\u2019s infrastructure objection never establishes why majority funding is indispensable or why preserving those capabilities outweighs displaced discoveries. A further weakens its case by repeatedly claiming B excludes human scientific benefits after B explicitly includes them. B\u2019s justification for the precise majority shift remains qualitative, limiting the margin.</reason>\n<best_rebuttal>B turns A\u2019s strongest objection\u2014expensive, indivisible crew infrastructure\u2014into an opportunity-cost test: exceptional human missions must justify the standing system they require. A establishes that cuts sacrifice valuable options, but B convincingly explains why that alone does not justify preserving a crewed majority.</best_rebuttal>"
+}

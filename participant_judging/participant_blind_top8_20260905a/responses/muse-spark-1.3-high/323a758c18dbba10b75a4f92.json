@@ -1,0 +1,9 @@
+{
+  "task_id": "323a758c18dbba10b75a4f92",
+  "debate_id": "prop_0008__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c7010bd2e9b336620a1b889893a7cb21f2dd8b9abee37508fab499853055ebbf",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the central friction vs proximity clash. PRO kept arguing fewer convenient purchases means fewer initiations, but conceded proxy sourcing will happen and benefit size is uncertain. CON showed design keeps legal supply open for decades beside an ever-growing excluded adult class with money, mobility and intimate access to legal buyers, turning shops into proxy wholesale points and corroding ID legitimacy, while equal-adult tools already cut smoking.</reason>\n<best_rebuttal>CON's Rebuttal 1 to Rebuttal 2 arbitrage-machine + legitimacy turn: shrinking supplier pool is outnumbered by expanding excluded-buyer pool living alongside legal spouses/coworkers, and carding middle-aged adults unlike carding teens destroys the ID discipline that protects children.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "c2b3c174d34f980c25633f74",
+  "debate_id": "prop_0095__claude-fable-5-1-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "edd703a9be91670ff058156d5a8f04929ce747612a8e7145520b229a99e5684b",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>0.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A narrowly won by more convincingly distinguishing new exploitation from completing an already compensated role. B defended a meaningful protective default and coherently extended its principle to conventional fabrication. However, its descriptions of A\u2019s alternative as unpaid or effectively unrestricted overstated the position. A answered the pressure questions directly and better explained why material alteration does not necessarily exceed production authority. B established genuine risks, but insufficiently justified requiring an explicit AI grant for otherwise authorized changes.</reason>\n<best_rebuttal>A\u2019s response to the endorsement analogy was especially effective: attributing a personal commercial recommendation differs from shaping fictional dialogue within a commissioned role. Its later distinction between silence about a technique and unlimited permission reinforced that rebuttal and undercut B\u2019s ownership framing.</best_rebuttal>"
+}

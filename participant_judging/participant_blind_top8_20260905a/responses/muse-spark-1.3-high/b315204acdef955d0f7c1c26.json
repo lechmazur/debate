@@ -1,0 +1,9 @@
+{
+  "task_id": "b315204acdef955d0f7c1c26",
+  "debate_id": "prop_0514__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "1102b162cf83c36ebc283b32cf312fa8a61a58b7d2c16956f6f53198b42ade61",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won by holding the resolution's distinction between open integration and closed ownership. CON's repeated concession charge equated any turnkey delivery with a single-vendor stack, which PRO refuted, while PRO showed paper SLAs/escrow without exportable data give no usable leverage to weak buyers.</reason>\n<best_rebuttal>PRO's A4.1-A4.2 answers: turnkey delivery vs lock ownership plus state-level certification once, which neutralized CON's core concession and funding attacks.</best_rebuttal>"
+}

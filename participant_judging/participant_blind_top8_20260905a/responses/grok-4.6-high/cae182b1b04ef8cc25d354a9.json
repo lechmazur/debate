@@ -1,0 +1,9 @@
+{
+  "task_id": "cae182b1b04ef8cc25d354a9",
+  "debate_id": "prop_0465__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "a9d762511b4486559b95de63536a27d3b96e6c0e861cb1f18f45aeda0df02e5f",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality clash by converting PRO\u2019s standing claim into a practical veto-by-delay, showing existing livelihood and permitting challenges already open a pre-blast door, and leaving the live comparative as who must face both sets of victims. A\u2019s inventory/sequence frame stayed coherent and rhetorically sharp, but never solved guardianship contests or the inherent conflict with levees and reservoirs.</reason>\n<best_rebuttal>B\u2019s standing-is-delay plus existing-injunction reply: personhood adds a vaguer claim, not an earlier door, while every redesign becomes another rights case.</best_rebuttal>"
+}

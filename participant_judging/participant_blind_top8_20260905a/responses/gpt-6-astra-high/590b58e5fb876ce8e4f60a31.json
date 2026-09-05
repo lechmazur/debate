@@ -1,0 +1,9 @@
+{
+  "task_id": "590b58e5fb876ce8e4f60a31",
+  "debate_id": "prop_0556__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "24dc9fea26f3bcc6698e02870a86061fccf562be09fe00e8783f905dac5e9a68",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.7</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A wins by distinguishing a necessary condition for sale from permission or immunity to sell. It directly answers the stalking hypothetical and establishes a surviving benefit: unauthorized sales become unlawful without individuals having to prove malicious use. B raises meaningful concerns about manipulated consent, but repeatedly mistakes incomplete protection for affirmative legalization. Its eventual blanket-minimization proposal undercuts its earlier useful-data objection and remains compatible with A\u2019s minimum restriction. The speculative claim that consent regulation would crowd out stronger protections does not establish a persuasive disadvantage.</reason>\n<best_rebuttal>A\u2019s questions forced B to concede that consent overrides no use ban and that its alternative would prevent every precise-location sale. A then crystallized the decisive response: stronger prohibitions do not refute this minimum, and imperfect consent does not erase protection for people who never authorize a sale.</best_rebuttal>"
+}

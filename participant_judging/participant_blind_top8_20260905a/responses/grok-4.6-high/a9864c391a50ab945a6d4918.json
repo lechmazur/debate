@@ -1,0 +1,9 @@
+{
+  "task_id": "a9864c391a50ab945a6d4918",
+  "debate_id": "prop_0156__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "2ac8b57d580c58bf2e4be06beb6e5bc61e9f389db73d93342a3bdd588b906c2f",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the comparison decidable: solidarity as revealed choices (lending, forbearance after private haircuts, abandoned exit, later common debt) versus stories that never won a live decision. A\u2019s hierarchy-and-motives case was sharp but increasingly unfalsifiable; B answered the key pressure with concrete non-exit tests and turned A\u2019s 2018/Italy point into shared fate. A clipped B rebuttal is a real cost, not enough to flip the vote.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2: five behavioral tests of distrust short of exit, plus the turn that 2018 Athens-for-Rome forbearance is shared fate and that 2015 rupture was on the ballot and lost.</best_rebuttal>"
+}

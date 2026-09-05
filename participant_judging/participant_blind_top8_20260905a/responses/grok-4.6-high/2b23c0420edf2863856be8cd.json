@@ -1,0 +1,9 @@
+{
+  "task_id": "2b23c0420edf2863856be8cd",
+  "debate_id": "prop_0277__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ef53b02b5e0c4bec162123231065b8a21ad69fa01314acfdae3840b88f651406",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by forcing an apples-to-apples comparison: once caps and housing/retail rules are shared tools, spreading still had to justify extra footprint, enforcement, and possible added trips. PRO was vivid on fairness and land-use conversion, but often compared well-regulated dispersal to an inadequately capped \u201csacrifice zone,\u201d which CON neutralized. After that, CON\u2019s decision rule\u2014residents feel actual pressure, not their share of sightseeing\u2014was the cleaner reason to reject spreading as the required remedy.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2 equal-standards attack: if original hosts remain overwhelmed, tighten the cap; do not call a weak cap \u201cprotective\u201d and then use its failure to prove dispersal necessary.</best_rebuttal>"
+}

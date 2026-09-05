@@ -1,0 +1,9 @@
+{
+  "task_id": "ee1fc894fdb122e3fb910b3f",
+  "debate_id": "prop_0623__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b91daf06b7685d61a572798cecfd9c60b5a78a239c084c8eaff3b6a804cd88cb",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality debate by converting A's coverage metric into a liability and keeping a cleaner distinction between honest public floors and state-extended private bargains. A's fissured-workplace case and the \u201cboth impose, so calibrate\u201d turn were strong, but did not neutralize heterogeneity, imputed consent, dual-market leakage, or B's named alternative of general minima plus client liability.</reason>\n<best_rebuttal>B's recasting of extension as imputed consent and industrial regulation (B2.5\u2013B2.6, B4.5\u2013B4.8), which undercut \u201cshe is in the room\u201d and made coverage look like exclusion scored as protection.</best_rebuttal>"
+}

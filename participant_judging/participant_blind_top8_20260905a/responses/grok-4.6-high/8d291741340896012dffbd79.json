@@ -1,0 +1,9 @@
+{
+  "task_id": "8d291741340896012dffbd79",
+  "debate_id": "prop_0081__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "6a884a5b39bf9987a4982115908f3e2f25b2dc5646c73ed9ce6e364bc7d998f0",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by keeping the motion\u2019s comparison live: best block/verification/scam-help as floor versus perk. A\u2019s cost, flooding, and ID-halo story was sharper on second-order risk but repeatedly recast \u201cfree by default\u201d as mandatory universal ID plus unlimited concierge labor. The payment wall still faced victims of one unpaid profile; A never showed a world where a free-tier harasser cannot walk back in. B\u2019s clipped R1 limited the margin.</reason>\n<best_rebuttal>B\u2019s pressure on the working lock: A conceded door-locks should be free, then admitted device bans that actually stick are paid enforcement\u2014turning A\u2019s funding claim into proof of the two-class system the motion rejects.</best_rebuttal>"
+}

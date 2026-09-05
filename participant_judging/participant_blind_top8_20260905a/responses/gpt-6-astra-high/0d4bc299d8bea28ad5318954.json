@@ -1,0 +1,9 @@
+{
+  "task_id": "0d4bc299d8bea28ad5318954",
+  "debate_id": "prop_0254__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8e606c2d3ae8321bada1339423a6319ebe3d22a0111c01572658af9b36b0588e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A wins a clear but competitive debate. B persuasively explained why headlines influence policy, but A better defended the actual alternative: growth as a constrained economic benchmark, alongside explicit social obligations. A answered both pressure questions directly and challenged B\u2019s repeated assumption that GDP primacy excludes other policy reasons. B\u2019s life-satisfaction proposal substantially clarified measurement, but its handling of distributional conflicts and future benefits did not establish superior accountability over A\u2019s arrangement.</reason>\n<best_rebuttal>A\u2019s distinction between \u201cprimary\u201d and \u201cexclusive\u201d undercut B\u2019s hidden-zero argument. Binding social protections can defeat a GDP-raising policy while growth remains the main economic target. B repeatedly asserted that governments could reason only in the headline\u2019s currency rather than squarely defeating this comparison.</best_rebuttal>"
+}

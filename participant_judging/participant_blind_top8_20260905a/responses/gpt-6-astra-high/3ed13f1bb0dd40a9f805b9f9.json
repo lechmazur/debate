@@ -1,0 +1,9 @@
+{
+  "task_id": "3ed13f1bb0dd40a9f805b9f9",
+  "debate_id": "prop_0383__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ccf39196979012f6d0775d918e90d91d593bcf76e659bc6f849484e2fc8336b9",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A won the comparative clash: reducing total environmental harm matters more than eliminating a particular container. B offered plausible coordination and scale benefits, but did not adequately answer substitution burdens, recurring operating costs, or the comparison with charges and opt-in rules. Its sweeping claims about successful schemes and pricing failures weakened its grounding. A answered pressure directly, and its conditional acceptance of justified phase-outs did not concede that B had established those conditions.</reason>\n<best_rebuttal>A effectively dismantled B\u2019s \u201cexit once\u201d framing: replacements still require manufacturing, transport, washing, and disposal. Combined with B\u2019s concession that continued use after charges is not automatically failure, this exposed why counting eliminated disposable items could not settle the policy comparison.</best_rebuttal>"
+}

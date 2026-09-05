@@ -1,0 +1,9 @@
+{
+  "task_id": "6d261c117fb6667f10523e00",
+  "debate_id": "prop_0559__muse-spark-1.3-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5fb6f09583ad8c116d58c9453ec4176f2855f05efba515717cacbbf9f8fb6715",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the co-ownership clash: identifier must cross before consent, push is not passive posting, and pseudonymity cannot survive cross-platform lookup. That forced A to shrink to handles-only one-click convenience, which B then outweighed against standardized disclosure, giant-absorption, and all-platforms scope, while also answering A's lock-in pressure with a non-mandate alternative.</reason>\n<best_rebuttal>B4 A1-A2 plus weighing: consent-after-disclosure is notification not consent, mandate shrunk to re-following with notification, one-click convenience versus compulsory identical roster contacting everybody.</best_rebuttal>"
+}

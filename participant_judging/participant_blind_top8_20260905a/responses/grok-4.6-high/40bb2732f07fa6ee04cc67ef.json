@@ -1,0 +1,9 @@
+{
+  "task_id": "40bb2732f07fa6ee04cc67ef",
+  "debate_id": "prop_0294__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "528e03ad06e74c357f621cf5aaf904e3d924c264b48534254245fdf4868d7fe6",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-quality clash by treating the motion as a fight over civic last word on narratives, not a facts-vs-meaning split. B\u2019s best live route\u2014checkable archives, child harm before elections, mixed-panel design\u2014was repeatedly narrowed by A\u2019s selection argument (first sentence, page, heading). B\u2019s own \u201cremove only for fraud, never for a verdict on empire\u201d answer confirmed A\u2019s transfer-of-power claim. B stayed eloquent and never collapsed, but adapted less well once the textbook-as-single-spine point landed.</reason>\n<best_rebuttal>A\u2019s Rebuttal 2: converting B\u2019s staggered-term/no-firing-for-empire design into proof that insulation is ceremony for voters and last word for specialists, while insisting a marked \u201cdispute\u201d still selects the record children meet.</best_rebuttal>"
+}

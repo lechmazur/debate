@@ -1,0 +1,9 @@
+{
+  "task_id": "8e27f52f142bd1b75e4e205b",
+  "debate_id": "prop_0022__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "8503bcfe6b989403e4d058fe82363133256e7e5505812b455ddd01bdb97e1494",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B offered the stronger regulatory comparison: mandatory preventive safeguards for custody, with fund-style oversight when issuers invest reserves. A persuasively established the relevance of financial regulation to major issuers, but its own investment-based limiting principle undermined its earlier blanket analogy. Its closing assertion that cash-only issuers are absent did not answer B\u2019s argument about accommodating safer designs and avoiding unnecessary compliance costs. B also directly answered the monitoring challenge, while A weakened its grounding through the false Tether-collapse premise and unsupported claims of prudential regulation\u2019s exclusive effectiveness.</reason>\n<best_rebuttal>B\u2019s second rebuttal exposed that A\u2019s own limiting principle exempted the non-investing issuer central to B\u2019s case. Combined with mandatory independent verification, this defeated A\u2019s framing of the alternatives as prudential supervision or blind self-certification.</best_rebuttal>"
+}

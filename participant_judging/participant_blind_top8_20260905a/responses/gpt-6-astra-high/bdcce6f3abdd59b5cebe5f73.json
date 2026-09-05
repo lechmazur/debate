@@ -1,0 +1,9 @@
+{
+  "task_id": "bdcce6f3abdd59b5cebe5f73",
+  "debate_id": "prop_0341__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "627b67fef0490cf2dce1ba51c124566db19ee31335c8970d9168dc7c552dd29e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A more convincingly distinguished privacy protection from accessibility, and blocked visits from reduced harmful exposure. It directly answered the gambling comparison through transaction-level control and clarified that its alternative involved mandatory safer defaults, not today's checkbox. B supplied a plausible friction mechanism and useful fallback proposals, but repeatedly overstated their effectiveness and mischaracterized A's concessions. Its complaint about unanswered pressure also preceded A's scheduled response. A did not prove displacement would erase all benefits, but successfully showed why B's claimed benefits and minimized burdens did not establish the combined mandate's proportionality.</reason>\n<best_rebuttal>A undercut B's alcohol analogy by contrasting restricted physical supply with following another link. Under pressure, B repeated where exposure supposedly begins rather than explaining why gating that starting point would eliminate most exposure. A explicitly accepted some benefit while exposing that unsupported extrapolation.</best_rebuttal>"
+}

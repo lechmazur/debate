@@ -1,0 +1,9 @@
+{
+  "task_id": "32e5feb776d1f2412ecdd32a",
+  "debate_id": "prop_0363__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "c2b80ffa08cf7f67ff82391e9117e4077afd9ff473ce69ade7f633491742f050",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>9</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>4</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A convincingly separated the value of creative renewal from the justification for increasing this particular budget tier. B offered a plausible pipeline argument, but never adequately distinguished underinvestment from weaker demand or breakout upside from worthwhile portfolio returns. A directly answered the incentive questions and defended alternative routes to renewal. B repeatedly portrayed selective investment as refusing to invest, despite A explicitly allowing dollars to move toward strong originals. Misclassified examples and unsupported claims of mid-budget exclusivity further weakened B's case.</reason>\n<best_rebuttal>Against B's claim that only mid-budget production could renew the slate at scale, A distinguished production budget from production frequency and explained that acquisition premiums can purchase useful information. This directly undermined B's answer to why additional mid-budget spending beats alternative investments.</best_rebuttal>"
+}

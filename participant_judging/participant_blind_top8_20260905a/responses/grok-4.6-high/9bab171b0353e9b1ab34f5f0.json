@@ -1,0 +1,9 @@
+{
+  "task_id": "9bab171b0353e9b1ab34f5f0",
+  "debate_id": "prop_0478__grok-4.6-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "70632b23a61078c197c9bccf5007faf3e65fa50f0b14a732c27d533369f24dac",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by keeping a cleaner vote comparison: the status-quo subsidy is live now, a portable floor can close it without full reclassification, and CON\u2019s decoupling alternative is unscheduled. B landed real mechanical pressure on timing, thresholds, and compliance, but the rationing story had to be rewritten after A\u2019s Q2, and \u201cspecify every parameter now or reject the floor\u201d never outweighed A\u2019s ordinary social-insurance answers (trailing lookback, public remittance, days-not-years). B\u2019s clipped opening and the remaining incidence/moat claims were plausible but not decisive.</reason>\n<best_rebuttal>A\u2019s Q2 exposed B\u2019s clash between \u201cplatforms ration under the line\u201d and \u201cno platform can see the running total\u201d; B\u2019s later probabilistic-hedging salvage was clever, but A\u2019s \u201cfirms won\u2019t idle needed labor rather than remit a share\u201d was the cleaner close.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "2d1e1c45fdaa68b18f280f87",
+  "debate_id": "prop_0018__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "9c1a6d44236f71bb6df18aea1462ddf0b017b0517dda059ee80b2bd9b2c1e8d5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept a live funding loop that CON never broke: transit-first stalls because toll revenue is the way to pay for buses now. CON scored on captive vs flexible drivers, but conceded bus lanes leave car congestion intact and offered no non-veto threshold for consent, letting PRO's flat-rebate answer and veto charge decide.</reason>\n<best_rebuttal>B's Rebuttal 2 A1-A2: flat per-capita rebate to dissolve the exemption-cliff, plus immediate-revenue vs no-revenue comparison and pressing consent into an unlimited veto.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "f10c0b2e7b4c4d3de3c6b5d0",
+  "debate_id": "prop_0095__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "036dffee68a472c979c8d303d1611feb0ab4415295b928695afbc14b3446e83b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B better justified requiring permission for manufactured performances while accommodating production through upfront, defined, compensated authorization. It answered the materiality and dubbing questions directly and acknowledged renegotiation costs. A raised meaningful editing-freedom and hold-up concerns, but overstated both the inevitability of unlimited boilerplate and the protection existing law supplies. Its unequal-bargaining objection showed that consent could be imperfect, not that removing the requirement was preferable. B\u2019s distinction between production inconvenience and entitlement to an unapproved synthetic performance ultimately carried the debate. A\u2019s two clipped rebuttals were modest execution costs.</reason>\n<best_rebuttal>B\u2019s refused-line question forced A to concede a genuine wrong beyond mere artistic disappointment. B then explained that protecting express refusals does not justify undisclosed uses. A\u2019s unsupported assertion that refusal automatically constitutes a contractual prohibition failed to close that gap.</best_rebuttal>"
+}

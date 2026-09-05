@@ -1,0 +1,9 @@
+{
+  "task_id": "90d4ed7ba4394244b52bc3ac",
+  "debate_id": "prop_0248__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "95d8fcbd75d882ab36a1c9a309e30b3148c16a0729e0c0df50d9f33fcedac4b3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins a competitive debate by more convincingly distinguishing guaranteed care from fair allocation of its costs, and grounding a limited duty in sustained parental support rather than repayment for childhood. A raised substantial objections about unequal burdens and intrusive enforcement. However, B directly addressed the abuse-proof question and acknowledged residual costs, while A repeatedly characterized protections as bare subsistence and treated the absence of additional care as dispositive. Those arguments did not adequately defeat B\u2019s narrower case for contributions from financially comfortable children of supportive parents.</reason>\n<best_rebuttal>B\u2019s answer to the abuse-exception pressure was decisive: the agency bears the burden, review is publicly funded, collection pauses, and serious unresolved doubt defeats recovery. A correctly maintained that disclosure remains intrusive, but its later account of victims having to prove old wounds did not adequately engage those protections.</best_rebuttal>"
+}

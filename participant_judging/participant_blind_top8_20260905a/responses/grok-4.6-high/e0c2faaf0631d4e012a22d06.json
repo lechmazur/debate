@@ -1,0 +1,9 @@
+{
+  "task_id": "e0c2faaf0631d4e012a22d06",
+  "debate_id": "prop_0197__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a2aa32794f2bd966e63f05f03eeaf8dec959195c7c9bdfb53634a11b0c9e0382",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by making the motion\u2019s own standard\u2014long-term debris cascades\u2014the deciding test and showing that \u201call\u201d does not follow from it. Known high vs. low intercepts, independent observation of decay, and the incentive point that a blanket ban deletes the clean path while leaving China/Russia as unenforceable as before, outlasted B\u2019s prestige and bright-line replies. B stayed coherent on not unspreading a cloud, but had to recast months of transient crossing risk as cascade onset, which A used to collapse the justification. A\u2019s clipped close is a real cost, not enough to flip a clearer comparative case.</reason>\n<best_rebuttal>A\u2019s Q2 plus Rebuttal 2: B could not name lasting cascade harm from 2008/2019 and shifted to a collision lottery; A showed that swap abandoned the motion and that a ceiling preserves responsible testing B\u2019s \u201call\u201d would erase.</best_rebuttal>"
+}

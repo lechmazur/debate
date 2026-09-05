@@ -1,0 +1,9 @@
+{
+  "task_id": "5d55ed8fa2427afaf8a79bdd",
+  "debate_id": "prop_0320__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "0f942018e0fcc55ec89be3570992f26d60edef9ca40d3a2fc5c167f773db5fb4",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won the load-bearing word \u201cmainly\u201d: transit was conceded as not designed for the central harm, B never named a transit-first success, and A\u2019s complementary close-then-exit plan beat leftover-people reframing. B\u2019s sidewalk/displacement critique stayed live but lost the dose-response clash and sidestepped pressure by redefining the motion.</reason>\n<best_rebuttal>A turning B\u2019s \u201ca bus is not meant to outperform a lockout\u201d plus unanswered city-example pressure into a fatal mainly-burden, together with the one-way displacement / bidirectional hours-harm reply.</best_rebuttal>"
+}

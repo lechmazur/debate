@@ -1,0 +1,9 @@
+{
+  "task_id": "e44beca95d7edd7094bf8af7",
+  "debate_id": "prop_0286__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3d145bab5e3a676551eaed913a1f83c89045d4fe43709700c67c573bed08909c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won a clear but competitive debate by making the live choice easier: carbon is a quantity harm, space tourism is tiny, condemnation transfers nothing, and B\u2019s principle either swallows ordinary luxury or becomes an unfalsifiable mood. B\u2019s \u201chard to justify\u201d bar was the right motion reading and stayed live, but the clipped first rebuttal, the failed ivory analogy, the unnameable exit, and the \u201cboth can be hard\u201d concession let A crystallize the clash.</reason>\n<best_rebuttal>A\u2019s quantity-vs-act reply to the ivory analogy, later sealed by turning B\u2019s \u201cyachts and rockets can both be hard\u201d concession into a motion-collapse.</best_rebuttal>"
+}

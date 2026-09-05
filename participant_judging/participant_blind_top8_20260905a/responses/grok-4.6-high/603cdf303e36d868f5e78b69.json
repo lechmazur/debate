@@ -1,0 +1,9 @@
+{
+  "task_id": "603cdf303e36d868f5e78b69",
+  "debate_id": "prop_0599__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ecbd8e6d74f61400c0a0d7a873236e920e1b46d4f51071f829ee6de4820403a7",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a competitive debate by splitting \u201cidentity\u201d from a mandatory continent-wide biometric gate, offering cheaper leakage fixes, and converting PRO\u2019s junta and fallback concessions into a failed trade: irreversible surveillance without enforceable limits or reliable delivery. PRO stayed on the motion and the exclusion-now weighing, but overclaimed that a shared ID is the audit and never closed the enforcement hole.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2: AU \u201cwill not bind a junta,\u201d so purpose limits are branding; human overrides show the continental biometric layer was never necessary, only dangerous.</best_rebuttal>"
+}

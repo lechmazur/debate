@@ -1,0 +1,9 @@
+{
+  "task_id": "38d2951e9bc01f99df16b4f1",
+  "debate_id": "prop_0616__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "cb7024f1f1e0c228191c2c2914effc5fb95f5d65275526daae78dfcf10cc403c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by keeping the motion on slowing development, not currently fielded weapons, and by converting B\u2019s own \u201cnational emergency\u201d language into evidence that the delay is real. B\u2019s case on leaky controls and taxing allied learning was serious, but it never resolved treating lost compute as a rounding error for the adversary and a durable hit at home. A\u2019s weighing\u2014compounding training friction against relocated revenue\u2014was the cleaner vote path.</reason>\n<best_rebuttal>A\u2019s turn of B\u2019s workarounds into conceded delay, then the later trap: a mere \u201cbudget line\u201d cannot also be a \u201cnational emergency,\u201d which B\u2019s \u201cindustrial not military\u201d reply never fully dissolved.</best_rebuttal>"
+}

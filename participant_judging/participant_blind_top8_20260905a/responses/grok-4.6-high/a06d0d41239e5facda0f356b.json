@@ -1,0 +1,9 @@
+{
+  "task_id": "a06d0d41239e5facda0f356b",
+  "debate_id": "prop_0320__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "6391e8e4ea1a237ef39e277155e35b56dd4bd65ad8d482c868a98bf464d108f9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making \u201cmainly\u201d the load-bearing comparison: hours change the alcohol input while transit mostly manages aftermath. B turned A\u2019s concession that a night bus is not designed to stop bar fights into a burden A never met, and showed one-way \u201cchanged the address\u201d cannot explain two-way dose-response. A\u2019s leftover-people/sidewalk frame was vivid and a real critique of precinct-only counting, but never explained why that instrument should be the primary strategy. B\u2019s both-and close\u2014smaller crowd plus an exit the city already owns\u2014was the cleaner vote.</reason>\n<best_rebuttal>B\u2019s use of A\u2019s \u201cbus is not meant to outperform a lockout\u201d concession, then demanding what carries \u201cmainly\u201d and flipping strandedness: a 4 a.m. district creates the expensive second network rather than earlier closing manufacturing the leftover.</best_rebuttal>"
+}

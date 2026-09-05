@@ -1,0 +1,9 @@
+{
+  "task_id": "32944b3e83e671fd4dbb7d42",
+  "debate_id": "prop_0095__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "95d9215d5c38937197e9f322c287f3fd66c30f1a31af72edc29ca337d50bbb79",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly framed consent as defining what the studio purchased, rather than granting control over final cut. It directly answered the materiality and dubbing questions, allowed upfront compensation, and identified harms existing remedies need not cover. B raised substantial uncertainty and bargaining-power objections, but overstated the equivalence between defined authorization and unlimited boilerplate. A\u2019s closing supplied the cleaner comparison: imperfect bargaining protection does not justify presuming permission for undisclosed synthetic performances.</reason>\n<best_rebuttal>A\u2019s refused-line question exposed the weakness in B\u2019s claim that nondefamatory alterations cause only disappointment. B conceded a genuine wrong but asserted, without establishing, that refusal automatically creates an express contract term. A then sharpened the issue: even protection for explicit refusals would not protect actors against uses they were never told to anticipate.</best_rebuttal>"
+}

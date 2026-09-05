@@ -1,0 +1,9 @@
+{
+  "task_id": "2985d4bf51befdae34f58ecd",
+  "debate_id": "prop_0345__kimi-k3__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "2f6794216da0bd9a0e9cec291dcbdb64a9eae57d515d6da5cea35507302fd1b0",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins on the density/threshold clash. A showed many culture claims can be rewritten role-specifically, but B showed the honest remainder - be present so the floor is alive for others - cannot be a task of that role without restating broad culture, leaving A's rule either toothless if that sentence passes or paralyzing if it fails. A never resolved that enforcement dilemma.</reason>\n<best_rebuttal>B's carriers-of-mentorship plus toothless-or-paralyzing dilemma: exempting self-sufficient roles empties the commons, and allowing others-benefit as role-specific lets HR retype culture and evades the motion.</best_rebuttal>"
+}

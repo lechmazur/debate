@@ -1,0 +1,9 @@
+{
+  "task_id": "0dde3d806a1e3de143bcd36f",
+  "debate_id": "prop_0236__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "191a59e8231a5bd94fffa621e23790d20f52efa395c23174a28e4650da3719ec",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by narrowing the live clash to what a default does to students a school can actually reach. After both sides treated enforcement as honor-code territory, B\u2019s comparison was cleaner: a ban still asks the conscientious to compose, while permissible-by-default asks them to annotate a generated draft. A\u2019s honesty/detector case was sharp, but it never neutralized that ordinary obedient case, and reading \u201cprocess transparency\u201d as a required fail of disclosed outsourcing stretched the motion. A also paid a small execution cost for a clipped opening.</reason>\n<best_rebuttal>B\u2019s first rebuttal recast A\u2019s fabrication symmetry: if determined cheaters cheat under either rule, policy is decided by the instruction the conscientious follow. A never recovered a blank-page requirement from the motion.</best_rebuttal>"
+}

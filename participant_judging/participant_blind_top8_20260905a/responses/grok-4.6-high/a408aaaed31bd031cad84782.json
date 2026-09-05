@@ -1,0 +1,9 @@
+{
+  "task_id": "a408aaaed31bd031cad84782",
+  "debate_id": "prop_0533__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b80db85813fdec3ecf120c9fd1ca0d7b38854a2387a6557cb2aa1204fb4e9ecf",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B won a close debate by forcing a cleaner decision rule: with no basin referee, treating Egypt\u2019s live drought objection as a stop on Ethiopia\u2019s remaining timetable is a veto with no off-switch. CON\u2019s survival-versus-delayed-power weighing and wet-year versus successive-drought distinction were serious, and CON correctly damaged the claim that turbines make holdbacks irrational. But CON never operationalized a non-veto constraint, hedged the required yes/no on whether Cairo\u2019s refusal halts filling, and left PRO\u2019s \u201cwho decides when there is no agreement\u201d clash standing. PRO answered pressure more directly and kept the proposition\u2019s default internally consistent.</reason>\n<best_rebuttal>PRO\u2019s \u201cdam you may build but may not fill is a wall\u201d frame, which turned CON\u2019s drought-hold into a functional veto after CON\u2019s A4.1 concession that Ethiopia may not proceed on its remaining timetable while Egypt\u2019s objection is live.</best_rebuttal>"
+}

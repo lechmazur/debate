@@ -1,0 +1,9 @@
+{
+  "task_id": "6f99189cb2276efb841925f6",
+  "debate_id": "prop_0499__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "66bfb56a0f364f4753e06bddb5da14285844bf27140a0ac38f8a055375b88795",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.7</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON made the motion easier to decide: the stated warrant is unmapped seafloor, and crewed vehicles are a poor, interruptible way to buy coverage. PRO never neutralized that mismatch after conceding crews would still be funded even if robots finished the map faster, then substituting occupation/political will. CON also refused austerity, so the live choice was equal-scale allocation, not stinginess versus ambition.</reason>\n<best_rebuttal>CON\u2019s Q2 and the A2 follow-through: PRO said yes, still put people in even if uncrewed mapping would be faster; CON used that to show the \u201cgiven unmapped seafloor\u201d clause no longer supported the crewed remedy.</best_rebuttal>"
+}

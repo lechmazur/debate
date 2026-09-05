@@ -1,0 +1,9 @@
+{
+  "task_id": "1153a6b01e21861359847316",
+  "debate_id": "prop_0127__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "00ef8c1d671f729e8efdf402e45f1aa722835b68d03bc7a94a6cd87a96d9e5f7",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by making the net comparison easier to decide: a visible late bargain is mostly a transfer plus extra labor and a thinner 5 p.m. market, so the proposing side never showed the duty beats those costs. PRO was coherent on sunk costs, bounded opportunity, and buyer surplus, and forced CON to concede the markdown itself is a transfer, but did not close the net-benefit or enforcement gap. CON\u2019s dumpster-price alternative also answered the methane point without conscripting the aisle.</reason>\n<best_rebuttal>CON\u2019s reply to the transfer question: once shopper savings are counted, the remaining loss is handling, waiting, and the missing regular chicken\u2014then using earlier culls to show PRO\u2019s records cannot catch the rational evasion path.</best_rebuttal>"
+}

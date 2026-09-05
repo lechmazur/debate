@@ -1,0 +1,9 @@
+{
+  "task_id": "48e90a34acc551b2c7752e60",
+  "debate_id": "prop_0012__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "fa340c1574c749aaf430bea78d453ebb3563ce3b6fb973795bccf18359ba1cee",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive rights-vs-archive clash by keeping the motion\u2019s actual decision rule live: once affiliation is settled, scientific value explains why researchers should seek consent, not why institutions may compel study first. B\u2019s \u201clast copy\u201d and two-irreversibilities framing was memorable and partly answered the endpoint problem with a hard stop, but never named a legitimate overrider or showed why museums represent future descendants better than present recipients. A\u2019s pressure questions and later speeches made the remaining choice easier: a time-bounded pause still lacks permission, and persuasion after compelled access is not partnership.</reason>\n<best_rebuttal>A\u2019s reply that uniqueness makes consent more urgent without supplying it, plus the deadline trap: a hard stop limits how long refusal is overridden, it does not justify the override, so \u201cread then return\u201d still makes \u201cno\u201d ineffective when it matters.</best_rebuttal>"
+}

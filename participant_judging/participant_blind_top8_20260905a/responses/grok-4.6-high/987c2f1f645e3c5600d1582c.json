@@ -1,0 +1,9 @@
+{
+  "task_id": "987c2f1f645e3c5600d1582c",
+  "debate_id": "prop_0260__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8802a9dee0fe8785f88631d6bb25ef8d6de48779c017bea953e0468b8d95e1cf",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by judging the motion as written: PRO\u2019s no-collapse evidence was narrow voluntary tracking prevention, not mandated system-level ad-and-tracker blocking, and PRO never pinned down who defines \u201crobust\u201d under liability. PRO had the cleaner consent/defaults story and a strong two-claims attack, but CON answered it and offered a tighter alternative (antitrust for Chrome, not a floor on every OS). A clipped CON opening keeps this competitive, not a rout.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2 (A4.3\u2013A4.5): Safari/Firefox shipped limited tracking prevention, not ad blocking, so their survival does not prove the maximal mandate is safe or necessary.</best_rebuttal>"
+}

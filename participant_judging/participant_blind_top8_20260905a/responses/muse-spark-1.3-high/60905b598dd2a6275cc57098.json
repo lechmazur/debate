@@ -1,0 +1,9 @@
+{
+  "task_id": "60905b598dd2a6275cc57098",
+  "debate_id": "prop_0161__glm-5-3-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5db49c953b5e9785cc795e1a2f5f9503b5b639d589bd51695a495ec6156d3de1",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>7</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by turning A's narrow-ban claim into overbreadth and defusing the predictability symmetry. B forced admission that a single spike-swap counts, then distinguished hypothesis to justify research from clarity to criminalize, leaving A's speculative-benefit vs demonstrated-risk weighing without a unique narrow target.</reason>\n<best_rebuttal>B's A1 in Rebuttal 2 plus follow-through: suspicion justifying experiment is not clarity justifying a global ban, so A's admission proves the ban hits routine mammalian-adaptation work surveillance depends on.</best_rebuttal>"
+}

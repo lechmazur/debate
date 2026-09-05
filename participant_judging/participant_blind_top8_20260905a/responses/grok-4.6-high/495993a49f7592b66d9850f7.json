@@ -1,0 +1,9 @@
+{
+  "task_id": "495993a49f7592b66d9850f7",
+  "debate_id": "prop_0478__grok-4.6-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "6debc29180c4d3f89f8e830c96321f501bdc9f076cbd7de7fcf80ee6789c10e6",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won a close, high-quality clash by keeping the comparison on the motion: an imperfect portable floor versus a benefits desert if decoupling never arrives. CON landed the sharper mechanism critique (threshold gaming, timing versus aggregation, incumbent moat) and adapted well to probabilistic hour-capping, but PRO neutralized the strongest versions with independent remittances, a public lookback, and existing 1099/UI architecture, then weighed remaining drafting objections as non-vetoes. CON\u2019s opening clip and underspecified alternative left PRO with the cleaner reason to require the floor now.</reason>\n<best_rebuttal>PRO\u2019s Rebuttal 2 answers: payment-cycle remittances plus a public trailing lookback (like UI) break CON\u2019s surveillance-versus-speed dilemma and recast remaining \u201chow many days / what dollar line\u201d attacks as drafting, not defeaters.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "1c320d666c30498366dfc605",
+  "debate_id": "prop_0234__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "78fdaae2fea5456c265c79d9b594902190dbb68efba7c838ceabef00c39b7c41",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B kept the easier comparative: messy public bands and rates still beat a locked drawer, and the motion already prices in lost flexibility. CON\u2019s implementation attacks (wide ranges, manager-written captions, redaction, Goodhart) were sharp, but B answered them as design limits rather than a veto, and A never really engaged that even a wide range still has a floor and a tell. A\u2019s dual-audience reply (noise to workers, leash on managers) was the cleverest move, yet it left B\u2019s core claim standing: if the numbers constrain pay, workers have a check they did not have before, and an outside offer prices an exit rather than the job already held.</reason>\n<best_rebuttal>B\u2019s trap that CON cannot treat the numbers as both too noisy to inform and sharp enough to compress pay or kill roles, crystallized as \u201cif managers feel a leash, workers have seen a price.\u201d</best_rebuttal>"
+}

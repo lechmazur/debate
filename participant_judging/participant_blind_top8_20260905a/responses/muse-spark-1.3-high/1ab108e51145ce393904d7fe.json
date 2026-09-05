@@ -1,0 +1,9 @@
+{
+  "task_id": "1ab108e51145ce393904d7fe",
+  "debate_id": "prop_0397__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "f47b61dded05fe150b9faaf077c735f5004abfb5d47449eb271853386167370a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won the central filter-vs-floodgate clash. PRO's time-and-income presumption with flipped burden, elicited by CON's pressure, could not sustain both much-easier relief and a gaming deterrent, and CON drew a principled easier-proof vs easier-standard line while PRO conceded taxpayer absorption and never answered lender inability to rebut.</reason>\n<best_rebuttal>CON's Rebuttal 1 contradiction that a gate cannot be both floodgate and filter, sharpened in Rebuttal 2/Closing into presumption-equals-timer because lenders cannot prove future earnings, which dissolved PRO's two-frictions defense.</best_rebuttal>"
+}

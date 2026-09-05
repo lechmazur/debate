@@ -1,0 +1,9 @@
+{
+  "task_id": "d14e82ff039aef0bead99f30",
+  "debate_id": "prop_0291__grok-4.6-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c0182c7d975e1f611f74eec7f0b1c5f6a15a3834fb250c9f0940b38ea2be7eba",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the live clash on the motion\u2019s only novel word, \u201cbypass.\u201d PRO had a strong moral frame (responsibility without a holding rule) but never specified a mechanism that made third-party apps obey without the locked, attesting architecture CON named. CON\u2019s status-quo-versus-novelty comparison, browser fork, and one-way risk weigh were cleaner ballot stories; PRO\u2019s Rebuttal 2 clip and unresolved server/honor fork left that path standing.</reason>\n<best_rebuttal>CON R1: existing parental tools already cover PRO\u2019s benign case; the motion adds only bypass-proofing, which PRO then either restates as a suggestion or concedes as locked-down enforcement.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "4dba1bbe229321e9638b03c6",
+  "debate_id": "prop_0599__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d16c2f963b25c17b10fa9c22217b006950067f193662a2210c94538b0a09a582",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won a competitive debate by making the live choice easier: a continental spine is extra lookup power, not the missing clinic, and purpose limits written at AU level do not create a hearing body in the worst-governed states the system must include. Side B kept mobility, leakage, and already-unaccountable surveillance in play, but repeatedly treated national papers as if they were CON's whole alternative and never neutralized presented-credential recognition versus a standing query path.</reason>\n<best_rebuttal>A's Q1/Q2 plus Rebuttal 2: coerced \"consent\" when bread requires the ID to talk, and logs/regional review that no local court will read, collapsing B's governed-framework story.</best_rebuttal>"
+}

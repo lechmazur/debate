@@ -1,0 +1,9 @@
+{
+  "task_id": "76460bfeb06c68b9f7926781",
+  "debate_id": "prop_0096__claude-opus-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "84d826baf10c254c76ebe876d7f8e9379ef41f35ae9a69f7b5c3dee486f588ed",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won the core distinction and the default-rule fight. B proved synthetic dubbing is new speech plus a permanent reusable model, not just a new channel like streaming, and turned CON's take-it-or-leave-it point against boilerplate. B defused collapse by timing opt-in at hiring with union price, and exposed that CON already concedes purpose limits and itemization, leaving only whether the performer may say no. CON's legibility-vs-veto and custody replies were strong but never justified an opt-out default.</reason>\n<best_rebuttal>B's manufacturing-vs-distributing and Klaus-goes-home vs model-stays rebuttal, plus the concession-trap that CON wants purpose limits without the paperwork that makes them enforceable.</best_rebuttal>"
+}

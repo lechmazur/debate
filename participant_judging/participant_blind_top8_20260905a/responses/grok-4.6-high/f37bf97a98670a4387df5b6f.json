@@ -1,0 +1,9 @@
+{
+  "task_id": "f37bf97a98670a4387df5b6f",
+  "debate_id": "prop_0114__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "40b0d3daccb4bf25b4b418ffaddc3ce6f3d0eba228c42ab0f7d87ffe0ec3c0de",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by turning a real problem into a comparative instrument test and making that test easier to decide: credits help late, least those with the thinnest records, and can substitute for help that actually reaches caregivers now. A stayed closer to the motion and landed a clean bind on writing \u201czero,\u201d but never squarely neutralized regressivity, timing, or crowd-out. B answered A\u2019s pressure honestly, then weighed those remaining holes more cleanly than A answered B\u2019s.</reason>\n<best_rebuttal>B\u2019s second rebuttal: keeping the contribution record at zero as financing, not worth; contrasting need-targeted transfers with deferred \u201cearned\u201d credits; then stacking unanswered regressivity, timeline, and crowd-out.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "445dce6f50ad8edd8987b233",
+  "debate_id": "prop_0168__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5ee391d733b38fe1d867437c92f7aeb4472ba58b5e8570e648659d9835c69210",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by pinning the vote to the proposition\u2019s own test and extracting B\u2019s concession that no deep-space crewed mission beats probes and telescopes on science per dollar. B\u2019s capability, cadence, and \u201cmost\u201d burdens were real and honestly argued, but they never showed why those extra outcomes entitle crewed exploration to a majority once the expensive flagships fail the comparison. A made the choice easier: complements can be small, stations already keep people, and fragility is not a veto.</reason>\n<best_rebuttal>A\u2019s Q2 forced B to admit no deep-space crewed mission wins on science per dollar; A then used that concession to collapse B\u2019s remaining cadence/presence defense into an exemption from the motion\u2019s test.</best_rebuttal>"
+}

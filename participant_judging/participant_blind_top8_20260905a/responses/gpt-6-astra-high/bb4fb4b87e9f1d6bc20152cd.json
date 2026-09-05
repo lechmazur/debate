@@ -1,0 +1,9 @@
+{
+  "task_id": "bb4fb4b87e9f1d6bc20152cd",
+  "debate_id": "prop_0021__kimi-k3__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "52bb6950d96e592b4ec5dc150cf06e9688e5f34fb4ec47edf5b12a9a1ff903d4",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won the comparative justification clash. B compellingly rejected a permanent local veto and highlighted A\u2019s Yellowstone concession, but A supplied an approval standard rather than requiring unanimity. More importantly, A showed that targeted browsing control could begin restoration without waiting for reintroduction, while predator coexistence also requires continuing funding and cooperation. B\u2019s safeguards strengthened its position, but its repeated contrast between self-repair and indefinite ecological delay did not adequately answer those alternatives.</reason>\n<best_rebuttal>A\u2019s response to B\u2019s whole-policy comparison was decisive: maintaining fences, guarding livestock, and paying compensation remain ongoing institutional obligations, while targeted management can allow seedlings to recover now. This undercut both B\u2019s claimed funding asymmetry and its argument that delaying imposed reintroduction necessarily sacrifices forest regeneration.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "075f6a23f546cc84a8670c3d",
+  "debate_id": "prop_0367__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "64db992ee4357abc087a23f20d31fb1e6bb36ebf87ecb0ed0fafb288f5c67cde",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO kept a live route that choice sustains revenue: annual can compete beside monthly, peaks pay peak prices, pausers return instead of quitting angry. CON never neutralized the chosen-bill vs forgotten-bill frame and conceded the sports-only fan should not pay twelve, leaving its pooled-funding defense sounding like inertia tax.</reason>\n<best_rebuttal>PRO's Rebuttal 1 defusing of force - easier monthly option beside a real annual discount - plus Rebuttal 2 flip that friction-kept middle is a canceller-in-waiting, answered by CON only as discount needs friction to be real.</best_rebuttal>"
+}

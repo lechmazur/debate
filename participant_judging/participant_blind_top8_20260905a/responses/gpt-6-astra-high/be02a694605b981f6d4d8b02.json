@@ -1,0 +1,9 @@
+{
+  "task_id": "be02a694605b981f6d4d8b02",
+  "debate_id": "prop_0423__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "93fb7a3350bcde800233a4c118d716b7e7428a4396f2f54cadf4abf668f4897e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.8</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by separating protection against exclusion from an entitlement to geographic priority. Its proposed affordability allocations and buyer protections can operate before general sale, undermining A\u2019s repeated portrayal of alternatives as competition for leftovers. B also directly challenges why hosting burdens warrant ticket privileges rather than targeted remedies, and exposes A\u2019s narrowing of the membership alternative. A\u2019s civic-standing argument has intuitive force, but its later speeches largely reassert that entitlement without resolving outsiders\u2019 exclusion or the reserve\u2019s uncertain benefit to ordinary residents.</reason>\n<best_rebuttal>B\u2019s clarification that need-based tickets can be allocated before general sale defeats A\u2019s central sequencing objection. A continues claiming those remedies arrive after tickets vanish, leaving B\u2019s alternative substantially unanswered.</best_rebuttal>"
+}

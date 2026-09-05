@@ -1,0 +1,9 @@
+{
+  "task_id": "d3cdf4e04c6224229b4e4500",
+  "debate_id": "prop_0423__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "c0e8556cd844c7439c3c9afd9e9af880143006e6d16b37db5f60210f56e2705f",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.5</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A wins by distinguishing protection against exclusion from entitlement to geographic priority. Its pre-sale affordable allocations and buyer protections answered B\u2019s lockout mechanism, while direct compensation challenged why hosting burdens justify preferential admission. B\u2019s civic-standing argument remained intelligible, but B repeatedly mischaracterized A\u2019s alternative as assistance after sellout and assumed locals otherwise receive nothing. A more convincingly weighed outsiders\u2019 definite loss of eligibility against benefits that still depend on affordability and enforcement. B also narrowed the membership alternative under pressure rather than adequately defending it.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal was that affordable allocations can occur before general sale: residents need not choose between insider priority and tickets already being gone. B continued invoking vanished inventory even after this clarification, leaving its central comparison substantially unanswered.</best_rebuttal>"
+}

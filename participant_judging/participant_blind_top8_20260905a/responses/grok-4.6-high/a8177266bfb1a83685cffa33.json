@@ -1,0 +1,9 @@
+{
+  "task_id": "a8177266bfb1a83685cffa33",
+  "debate_id": "prop_0478__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1cf51f03551df969c25ba7b2f1fd5b2b299ed9feb80ab68135a9c526dd28757b",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won a competitive policy clash by keeping incidence, liquidity, and need-blindness live after B specified the mechanism. B\u2019s clipped opening and closing overclaim that \u201cuncovered risk is real\u201d decides the vote left the comparison unfinished; A used B\u2019s invoice and restricted-account answers to show the floor is a levy on independent earnings, not a narrow platform repair.</reason>\n<best_rebuttal>A\u2019s Q2 forced B to say the contribution is owed on a direct invoice; A then collapsed B\u2019s \u201capps broke the employer model\u201d story into a general tax on contracting.</best_rebuttal>"
+}

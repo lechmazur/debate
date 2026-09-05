@@ -1,0 +1,9 @@
+{
+  "task_id": "af22213d52c5766845d1f9c3",
+  "debate_id": "prop_0338__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3ac903743bee681ffad219f6910336ec93ef9b6320da5895a87707f4295ba0d9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B establishes the stronger substantive distinction: individually permissible messages can collectively cultivate dependence, warranting anticipatory scrutiny of relationship design. A offers targeted protections but rejects cumulative-risk testing, relying heavily on the unsupported premise that the social-product analogy requires other human users. B also supplies an operational distinction between relationship-centered products and incidentally warm tutors. A\u2019s compliance-cost and overbreadth concerns remain plausible but insufficiently developed against B\u2019s functional boundary and scaled oversight.</reason>\n<best_rebuttal>B turns A\u2019s explicit rejection of pre-launch cumulative-risk testing into the decisive contrast between the proposals. Its clarification that consumer law could host these stronger duties also defeats A\u2019s claim that the legal vehicle determines whether regulation resembles high-risk social oversight.</best_rebuttal>"
+}

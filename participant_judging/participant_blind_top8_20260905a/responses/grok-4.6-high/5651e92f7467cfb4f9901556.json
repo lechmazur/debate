@@ -1,0 +1,9 @@
+{
+  "task_id": "5651e92f7467cfb4f9901556",
+  "debate_id": "prop_0234__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "1d988a07516d27214c8aaa8a6b1bf68c30e0f5ff82b76f4ae027ece0193a2558",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-quality debate by keeping the live burden on CON: targeted enforcement and discovery cannot start without facts secrecy hides. B landed real blows on public-sector analogies, scoreboard gaming, and exception-matching, but never named a substitute that finds hidden discrimination. Under the motion\u2019s \u201ceven if flexibility falls\u201d clause, A\u2019s remaining-tools weighing was the cleaner vote.</reason>\n<best_rebuttal>A\u2019s Q1 and closing circularity: CON\u2019s charge-and-discovery alternative still needs a plaintiff who needs a fact that pay secrecy conceals, so CON never escaped the locked-room status quo.</best_rebuttal>"
+}

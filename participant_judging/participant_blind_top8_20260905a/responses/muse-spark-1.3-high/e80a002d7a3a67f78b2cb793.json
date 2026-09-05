@@ -1,0 +1,9 @@
+{
+  "task_id": "e80a002d7a3a67f78b2cb793",
+  "debate_id": "prop_0163__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "0da6167a8362db8179d7b6f7e5ad2080722ae42ae2900dfcdb246e41f6f91f7e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept the proposition's comparison live: indoor work cannot resolve dispersal/mating, so blocking until impossible certainty is a permanent ban that guarantees malaria deaths, while a risk-ladder of marked then small isolated drives with oversight is control. CON's sequencing standard collapsed into that ban because a brake cannot be proven realistic without realistic release and monitoring is built by doing, and its claimed PRO concession misread a phased permission for true drives as agreement to block them.</reason>\n<best_rebuttal>PRO's circle in closing/Rebuttal 2 that CON's demand to prove a brake and have regional monitoring functioning before any true-drive trial requires outdoor learning before outdoor learning, exposing the sequencing standard as the permanent ban CON denied.</best_rebuttal>"
+}

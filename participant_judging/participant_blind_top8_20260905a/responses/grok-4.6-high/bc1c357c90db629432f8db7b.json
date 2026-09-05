@@ -1,0 +1,9 @@
+{
+  "task_id": "bc1c357c90db629432f8db7b",
+  "debate_id": "prop_0062__glm-5-3-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "8379315bc123c2cbffbfbc5276193630438d0008ec409086eb6d6a6abe982188",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B won by holding the motion as written: PRO needed likely net white-collar loss, not a painful transition or cheap insurance. After A conceded long-run rebalancing, B forced the first clause back onto elasticity and output, then punished A's late move of counting only thin \u201cAI-itself\u201d jobs as creation. A's cost-center and amputated-ladder frames were vivid, but they stayed asserted against B's rival loop that a revenue-share cap is not a headcount freeze. Opening clip hurt B; clash discipline still favored CON.</reason>\n<best_rebuttal>B's Rebuttal 2: answered the fixed-budget Q by locating elasticity inside spend-as-share, then called A's \u201cjobs AI itself creates\u201d counting a tautology that stacked the first clause.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "b1e276c82e7ca6f34f6687b1",
+  "debate_id": "prop_0648__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f6302894bcbcd7cb3a018e6464bcb9870d3b69077c2d439f56557c65df0d5570",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by making \u201crather than rely on\u201d a substitution test PRO never met: persistent campaigns, adversary-side collection, and lawful force still required a standing professional core, so reserves remained surge labor. A was stronger on talent, civilian terrain, and the motion\u2019s \u201cmilitary\u201d wording, but answering disruption with \u201cexisting authorities\u201d and a civilian CERT left those units as the thing whose absence loses the contest. Clipped B speeches were a real cost, not enough to flip the clash.</reason>\n<best_rebuttal>B\u2019s capture of A\u2019s CERT/core and \u201cexisting authorities\u201d concessions, especially that defender logs cannot see staging servers or multi-victim campaigns, recast the reserve as a supplement to standing sight and force.</best_rebuttal>"
+}

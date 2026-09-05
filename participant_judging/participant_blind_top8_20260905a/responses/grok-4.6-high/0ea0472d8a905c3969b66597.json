@@ -1,0 +1,9 @@
+{
+  "task_id": "0ea0472d8a905c3969b66597",
+  "debate_id": "prop_0632__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "cd05c89b2728444cb3a400af29e22ef352f83b3d2a7c5933e904c621b33795c6",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the motion as written: mandate plus real price control pull opposite ways, and PRO never showed how a captive buyer facing a small manufacturer set gets durable net-price discipline. CON better weighed scale, in-year versus delayed savings, and the risk of stacking drug spend on still-arriving complications. PRO was sharp on stigma and unpaid sequelae, but that did not rescue the value-based half. Clipped CON turns kept the margin competitive.</reason>\n<best_rebuttal>CON collapsing PRO's outcomes contracts: the payoff shrank from avoided heart failure to in-year weight/glucose, those endpoints pay out routinely, and sellers can price responders to cover refunds once the buyer cannot walk away.</best_rebuttal>"
+}

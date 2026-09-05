@@ -1,0 +1,9 @@
+{
+  "task_id": "7578317de528a30f48283082",
+  "debate_id": "prop_0402__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b3d4f330d39944075670bf3c443c4167675e18ed6f68ed43e562f2d1a9aa8d27",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.5</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B distinguished ordinary program administration from documented inability to meet rental obligations while openly acknowledging the rule\u2019s costs. A established real transactional differences, but repeatedly treated their existence as decisive without justifying categorical exclusion. Its supply-loss mechanism remained possible rather than comparatively established. B answered the pressure more directly and provided the stronger justification under the proposition as written.</reason>\n<best_rebuttal>B effectively answered A\u2019s claimed asymmetry: homes categorically excluding voucher holders are already inaccessible to those households. Possible landlord exits must therefore be weighed against expanded access; they do not automatically defeat the mandate or establish incentives as sufficient.</best_rebuttal>"
+}

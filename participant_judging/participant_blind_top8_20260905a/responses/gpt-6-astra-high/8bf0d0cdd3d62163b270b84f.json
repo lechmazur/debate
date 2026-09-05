@@ -1,0 +1,9 @@
+{
+  "task_id": "8bf0d0cdd3d62163b270b84f",
+  "debate_id": "prop_0303__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "384f5e2d9d4b53ad3ace41b9db956751a6c96c0123f2d7139b10e66ac0c9ee9e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A better explained how genuinely earned credentials can transmit inherited advantage while obscuring its contribution. B exposed a real weakness: A's claim about what most successful people admit remained qualitatively supported rather than firmly established. But B overplayed that weakness into an unnecessary quantification requirement and never resolved A's distinction between fair final selection and unequal pathways. Its population-mobility and immigrant-success arguments also failed to establish that substantial class reproduction was absent. A's direct answers and more disciplined claims earn a clear but competitive win.</reason>\n<best_rebuttal>A directly answered the unfalsifiability charge by supplying an explicit statement that would count as adequate acknowledgment. B's closing nevertheless insisted that no confession could count. Alongside A's explanation that class helps produce measured ability, this left B attacking stronger claims than A actually defended.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "ef01d7ced1a55f58481f72d2",
+  "debate_id": "prop_0556__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "87ade069c2501ab10afeb7d0427696ad7a5fa02b3e375608eaa6d39e13b2c60a",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.7</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the central clash: requiring consent does not make consent sufficient for legality or override stronger prohibitions. A\u2019s dark-pattern and coercion objections established genuine limitations, but B answered them directly and explained the additional protection for people who never authorize sales. A\u2019s eventual blanket-minimization alternative supplied no convincing reason to reject this minimum requirement. Its late political-crowding prediction was unsupported, while its closing repeated the already-damaged claim that the motion licenses dangerous sales. B offered the clearer textual interpretation and comparative enforcement case.</reason>\n<best_rebuttal>B\u2019s pressure question exposed the unsupported claim that consent provides a \u201clawful pathway around\u201d use bans. A conceded that nothing overrides those bans, then shifted to their absence from the motion. B decisively answered that prohibiting sales without consent does not require permitting sales with consent.</best_rebuttal>"
+}

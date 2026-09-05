@@ -1,0 +1,9 @@
+{
+  "task_id": "591537743b76bb058c498686",
+  "debate_id": "prop_0446__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "14246005e37cf3ce139b98c92b87a5a4f88483f273bfed7e58df049ceb1e9c1b",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won by making the live choice easier to decide: a common retirement clock is either an unfunded wall or a date that yields when grids fail. Side B had a coherent incentive story and answered pressure honestly, but \u201ckeep the plants on and call it a surviving breach\u201d undercut the motion\u2019s operative claim without restoring a reason to chain major economies to that clock.</reason>\n<best_rebuttal>A\u2019s retirement-day fork (shortages vs theatre) and the later use of B\u2019s A1\u2014plants stay on, so the common timeline becomes an annotation on delay rather than a phase-out.</best_rebuttal>"
+}

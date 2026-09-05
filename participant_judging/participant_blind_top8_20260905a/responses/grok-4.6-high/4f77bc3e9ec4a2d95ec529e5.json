@@ -1,0 +1,9 @@
+{
+  "task_id": "4f77bc3e9ec4a2d95ec529e5",
+  "debate_id": "prop_0376__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "c651f50ece48943b5a5041b5c0286d9e385eb8f1c60451b54de2f1e4aee20b68",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won because it treated the motion\u2019s \u201ceven if\u201d as the decision rule and made the clash easy to judge: a cap does not reprice high-risk credit, it rations the whole band. Side B\u2019s extraction/treadmill story was vivid, but after conceding a real access loss and still affirming when the pay-down borrower is cut, it never showed why that indiscriminate lockout is the lesser harm. Burden-shifting about unproven alternatives was weaker than A\u2019s moment-of-need comparison.</reason>\n<best_rebuttal>A\u2019s pressure questions forced B to admit lockout is an access loss and that the cap still cuts borrowers who would pay a repair down; A then used those answers to show the statute rations the risk band rather than deleting a trap.</best_rebuttal>"
+}

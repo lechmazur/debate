@@ -1,0 +1,9 @@
+{
+  "task_id": "a0d61b6b49c257846d56eed3",
+  "debate_id": "prop_0084__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "3b0a5b6a6cbe0c571e5610546b2cb5fa7a61c631b6381b2b3ce3936d559bfb29",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by isolating what the motion uniquely adds (legal-identity attachment, not ordinary liveness) and showing PRO could not keep both a no-dossier check and a ban that makes fake accounts expensive. PRO conceded no badge, no caught lie of the excluded user, and that losing that user is the price of admission; CON turned those concessions into a clean trade that fails.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2 fork: a one-time attest cannot persist bans, while retained identity is exactly the record the closeted/stalked user fears.</best_rebuttal>"
+}

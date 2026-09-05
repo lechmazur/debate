@@ -1,0 +1,9 @@
+{
+  "task_id": "0fcdcfb282f55f956ffaa500",
+  "debate_id": "prop_0648__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "bf88b23ddf74736082ac5193f2923ac09e26de07036cc2bc2276d7293a1acb47",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by defining reliance as the defensive work that actually keeps civilian systems up, turning B\u2019s \u201ccannot see the network\u201d and surge answers into the same model A offered: a small standing core plus civilian hands. B kept command and dual-unavailability live, but never solved crisis scale without importing the civilians A wanted organized in advance. A\u2019s clipped first rebuttal was a real cost, yet the later comparison was easier to vote on.</reason>\n<best_rebuttal>A\u2019s second-rebuttal/closing turn of B\u2019s surge answer: extra NotPetya hands as \u201ccontractors, allies, and specialists\u201d is already civilian reliance, just unprepared.</best_rebuttal>"
+}

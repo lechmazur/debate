@@ -1,0 +1,9 @@
+{
+  "task_id": "03825712a7ee70815f21c6e8",
+  "debate_id": "prop_0214__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "98eb722591bbcb658d28fcf426a2c6225a8c4b546cb726ce2869b5202eb86ee8",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>9</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A wins by defending stronger redress as bounded and evidence-based rather than perpetual. It directly answers deadline, proof, and privacy challenges with time-limited review, explicit eligibility standards, and protected disclosure. B raises a legitimate finality concern but repeatedly asserts that these safeguards cannot work without adequately explaining why. Most importantly, B never persuasively justifies extinguishing a claim established after a survivor\u2019s death. Its concession of individual extensions also weakens its contrast between meaningful access and administrable closure.</reason>\n<best_rebuttal>A distinguishes preserving an inherited claim from approving it, and dividing one award from multiplying liability. B responds by shifting to continuing administrative costs, but does not show why those costs outweigh a proven claim or escape A\u2019s proposed limits.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "cfdba89fc1b9ef263a7c9054",
+  "debate_id": "prop_0012__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d736a074343201b076de1b2bf21620f4933a4d46a5f9e172d4bd413cd471ed26",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won the narrow-exception clash. It directly answered the pressure questions, excluded preliminary stays and routine incomplete-record cases, and distinguished necessary investigation from ordinary research value. B defended consent and community authority forcefully, but repeatedly claimed every incomplete file would justify delay without overcoming A's stricter conditions. Its proposed evidence substitutes also failed to answer the otherwise-unrecoverable evidence scenario. A's comparison of bounded, externally authorized delay with permanent evidentiary loss was ultimately more persuasive than B's categorical priority for immediate return.</reason>\n<best_rebuttal>After B accepted immediate return even when examination was necessary to preserve otherwise-lost evidence, A showed why archives and later authorized study could not resolve that case. Combined with its concrete example of a routine teaching collection that would fail the necessity test, this substantially weakened B's portrayal of the exception as ordinary research detention.</best_rebuttal>"
+}

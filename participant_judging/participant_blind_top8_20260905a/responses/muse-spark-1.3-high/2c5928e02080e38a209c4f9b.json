@@ -1,0 +1,9 @@
+{
+  "task_id": "2c5928e02080e38a209c4f9b",
+  "debate_id": "prop_0136__muse-spark-1.3-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "eaa734612268086afd4b41572571df7f0b3c2ad5e80a5209996149ea335bbe8e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept the motion's comparison on completed fertility and recurring 20-year costs, answered CON's strongest pressures with a testable failure condition and fast-acting rental/fee-cap levers, while CON proved housing is slow/leaky but never proved one-off cash raises quantum more, and its recurring-bonus dial conceded PRO's logic.</reason>\n<best_rebuttal>A's Rebuttal 2 answer on falsifiability plus fast rental support and turn that a meaningful bonus must stop being one-off blunted Japan, clock, and leakage in one move.</best_rebuttal>"
+}

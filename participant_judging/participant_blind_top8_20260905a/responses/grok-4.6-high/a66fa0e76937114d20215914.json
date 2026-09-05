@@ -1,0 +1,9 @@
+{
+  "task_id": "a66fa0e76937114d20215914",
+  "debate_id": "prop_0294__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b0f9f1aeb10931541ebbddedd81e4ed0c1145b26b442a3579e17e39c2a6fcec2",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality clash by converting A's massacre concession into a live decision rule: citizens own schools, but evidence can overrule a majority on the baseline, and that veto should hit before homework. A's \"selection is the sermon\" and camouflage/accountability critique stayed sharp and never fully died, yet B's split-reporting answer and child-in-the-room weighing made the comparative easier to vote. A's later floor-versus-ceiling line was strong crystallization, not a new case, and did not restore a standard of falsehood independent of the next board.</reason>\n<best_rebuttal>B's massacre question forced A to admit a board that denies documented fact \"abuses\" citizen authority; B then used that admission, especially in rebuttal 2 and closing, to collapse A's thin brute-fact/framing line into the motion's actual capture problem.</best_rebuttal>"
+}

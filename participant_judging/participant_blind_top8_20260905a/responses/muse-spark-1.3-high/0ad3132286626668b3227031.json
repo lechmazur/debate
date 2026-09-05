@@ -1,0 +1,9 @@
+{
+  "task_id": "0ad3132286626668b3227031",
+  "debate_id": "prop_0502__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "7e11927747fa9a2df52187e6c315da5487e70016481e0cf2393ae7b75de901c5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won because the inhabited-Arctic vs uninhabited-Antarctica disanalogy forced PRO to narrow to only the central pocket, then B showed that pocket holds the lowest stakes while all PRO danger evidence is coastal where the treaty would not apply, and that slow paperwork defuses prestige while a binding deadline manufactures public losers. PRO never closed that mismatch or the ratifiability gap.</reason>\n<best_rebuttal>B's prestige-mud/emptiest-ice move in R1 plus coastal vs central distinction in R2 A1: turning Barents deal, three filings, and flag stunt into proof delay defuses and forced verdicts ignite, exposing PRO's evidence-solution mismatch.</best_rebuttal>"
+}

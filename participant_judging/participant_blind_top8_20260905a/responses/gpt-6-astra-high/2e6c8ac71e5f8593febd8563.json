@@ -1,0 +1,9 @@
+{
+  "task_id": "2e6c8ac71e5f8593febd8563",
+  "debate_id": "prop_0326__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "070f66e4f0d94d81f240f46770b0ad6f018de911412d7e826afb9ef9bc8efdc4",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B built the stronger distinction between chosen fictional attachment and seller-directed exploitation of personal vulnerabilities. It directly answered objections about output review and regulatory scope, acknowledging limited constraints around subscription decisions rather than promising costless regulation. A raised a legitimate chilling-effects concern, but largely asserted that restricting targeted payment pressure would destroy the requested companionship. B more convincingly explained why honest prices and a working exit do not exhaust providers\u2019 responsibilities.</reason>\n<best_rebuttal>B\u2019s pressure question elicited A\u2019s explicit permission for exploiting disclosed abandonment fears when cancellation works. B then distinguished consent to fictional jealousy from authorization for personalized sales pressure, exposing the central weakness in A\u2019s proposed safeguards.</best_rebuttal>"
+}

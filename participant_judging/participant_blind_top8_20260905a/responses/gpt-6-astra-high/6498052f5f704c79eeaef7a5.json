@@ -1,0 +1,9 @@
+{
+  "task_id": "6498052f5f704c79eeaef7a5",
+  "debate_id": "prop_0563__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3047083a4f1b87f6e228f00084590dfce80b2035c56e7e4582b688ffce22f5eb",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.6</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>4</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by distinguishing a durable, revisable commitment from aid that repeatedly expires. Multiyear funding and procurement provide meaningful predictability without freezing particular weapons allocations. A raises legitimate scarcity concerns but repeatedly assumes the motion requires irrevocability or prioritizing Ukraine in every emergency, rather than defeating B\u2019s actual model. B also better explains the costs of uncertainty for planning, production, and Russian incentives. A\u2019s claim that the absence of a decisive Russian breakthrough falsifies that mechanism attacks a prediction B never made.</reason>\n<best_rebuttal>B\u2019s pressure-round answers dismantle A\u2019s central dilemma: legislative amendment differs from routine expiration, and reallocating particular interceptors need not cancel broader assistance. A repeats the locked-resources-or-empty-promise binary without answering those distinctions.</best_rebuttal>"
+}

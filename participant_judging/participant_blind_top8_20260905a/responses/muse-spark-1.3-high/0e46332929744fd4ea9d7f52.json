@@ -1,0 +1,9 @@
+{
+  "task_id": "0e46332929744fd4ea9d7f52",
+  "debate_id": "prop_0163__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "4f1f5ec20df6d433e7ba26baf1e7ca6d0a43f80f0f9a71f81be8d9fc33bd798e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON kept the decisive distinction alive: a vanishing non-driving release is not a self-sustaining drive trial, disappearance is not reversibility, and open spread cannot be tightly regulated or recalled. That neutralized PRO's impossibility and concession claims, while the transboundary imposition without neighbor consent was never solved by consultation promises. Urgency did not license irreversibility.</reason>\n<best_rebuttal>B's answer that recall can be tested in large endemic-climate outdoor cages with the exact drive strain, plus disappearance does not prove retrievability - bicycle test vs runaway truck - directly broke PRO's impossible-standard and you-already-concede moves.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "f88a0bf8a9380bdbb0e1b573",
+  "debate_id": "prop_0446__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "a346122fd3c22efc0321dad05d2d3d9c663c7264eda1b711a79887f7759c4bce",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a close, high-quality clash by keeping the motion on a comparative instrument test: whether a common coal clock beats binding emissions pathways plus finance. PRO had a coherent political-economy story about residual plants and neighbor-delay, but CON repeatedly showed that climate success is cumulative emissions and replacement quality, then used PRO\u2019s own concessions on short extensions and coal-to-gas compliance to argue the clock either stops being common or rewards a worse outcome. PRO never established the extra climate value of synchronized retirement over enforceable reductions.</reason>\n<best_rebuttal>CON\u2019s second rebuttal after the pressure questions: PRO\u2019s \u201cshort verified extension\u201d and admission that long-lived gas could satisfy the coal obligation turned the common timeline into either dissolving dates or a rush into an inferior substitute.</best_rebuttal>"
+}

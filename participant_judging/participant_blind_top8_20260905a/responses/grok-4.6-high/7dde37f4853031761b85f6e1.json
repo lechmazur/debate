@@ -1,0 +1,9 @@
+{
+  "task_id": "7dde37f4853031761b85f6e1",
+  "debate_id": "prop_0286__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3b5311277ad389052e95cacc17f8246caa628b53c1627db135a481e36903baed",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.0</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won a close debate by keeping the motion\u2019s modest burden live: space tourism still needs a justification while climate harm and severe poverty persist. The opening triad (stratospheric intensity, scarce aerospace inputs, tourism \u2260 useful spaceflight) plus the rarity/scale fork left CON\u2019s industrial-benefit story looking either too small to matter or large enough to reopen the climate ledger. CON was more careful, refused fake thresholds, and used polar cruises to show PRO\u2019s \u201cbeyond the buyer\u201d test is fuzzier than advertised; after PRO bit the luxury bullet, that consistency hit no longer killed the motion as written. CON\u2019s remaining case was a general no-standing-veto theory and \u201cthe passenger pays,\u201d which never fully discharged the trade the proposition asks about. PRO overclaimed uniqueness and clipped a speech, so the edge is real but competitive.</reason>\n<best_rebuttal>PRO\u2019s R1 fork ([B2.1]\u2013[B2.2]): CON cannot call tourism a climate rounding error and the thing that amortizes reusable flight rates. CON\u2019s different-scales reply ([A2.1], [A4.1]) was the best answer, but \u201ctens of flights\u201d left the public-benefit story too thin.</best_rebuttal>"
+}

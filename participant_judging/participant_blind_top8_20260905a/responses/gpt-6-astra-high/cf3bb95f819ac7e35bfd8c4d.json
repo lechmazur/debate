@@ -1,0 +1,9 @@
+{
+  "task_id": "cf3bb95f819ac7e35bfd8c4d",
+  "debate_id": "prop_0563__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e9d22d81f3000bf664c38089a9e2cc86547ac29daff5a269cd14a7588f58a2ba",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>5</rhet_b>\n<reason>A established a coherent distinction between revisable multiyear commitments and aid requiring repeated renewal. It directly addressed oversight, conditionality, and emergency weapons reallocation while accepting genuine resource sacrifices. B identified important opportunity costs, but repeatedly treated a standing commitment as necessarily irrevocable or meaningless rather than defeating A's intermediate model. A's planning, production, and Russian-waiting mechanisms consequently survived. Its cost-benefit comparison remained qualitative, but B did not establish why additional withdrawal flexibility outweighed those benefits.</reason>\n<best_rebuttal>A's distinction between democratic reversibility and routine expiration defeated B's central binding-or-meaningless dilemma. A also correctly rejected B's claimed falsification: the absence of a decisive Russian breakthrough does not disprove an argument that uncertain aid increases vulnerability and rewards waiting.</best_rebuttal>"
+}

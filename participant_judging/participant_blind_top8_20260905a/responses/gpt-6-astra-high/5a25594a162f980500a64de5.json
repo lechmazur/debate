@@ -1,0 +1,9 @@
+{
+  "task_id": "5a25594a162f980500a64de5",
+  "debate_id": "prop_0651__kimi-k3__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "28bd1fdee340dbbd171cb3253e030eb7bbef35475d0a6f3fc0f68cd6acff2f1e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A made the stronger net-benefit comparison. B established credible exclusion and prestige pressures, but insufficiently supported its decisive claim that equivalent international access could be preserved while eliminating dominance\u2019s harms. A explained reciprocal benefits among non-anglophone communities, directly answered the pressure questions, and showed that both arrangements require institutional support for vulnerable languages. B\u2019s closing also misrepresented concessions of unequal burdens as concessions of irreversible language loss. A therefore left the cleaner route to victory: substantial harms warrant correction, but their predominance over existing benefits was not established.</reason>\n<best_rebuttal>A directly challenged B\u2019s \u201cportable benefits\u201d argument by distinguishing translated documents from ongoing collaboration and showing that preserving local meanings still requires expert judgment. This weakened B\u2019s claim that translation was merely a shrinking technical cost, while A\u2019s enforceable funding proposal answered why investment could also sustain local knowledge alongside English.</best_rebuttal>"
+}

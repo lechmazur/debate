@@ -1,0 +1,9 @@
+{
+  "task_id": "c3940e9a2a5c58222d0e39f9",
+  "debate_id": "prop_0411__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "e4937016b3580ce2bcf62e3d25fc98e91838f1adccab8c068cd75e41aab12572",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A made the decisive comparison: mandatory relative closeness can sacrifice wheelchair users\u2019 coverage or affordability, whereas enforceable accessibility and maximum-wait standards can prioritize usable journeys. B persuasively established the harm of unequal waits but did not establish why parity should prevail in the constrained-budget case. A answered the pressure questions candidly; B\u2019s proposal to share reductions acknowledged opportunity costs that its closing subsequently denied. B also repeatedly caricatured A\u2019s substantive alternative as merely providing ramps.</reason>\n<best_rebuttal>A\u2019s strongest response was that sharing coverage cuts does not restore a lost journey. B then described an evening service inaccessible to wheelchairs, failing to answer A\u2019s actual example: sacrificing an already-accessible evening route to improve pickup parity elsewhere.</best_rebuttal>"
+}

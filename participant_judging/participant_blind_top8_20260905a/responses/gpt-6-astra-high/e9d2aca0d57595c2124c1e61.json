@@ -1,0 +1,9 @@
+{
+  "task_id": "e9d2aca0d57595c2124c1e61",
+  "debate_id": "prop_0326__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0330a2c8895c6732b0dc8ddb5212ca82a5922e957a264a58cf3cb22cba14b050",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the central comparison: why the identified misconduct requires special duties rather than ordinary protections against coercion and overridden choices. A plausibly explained attachment-based exploitation and clarified its design-focused proposal, but never adequately established the remaining regulatory gap. B answered both pressure questions directly and distinguished meaningful authorization from mere disclosure; A's closing continued attacking fine-print consent instead of that stronger position.</reason>\n<best_rebuttal>B's subscription-expiration and opted-in roleplay examples forced A to distinguish attachment from misconduct. B then targeted the unresolved boundary: payment-triggered panic is identifiable commercial pressure, while merely making departure feel cruel can also describe consensual fiction. This substantially weakened A's justification for special treatment.</best_rebuttal>"
+}

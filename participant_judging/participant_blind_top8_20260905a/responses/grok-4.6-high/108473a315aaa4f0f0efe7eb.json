@@ -1,0 +1,9 @@
+{
+  "task_id": "108473a315aaa4f0f0efe7eb",
+  "debate_id": "prop_0446__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f743976c8d103e1ce3960a3f49d195be7a41ef8cc4d07a0350110df9aca3a284",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a tight, high-quality clash by making the motion easier to decide: a binding common retirement clock either hits living grids or unbinds itself. PRO\u2019s coordination-and-support case was coherent and its pressure answers were honest, but those answers (keep plants running as a surviving breach; no unfunded clock) let CON crystallize an unfunded wall versus a yielding deadline. PRO never showed why a shared political date improves buildout over domestic bankability.</reason>\n<best_rebuttal>CON\u2019s retirement-day fork after PRO\u2019s A1/A2: treating overruns as leftover \u201cbreach\u201d paperwork means coal is not phased out on a common schedule, while keeping the date means shortages.</best_rebuttal>"
+}

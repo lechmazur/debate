@@ -1,0 +1,9 @@
+{
+  "task_id": "32c31dc3d16edf1891065578",
+  "debate_id": "prop_0499__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5c770f96aa22c7f004b3fadf39f4d48947b9a159cd8b5c6bb08df191d84b54db",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by keeping the written motion as the decision rule. The given clause treats unmapped seafloor as the warrant for space-comparable crewed funding; A showed that is a coverage job for machines, then used B\u2019s admission that parity would still be demanded after a finished map to make \u201cunmapped\u201d look like pretext. B\u2019s dilemma (fund crews everywhere or nowhere) was the liveliest opposing route, but it asked the judge to swap in value-returned parity and crewed-space consistency rather than decide the proposition as written. A clipped opening and late reframing also left B behind on clash management.</reason>\n<best_rebuttal>A\u2019s Q1 (still demand space-scale crewed funding if the floor were mapped tomorrow) and B\u2019s \u201cyes,\u201d which A then crystallized as walking off the given.</best_rebuttal>"
+}

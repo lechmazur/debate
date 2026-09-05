@@ -1,0 +1,9 @@
+{
+  "task_id": "0a8ac9b4deb6411735b7a61b",
+  "debate_id": "prop_0527__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ebdecd5473dc20b286cc0aecc56a6f9172e4526fee2b7682fb58fa62e0ab1c0c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>0.8</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B narrowly wins on the motion\u2019s permissive decision rule. A convincingly defended fixed rewards with affordable supply and exposed B\u2019s unsupported claim that these require upfront payment for possible failure. But demonstrating a preferable contract did not establish why countries should reject a high-price commitment when alternative terms cannot be secured. B combined A\u2019s explicit willingness to walk away with central reimbursement and the clinical value of reserve availability. A\u2019s budget and sales-incentive objections remained substantial, but distinguishing emergency purchasing from advance guarantees did not fully answer the risk of losing development or continued supply.</reason>\n<best_rebuttal>B\u2019s strongest move was using A\u2019s walk-away answer to distinguish permitting a fallback from preferring its pricing structure. That preserved B\u2019s route despite A\u2019s effective rebuttal that equal expected compensation need not require high marginal charges.</best_rebuttal>"
+}

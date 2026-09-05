@@ -1,0 +1,9 @@
+{
+  "task_id": "7178e18097ef619a8125ffe1",
+  "debate_id": "prop_0217__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9bfda538cdbc4b200e97bb344ae66486e0cd752fb5415033a7eb07fbd6204cdf",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality clash by making the live comparison easier to decide: who may keep irrigating, and whether those gallons are recovered this month. After A admitted prices need not stop paying irrigators and allowances should not be set to close the shortage, B turned that into a coherent \u201crationing by wallet / waste for sale\u201d weighing that A never fully neutralized. A\u2019s best hit\u2014that B would still ban even if aggregate savings were met\u2014was real, but B\u2019s distribution, timing, and main-instrument replies did more damage across the later rounds.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2 after the pressure questions: using A\u2019s A1/A2 concessions (do not recover the wealthy household\u2019s gallons; do not set the allowance tight enough to close the shortage) to argue that the \u201cbackstop\u201d ban is the instrument that actually delivers the water.</best_rebuttal>"
+}

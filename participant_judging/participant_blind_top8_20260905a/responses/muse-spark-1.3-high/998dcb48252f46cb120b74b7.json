@@ -1,0 +1,9 @@
+{
+  "task_id": "998dcb48252f46cb120b74b7",
+  "debate_id": "prop_0576__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e02914b6718d8b16b515693f53599ad0c4574a067840fe0443fbe7f88d29157a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by holding a narrow operations line - endorsements and turnout machinery vs moral teaching - and forcing B to bite the extreme bullet that even a campaign-dominated congregation keeps all advantages, while exposing that B's narrow-election-law alternative must draw the same line B called impossible.</reason>\n<best_rebuttal>A's Q1 extreme-budget pressure plus Q2 line-drawing inconsistency, answered with Yes in B4.1 and an act-vs-identity distinction that A then used in closing as proof of a subsidized PAC with a steeple.</best_rebuttal>"
+}

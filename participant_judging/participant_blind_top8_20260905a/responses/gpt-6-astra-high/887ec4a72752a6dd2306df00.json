@@ -1,0 +1,9 @@
+{
+  "task_id": "887ec4a72752a6dd2306df00",
+  "debate_id": "prop_0022__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1027f21b5966bc0de8c9b25b8b70f79b9503cf7a0be826614e550390d5b8d162",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>3.0</margin>\n<fun>6</fun>\n<arg_a>4</arg_a>\n<arg_b>8</arg_b>\n<reb_a>3</reb_a>\n<reb_b>9</reb_b>\n<ground_a>4</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>5</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the proposition\u2019s actual comparison: tailored fund-like safeguards need not copy an entire banking framework. B explained why full backing does not guarantee timely redemption and supplied a concrete, proportionate liquidity requirement when challenged. A eventually accepted an enforceable liquidity floor but continued insisting that bank capital rules, insurance, or gates were necessary to satisfy \u201cmore like.\u201d That interpretation was inadequately defended and repeatedly attacked features B had expressly rejected.</reason>\n<best_rebuttal>B distinguished ownership and backing from timely access to reserves: proof-of-reserves cannot release inaccessible custodial assets or ensure redemption liquidity. Its proposed stress-calibrated liquidity requirement directly answered A\u2019s demand for a specific tool. A subsequently accepted a liquidity floor, leaving its closing focused on classification rather than defeating B\u2019s substantive comparison.</best_rebuttal>"
+}

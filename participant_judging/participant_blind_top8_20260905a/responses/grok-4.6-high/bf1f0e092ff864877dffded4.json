@@ -1,0 +1,9 @@
+{
+  "task_id": "bf1f0e092ff864877dffded4",
+  "debate_id": "prop_0493__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "9d3699b0cfd223da85885dc4be050fb0b267b6ce21a965ef147d319a869c0e73",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-level clash by turning B's own concession that extraction continues under public contract into a hydrology test the ban fails, and by showing B's \"cheap no\" story depended on a vested 30-year permit A never offered. B's burden-of-uncertainty framing was the debate's best idea, but it did not neutralize overbreadth (trade, private groundwater) or prove a deed change moves water.</reason>\n<best_rebuttal>A's reply to B2.6: same spring still pumped under lease, so title fails B's local-well test; the seasonal/revocable cap, not public letterhead, is what makes year-twelve \"no\" cheap.</best_rebuttal>"
+}

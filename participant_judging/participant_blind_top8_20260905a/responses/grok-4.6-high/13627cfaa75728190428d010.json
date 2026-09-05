@@ -1,0 +1,9 @@
+{
+  "task_id": "13627cfaa75728190428d010",
+  "debate_id": "prop_0650__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "376809605f592722280dd6594dcf9e1ff24c9a36e57bcf0550751704d0e8f753",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the clash easier to decide: extra CGM resolution without a validated cutoff is not early detection, consumer adoption among the already-attentive is medicalization rather than outreach, and A's public-health upside rested on end-stage complications A later conceded consumer sensors have not been shown to prevent. A had a strong feedback-loop case and a fair double-standard attack, but never recovered the weighing after that concession.</reason>\n<best_rebuttal>B's turn of A's scale/wellness argument into \u201cscale is medicalization,\u201d then using A's no-trial concession to collapse the blindness/amputation weighing.</best_rebuttal>"
+}

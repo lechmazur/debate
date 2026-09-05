@@ -1,0 +1,9 @@
+{
+  "task_id": "ce8110bf64d37ccc5fe68fe5",
+  "debate_id": "prop_0367__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "9f9e20c25dbe3e47c38f780bb88919fe8f5ab241493465ec124ec499a9d8e6fe",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won the live clash on cost structure: content is bought up front, so frictionless pause/remix is adverse selection, not a free click. Side B\u2019s \u201cidle seats cost nothing to serve\u201d and \u201cstay-put can just be a discount\u201d never survived that distinction or the rare-vs-common pause dilemma, while A\u2019s transit-pass comparison made cheap-and-fickle vs committed commissioning easier to vote on.</reason>\n<best_rebuttal>A\u2019s idle-seat turn (serving a paused login is cheap; buying the league/drama is not) plus the follow-through that a refuseable sports line becomes unaffordable in-season or dead off-season.</best_rebuttal>"
+}

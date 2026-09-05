@@ -1,0 +1,9 @@
+{
+  "task_id": "a1f5f7fb7139953463132fb7",
+  "debate_id": "prop_0418__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b82b342b509625ce31a228efc94cbaafe1f51c8e3d200375727dc51186e33fc9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by making \u201cenough\u201d the live decision rule and showing A never met it. A\u2019s strongest live route was that mixed universal tools cannot restore trips women categorically refuse, and a timeout only returns them to the old baseline. B conceded the pairing point, then used thin night supply, always-on platform costs, and A\u2019s own \u201cany rate above zero\u201d threshold to show occasional arrivals do not justify the complexity. A\u2019s weakly-dominant lottery was sharp, but it declined the weighing the motion requires.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2: accepting that PIN-matched mixed rides do not restore categorical refusal, then collapsing A\u2019s \u201cany rate above zero\u201d into a failed sufficiency standard against always-on costs.</best_rebuttal>"
+}

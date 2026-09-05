@@ -1,0 +1,9 @@
+{
+  "task_id": "e5325a1841159435ccc3bac8",
+  "debate_id": "prop_0556__claude-fable-5-1-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "59d2126e63409ad5511b32572163a5e468d2d4547cfa210e64be57e88a7a422b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the stronger comparative case by defending narrowly controlled public-interest access rather than abusive commercial sales. A\u2019s autonomy and irreversible-disclosure concerns remained relevant, but its claim that this access fell outside the motion collapsed. A then asserted that planning losses were marginal while repeatedly overlooking B\u2019s preventive safeguards. B answered the pressure directly and better explained why the additional consent requirement needed justification even where both sides supported strong protections.</reason>\n<best_rebuttal>B forced A to concede that paid access inside a secure environment was covered by the prohibition, then challenged A\u2019s remaining comparison: access need not create another downloadable copy, and evacuation-model omissions affect people, not merely spreadsheets. This directly weakened both A\u2019s scope defense and its weighing.</best_rebuttal>"
+}

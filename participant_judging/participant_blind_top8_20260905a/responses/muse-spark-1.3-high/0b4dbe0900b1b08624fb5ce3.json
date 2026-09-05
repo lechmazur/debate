@@ -1,0 +1,9 @@
+{
+  "task_id": "0b4dbe0900b1b08624fb5ce3",
+  "debate_id": "prop_0041__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "886e369e17dcbf46de7ee459fc23cd25358511cb3ab1582d527bd470f88e12e9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B kept a live route that Side A never neutralized: secret profiling extracts from need, proxies vulnerability, and blinds comparison so competition cannot check it. B answered workability with ban inputs plus hold-cost-constant test and open-category vs hidden-profile line, while A dismissed the midnight-formula case as cartoon and refused disclosure, leaving its walk-away/maverick defense assuming visible prices B had already refuted.</reason>\n<best_rebuttal>B's comparison-kills-competition reply \u2014 no public tag to find, tracker follows, maverick cannot undercut what shoppers cannot see \u2014 directly damaged A's leave-another-tab defense and framed the vote.</best_rebuttal>"
+}

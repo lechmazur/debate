@@ -1,0 +1,9 @@
+{
+  "task_id": "de4a4edcc6c69d8e26ea5b19",
+  "debate_id": "prop_0681__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "94a7f5c11691c57d2db37fb35762b7a367c32329c1026c74168b9f5e51bc546b",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive debate by keeping a cleaner comparison: documented escalation deaths versus hypothetical gap harms, a bounded \u201ceven if\u201d via dispatch tiers, and CON\u2019s undated training fix. B\u2019s empty-driveway/substitution attack was sharp and stuck to the motion, but never showed delay deaths outweigh the shooting mechanism A centered.</reason>\n<best_rebuttal>A\u2019s Rebuttal 1 recast of B\u2019s pills/traffic/crash scenes as medical problems a gun does not treat, which forced B onto \u201chold the scene until EMS\u201d and let A dismantle that placeholder in Q2/R2.</best_rebuttal>"
+}

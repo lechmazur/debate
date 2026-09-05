@@ -1,0 +1,9 @@
+{
+  "task_id": "781a8846e98f717da39e5eaa",
+  "debate_id": "prop_0619__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "bc8787a48ffd9ffe2a530771bfce2012e269b03d398383bbbcc6804ba345c172",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by keeping the duty\u2019s actual boundary live: after the swatting kit is gone, PRO still treats \u201cthrowaway brigades\u201d and coordination layers as suppressible vectors that anonymous lawful organizing also uses. PRO\u2019s gap/externality case was strong and CON conceded platforms should strip addresses and fake-emergency scripts, but CON showed that a foreseeability duty plus a one-way shield still makes disabling mixed campaigns the safer legal bet, and that the clear crime does not justify the broader obligation.</reason>\n<best_rebuttal>A4 vs B4 on the express shield: PRO claimed shielding leftover organizing breaks the chilling asymmetry; CON showed platforms must still defend a disputed \u201cbrigade vs. campaign\u201d classification after injury, so overblocking remains safer.</best_rebuttal>"
+}

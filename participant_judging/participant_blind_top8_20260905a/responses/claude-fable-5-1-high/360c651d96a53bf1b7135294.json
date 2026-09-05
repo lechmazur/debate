@@ -1,0 +1,9 @@
+{
+  "task_id": "360c651d96a53bf1b7135294",
+  "debate_id": "prop_0356__claude-opus-5-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "claude-fable-5-1-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0ec26ea5752c02b9c85e7fb9957adddc2794c2dbab57043b1dbb58a6e9dd4b65",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>0.9</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Both sides argued well and narrowed the clash to PRO's \"unpenalized non-monitored option.\" PRO's strongest moves were collapsing CON's zip-code-vs-telematics dichotomy (claims history and tickets are behavioral) and the mandatory-market/credit-check distinction in closing. But CON answered the pressure questions more cleanly: a coherent coercion line (gap limited to actual loss difference), a non-contradictory account of individual-vs-pool pricing, and a sharp exploitation of PRO's A1 admission that monitored drivers pay for the cap, recast memorably as \"a transfer from the transparent to the opaque.\" PRO's closing characterization of CON's position as \"unlimited\" was somewhat unfair given CON's stated loss-tracking limit, and CON's reply that the gap only grows if the pool really gets riskier was left standing. PRO also suffered three clipped turns versus CON's one, cutting off its concluding lines. A thin but real edge to CON.</reason>\n<best_rebuttal>CON's B3.1 \"name the payer\" question, PRO's A4.1 concession that monitored drivers absorb it via a smaller discount, and CON's B4.5\u2013B4.6 turn of that into a legislated subsidy from transparent drivers to opaque ones\u2014the exchange that most damaged PRO's \"unpenalized\" clause.</best_rebuttal>"
+}

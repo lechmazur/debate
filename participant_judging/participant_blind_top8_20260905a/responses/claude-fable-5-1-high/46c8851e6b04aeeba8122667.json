@@ -1,0 +1,9 @@
+{
+  "task_id": "46c8851e6b04aeeba8122667",
+  "debate_id": "prop_0648__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "claude-fable-5-1-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f6302894bcbcd7cb3a018e6464bcb9870d3b69077c2d439f56557c65df0d5570",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>7</arg_b>\n<reb_a>6</reb_a>\n<reb_b>7</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO opened well on talent and civilian terrain, and its Q1 sharply exposed a potential straw-motion in CON's \"any standing core\" argument. But CON answered that pressure directly (the functions that decide the contest\u2014foreign collection and lawful disruption\u2014require military/SIGINT status) and then exploited PRO's own A2 concession that force \"can remain with existing national authorities.\" CON's decisive move was showing PRO's architecture never removes standing capacity, only relabels it, and that the reserve's marginal contribution is small because utility staff are on the terrain regardless of any reserve program. PRO's \"presence on the terrain is reliance\" was a clean frame but CON's \"being there vs. being able to see and act\" rejoinder neutralized it. CON's three clipped turns are a real execution cost and keep this from being a solid win, but the substance of the clash favored CON.</reason>\n<best_rebuttal>CON's A1/A2 in Rebuttal 2 [B4.1\u2013B4.7]: answering PRO's sharp Q1 head-on, then turning PRO's own \"existing national authorities\" concession and the point that utility staff exist with or without a reserve into the argument that PRO had \"built the standing units twice\" and only changed the label.</best_rebuttal>"
+}

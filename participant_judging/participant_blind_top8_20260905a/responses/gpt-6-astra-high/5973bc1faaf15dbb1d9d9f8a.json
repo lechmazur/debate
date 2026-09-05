@@ -1,0 +1,9 @@
+{
+  "task_id": "5973bc1faaf15dbb1d9d9f8a",
+  "debate_id": "prop_0217__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9bfda538cdbc4b200e97bb344ae66486e0cd752fb5415033a7eb07fbd6204cdf",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.2</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>4</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A offered the stronger comparative case: protect essential use, incentivize savings across discretionary uses, and retain restrictions for actual shortfalls. B raised credible concerns about price responsiveness and administering allowances, but repeatedly assumed that savings must come from vulnerable households despite A\u2019s protections. B also failed to establish that retaining emergency restrictions makes them the primary instrument. A answered the pressure more directly and better distinguished recurring conservation policy from emergency intervention.</reason>\n<best_rebuttal>The decisive exchange was B\u2019s preference for bans even if pricing met conservation targets while protecting essentials, followed by A\u2019s distinction between price-sensitive discretionary consumption and essential consumption. B never justified its repeated claim that remaining wealthy lawns necessarily meant tenants and large families were supplying the savings.</best_rebuttal>"
+}

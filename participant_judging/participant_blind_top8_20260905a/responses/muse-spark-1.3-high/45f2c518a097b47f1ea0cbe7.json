@@ -1,0 +1,9 @@
+{
+  "task_id": "45f2c518a097b47f1ea0cbe7",
+  "debate_id": "prop_0404__muse-spark-1.3-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "452f75e02f70fdeaaa8a79d8b4f022ff0359b3043c23f9470de6e4dd9bc8b904",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept a live route: IDs match presenter via photo/number, forced F manufactures fraud-suspicion, voluntary X explains appearance at low cost. CON's checkability fork was blunted, its deletion alternative conceded binary harm and required erasing for 330M, and two clipped speeches plus nonexistent P-refs hurt execution.</reason>\n<best_rebuttal>B's A1/A2 in Rebuttal 2 answered linkage with X passport/amended birth certificate/DMV plus name-change analogy and resolved rare-vs-explanatory as fraud-avoidance vs deception-avoidance, neutralizing CON's circularity and contradiction charges.</best_rebuttal>"
+}

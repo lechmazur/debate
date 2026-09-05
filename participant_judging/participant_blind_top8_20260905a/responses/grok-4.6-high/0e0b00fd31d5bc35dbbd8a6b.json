@@ -1,0 +1,9 @@
+{
+  "task_id": "0e0b00fd31d5bc35dbbd8a6b",
+  "debate_id": "prop_0559__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a920c53f8e2072a07dcd9e379345735ffa741794b963042922e3798e3bdba9e4",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by making the live clash easier to decide: social-graph transfer is other people's associations, not a suitcase the user owns. B's lock-in and exit-threat case was real, but hashed reconnect prompts never escaped compelled export, and demanding that A name a substitute cure was a weaker standard than the motion as written.</reason>\n<best_rebuttal>A's reply that a reconnection prompt still begins with a compelled who-is-tied-to-whom map, so an ignore button is not a prior veto and carving out blocked users/minors rewrites the mandate.</best_rebuttal>"
+}

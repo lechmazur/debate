@@ -1,0 +1,9 @@
+{
+  "task_id": "8284eadb808e3bb64828aa9a",
+  "debate_id": "prop_0216__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "74fbee57e16e4b2815b59cf882d4c0d2198989f91cbcdd827c2fbbeecd29a8a1",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins the comparative policy argument. A establishes serious ecological harms and develops a useful frontier-licensing mechanism, but B shows that auditing, monitoring, and buyer pressure can also strengthen existing safeguards. A never adequately establishes why its additional restrictions outperform that alternative under shared capture risks. B also directly challenges the central claim that income losses are reversible, explaining lasting schooling and debt consequences. A\u2019s closing incorrectly treats that disputed claim as conceded rather than resolving it.</reason>\n<best_rebuttal>B\u2019s response to A\u2019s licensing mechanism is decisive: an auditable prohibition is not automatically an effective conservation outcome, and intervention before new borrowing does not eliminate existing household debts or schooling needs. This undercuts both A\u2019s enforcement advantage and its simplified irreversibility comparison.</best_rebuttal>"
+}

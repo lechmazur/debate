@@ -1,0 +1,9 @@
+{
+  "task_id": "7900886352b650465d0ed9fe",
+  "debate_id": "prop_0168__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f2e079bc23baa405684210b62ff97a425b1435c02f9b342415fa075cc1b9c0d6",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-quality exchange by staying on the motion\u2019s science-per-dollar test: unique crew advantages were admitted, then weighed against recurring life-support and architecture costs rather than treated as a majority entitlement. B\u2019s best live route\u2014lumpy industrial base plus unique field science\u2014was sticky and well-phrased, but never showed why preservation requires most of the budget, and B made the comparison hard to lose by folding presence into \u201cscience.\u201d A\u2019s pressure on majority-versus-preservation, plus the turn that high fixed costs strengthen selection rather than create a blank check, decided the clash.</reason>\n<best_rebuttal>A\u2019s R2/closing turn of B\u2019s architecture claim: crew skills count, but charging the whole standing system against forgone robotic discovery means high fixed costs demand selection, not \u201cfund the majority or lose the option.\u201d</best_rebuttal>"
+}

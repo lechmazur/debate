@@ -1,0 +1,9 @@
+{
+  "task_id": "9cfb7034c7656481a49a2db0",
+  "debate_id": "prop_0533__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "4f124a1e0183a64a766f90394136f8207be18fdc85405fb18903ab7f89911a0c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by keeping the motion as written: the fill calendar is the use, and Egypt\u2019s objections cannot freeze an unfinished rulebook. B\u2019s timing-versus-volume, famine-versus-postponement, and self-audit turns were the sharper theory, but three clipped speeches and a \u201cprotocol not veto\u201d alternative never escaped A\u2019s practical point that stalled talks plus Aswan\u2019s existing buffer still leave Ethiopia waiting in the dark.</reason>\n<best_rebuttal>A\u2019s R1 turn of B\u2019s \u201cbuild, own, and light every home\u201d concession\u2014\u201ca dam you cannot commission on your own calendar is concrete, not electricity\u201d\u2014locked fill-as-use and forced B onto a procedure-without-freeze dilemma it never fully escaped.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "48a27ad13d0af8d9a85f6116",
+  "debate_id": "prop_0017__muse-spark-1.3-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "71b726d7c6c2f48d6c8e33949a7175245c7c808dc652c370026ebd498a2bbdbe",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>3.0</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>9</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>9</ground_b>\n<orig_a>5</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B defeated the proposition\u2019s universal prerequisite with a narrowly targeted encampment prohibition that preserves stable, lawful outdoor alternatives without providing the full shelter, storage, and services package. A conceded that such a standing rule could be justified, then tried to exclude it by definition or characterize it as satisfying conditions it lacked. A\u2019s compelling objections to blanket criminalization did not answer B\u2019s constrained alternative. B also explained the substantive benefit: protecting clinic access without forcing residents into perpetual displacement.</reason>\n<best_rebuttal>B\u2019s second rebuttal decisively identified both A\u2019s concession of a justified standing rule and A\u2019s insertion of \u201cstorage and outreach\u201d into a hypothetical supplying neither. This directly defeated A\u2019s claim that B had conceded the motion\u2019s availability requirement.</best_rebuttal>"
+}

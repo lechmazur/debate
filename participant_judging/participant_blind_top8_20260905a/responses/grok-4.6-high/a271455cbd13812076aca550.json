@@ -1,0 +1,9 @@
+{
+  "task_id": "a271455cbd13812076aca550",
+  "debate_id": "prop_0546__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "183a1fad4cae98b9f49f794795fb0a5983d8b0e2445d7d82952a98ee26997e2e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by keeping the motion as written: desert studies measure dying independent papers, not firewalled public pay, and the promised reductions require a notebook officials cannot tame and neighbors will treat as shared fact. B\u2019s vacuum weighing was forceful, but too often swapped watchdog-versus-none for the subsidy comparison and never showed public funding itself produces those reductions. A\u2019s auditor/belief distinction and publicly funded alibi attack left B\u2019s design story looking like a clause, not a workplace.</reason>\n<best_rebuttal>A\u2019s R1: news-desert evidence is a different intervention, and IGs/judges unlike local journalists do not need the public to treat them as uncaptured storytellers\u2014so a constrained subsidized beat can be a credential rather than deterrence.</best_rebuttal>"
+}

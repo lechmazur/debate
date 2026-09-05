@@ -1,0 +1,9 @@
+{
+  "task_id": "ee554811358da5364bc8f681",
+  "debate_id": "prop_0229__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "7221c6308a7f5f4c21689a7687bc030c0cc79a5d5a417910828d6fe621bccf43",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the central clash over mandatory completion within five years. A established credible efficiency benefits from replacing subsidies, but B distinguished unequal subsidy shares from the actual purchasing-power losses facing excluded households. B supplied measurable readiness conditions, accepted temporary leakage, and explained why its alternative could capture reform benefits without overriding failed delivery. A\u2019s deadline-as-discipline argument never adequately answered that comparison. Its premature accusations that B had ignored questions, including a nonexistent reference, also misread the chronology and weakened its rebuttal.</reason>\n<best_rebuttal>B\u2019s strongest response targeted A\u2019s \u201cWe proceed\u201d answer: gradual price increases and years of registry-building do not compensate the particular family that receives nothing. This directly defeated A\u2019s attempt to treat phased implementation as an answer to failed delivery.</best_rebuttal>"
+}

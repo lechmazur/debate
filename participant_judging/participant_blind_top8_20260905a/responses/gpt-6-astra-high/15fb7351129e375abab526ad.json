@@ -1,0 +1,9 @@
+{
+  "task_id": "15fb7351129e375abab526ad",
+  "debate_id": "prop_0026__muse-spark-1.3-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "fc30fbb36c926689dfd18ef14cd7d5a7a60042d0edadf98ff77fa13c267193ed",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B supplied a coherent account of dignity as equal standing and defended its independent force against valid consent. A's distinction between governing offers and governing bodies was meaningful, but B explained why prohibiting a willingly chosen medical arrangement still restricts choice. A conceded that prohibition while largely repeating refusal cases in which both principles oppose coercion. Those cases established autonomy's importance, not its comparative superiority. B answered the central pressure more directly and crystallized the unresolved conflict more convincingly.</reason>\n<best_rebuttal>B's second rebuttal used A's concession that consent could remain valid while the discriminatory scheme should be prohibited. It then answered A's \u201cno right to that exact deal\u201d defense by distinguishing moral weight from enforceable entitlement: an available alternative makes the restriction proportionate, not nonexistent.</best_rebuttal>"
+}

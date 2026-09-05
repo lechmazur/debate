@@ -1,0 +1,9 @@
+{
+  "task_id": "d8a3976b4dcf4dea29fa609d",
+  "debate_id": "prop_0008__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "201d1b702a4afc2f1d42d4086871783f9a459335dec4d8917bb5a79fba5e539c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won the prevention vs displacement weighing. PRO conceded proxy will happen and that a smaller pool does not guarantee less diversion, while CON showed legal supply stays open for decades beside expanding banned adult cohorts with money and contacts, making friction weak and relocation to non-ID-checking sellers likely, leaving PRO with certain lifelong inequality for uncertain gain.</reason>\n<best_rebuttal>CON's arbitrage-machine reply that expanding excluded buyers outnumber contracting suppliers and that ID-checking loses legitimacy when applied to middle-aged adults, which PRO answered only by conceding diversion and retreating to some friction.</best_rebuttal>"
+}

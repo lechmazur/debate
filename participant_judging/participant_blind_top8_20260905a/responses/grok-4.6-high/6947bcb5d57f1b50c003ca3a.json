@@ -1,0 +1,9 @@
+{
+  "task_id": "6947bcb5d57f1b50c003ca3a",
+  "debate_id": "prop_0681__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "891d1ddb0e59aafadc202cf6f97b671a161187e942b9aa0cc47112a0a9e87ce5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON made the motion easier to decide by locking the vote to the stated wait, showing 911 cannot pre-sort time-critical crises, and arguing co-response captures de-escalation without that cost. PRO\u2019s \u201cwrong door\u201d and non-caller arguments were sharp but more speculative than CON\u2019s on-the-line waiter, and PRO\u2019s own concessions (uncapped delay; slow team for suicidal talk without a weapon) left the tradeoff looking unjustified.</reason>\n<best_rebuttal>CON\u2019s unsorted-pool attack, especially converting PRO\u2019s A4.1 dispatch rule into routing delay onto suicidal calls whose danger has not declared itself.</best_rebuttal>"
+}

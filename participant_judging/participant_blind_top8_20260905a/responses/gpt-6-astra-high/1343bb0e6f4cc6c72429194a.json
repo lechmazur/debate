@@ -1,0 +1,9 @@
+{
+  "task_id": "1343bb0e6f4cc6c72429194a",
+  "debate_id": "prop_0667__gpt-6-astra-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "be74a2935fa4d9559c2421518bcecc7ec831971fe9507ab7061c71411d9fee20",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins through stronger comparative reasoning and more direct answers to pressure. A's Arizona account did not establish nationwide displacement sufficient to negate meaningful reduction, while B appropriately specified total unauthorized employment without inventing a percentage. B also explained how covert recruitment discrimination could be detected. Seasonal agriculture remained A's strongest objection and keeps the decision competitive, but B exposed the mistaken congressional-barrier claim and defended existing adjustment channels. A too often treated imperfect enforcement and costly adjustment as evidence that neither could meaningfully work.</reason>\n<best_rebuttal>B's paired-application testing and agency-investigation answer directly defeated A's claim that an uninformed victim makes enforcement impossible. A's response that audits merely count victims did not answer their role in detection and punishment.</best_rebuttal>"
+}

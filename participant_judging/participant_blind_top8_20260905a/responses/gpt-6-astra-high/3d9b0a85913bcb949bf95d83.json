@@ -1,0 +1,9 @@
+{
+  "task_id": "3d9b0a85913bcb949bf95d83",
+  "debate_id": "prop_0217__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3c60cff6fc24665789cfc6a5d7f4618403fb6c965ae44de355c8bb536dcbc290",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.5</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by distinguishing discretionary conservation from deprivation, and emergency safeguards from the main policy. A raised legitimate concerns about wealthy users\u2019 responsiveness and administering essential allowances, but repeatedly assumed that other users\u2019 savings must come from vulnerable households despite B\u2019s explicit protections. B also directly answered the timing objection: announced marginal prices influence consumption before billing. A\u2019s categorical claims about bans guaranteeing savings and backstops invalidating pricing remained insufficiently defended.</reason>\n<best_rebuttal>B\u2019s strongest exchange began by asking whether A would reject pricing even if it secured sufficient savings while protecting essentials. A answered yes but justified that answer by again assuming vulnerable users bore the cuts. B\u2019s closing exposed the missing link: price-sensitive discretionary consumption is not necessarily essential consumption.</best_rebuttal>"
+}

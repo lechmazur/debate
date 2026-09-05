@@ -1,0 +1,9 @@
+{
+  "task_id": "328e20e63850c604d75ccb8d",
+  "debate_id": "prop_0277__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cf61eafad7c4f1bd5b64dd6e9ceded317b34c2cf983a91da360c4c32d41c43bd",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.4</margin>\n<fun>6</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the stronger comparison: peak limits combined with suitable alternatives can reduce excess pressure without making landmarks unpopular. It directly answered the percentage and housing-enforcement questions, acknowledging uncertainty and limiting promotion to protected, equipped districts. A raised legitimate infrastructure and displacement concerns, but repeatedly assumed redistribution must add visits rather than replace them. Its insistence that most visitors must abandon the hubs imposed a stronger burden than the proposition requires and left B\u2019s marginal-relief case standing.</reason>\n<best_rebuttal>B\u2019s distinction between flexibility and additional demand was decisive: someone able to travel in May might otherwise choose July. A never justified excluding that substitution, despite direct questioning. B also effectively distinguished a fully booked attraction from an overloaded surrounding district.</best_rebuttal>"
+}

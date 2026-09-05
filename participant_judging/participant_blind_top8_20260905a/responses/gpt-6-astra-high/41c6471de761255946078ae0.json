@@ -1,0 +1,9 @@
+{
+  "task_id": "41c6471de761255946078ae0",
+  "debate_id": "prop_0214__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5e0b79abd5eef376a443b02aadfec36c1f417fa347361fc65f3b4e80c8eb0058",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>6</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B supplied the clearer distinction between unmet obligations and enduring consequences, defending continued care, protected archival access, and assessment of descendants\u2019 demonstrated losses without permanently reopening liability. A established a plausible case for strengthening deficient schemes, but did not defeat that bounded alternative. It repeatedly portrayed controlled access as blanket concealment and failed to answer why an institutional sterilization order could itself violate survivor privacy. B\u2019s acceptance of some stronger remedies limits its victory, but its handling of the central clashes was substantially better.</reason>\n<best_rebuttal>After A defined fulfillment as assessing demonstrated descendant losses, B explained that assessment must permit compensation, rejection of speculative losses, and eventual discharge. A\u2019s closing instead made the erased bloodline itself the outstanding obligation, leaving B\u2019s endpoint challenge unresolved.</best_rebuttal>"
+}

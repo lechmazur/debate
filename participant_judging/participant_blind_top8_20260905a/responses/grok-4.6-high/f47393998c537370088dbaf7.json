@@ -1,0 +1,9 @@
+{
+  "task_id": "f47393998c537370088dbaf7",
+  "debate_id": "prop_0579__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "4b3beacd570a359a005124bfd49691f4b7625c51accad22060de723e118a10f5",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON made the motion easier to decide: large fraud and access wins only arrive with the near-universal use that is itself the spine and honeypot. PRO never escaped SSN-style function creep except with hope that law plus design would succeed where convenience already won, while CON\u2019s identity-vs-credit-card distinction undercut PRO\u2019s best \u201cubiquity is not centralization\u201d reply.</reason>\n<best_rebuttal>CON Rebuttal 2: three cryptographic yes-or-no checks still map a life, and a token that authorizes who you are everywhere is not a credit card\u2014directly damaging PRO\u2019s concentration and design-containment claims.</best_rebuttal>"
+}

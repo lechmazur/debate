@@ -1,0 +1,9 @@
+{
+  "task_id": "3db1c33f152bb01a09b33db3",
+  "debate_id": "prop_0229__gpt-6-astra-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "f79fbdac029d8d73cad1aef8c46ffe763a16286ffee02f703a78a00736a71248",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>0.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A narrowly wins on the five-year requirement. B made the stronger general case for targeted transfers and effectively challenged the claim that broad coverage eliminates savings. But A offered withdrawal conditional on demonstrated delivery and exposed why scheduling price increases does not establish payment capacity. B\u2019s emergency-enrollment response insufficiently justified completing removal despite substantial exclusion. A\u2019s overstated fiscal claims and clipped speeches keep the margin small.</reason>\n<best_rebuttal>After B explicitly maintained year-five removal despite missed households, A distinguished the readily executable price increase from the harder promise of reliable payments. B\u2019s reply that subsidies also provide uncertain protection was important, but did not resolve why a fixed deadline beats readiness-based withdrawal in low-capacity states.</best_rebuttal>"
+}

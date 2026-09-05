@@ -1,0 +1,9 @@
+{
+  "task_id": "46efe409d70838a4799aa6c3",
+  "debate_id": "prop_0231__claude-fable-5-1-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "72e7c77af59f11bea4b0a081bd2860a144ef06d57a051e7fa027eb0fd41895eb",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won by holding the core comparison: same drugs and same fixed scene with vs without a trained witness. CON conceded the witness saves lives and that police cannot hold a perimeter, which PRO turned into prohibition means identical disorder minus naloxone. CON's coverage, magnet, and cherry-picking points were vivid but never showed unsupervised public use produces fewer deaths or less disorder, while PRO answered them with clustering, indoor syringes binned, and permission allowing more hours and the full package.</reason>\n<best_rebuttal>PRO's second rebuttal A1/A2 plus decisive comparison: small share covers deadliest injections with neighbourhood mortality evidence and outward naloxone leak, crowd is already fixed, and banning the affordable leg while expensive legs stay unfunded leaves the same scene minus the nurse.</best_rebuttal>"
+}

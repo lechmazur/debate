@@ -1,0 +1,9 @@
+{
+  "task_id": "bb411771e59cfd31b0b37f39",
+  "debate_id": "prop_0411__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "71c77e2a6088542f94f454f348145f4558340a0edcafa04ca0052769742bfa5e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO made the cleaner vote: comparable waits are what make access real, and CON\u2019s alternative still licenses a slower wheelchair product. CON\u2019s scarcity and intra-disabled tradeoff hits were the strongest counters, especially after PRO said delay and coverage would be shared, but they did not neutralize the moving-benchmark clash or the 6-vs-25 two-tier test.</reason>\n<best_rebuttal>The 6-vs-25 exchange: CON admitted it is a slower product, then defended the gap via coverage/affordability trades; that locked in two-tier service as CON\u2019s live alternative.</best_rebuttal>"
+}

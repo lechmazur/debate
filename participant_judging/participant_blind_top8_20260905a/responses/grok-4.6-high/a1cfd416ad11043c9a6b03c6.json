@@ -1,0 +1,9 @@
+{
+  "task_id": "a1cfd416ad11043c9a6b03c6",
+  "debate_id": "prop_0277__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ccb12f70127375c45a1f67d2e405c1cbb4957636d4a03bce0bf0470331a7eea1",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-level clash by making the vote easier: seasons are nearly a free lunch, crowding is convex, cores cannot absorb the next bed, and CON\u2019s endgame is \u201cpay, leave, or stay home.\u201d A\u2019s fixed-icon, duplication, and conscription arguments were sharp and original, but they never fully neutralized growth or the seasons half of the motion, and Rebuttal 2 was clipped.</reason>\n<best_rebuttal>B\u2019s elasticity trap plus the \u201cwhere does the next visitor go?\u201d pressure, which turned CON\u2019s \u201cstay home\u201d answer into evidence that containment is exclusion, not a capacity plan.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "d45e2b4cf1ceed11897d7046",
+  "debate_id": "prop_0078__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "8038715b03902444e730443b71d140e7f342c6bee8e603bc60da5bf7290445c3",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won because it made the live choice sharper: a political community needs named public language and liberal operating rules, and treating those as optional at scale is not equal membership. B landed the debate\u2019s best burden question\u2014what \u201cexpected to adopt\u201d adds beyond law and opportunity\u2014but answered the scale/civic-core pressure by calling mass language demands ordinary politics and leftover norms private belief, which A reasonably weighed as emptying public membership. B\u2019s tests/naturalization claim was load-bearing and under-grounded, and historic-minority analogies did not neutralize immigrant-settlement enclaves.</reason>\n<best_rebuttal>A\u2019s pressure on whether never-adopting the public language extends to large voting blocs demanding courts/schools in a private tongue; B\u2019s \u201cjust politics\u201d reply, which A then weighed as a one-way deal rather than one standard.</best_rebuttal>"
+}

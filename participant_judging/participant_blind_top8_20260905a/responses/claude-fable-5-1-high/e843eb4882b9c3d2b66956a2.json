@@ -1,0 +1,9 @@
+{
+  "task_id": "e843eb4882b9c3d2b66956a2",
+  "debate_id": "prop_0513__claude-fable-5-1-high__claude-sonnet-5-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "claude-fable-5-1-high",
+  "side_a_source": "con",
+  "prompt_sha256": "13dc9429c8cecfd181af1ad6ba4ea85d752411601aaeb2ef5329c8e358886f67",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO built a clean, memorable case (monopsony as monopoly flipped, Clayton Act covers all commerce, synergies can launder wage suppression, PRH shows administrability) and then ran a sharp trap: asked what \"proven\" means, CON answered in [A4.1] that it is the same preponderance/merger-specific standard antitrust already uses. PRO plausibly converted that into a near-concession of the motion, leaving CON only the \"resourcing mandate\" objection. That objection stayed live but was weakened: PRO explained the screen runs cheaply at filing, that weak claims simply lose under an identical standard, and that CON's \"grocery market, full stop\" was itself messy at the edges. CON's A2 distinction between verifying efficiencies and defining labor markets was clever, and CON kept clean structure without clipping, but CON's closing claim that PRO \"never denied\" the coin flip misdescribes [B4.7] and [B5.5], which directly reframed it. PRO's two clipped turns are a real execution cost, but not enough to offset a clearer path to victory and stronger weighing.</reason>\n<best_rebuttal>PRO's Q1 [B3.1] forcing CON to name the proof standard, followed by CON's [A4.1] admission of the same standard and PRO's closing conversion: \"A coin that lands on the evidence is called adjudication. A coin never tossed is called the status quo.\"</best_rebuttal>"
+}

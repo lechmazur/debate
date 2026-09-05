@@ -1,0 +1,9 @@
+{
+  "task_id": "8004c9debc7257eaa9cb7c61",
+  "debate_id": "prop_0479__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "98a5ba15d72a0203eed86958ded051a1230b1f9b7aba6a1b33d93f87cceb8818",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>9</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A wins by distinguishing useful transparency from the case for subsidized trading. B offers a plausible benefit\u2014open, continuously updated aggregation\u2014but does not adequately resolve causal confounding, profitable manipulation through policy influence, or how markets warrant reduced reliance on experts. A also exposes that B's accountability mechanism depends on documentation requirements, not money moving prices. B repeatedly compares markets against closed, unreformed committees rather than answering A's accountable expert-led alternative. A's direct answers and progressively sharper comparisons establish a solid advantage.</reason>\n<best_rebuttal>A's stimulus example defeats B's claim that conditional contracts directly provide policy comparisons: adoption can signal worsening conditions rather than harmful policy effects. B's unemployment threshold does not remove that selection problem, and A sharply explains that multiplying conditional contracts also fragments attention and liquidity.</best_rebuttal>"
+}

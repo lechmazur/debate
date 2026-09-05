@@ -1,0 +1,9 @@
+{
+  "task_id": "0d2dcc96a6358355ce1dc49f",
+  "debate_id": "prop_0127__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5b77e045be91d9443e17a56e472c25cb863dcef03e0d0999ef98ec385f8b45d6",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.1</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A made the stronger comparison between compulsory recovery attempts and incentives rewarding actual waste reduction. B plausibly argued that large stores already possess clearance tools, but did not adequately weigh additional recovery against labor and timing costs. Its pressure answer rejected last-minute theater without resolving when a meaningful selling window must begin. A answered its own pressure questions directly and conceded that some compulsory discounts would help. B increasingly defended the sequence itself rather than explaining why its benefits justified the requirement.</reason>\n<best_rebuttal>A exposed the asymmetry in B\u2019s objection that disposal fees let stores \u201cpay and keep wasting\u201d: the mandate also permits disposal after expenditure on an unsuccessful markdown. A then explained that fees can induce recovery and better ordering, leaving B\u2019s distinction between \u201cPlan A\u201d and \u201cresidual\u201d disposal insufficient to establish superior outcomes.</best_rebuttal>"
+}

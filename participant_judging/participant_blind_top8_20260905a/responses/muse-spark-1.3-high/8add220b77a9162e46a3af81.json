@@ -1,0 +1,9 @@
+{
+  "task_id": "8add220b77a9162e46a3af81",
+  "debate_id": "prop_0514__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3ca5580968063253b30652abfc958d9556ffb7d0395bbe0b4f889f817d78f7a1",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won the safety-vs-leverage tradeoff. PRO's leverage and incremental-swap story never overcame CON's core that human retraining dominates switching costs, standards still need mapping, and modular swaps create daily interface breakage and blurred 2 a.m. accountability that poor districts cannot manage. PRO's fallback to stricter standards and stable screens was answered as lab accountability that hides changing clinical logic.</reason>\n<best_rebuttal>A's HL7/FHIR optional-fields rebuttal plus lab-vs-2am follow-through was decisive: compliant systems still fail without mapping, and stable screens hiding different logic is how harm slips through, neutralizing PRO's certification answer.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "918f408d25214e93bd3ae7b7",
+  "debate_id": "prop_0559__grok-4.6-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1e4fa31c74adac25960a4fa2fc84120027b62350b58b2981dd4fa3edc9742ba4",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by making the mandate\u2019s core problem easier to vote on: social-graph transfer is other people\u2019s relational data, and PRO never closed the resulting enforcement dilemma. PRO had the cleaner captivity/souvenir narrative and a strong asymmetry attack, but \u201calready visible\u201d and after-the-fact recipient liability did not answer CON\u2019s accountability-boundary distinction or the rubber-stamp-versus-gatekeeping bind. That left the proposition looking like institutionalized harm or a new compliance moat, not a solved market fix.</reason>\n<best_rebuttal>CON\u2019s R2/closing distinction that display and import stay inside the original platform\u2019s consent and jurisdiction, while a mandated rival ingest does not\u2014then forcing PRO\u2019s registry into either scraper access or incumbent-only gatekeeping.</best_rebuttal>"
+}

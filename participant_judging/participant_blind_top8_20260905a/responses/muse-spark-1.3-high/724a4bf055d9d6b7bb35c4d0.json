@@ -1,0 +1,9 @@
+{
+  "task_id": "724a4bf055d9d6b7bb35c4d0",
+  "debate_id": "prop_0294__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b0f9f1aeb10931541ebbddedd81e4ed0c1145b26b442a3579e17e39c2a6fcec2",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won by holding a limited baseline-not-verdict model: review enforces sources and reports splits while values stay with communities. CON's selection-is-sermon critique was strong but left no test for falsehood beyond the next election, and CON's concession that massacre denial abuses authority plus acceptance of non-electoral checks let PRO argue evidence can overrule the vote and ex ante review protects the child in the room better than ex post repeal.</reason>\n<best_rebuttal>Side B's pressure Q1/Q2 on massacre denial and what counts as false forced Side A to define false narrowly as forged brute fact and admit extra-electoral checks, which Side B then used to show framing without fabrication could still sanitize war/empire and that delay is not democratic safeguard.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "d9851b510c3092495a5b10e8",
+  "debate_id": "prop_0234__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1ef750b3840bd61bd1e1d5e17ee469c688b44b8275eea72366c4ac811f028dc2",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the debate easier to decide: secrecy is the market failure, CON\u2019s \u201cfile then discover\u201d alternative is circular, and leftover flexibility is explainable matching rather than hidden differentials. A landed sharper attacks on public-sector analogies and \u201cclean dashboard\u201d gaming, but those costs never outweighed B\u2019s ballot\u2014especially since the motion already prices in less managerial flexibility.</reason>\n<best_rebuttal>B\u2019s pressure that targeted enforcement cannot start without a fact secrecy withholds; A\u2019s discovery answer never escaped that bind.</best_rebuttal>"
+}

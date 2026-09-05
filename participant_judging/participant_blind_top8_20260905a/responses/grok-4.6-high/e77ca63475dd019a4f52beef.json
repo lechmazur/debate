@@ -1,0 +1,9 @@
+{
+  "task_id": "e77ca63475dd019a4f52beef",
+  "debate_id": "prop_0197__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "363ca8fafb0bd4bc106e3d5f5d39b5f3f267fa135d4fcb634533e375351d3bd9",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON built the cleaner path on the motion as written: a treaty sold as cascade prevention that leaves wartime intercepts and on-orbit mass untouched does not do the job on its face. PRO had sharper comparisons, a damaging admission on test \u201cbenefits,\u201d and the better one-afternoon debris examples, but the threshold/taboo answers stayed speculative, three clipped speeches hurt completeness, and the case often slid into \u201cban an optional bad thing\u201d rather than showing this instrument prevents cascades.</reason>\n<best_rebuttal>CON\u2019s wartime-hole pressure (Q1) and follow-through: after PRO conceded the treaty does not outlaw war, CON weighed remaining legal intercepts as larger than leftover tests, so the ban fails the proposition\u2019s own \u201cprevent\u201d claim rather than merely failing to fix everything.</best_rebuttal>"
+}

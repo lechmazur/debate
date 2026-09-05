@@ -1,0 +1,9 @@
+{
+  "task_id": "2a1fef3a1b13555c9fd4ddf0",
+  "debate_id": "prop_0081__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "ef89cd88330308d72d23de441487722337b518d6d802f11228dedf03add49933",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won by holding the baseline-free vs best-capacity-paid distinction. PRO's cross-tier harm was strong, but CON answered it with filterable warning plus funded cohort and conceded risk-triage for extortion, while PRO overreached claiming nothing needs to stay paid and never solved funding/quality cheapening or the optional-vs-widespread dilemma.</reason>\n<best_rebuttal>B in Rebuttal 2 answering A1/A2 then exposing that auto-warnings are already conceded baseline and instant human freeze still hits a finite desk, so universal best thins both badge and budget.</best_rebuttal>"
+}

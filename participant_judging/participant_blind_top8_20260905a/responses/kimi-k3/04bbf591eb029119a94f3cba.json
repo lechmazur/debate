@@ -1,0 +1,9 @@
+{
+  "task_id": "04bbf591eb029119a94f3cba",
+  "debate_id": "prop_0096__claude-opus-5-high__kimi-k3__s0__tpl_placement_active_20260320f",
+  "participant_model": "kimi-k3",
+  "side_a_source": "con",
+  "prompt_sha256": "0de6a8aaa6abf2c5ab7b0e0572f50e49121cfb109e31d0ce42d2e5ee90cf87c9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Both sides were strong and clean, but B won the decisive structural clash. A's central alternative \u2014 negotiated/collective-bargained limits instead of an opt-in mandate \u2014 was co-opted by B's argument that the consent default is what makes bargaining exist at all (\"you cannot bargain over something the other side already owns by default\"). B's Q2 compounded this by noting the very deals A praised rest on performer consent, which A never squarely answered. B also neutralized A's best hit (coercion just moves to the casting audition) with the scoped/dated/priced-grant distinction: a coerced sale is still priced and enforceable where boilerplate is an invisible gift. A landed real points (temporal blindness of any signature, localization friction, enforcement symmetry) but its main route was absorbed rather than refuted piecemeal, and its economic residue was reframed as the legitimate cost of consent. B answered pressure questions more directly and kept the debate on the motion's exact comparison.</reason>\n<best_rebuttal>B's Rebuttal 2 into closing: [B4.5] \"boilerplate isn't an alternative to negotiation; it's the reason negotiation never happens,\" capped by [B5.4]'s sale-vs-gift distinction \u2014 converting A's entire machinery case into a dependent of the opt-in default and defusing the coercion-relocation attack in one move.</best_rebuttal>"
+}

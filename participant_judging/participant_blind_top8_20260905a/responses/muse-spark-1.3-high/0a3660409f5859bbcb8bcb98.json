@@ -1,0 +1,9 @@
+{
+  "task_id": "0a3660409f5859bbcb8bcb98",
+  "debate_id": "prop_0584__muse-spark-1.3-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b5fc07401eb07cd7eee8211b2acbc2f2110cb1f205567527c79fa857ffc0e661",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the expectations and tradeoff comparison. A's 1970s spiral was neutralized by B's 2021-22 counter that 8-9% inflation fell without a spiral while expectations stayed anchored, and B's 1% vs 100% scarring arithmetic outweighed A's everyone-vs-some framing. B's pressure forced A to define modest and concede stopping when anchored, letting B frame the remainder as ECB-2011 style holding.</reason>\n<best_rebuttal>B's use of recent disinflation to rebut the guaranteed spiral, then exploiting A4.1's stop-if-anchored concession in B4.4 and B5.2 to argue PRO collapsed to flexibility except holding restrictive at 3% with unemployment up.</best_rebuttal>"
+}

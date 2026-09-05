@@ -1,0 +1,9 @@
+{
+  "task_id": "e31850037cafb7398e0b898a",
+  "debate_id": "prop_0316__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "25c6b8ae2ca2a4d4b2202f1b558ded0d2ee2cd024d73f1ce6b917c9b512dac26",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won on two live routes PRO never neutralized: empty notice and arbitrary AI-trigger. CON showed the badge never says penalized, baseline-lowered, or biased, so it cannot change the boost-buying or self-blame choice, and forced PRO to concede a secret human grader selling boosts would also be wrong, collapsing the AI-specific right. PRO's trigger-not-cure and loaded-odds defense smuggled unfairness into a method label.</reason>\n<best_rebuttal>CON's Q2 on human scoring plus Rebuttal 2 turn that computers running tables is not loaded odds \u2014 exposing that PRO admitted the sentence never diagnoses penalty yet claimed it discloses rigging.</best_rebuttal>"
+}

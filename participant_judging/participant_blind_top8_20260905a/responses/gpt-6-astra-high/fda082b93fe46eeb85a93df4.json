@@ -1,0 +1,9 @@
+{
+  "task_id": "fda082b93fe46eeb85a93df4",
+  "debate_id": "prop_0229__gpt-6-astra-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b339fc682dc7fc419d7c4bed5593ca47d0b72fd751d7debf1b5af8d7d50abb82",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins on the mandatory five-year deadline, not on the merits of universal subsidies. A convincingly explains regressivity and defeats B's claim that broad cash coverage necessarily eliminates savings. But A commits to withdrawal even if millions remain outside payments, without establishing why five years reliably resolves delivery failures. B's capacity-triggered alternative makes the stronger comparison between delayed reform and uncompensated losses. A's deadline-as-incentive argument does not outweigh that risk. B's overstated fiscal claims and clipped turns keep the victory competitive.</reason>\n<best_rebuttal>B's second pressure question exposes the conflict between guaranteed completion and compensation-first sequencing. A answers honestly but offers expanded eligibility rather than demonstrated payment delivery. B then persuasively argues that legal indexation and enrollment promises cannot themselves overcome the weak capacity motivating the objection.</best_rebuttal>"
+}

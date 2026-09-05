@@ -1,0 +1,9 @@
+{
+  "task_id": "624858362d6e67d71fbed4fd",
+  "debate_id": "prop_0112__gpt-6-astra-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f7e6edf5a7ee28f24e733549d5b8a75b4bda216ac112d27dd2d9af4135d2f864",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>9</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>4</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins by applying a consistent institutional comparison. B identifies genuine risks from concentrated financing, but repeatedly assumes reliable subsidies, continuity rules, and meaningful insurer choice while denying comparable safeguards to single payer. A answers the accountability pressure concretely, acknowledges capacity limitations, and preserves its central advantage: coverage continuity when illness disrupts employment. B never establishes that its proposed exit is affordable or preserves treatment. Its closing further overreaches by treating statutory public financing as an unrealizable immunity from legislative change, rather than answering A\u2019s actual proposal.</reason>\n<best_rebuttal>A decisively dismantles B\u2019s distinction between durable statutory subsidies and necessarily annual single-payer appropriations: public coverage can also rest on standing law. Combined with A\u2019s affordability and network objections, this substantially weakens B\u2019s claim that only its system offers dependable protection under stress.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "304c7b5f3ab74affab213746",
+  "debate_id": "prop_0418__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "14655d0314ceab369489c8dd42a04c284f5b0189c62eeb3621f943fed3257a0e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by making the motion\u2019s \u201cenough\u201d bar decide the round: safety and trust at the hour of fear, paid for without a matching and ops tax. PRO\u2019s live route was opt-in Pareto arithmetic plus a recruiting flywheel, but CON showed the filter is least available when fear peaks, that leftover inventory and cream-skimming are not confined to the toggle, and that gender-identity ops are not \u201cone extra field.\u201d PRO never fully paid that complexity bill; two clipped rebuttals also left the weighing unfinished.</reason>\n<best_rebuttal>B turning PRO\u2019s \u201cworks when supply exists\u201d concession into a fatal branding point (empty-map control is not protection), then answering A\u2019s \u201cname one higher-risk person\u201d test with delay, cream-skimming, and extra night-hour exposure that break the Pareto arithmetic.</best_rebuttal>"
+}

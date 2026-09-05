@@ -1,0 +1,9 @@
+{
+  "task_id": "f986e87abcfc505642a02e64",
+  "debate_id": "prop_0206__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "eba474c1a39d328276edbe8156d680f43f0c3a8a61a2a5a3eec6a8e62265b543",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A made the decisive incidence clash easier to vote on: indexing to average life expectancy collects in years from short-lived, low-capacity workers, while progressive taxes can load the extra bill onto those who actually gained longevity. B\u2019s PAYG ratio and original-bargain case stayed live and coherent, but did not neutralize labor-market failure or inequality, and refusing any employment-failure threshold made indexing look unfalsifiable. B\u2019s clipped first rebuttal also left the core fairness turn unfinished.</reason>\n<best_rebuttal>A\u2019s turn that the short-lived worker pays under both policies but in different currencies (a structurable wage tax vs. lost retirement years), plus the point that an age hike collects nothing if older workers are not hired.</best_rebuttal>"
+}

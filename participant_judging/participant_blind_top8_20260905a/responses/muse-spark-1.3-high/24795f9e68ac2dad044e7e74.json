@@ -1,0 +1,9 @@
+{
+  "task_id": "24795f9e68ac2dad044e7e74",
+  "debate_id": "prop_0599__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "348d5d9f1d95839d2fff69366f1466cc152e3b849bf5829a177de40b5172e71c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by shrinking PRO's necessity claim and exposing its mitigation concession. B distinguished local proof vs continental gate, showed false rejects hit the poorest, and offered non-biometric audits. After A admitted it will not bind a junta and that delivery needs human fallbacks, B turned both into proof the backbone is unenforceable yet dangerous and unnecessary.</reason>\n<best_rebuttal>B's second rebuttal turning A's A1/A2 answers: unenforceable purpose limits are branding on a cross-border hunting tool, and promised human overrides concede the biometric layer was never necessary.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "36d107dd7b40d31a1504bffc",
+  "debate_id": "prop_0156__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "57e11b40fe994a92a0abb1f699671af04c3636e026f6ccbba190f03f954ede68",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by making the comparison decidable: solidarity as revealed choices toward sharing, distrust as what never won a live decision. PRO\u2019s hierarchy, closed-banks, and self-insurance story stayed coherent but kept relabeling every transfer, re-election, forbearance, and later common debt, so it could not show distrust cut deeper. CON\u2019s falsifiable counterfactuals beat PRO\u2019s \u201ctest cannot lose\u201d charge; the clipped R2 was a real but limited cost.</reason>\n<best_rebuttal>CON\u2019s turn of 2015\u2019s re-election and 2018 maturity extensions against coercion/self-insurance, then treating PRO\u2019s Italian-spreads reply as shared fate.</best_rebuttal>"
+}

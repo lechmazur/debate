@@ -1,0 +1,9 @@
+{
+  "task_id": "c64240dbdce6163ba8211cf3",
+  "debate_id": "prop_0231__muse-spark-1.3-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5b2f5d51947adbe9f789d0f8140c57cf4a7e86e5a17bdfcdd3ea84f0ff8c477a",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>6</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won on coverage, metric, and Latin America. PRO proved zero deaths inside but never bridged to city-wide fewer deaths; CON's fraction-of-injections, poisoned-supply-everywhere, and Vancouver-province test stuck, and PRO's refusal of a city-wide test as a magic number looked evasive. On Latin America PRO conceded deaths-averted is smaller and shifted to disorder, while CON kept naloxone-irrelevant-for-smoked-base and fixed-queue-for-armed-groups live. Factory-trust reframe could not beat window-vs-supervision cost point.</reason>\n<best_rebuttal>B Rebuttal 2 A1-A2: seatbelt bolted to one chair vs naloxone in pocket that rides everywhere, plus mobile doorway vs permanent published facility, which turned PRO's reversal count and no-loitering rules into a coverage failure and exposed the LatAm concession.</best_rebuttal>"
+}

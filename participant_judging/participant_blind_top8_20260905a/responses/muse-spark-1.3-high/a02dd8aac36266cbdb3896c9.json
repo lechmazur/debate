@@ -1,0 +1,9 @@
+{
+  "task_id": "a02dd8aac36266cbdb3896c9",
+  "debate_id": "prop_0345__muse-spark-1.3-high__kimi-k3__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b3f03c8af370ef9e9fcb5ec608223e43217e1917568ba8724c767757b4ed4e1e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.0</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins on the network, arbiter, and market clashes. B turned the orchestra into role-specific choreography - who needs whom, for what, how often - preserving relational reasons without fog, while A's atomization claim collapsed into culture-with-a-calendar. B's layered arbiter plus essential-functions precedent defused the litigation fork and gave the testable memo independent value for narrowing, accommodation, and pretext-checking. Market-after-harm and burden asymmetry then outweighed market discipline.</reason>\n<best_rebuttal>B's violinist-to-choreography reversal in R1/R2 - timing, tuning, downbeat as concrete role-specific network reason - which directly neutralized A's core network-good atomization argument.</best_rebuttal>"
+}

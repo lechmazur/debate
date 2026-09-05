@@ -1,0 +1,9 @@
+{
+  "task_id": "c3ce023663aa7c2061549b51",
+  "debate_id": "prop_0409__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "608a9975171f6b180e8b1817a679d5b38b38e2dee4ecc0e5e87dd2fb1a7e2c4f",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won a competitive debate by making the motion easier to decide: a hard floor on basic entry, with parking, events, and concessions as exceptions, plus a ratchet if managers depend on fences. Side B\u2019s scarcity, underfunding, and \u201cenclosure by ruin\u201d case stayed live, especially overflow onto the last free surface, but waivers and off-peak freedom undercut the claim that growing paid gates are required stewardship rather than the enclosure the motion resists.</reason>\n<best_rebuttal>A\u2019s first rebuttal that B had only defended already-conceded tools, later met by B\u2019s overflow argument that a no-gate floor wrecks the remaining free lawn.</best_rebuttal>"
+}

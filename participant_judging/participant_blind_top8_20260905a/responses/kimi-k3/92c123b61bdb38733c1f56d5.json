@@ -1,0 +1,9 @@
+{
+  "task_id": "92c123b61bdb38733c1f56d5",
+  "debate_id": "prop_0638__kimi-k3__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "kimi-k3",
+  "side_a_source": "pro",
+  "prompt_sha256": "d285beaae52365e8aa47f85bcb6fa2f20e17649572dc3c53e110b71cd00306f9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>B won the interpretive battle over Karik\u00f3\u2014reframing A's marquee example as evidence for portability (she survived because money existed outside her institution's control)\u2014and A's \"many doors, one gatekeeper\" counter was answered a level deeper: appeal among fallible judges beats one final judge, and under block funding the wrong no is the last word. B's Rebuttal 2 caught a real contradiction (A called competition \"perpetual boom-bust\" yet claimed it \"never closed anything\") and deflated A's one concrete closure example (Mill Hill) as relocation, not exit. A argued well\u2014strong selection-effects case, the lottery-obituary jab, the accountability-reversal\u2014but B's \"what happens after a judge is wrong\" frame subsumed A's best points, and B's closing turned A's own line (\"a default cannot tell a dead lab from a daring one\") into the decisive concession: \"Neither can a director.\" Both sides were disciplined and well-grounded; B simply drove the comparison to a cleaner resolution.</reason>\n<best_rebuttal>B's Rebuttal 2 (Turn 8): exposed A's internal contradiction (boom-bust vs. \"never closed anything\"), reduced Mill Hill to \"money changed postcode,\" and crystallized the asymmetry-of-default frame that decided the debate\u2014sealed by B's closing reversal of A's own default line.</best_rebuttal>"
+}

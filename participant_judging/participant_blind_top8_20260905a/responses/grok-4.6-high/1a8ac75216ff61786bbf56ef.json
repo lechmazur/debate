@@ -1,0 +1,9 @@
+{
+  "task_id": "1a8ac75216ff61786bbf56ef",
+  "debate_id": "prop_0236__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ac540aea23d1f1a53d7436f1abb9335da818db2f5955a540543efb2983384e7a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-clash debate by narrowing the live zone after PRO\u2019s concessions: heavy offloading fails (or is lied about) under both rules, light use is unrestricted under both, and logs plus oral defense do not uniquely verify process. That left default permission changing mainly the middle student who outsources thinking with a receipt. CON\u2019s writing-as-the-skill / calculator weighing and the self-incrimination turn made that comparison easier to vote on than PRO\u2019s otherwise sharp \u201cfailing receipt vs. A with no receipt\u201d frame. PRO never showed how the default, rather than targeted unaided hours, creates the struggle for the marginal pre-college writer.</reason>\n<best_rebuttal>CON\u2019s R2 turn that PRO\u2019s incomplete/rewrite for a truthful \u201cthesis/outline/draft by model\u201d log makes heavy disclosure self-incriminating, collapsing the honesty advantage transparency was supposed to buy.</best_rebuttal>"
+}

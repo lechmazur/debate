@@ -1,0 +1,9 @@
+{
+  "task_id": "ccaf5fad5e8e6665029abb4a",
+  "debate_id": "prop_0277__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cf61eafad7c4f1bd5b64dd6e9ceded317b34c2cf983a91da360c4c32d41c43bd",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a competitive debate by making the motion easier to decide: PRO kept the magnets, admitted Saturday may stay fully booked, and never showed most tourism leaving overloaded districts. CON\u2019s demand-composition claim (off-peak recruits already-flexible travelers, not peak families) and addition/export story beat PRO\u2019s substitution-plus-safeguards case, even though crowding costs and hub rationing remained live.</reason>\n<best_rebuttal>CON\u2019s pressure on what share of most tourism actually leaves if peaks stay packed; PRO\u2019s admission that there is no percentage and Saturday may remain full, which CON converted into a motion-level concession.</best_rebuttal>"
+}

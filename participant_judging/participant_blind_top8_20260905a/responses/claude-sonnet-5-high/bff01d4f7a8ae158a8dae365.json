@@ -1,0 +1,9 @@
+{
+  "task_id": "bff01d4f7a8ae158a8dae365",
+  "debate_id": "prop_0514__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "claude-sonnet-5-high",
+  "side_a_source": "con",
+  "prompt_sha256": "04216715aa03c08d326b847d4b947210a636fb6a6b8a2a319a2a2ae3e5b7b72e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Both sides built coherent, well-executed cases and handled the Pressure Questions round with proper A1/A2 structure. CON's central strategy\u2014charging that PRO's \"turnkey on open interfaces\" collapses into CON's own case-by-case contract discipline\u2014was sharp and repeated effectively, but PRO supplied a real conceptual rejoinder (\"who delivers\" vs. \"who owns the locks,\" openness as a scored structural default rather than a negotiated afterthought) that CON never fully dismantled in Rebuttal 2 or Closing, instead mostly re-asserting the \"concession\" label. PRO also answered the crisis-portability and leverage pressure questions concretely (mandatory export/documented APIs, cooperative certification akin to building codes) and kept the human stakes (records following students and patients) vivid throughout, giving PRO the cleaner, more resolution-faithful path by the end.</reason>\n<best_rebuttal>PRO's B4.1 answer to CON's \"concession\" pressure question\u2014distinguishing turnkey delivery from vendor lock-in ownership and reframing openness as a categorical scoring default\u2014was the pivotal exchange CON's closing never fully answered.</best_rebuttal>"
+}

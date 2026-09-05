@@ -1,0 +1,9 @@
+{
+  "task_id": "960aa912bb6d633df7c20399",
+  "debate_id": "prop_0127__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "804e483d10f54d536f6d73063b4f33a5f461546fd1daf658c39e97dd67539f43",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly defended a bounded obligation using existing retail channels and explained why private break-even does not capture social value. A identified genuine labor costs and offered a credible disposal-charge alternative, but repeatedly asserted that reduced availability and higher prices would outweigh recovered food\u2019s benefits. B answered enforcement pressure directly and acknowledged imperfect compliance. A\u2019s final replies did not resolve the distinction between unprofitable recovery and socially wasteful recovery.</reason>\n<best_rebuttal>B\u2019s challenge to counting lost full-price revenue as a social cost forced A to concede that the markdown itself is a transfer. B then correctly narrowed the remaining dispute to real handling costs and possible availability losses, exposing how much A\u2019s negative balance depended on unestablished predictions.</best_rebuttal>"
+}

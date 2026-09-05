@@ -1,0 +1,9 @@
+{
+  "task_id": "9380169068ba5d63bc9f0288",
+  "debate_id": "prop_0576__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "c8353cd20f37c22a4459af19e6d0abca9a56c77ab843ce677545b657d05df0cc",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made the debate easier to decide: a public bargain for primarily spiritual/charitable function versus a unique PAC subsidy. A\u2019s entanglement, one-building, and uneven-enforcement warnings were serious, but A\u2019s A1 concession that even a turnout-shop congregation keeps full privileges turned those warnings into unlimited immunity. B then showed A\u2019s own narrow election-law alternative must identify similar conduct, so the administrability objection could not carry the motion as written.</reason>\n<best_rebuttal>B\u2019s conversion of A\u2019s Q1 answer (extreme partisan church still keeps deductibility and property-tax relief) into the closing comparison that CON is defending a steeple-wrapped PAC, not worship.</best_rebuttal>"
+}

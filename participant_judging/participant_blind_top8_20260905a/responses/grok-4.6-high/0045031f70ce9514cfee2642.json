@@ -1,0 +1,9 @@
+{
+  "task_id": "0045031f70ce9514cfee2642",
+  "debate_id": "prop_0619__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "f5661fed82db9e9f7dbe0fbec3f10098573a74453ad7eec3b853350068e32004",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by forcing a clean dilemma: the duty either restates already-criminal threats as a deeper-pocket claim, or it reaches still-lawful coordination that looks like protest, reporting, and swarming, where volume plus hindsight make over-removal the rational response. B\u2019s complementary-duty and specified-precautions case was coherent, but never produced a non-criminal class identifiable in real time without later knowledge of harm, nor showed why a post-injury \u201cwhen warranted\u201d inquiry would beat throttling organized anger.</reason>\n<best_rebuttal>A\u2019s Rebuttal 2: live-location targeting is either already stalking or ordinary public reporting, and a safe harbor still litigating credibility/proportion/\u201cwhen warranted\u201d after injury is not cheaper than making the swarm vanish.</best_rebuttal>"
+}

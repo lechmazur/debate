@@ -1,0 +1,9 @@
+{
+  "task_id": "116d93af7151ccd7c4289441",
+  "debate_id": "prop_0411__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "748f9a47366a77bb150050554aecc4a4206bf342549201330c7cc3fa61397bc7",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a competitive debate by pinning the motion on an operating rule, not a moral claim: \u201cclose to standard\u201d secretly purchases nearby specialized density. That matching problem stayed live after mixed dispatch, fleet replacement, and \u201csome reserve capacity.\u201d PRO was strong on exclusion, accountability, and absolute floors that can still leave large gaps, but never showed how 12-versus-10 waits arrive without idle coverage or cannibalizing edges\u2014especially after saying every car need not be converted. CON\u2019s alternative (floors, ramps, procurement) gave a cleaner vote against this specific mandate.</reason>\n<best_rebuttal>CON\u2019s Q1 on sedan-like pickup without idle oversupply; PRO answered with a larger dual-use fleet, then CON used the 12-vs-10 standard and edge-cut concession to show \u201cclose\u201d still ranks density over honest scarcity.</best_rebuttal>"
+}

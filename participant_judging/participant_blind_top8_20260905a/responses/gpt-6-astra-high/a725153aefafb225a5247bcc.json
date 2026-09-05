@@ -1,0 +1,9 @@
+{
+  "task_id": "a725153aefafb225a5247bcc",
+  "debate_id": "prop_0377__gpt-6-astra-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ff0fc89b720031c19fcdc049c37d6b196dbe17523d95ab78fdb76e9b81ca473d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by explaining how inherited ownership repeatedly purchases the childhood advantages A identifies, distinguishing that durable advantage from most work-dependent high incomes. A raised substantive timing and administrative challenges, but B answered through lifetime-gift coverage, trust-pool valuation, and effects on successive generations. A nevertheless persisted with a funeral-only characterization despite B\u2019s broader opening proposal, and misleadingly generalized B\u2019s conditional concession about below-exemption transfers collecting nothing. B supplied the stronger comparative case without needing to claim its policy eliminates every advantage. A\u2019s clipped second rebuttal adds a small execution cost.</reason>\n<best_rebuttal>B directly challenged A\u2019s relabeling of dynastic returns as annual income: the motion compares dynastic wealth with most high earners\u2019 income, not with every alternative capital tax. Its closing then answered \u201cdurability is not displacement\u201d with the sharper point that an inherited asset base finances repeated displacement across generations.</best_rebuttal>"
+}

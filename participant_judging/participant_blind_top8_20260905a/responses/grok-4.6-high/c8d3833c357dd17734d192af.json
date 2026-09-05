@@ -1,0 +1,9 @@
+{
+  "task_id": "c8d3833c357dd17734d192af",
+  "debate_id": "prop_0499__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "7ffd91bcdc814c568aa5390a94e7821dccf182e5187bd4fdf037cf3bd8a08c19",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON made the motion easier to decide: the stated warrant is unmapped seafloor, yet PRO conceded crews are a bad mapping tool and would still staff the program even if uncrewed work finished the map faster. CON removed the austerity escape, showed sixty years of crewed submergence did not conjure space-scale coverage, and treated crewed space as a cautionary cannibalization story rather than a model to copy. PRO\u2019s political-will and occupation case was coherent and memorable, but it asked the judge to replace coverage with a value the resolution never names.</reason>\n<best_rebuttal>CON\u2019s Q2 and the follow-through in R2/closing: forcing PRO to say yes to putting people in even if robots raster faster, then weighing that as a warrant-remedy mismatch on the motion as written.</best_rebuttal>"
+}

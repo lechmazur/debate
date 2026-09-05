@@ -1,0 +1,9 @@
+{
+  "task_id": "3dd17527bcd7facd49792b9d",
+  "debate_id": "prop_0667__gpt-6-astra-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9c46bd0fbdc01d321a1e95afce39373e5b9f56d3d0ba72569d212c06ff64fc4b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>0.7</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B narrowly wins on seasonal shortages: annual crew rehiring undermines A\u2019s principal gradual-adjustment argument, and an uncapped guest-worker program does not establish timely replacement. A landed strong corrections on H-2A law and discrimination enforcement; B also overstated what Arizona and the absence of a numerical forecast prove. Nevertheless, B\u2019s final distinction between readily available evasion and slower lawful recruitment left a consequential shortage risk insufficiently answered under this conjunctive motion.</reason>\n<best_rebuttal>A exposed B\u2019s incorrect claim that expanding H-2A recruitment requires Congress. B conceded the legal point but preserved the practical objection through processing, housing, and harvest deadlines. That response mattered: removing a numerical cap as an obstacle did not demonstrate that replacement workers would arrive within seasonal hiring windows.</best_rebuttal>"
+}

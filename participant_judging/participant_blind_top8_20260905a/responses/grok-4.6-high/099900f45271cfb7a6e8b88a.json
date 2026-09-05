@@ -1,0 +1,9 @@
+{
+  "task_id": "099900f45271cfb7a6e8b88a",
+  "debate_id": "prop_0465__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1c24a283d720164d3dd17b848cabe27302f979863cc431913ec2cbe8ff10e1dc",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a competitive debate by making the decisive comparison easier: when both a dead river and delayed flood-control or power have irreversible human costs, personhood shifts life-and-death weighing to guardians and judges who never face both sets of victims. PRO\u2019s inventory/standing frame stayed live and memorable, but it did not specify how a river\u2019s duty of care is determined when communities conflict, and it never showed why existing injunctions fail except by restating the property metaphor. CON answered pressure more concretely and closed on accountability rather than recap.</reason>\n<best_rebuttal>CON\u2019s R2 answer that fishers already can seek pre-blast injunctions on livelihood, flow rules, and impact assessment, so personhood adds a vaguer claim and delay rather than an earlier door.</best_rebuttal>"
+}

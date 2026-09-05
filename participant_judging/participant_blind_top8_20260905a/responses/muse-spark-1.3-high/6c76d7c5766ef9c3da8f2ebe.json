@@ -1,0 +1,9 @@
+{
+  "task_id": "6c76d7c5766ef9c3da8f2ebe",
+  "debate_id": "prop_0599__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d16c2f963b25c17b10fa9c22217b006950067f193662a2210c94538b0a09a582",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept a live route that CON never neutralized: mobile populations plus ghost-leakage require interoperable verification, and fragmentation already surveils without remedy. CON's strongest hits on coerced consent and unenforceable purpose limits land, but its alternative of accept-what-she-carries never explains trust/fraud across borders, leaving PRO's feed-first weighing of certain exclusion vs containable logged risk as the cleaner vote under the motion.</reason>\n<best_rebuttal>B's Q1 on how mutual recognition pays a migrant/verifies vaccines without any check, and A's thin answer of clearing funds plus reading a hand-held document, exposed that CON's no-lookup alternative cannot solve the leakage/mobility problem PRO built its case on.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "6fea96051ba763a6708b3e1b",
+  "debate_id": "prop_0563__claude-sonnet-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "11ec338d7d72ec7c825e9575ad451d9ca0fe8e9452958c1d2ce9be5940c7916e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A won the comparison between a standing commitment and predictable, renewable assistance. It explained how binding procurement could preserve production benefits without protecting Ukraine\u2019s allocation against more valuable defensive uses. B established plausible benefits from continuity, but inadequately justified its restrictive suspension threshold. A also answered the signaling pressure directly; B\u2019s closing incorrectly treated residual uncertainty as proof that reallocation and retreat are indistinguishable.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal targeted B\u2019s \u201cequivalent existential threat\u201d threshold: waiting for such extreme stakes can sacrifice preventive defense elsewhere. Coupled with the distinction between guaranteed weapons purchases and guaranteed recipients, this exposed costs that B\u2019s appeals to credibility never adequately outweighed.</best_rebuttal>"
+}

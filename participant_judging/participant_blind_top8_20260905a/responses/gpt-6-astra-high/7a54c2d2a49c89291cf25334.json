@@ -1,0 +1,9 @@
+{
+  "task_id": "7a54c2d2a49c89291cf25334",
+  "debate_id": "prop_0254__gpt-6-astra-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9eda130c44bb8eb33486f1c091f34d8e9e02aa4764a57434b0887ad20003aaa0",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A wins a competitive debate. B exposed a genuine difficulty in judging mixed well-being outcomes, but never established that a primary headline target must be one number. A directly answered the measurement and political-control questions with preannounced targets, independent methods, and continued reporting, while retaining GDP for fiscal and recession monitoring. Crucially, B\u2019s insistence that GDP merely reports output left A\u2019s harmful-growth counterexample substantially unanswered. A better justified changing the hierarchy of accountability; B more successfully defended GDP\u2019s usefulness than its primacy.</reason>\n<best_rebuttal>A\u2019s second pressure question asked how GDP avoids becoming an alibi when output rises while health and security worsen. B answered that GDP never claimed to measure health. A\u2019s closing turned that narrowness against GDP\u2019s entitlement to headline policy success\u2014the clearest unresolved pressure in the exchange.</best_rebuttal>"
+}

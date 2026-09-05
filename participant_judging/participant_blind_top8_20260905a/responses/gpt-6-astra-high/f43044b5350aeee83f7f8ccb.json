@@ -1,0 +1,9 @@
+{
+  "task_id": "f43044b5350aeee83f7f8ccb",
+  "debate_id": "prop_0012__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a4054817d8337f8d61821e092ebc20cc07128f0195cbee6bff015df3839da95b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by distinguishing scientific value from authority to compel research, while explicitly accepting that return can sacrifice irreplaceable knowledge. A made that loss vivid but did not adequately establish who should override legitimate recipients or why institutions should determine future descendants\u2019 interests. B answered the identification challenge directly and showed that future generations inherit community autonomy as well as information. A\u2019s final irreversibility comparison sharpened its case, but limiting an unwanted study did not resolve those objections.</reason>\n<best_rebuttal>B\u2019s strongest rebuttal granted one bounded study and guaranteed return, then explained that a deadline limits the override without justifying it. This directly undermined A\u2019s proposed compromise rather than relying solely on the risk of endless delay.</best_rebuttal>"
+}

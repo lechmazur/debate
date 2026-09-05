@@ -1,0 +1,9 @@
+{
+  "task_id": "5b6d6acf7972472c2265f9c6",
+  "debate_id": "prop_0469__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "eb9d4f8e509d95d31b10a1291ba837c53ec1552c7f2da038b76f01eef779be18",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B established the stronger comparative case: recognition creates an additional accountability route without requiring universal enforcement. Its dam answer supplied concrete evidence of unnecessary destruction, rather than abandoning the proposed standard as A alleged. A raised substantial predictability and selective-enforcement concerns, but overstated them into inevitable arbitrariness and uselessness. Its redundancy argument also failed to distinguish existing domestic offenses from accountability beyond a protecting government. B answered the central pressure more directly and maintained better-qualified claims.</reason>\n<best_rebuttal>B\u2019s strongest rebuttal distinguished an unwilling host government from a willing arrest state. This directly undermined A\u2019s claim that the backstop works only where domestic prosecution already functions. A\u2019s travel-avoidance response limited likely enforcement but did not eliminate the additional route B defended.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "2fd802d4801b0af82b352d29",
+  "debate_id": "prop_0021__gpt-6-astra-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b4a2d7b04efa81e43e09c8d47b167b7a5171ae70557ea0575d7e479432b9a5a4",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B established the decisive distinction between community approval and sufficient cooperation. Its safeguards, livelihood protections, and cancellation criteria supported proceeding despite disagreement without requiring infeasible releases. A raised serious implementation and fairness concerns, but repeatedly assumed that community opposition necessarily destroys cooperation. Its closing then redefined workable cooperation as consent rather than answering B\u2019s distinction. B directly answered the enforcement and compensation questions, while A continued portraying consultation as predetermined despite explicit provisions allowing cancellation. A\u2019s memorable rhetoric made the risks vivid; B supplied the stronger comparative decision rule.</reason>\n<best_rebuttal>B\u2019s response to the \u201cconsultation is theater\u201d argument was decisive: local evidence can change or cancel a release without objection automatically deciding it. Coupled with the distinction between approval and cooperation, this defeated A\u2019s claim that overriding objections must mean ignoring feasibility.</best_rebuttal>"
+}

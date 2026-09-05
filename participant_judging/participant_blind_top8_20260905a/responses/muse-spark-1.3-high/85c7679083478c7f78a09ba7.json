@@ -1,0 +1,9 @@
+{
+  "task_id": "85c7679083478c7f78a09ba7",
+  "debate_id": "prop_0502__muse-spark-1.3-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "fc350d76926f3d48e37c1783df6775793f8cc8ab821c9efd5acbfeff377940a2",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won on feasibility plus sufficiency. Inhabited-territory distinction, Ilulissat rejection, and Russian second-strike bastion made Antarctic demilitarization/claims-freeze look unratifiable and undesirable, while Barents 2010, Polar Code, SAR/spill deals gave concrete existing governance. PRO's offshore-only adaptation and 1959 urgency blunted but never solved the ratification veto or deterrence problem.</reason>\n<best_rebuttal>Pressure on Russian deterrent and Ilulissat no-to-yes was decisive: A's Q1/Q2 exposed that treaty needs signatures of states that refused it and would surrender survivable deterrent, and B's A1/A2 reply about capping a race it cannot afford and deadlock forcing yes was vague versus A's concrete Barents/Polar Code/CLCS answers.</best_rebuttal>"
+}

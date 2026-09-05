@@ -1,0 +1,9 @@
+{
+  "task_id": "597ee2138bb3c0963a385f6a",
+  "debate_id": "prop_0487__claude-fable-5-1-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "39e791aae4752dfc2697f907a0aed5d61a2dcbe20be87d399134344553065944",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>7</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the lead-time clash. PRO's early-nudge physics and 7-year dead-zone were strong, but CON showed characterization/scout delay applies to a standing bus too, plus diversity, obsolescence, cost and corridor politics. PRO overclaimed surveys as conceding the motion and relied on a dubious dual-use bus, with two clipped turns as execution cost.</reason>\n<best_rebuttal>B4.4 to B5.2 scout-first attack: if the heavy hitter cannot be aimed until a scout characterizes mass/spin/structure, a parked bus waits anyway and readiness buys upkeep not lead time, directly neutralizing PRO's year-one vs year-four claim.</best_rebuttal>"
+}

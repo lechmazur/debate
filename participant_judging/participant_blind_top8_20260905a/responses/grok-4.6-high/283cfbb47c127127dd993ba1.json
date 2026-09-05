@@ -1,0 +1,9 @@
+{
+  "task_id": "283cfbb47c127127dd993ba1",
+  "debate_id": "prop_0599__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "348d5d9f1d95839d2fff69366f1466cc152e3b849bf5829a177de40b5172e71c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by forcing the motion onto the actual instrument: a continent-wide interoperable digital gate, not identity in general. PRO never fully escaped that sleight of hand, while CON showed delivery gains were non-unique (headcounts, published payrolls, local proof) and used PRO\u2019s junta concession plus fallbacks to argue surveillance arrives and cannot be bound, whereas analog exclusion can still be reformed. PRO\u2019s exclusion-now and Union-scale mobility points stayed live, but CON\u2019s irreversibility weighing and clearer alternative made the vote easier.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2: PRO admits the AU will not bind a junta, then offers purpose limits and human overrides; CON turns both into proof that the backbone is an unenforceable hunting tool whose \u2018safeguards\u2019 recreate the local nurse while making targeting instant and exportable.</best_rebuttal>"
+}

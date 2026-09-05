@@ -1,0 +1,9 @@
+{
+  "task_id": "e66e5ee0f44889d83aeeca0b",
+  "debate_id": "prop_0127__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "aedde572ce2ca90bed70e6ea0635408501c3381e5a8162cf90a3237afcb39383",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a competitive debate by making the live comparison cleaner: a requirement binds on residual nights after food is no longer sellable, so the certain extra job (classify, hold, document, wait) is not a free meal. PRO\u2019s France-intake and \u201csame fridge/same software\u201d claims were overclaimed and then forced into a documented-attempt retreat, while CON refused the waste-shrinkage trap and kept the proposition as a ban on the last operational choice rather than a plan that already pays.</reason>\n<best_rebuttal>CON\u2019s R2 after Q1: same tracking is not the donation job, intake is not dinner, and a documented attempt plus dumpster is a form, not a table, on the nights the mandate actually binds.</best_rebuttal>"
+}

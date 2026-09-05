@@ -1,0 +1,9 @@
+{
+  "task_id": "e9e9728b9d311a32696ef0fa",
+  "debate_id": "prop_0469__claude-fable-5-1-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5012868a920de8a03ca04068149ae3ec5b9cd9a6c792090a7bdb57232e202a58",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won the comparative argument without defending impunity. B offered credible proportionality analogies and a complementary-tool rationale, but overstated what recognition itself supplies in jurisdiction and enforcement. A directly answered both pressure questions, corrected the alleged domestic-law concession, and exposed B\u2019s retreat from categorical protection for permitted projects to permits being merely evidence. The resulting development-policy uncertainty remained unresolved, while B did not adequately distinguish its proposed accountability gains from those available through coordinated enforcement of specified environmental offenses.</reason>\n<best_rebuttal>A\u2019s distinction between removing official-capacity immunity and establishing jurisdiction directly undermined B\u2019s promised access to protected perpetrators. B\u2019s closing treated this as demanding guaranteed arrests rather than answering the missing jurisdictional step.</best_rebuttal>"
+}

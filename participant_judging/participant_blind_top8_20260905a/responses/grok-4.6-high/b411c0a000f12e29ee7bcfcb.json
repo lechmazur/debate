@@ -1,0 +1,9 @@
+{
+  "task_id": "b411c0a000f12e29ee7bcfcb",
+  "debate_id": "prop_0291__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0327b4944f77884a4421dbf1be89f24128053bc917d2d06a9899160db36a4ff3",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won a competitive debate by making the choice easier: the dial is never empty, the motion is a capability not a mandate, and CON\u2019s architecture/abuse/obligation harms stayed more conjectural than the nightly engagement default. B landed real damage on platform definition of \u201crecommendation,\u201d the primary-device lock, and the workaround tension, but never neutralized A\u2019s comparison and lost execution when Rebuttal 1 was clipped.</reason>\n<best_rebuttal>A\u2019s Rebuttal 1 contradiction\u2014CON treating the OS layer as both an unpickable cage and something teens shrug off with a spare phone\u2014plus the \u201cdial is never empty\u201d pressure, which forced B onto a messier \u201cdeny the forced choice\u201d line.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "5be8f759708f74d5f4a35046",
+  "debate_id": "prop_0423__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b0e81e9dd1ee2954a7488366063dbb1f2f3c01e6d9a1bb3fb91c2f53e01000c0",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A better justified why community relationships warrant a limited allocation alongside the general market. B exposed genuine targeting problems and potential costs to outsiders, but A answered that pressure directly, acknowledged the trade-offs, and distinguished reciprocal obligations from poverty targeting. B increasingly treated equal eligibility as sufficient proof of fairness and preferential allocation as inherently unjust, rather than defeating A's justification. A also more effectively challenged the conflation of purchasing power with commitment.</reason>\n<best_rebuttal>A explained that reciprocity determines eligibility while the lottery prevents wealth from determining winners within that allocation. This directly answered B's claim that imperfect poverty or passion targeting invalidated the policy. B's response calling this a \u201ctwo-step privilege\u201d largely restated its objection rather than rebutting those complementary rationales.</best_rebuttal>"
+}

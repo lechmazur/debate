@@ -1,0 +1,9 @@
+{
+  "task_id": "58962a76a5a6ce94cf36ac8f",
+  "debate_id": "prop_0280__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "527565eea146c5dc55146a1659418940267ebe797fa368ab0eecfb797f4ffae9",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a close, high-quality clash by tying the motion to lived pressure\u2014the package, the aunt, the \u201cactual wedding\u201d\u2014and showing B\u2019s purified rite is not what obligation actually enforces. B\u2019s form-versus-invoice frame was the debate\u2019s clearest idea and stayed live, but A\u2019s inseparability argument forced B into a costly kin-facing duty that walked back \u201ctradition never asks for debt,\u201d while sting-as-enforcement could not be cleanly capped. A\u2019s elopement answer overextended, yet \u201clittle obligation\u201d still tracked the motion better than B\u2019s claim that any release from public form collapses the whole duty.</reason>\n<best_rebuttal>A\u2019s first rebuttal that the inherited tradition cannot be quarantined from its enforcement (guest lists, \u201cwhen\u2019s the actual wedding?\u201d), which turned B\u2019s modest examples into exceptions to the rule they called binding.</best_rebuttal>"
+}

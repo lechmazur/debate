@@ -1,0 +1,9 @@
+{
+  "task_id": "e15c99d02c35dcaf68977dce",
+  "debate_id": "prop_0576__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "dd50a221f9e48e20ea279c59284c41ad6b0c14f6eaf8d9ccf00f3e6a39d31830",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO kept the high-bar bargain live: equal treatment with secular charities, real taxpayer subsidy, and moral-preaching vs candidate-machine distinction with observable metrics. CON's vagueness/capture warning stayed abstract and its subsidy denial was weak, and its concession that checks/political-committee status should cost advantages collapsed its absolute-barrier claim with no principled cash-vs-subsidized-machine line.</reason>\n<best_rebuttal>B's Rebuttal 2 answers plus exposure of CON's conscience-made-audible rule as absolute immunity, sealed in Closing by turning CON's check concession into proof exemption is conditional.</best_rebuttal>"
+}

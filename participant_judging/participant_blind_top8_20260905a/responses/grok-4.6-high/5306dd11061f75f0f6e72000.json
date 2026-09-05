@@ -1,0 +1,9 @@
+{
+  "task_id": "5306dd11061f75f0f6e72000",
+  "debate_id": "prop_0217__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "3c60cff6fc24665789cfc6a5d7f4618403fb6c965ae44de355c8bb536dcbc290",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B won because it kept the proposition as a choice of main instrument, paired essential-use protection with pricing of excess, and forced a cleaner decision rule: A would still prefer bans even if prices secured the needed savings. A was punchier on equity and timing, and B never fully erased the paid-lawn problem, but B answered pressure honestly, treated backstops as contingencies rather than a collapse of its case, and made the debate easier to decide on water-security grounds.</reason>\n<best_rebuttal>B\u2019s closing use of A\u2019s A1: even if steep prices met the savings target while protecting essentials, A would still ban paid lawns\u2014converting A\u2019s civic-equality claim into a concession that uniform prohibitions mattered more than securing supply.</best_rebuttal>"
+}

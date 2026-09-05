@@ -1,0 +1,9 @@
+{
+  "task_id": "b4ea3a57259bd125900d1002",
+  "debate_id": "prop_0421__claude-opus-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "3a7360e538d60c69df933e662f8f589734df8878b9ddb7df92d4cd996982b92c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>7</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A won by narrowing when vs whether itemized and showing fixed fees and rate-rules can be disclosed before final screen when inputs exist, neutralizing B's unknowability/clutter core. B conceded easy flat-fee cases and retreated to exact-dollars homework frame that never answered leverage/sunk-cost pressure.</reason>\n<best_rebuttal>A's Rebuttal 2 A1/A2 rate-card plus conditional-disclosure answers, which turned B's wrong-estimate and clutter questions into support for early rule disclosure.</best_rebuttal>"
+}

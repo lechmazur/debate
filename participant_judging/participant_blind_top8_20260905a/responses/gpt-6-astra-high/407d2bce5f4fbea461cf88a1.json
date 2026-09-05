@@ -1,0 +1,9 @@
+{
+  "task_id": "407d2bce5f4fbea461cf88a1",
+  "debate_id": "prop_0649__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "fe1b1d79ddd366a3da6cda4daf589569551fbca2bd79629fe6194f067cf78202",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A distinguished competition over energy prices from exemption from shared infrastructure costs, then directly answered responsibility for upgrades, curtailment and backup. Its potential savings mechanism remained plausible where export purchasing is restricted. B raised legitimate administrative and enforcement concerns, but insufficiently explained why A\u2019s specified safeguards would fail. Instead, B repeatedly assumed negligible margins and inevitable cost-shifting. A therefore established the stronger case for regulated permission over prohibition.</reason>\n<best_rebuttal>A\u2019s distinction that protection is mandatory while profit is conditional undermined B\u2019s \u201charmful or pointless\u201d dilemma. B conceded fair charges need not eliminate every saving, then defended banning compliant trades through largely asserted systemic risks rather than a developed comparative explanation.</best_rebuttal>"
+}

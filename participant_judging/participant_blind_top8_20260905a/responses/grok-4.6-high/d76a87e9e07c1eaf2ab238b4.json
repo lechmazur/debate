@@ -1,0 +1,9 @@
+{
+  "task_id": "d76a87e9e07c1eaf2ab238b4",
+  "debate_id": "prop_0277__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "dbb9edbafa1470cf7ed98d5926a2fc1c10de5726a34369d873895aeafd7ff419",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won a competitive debate by making spreading look like ordinary capacity management, splitting the trip into a fixed icon and relocatable hours, and trapping B on seasons plus elasticity. B\u2019s best hit\u2014that the core stays packed so diffusion only drafts new streets\u2014was real, but B never fully answered seasonal spreading or \u201cwhere the next visitor goes,\u201d and the clipped second rebuttal left A with the cleaner path: managed diffusion versus a sacrifice zone plus stay-home.</reason>\n<best_rebuttal>A\u2019s first-rebuttal elasticity trap plus the 90-minute/40-hour split, which forced B to defend pricing the basilica while claiming complements cannot move and the core must stay a permanent scrum.</best_rebuttal>"
+}

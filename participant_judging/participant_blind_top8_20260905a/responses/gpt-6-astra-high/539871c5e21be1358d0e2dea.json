@@ -1,0 +1,9 @@
+{
+  "task_id": "539871c5e21be1358d0e2dea",
+  "debate_id": "prop_0327__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d295c7af7df4e9489a086d3aabd35dbfc4d4addb9aae42dbdcd34cf53e485215",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins by distinguishing meaningful access obligations from categorically disregarding reputational costs. Its boutique challenge exposed B\u2019s narrowing of a motion without a dominance exception, while its substantial-loss threshold made the competing interests concrete. B compellingly explained creators\u2019 dependence on chokepoints, but did not adequately justify unlimited commercial exposure. Its closing also mischaracterized A\u2019s substantive safeguards as mere paperwork. B\u2019s sweeping claims about selective exclusions and documented harms received less weight because their grounding was not established.</reason>\n<best_rebuttal>A answered the \u201czero enforceable duties\u201d challenge with independent review empowered to restore access, evidence of substantial expected losses, and consideration of less restrictive measures. This materially defeated B\u2019s unchecked-gatekeeper framing; B\u2019s subsequent \u201cban with paperwork\u201d response did not engage the actual threshold.</best_rebuttal>"
+}

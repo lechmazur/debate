@@ -1,0 +1,9 @@
+{
+  "task_id": "1417cb4f99026201dffcd4b5",
+  "debate_id": "prop_0533__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "2dd679757ac12081354b7ed04f46a9e8773f6114fea6cc9970659922754a55c7",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won by making the default-rule clash decisive: with no referee, B\u2019s dry-year hold is a renewable stop on Ethiopia\u2019s calendar, i.e. the veto the motion is about. A backed that with hydro non-consumption, Aswan as a real buffer, staged filling without collapse, and one-way \u201cequity.\u201d B landed sharp hits on wet-versus-dry seasons and generation as a motive to hold water, but never specified a non-veto constraint and leaned on a shock that had not arrived.</reason>\n<best_rebuttal>A\u2019s turn of B\u2019s \u201cbuild, but not on a private filling schedule\u201d into \u201ca dam you may build but may not fill is a wall,\u201d then locking it when B said Ethiopia still may not proceed on its remaining timetable while Egypt\u2019s drought objection is live.</best_rebuttal>"
+}

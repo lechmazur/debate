@@ -1,0 +1,9 @@
+{
+  "task_id": "335182739871c56cc36e9965",
+  "debate_id": "prop_0078__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "526ff34223e30813009e752b75ae2db7f69b65a9cfe01f2271261a8b5b8f3636",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO built the cleaner path on the motion as written: public language and liberal operating rules as non-optional civic infrastructure, with opportunity failing if the host makes remaining outside costless. CON\u2019s best weapon was the \u201cwhat does expectation add?\u201d trap and the two-tier charge, and those rebuttals were sharper, but CON\u2019s honest answer that large voting blocs may demand courts and schools in a private tongue as ordinary politics conceded the language clash. Civic-norms examples mostly collapsed into existing law; the surviving, vote-moving comparison was unequal public membership if the common tongue is optional.</reason>\n<best_rebuttal>PRO asked whether never-adopting the public language extends to large voting populations; CON said yes, as ordinary pluralism (Finland/Belgium/multilingual ballots). PRO then weighed that as emptying equal membership of public content\u2014the exchange that decided the live clash.</best_rebuttal>"
+}

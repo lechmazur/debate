@@ -1,0 +1,9 @@
+{
+  "task_id": "edc7d7c7514e155c4931b71a",
+  "debate_id": "prop_0576__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e02914b6718d8b16b515693f53599ad0c4574a067840fe0443fbe7f88d29157a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive debate by making the choice easier: tax privileges are a function-based public bargain, not a unique PAC subsidy. B\u2019s honest concession that even a congregation spending most of its budget on nominee turnout still keeps deductibility and property-tax relief left CON with no off-ramp. A\u2019s operational primary-purpose test and PAC-split answer handled the theology and pantry objections more cleanly than B answered the loophole and election-law inconsistency. B\u2019s church-state and enforcement warnings stayed live but did not neutralize the motion.</reason>\n<best_rebuttal>A\u2019s Q1 forced B to keep full tax advantages even for a majority-campaign church; A then used that concession as the decisive comparative in rebuttal 2 and closing.</best_rebuttal>"
+}

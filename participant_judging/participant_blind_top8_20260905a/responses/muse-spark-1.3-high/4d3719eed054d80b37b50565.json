@@ -1,0 +1,9 @@
+{
+  "task_id": "4d3719eed054d80b37b50565",
+  "debate_id": "prop_0400__claude-sonnet-5-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "cebe2e918fd0c4c05110ea1d06f207bb981cd6f1dfee78441642c340eba71bdc",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO narrowed to on-request review for adverse cases, answered backlog with continued aid on state cost and rubber-stamp with evidence-responsive reasons test, then showed CON's reasons/correction fix still requires a human for judgment calls like credibility and caregiving. CON never solved who decides non-data disputes.</reason>\n<best_rebuttal>PRO's A1/A2 in Rebuttal 2 plus closing on judgment vs data-mismatch was decisive against CON's correction-without-decider answer.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "dbfde6b6efefe8ea08a9bb3e",
+  "debate_id": "prop_0277__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "bc37f181b527176d6d0db31c33a79cab46668de45ae5ed509c4672fbd869618a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON won a competitive, high-clarity clash by making the decision rule easier: non-linear tipping, choke-point vs capillary enforcement, and irreversibility showed spreading creates first-time losses without rescuing the core. PRO\u2019s leak, leftover-residents, and \u201cvolume vs who pays\u201d frames stayed live but never neutralized that weighing. A clipped CON opening is a real cost, not enough to flip the round.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2 answers to PRO\u2019s pressure: visitors belong in an already-tipped core because damage is thresholded, and dispersal demands the capillary enforcement the overload already proves cities lack.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "91c381b3a5cc3eabe326b765",
+  "debate_id": "prop_0374__gpt-6-astra-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "2b0c111e760a989f1a122c779f4877cdaa01a1d20656a4a2c62c846ab0eda71c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.5</margin>\n<fun>6</fun>\n<arg_a>4</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>8</reb_b>\n<ground_a>4</ground_a>\n<ground_b>7</ground_b>\n<orig_a>4</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>5</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B offered the stronger comparison: fear-driven omissions can distort understanding, spread beyond disputed material, and weaken opportunities for correction. It directly answered the pressure questions by distinguishing difficult detection from impossibility and acknowledging the absence of precise frequency evidence. A usefully challenged repairability, but never justified treating omissions as easily repaired while false assertions were effectively irreversible. Its repeated insistence that uncounted harms cannot be ranked also exceeded its own evidentiary standard: calling content harms documented did not establish a comparative baseline.</reason>\n<best_rebuttal>B decisively separated a harm\u2019s form from its cause: labeling an omission-induced misconception a content defect does not erase the political self-censorship that produced it. This defeated A\u2019s attempt to appropriate B\u2019s central example rather than answer its causal comparison.</best_rebuttal>"
+}

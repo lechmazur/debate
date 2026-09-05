@@ -1,0 +1,9 @@
+{
+  "task_id": "a56069ebc912e1f79378d6ee",
+  "debate_id": "prop_0446__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "a346122fd3c22efc0321dad05d2d3d9c663c7264eda1b711a79887f7759c4bce",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the central comparison between synchronized retirement and enforceable emissions reductions. A offered a plausible coordination and coal-lock-in case, but repeatedly dismissed binding emissions budgets as though they were voluntary promises. B directly answered the pressure questions and showed why limited reserve generation need not undermine binding reductions. A\u2019s concessions on extensions and gas replacement left unresolved whether the common deadline adds enough climate benefit to justify its rigidity.</reason>\n<best_rebuttal>B turned A\u2019s admission that gas replacement could comply into a concrete incentive objection: clean-energy support does not eliminate deadline pressure when projects arrive late. B also correctly challenged A\u2019s asymmetric reliance on enforcement for closure dates while discounting enforcement of emissions budgets.</best_rebuttal>"
+}

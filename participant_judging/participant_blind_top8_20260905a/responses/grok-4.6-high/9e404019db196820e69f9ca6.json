@@ -1,0 +1,9 @@
+{
+  "task_id": "9e404019db196820e69f9ca6",
+  "debate_id": "prop_0410__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b80fef79cec4f03f715b7f70c47c0a15d4448ede4db8864918bd81a3f50a6ec8",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by keeping the motion on the actual average, not a controlled leftover, and by holding the by-design missing-sex distinction against B\u2019s stepfamily analogy. B\u2019s stability and waiting-child case was forceful but kept rewriting \u201con average\u201d as laboratory equality and never showed why that residual earns interchangeability in law.</reason>\n<best_rebuttal>A\u2019s cut that stripping breakup, donor conception, and a withheld sex changes the question, plus the stepfather-still-leaves-a-mother vs two-fathers contrast.</best_rebuttal>"
+}

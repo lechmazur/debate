@@ -1,0 +1,9 @@
+{
+  "task_id": "703cad84df9f2196b9eccbfa",
+  "debate_id": "prop_0526__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1ae45984cee3f69e06965f4b795e063863cbf0c6fee205a2a9a51cf96cd97cee",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B kept a live rebuttable-priority rule: residents' relational interests are part of the public interest, so economic edge needs to show substantial harm to justify separation. Side A never answered that selective-accounting point and conceded a modest edge does not justify parent-child separation, then failed to justify limiting the motion to queuing for spouses/partners beyond assertion. A's inheritance/chain and stewardship points were strong but blunted by B's dependency limits and severity test.</reason>\n<best_rebuttal>B's pressure that a modest fiscal edge must justify years of separation forced A's A1 concession of a humanitarian floor, which B then used to show economic return is not decisive and that A's urgent-needs exception is a normal rebuttable priority, not a surrender.</best_rebuttal>"
+}

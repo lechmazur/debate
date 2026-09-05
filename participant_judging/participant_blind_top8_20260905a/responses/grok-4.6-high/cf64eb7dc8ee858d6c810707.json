@@ -1,0 +1,9 @@
+{
+  "task_id": "cf64eb7dc8ee858d6c810707",
+  "debate_id": "prop_0062__glm-5-3-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a29b3980399e33eeb0de1d147028ca0c0f2b872f14c110320b2eab30e027cd3d",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by keeping the motion intact: likely net white-collar job loss was the load-bearing clause, and PRO never earned it. PRO\u2019s best frames (cost-center caps, junior-rung hollowing, insurance) were real, but later speeches substituted transition pain, \u201cjobs AI itself creates,\u201d and prepare-anyway prudence for that showing. CON answered elasticity inside the budget-share loop and made the definitional counting a tautology, which left the cleaner vote.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2: a revenue-share cap is not a headcount freeze, and counting only thin AI-lab jobs makes net destruction true by construction.</best_rebuttal>"
+}

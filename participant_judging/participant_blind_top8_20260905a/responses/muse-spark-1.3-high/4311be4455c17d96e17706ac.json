@@ -1,0 +1,9 @@
+{
+  "task_id": "4311be4455c17d96e17706ac",
+  "debate_id": "prop_0465__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9827c03c88072a72113c8faa52fb5407924a939da5cd30a6f494c7bea1e4a04a",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the decisive clashes on conflicting requests, democratic bind, and infrastructure costs. PRO's legal-but-lethal standing point was strong, but CON's corporation distinction, named-plaintiff alternatives, and towns-do-not-drink-later weighing survived, while PRO conceded joint guardianship and grant-even-if-sewage-plant-is-enjoined, blunting its own on-request mandate.</reason>\n<best_rebuttal>B's Q1/Q2 on opposite community requests and enjoining a beneficial sewage plant forced A's retreat to joint board plus bite-the-bullet, which B then framed as co-management in a mask plus years without pipes.</best_rebuttal>"
+}

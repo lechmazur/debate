@@ -1,0 +1,9 @@
+{
+  "task_id": "9c0d15007fd20388057949d0",
+  "debate_id": "prop_0132__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "220a816668da37496947c11449fe0678edf297abd28ce0337cff82747dcf24b3",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.1</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A wins through clearer causal reasoning and more responsive rebuttal. B establishes genuine discovery and classification costs, which A acknowledges, but repeatedly treats avoiding harmful recommendations as worthless unless the algorithm itself is repaired. A also exposes the unsupported leap from a more partisan recommendation audience to greater societal polarization or civic silence. B's unspecified ranking reform does not uniquely favor keeping recommendations on by default. A's classification safeguards and net-benefit weighing remain underdeveloped, limiting the margin.</reason>\n<best_rebuttal>A decisively answers B's \u201cthe disease remains\u201d objection: reducing involuntary exposure can reduce harm even when opted-in users retain the same risk. B repeats its objection rather than explaining why that avoided exposure has no value or is outweighed by lost discovery.</best_rebuttal>"
+}

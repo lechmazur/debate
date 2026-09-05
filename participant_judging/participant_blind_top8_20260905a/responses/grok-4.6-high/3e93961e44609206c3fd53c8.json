@@ -1,0 +1,9 @@
+{
+  "task_id": "3e93961e44609206c3fd53c8",
+  "debate_id": "prop_0114__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "139e74b4d7277ae758894d048c115d700d434fa3671ff43f64abd0cdc18fb533",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the live comparison: credits are the wrong instrument\u2014late, regressive, and a cheap substitute for help now\u2014while PRO\u2019s invoice-test and contribution-gap case stayed powerful but never killed timing, targeting, or crowd-out. PRO held the motion\u2019s \u201ccredits vs invisibility\u201d binary tightly; CON still made it easier to vote no on this policy.</reason>\n<best_rebuttal>CON\u2019s R2 A1/A2: a tax transfer is honest, adjustable, and paid when needed, while a pension credit disguises the same spend as earned insurance and still leaves today\u2019s caregiver with nothing until seventy.</best_rebuttal>"
+}

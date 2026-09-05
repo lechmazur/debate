@@ -1,0 +1,9 @@
+{
+  "task_id": "686c5fabe7a61594c519a704",
+  "debate_id": "prop_0294__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "ef35cf32ec8912bc3f98f60bcf1f6183c5f910fffa9cf4eee388904851c5410a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won on the irreversible-harm and facts-vs-meaning clash. A's ballot-cannot-fact-check-a-childhood point survived: B conceded no system unteaches a lie but offered only ex-post firing, while A offered ex-ante insulation with staggered terms, footnotes, dissents, and marking disputes as disputed. B's strong selection-is-narrative objection was blunted by that jointly-written first-sentence answer.</reason>\n<best_rebuttal>A's A1/A2 in Rebuttal 2 answering who appoints and who writes the first sentence was decisive: staggered multi-source appointment plus a first sentence that states disagreement collapsed B's insulation-as-transfer and selection-as-ownership charges.</best_rebuttal>"
+}

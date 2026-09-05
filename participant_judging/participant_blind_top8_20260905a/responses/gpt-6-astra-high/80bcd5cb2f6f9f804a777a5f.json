@@ -1,0 +1,9 @@
+{
+  "task_id": "80bcd5cb2f6f9f804a777a5f",
+  "debate_id": "prop_0469__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "59fb10269749f1bb6281a3115477ecc5572d62157debd8ab8570aa087047fa94",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A establishes a limited but meaningful additional accountability route: cooperation elsewhere can matter even while the host government remains complicit. B raises serious predictability and enforcement concerns, but overstates them into claims of inherent arbitrariness and practical uselessness. Its domestic-crime redundancy argument does not answer the international enforcement gap. A answers both pressure questions concretely and acknowledges limitations, while B\u2019s closing largely repeats a dilemma that A had substantially answered.</reason>\n<best_rebuttal>A identifies a knowingly rejected, equally effective and affordable alternative as evidence of clearly excessive damage. B recasts this as destruction offering no benefit, overlooking the distinction between the dam\u2019s overall benefits and its unnecessary additional destruction. That weakens B\u2019s central claim that A supplied no provable fact supporting liability.</best_rebuttal>"
+}

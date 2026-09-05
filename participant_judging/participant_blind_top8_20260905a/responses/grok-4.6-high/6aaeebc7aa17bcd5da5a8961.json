@@ -1,0 +1,9 @@
+{
+  "task_id": "6aaeebc7aa17bcd5da5a8961",
+  "debate_id": "prop_0623__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "713e33fc9627cb4891eb95d26a3661d7b0fd3f0631206313ce49e699a5212c33",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close debate by making the live clash easier to decide: once both sides impose a floor, a public statute that binds strangers is the honest tool, while state-extended sectoral deals are incumbent contracts scored as coverage. PRO had a strong scale-and-calibration case and a real turn that CON\u2019s rigidity worries also hit a blunt national minimum, but CON answered the outsourced-cleaner pressure with a coherent alternative and kept converting PRO\u2019s \u201call floors impose\u201d move into a reason to reject the motion rather than adopt it.</reason>\n<best_rebuttal>CON\u2019s pressure on the holdout contractor, then the R2/closing conversion of PRO\u2019s imposition concession: law may bind strangers; a bargain made binding on firms that would reject it is industrial regulation, and a coverage statistic can hide priced-out first jobs.</best_rebuttal>"
+}

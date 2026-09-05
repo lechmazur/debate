@@ -1,0 +1,9 @@
+{
+  "task_id": "a7e3fc1c0ae8ae8a8e691d00",
+  "debate_id": "prop_0367__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e9624b8ada74c5e1a963c5979be7683827f78324618ae08a4e1dff46a1e97582",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO won the financing clash by separating voluntary commitment from forced lock-in. CON argued cheap bundles need sticky off-month revenue, but conceded most would not churn, letting PRO show flexibility is optional insurance plus an explicit stay-put discount, and turn the transit-pass analogy: the annual pass is cheaper because the monthly exit exists. CON never restored why a maze is needed to fund shows.</reason>\n<best_rebuttal>PRO's Rebuttal 2 A1/A2 plus closing turn on the transit pass: if pause is rare it cannot kill 3-year commissions, if universal the cheap sticker depended on idle seats, so lock-in is extraction not production constraint.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "c001ff36f926d3aace918d4f",
+  "debate_id": "prop_0579__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "a5334ea02fe0d029f2c66fc6129d238ada8ea08797c64f9fe2ff0171c900b0a5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by making the qualitative gap between leaky analog identity and a nationally blessed instant-trust credential the live decision rule, then showing optionality dies by incentives and delay rather than repeal. A was disciplined on present-versus-contingent weighing and architectural replies, but never fully neutralized concentration, access exclusion, or mandate creep.</reason>\n<best_rebuttal>B's first rebuttal that SSNs \"prove little\" while a digital credential \"proves everything at once,\" which broke A's SSN-equivalence and powered the later incentives and permanence weighing.</best_rebuttal>"
+}

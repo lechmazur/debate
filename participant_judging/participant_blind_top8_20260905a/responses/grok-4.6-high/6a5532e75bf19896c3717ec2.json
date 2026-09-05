@@ -1,0 +1,9 @@
+{
+  "task_id": "6a5532e75bf19896c3717ec2",
+  "debate_id": "prop_0214__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5810dd2d6608a5f8fbe2bc29fb56203bb186d7abb5f2f68b11ff08e0505dca11",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a competitive debate by turning CON\u2019s \u201cno stopping rule / unlimited descendants\u201d attack into bounded design (defined awards, proof, survivor priority, one inherited claim) and making the decisive comparison whose interests close the window. A\u2019s ratchet, privacy, and non-transmissible-claim points stayed live and original, but the irreversibility-as-reason-not-to-pay line was damaged, and the withheld-file/dying-survivor case left closed-chapter CON looking like a state-delay discount rather than a finished obligation.</reason>\n<best_rebuttal>B\u2019s Rebuttal 1\u20132: irreversibility does not justify less redress, plus \u201cmeaningful access\u201d as a fair chance to prove (not an endless archive hunt), which then made CON\u2019s dying-survivor closure look like rewarding delay rather than multiplying liability.</best_rebuttal>"
+}

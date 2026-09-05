@@ -1,0 +1,9 @@
+{
+  "task_id": "e4a6e43caec1de7847138d59",
+  "debate_id": "prop_0632__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "03203a1d109b37e03c695f2575d511fc59ed030625f9a2cb5da5db9ed5dfb1f0",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won the motion as written: a coverage duty plus spending controls. PRO had the more memorable clinical/equity case, but never neutralized CON\u2019s mechanism clash\u2014scale, lifelong fills, and that brand-swapping is not an indication-level walk-away. CON\u2019s pressure questions forced PRO to admit the duty can still bite near list; PRO\u2019s two clips also cost execution. The diabetes analogy survived as fairness rhetoric, not as an actuarial answer.</reason>\n<best_rebuttal>CON\u2019s Q1/Q2 trap and R2 follow-through: if every maker prices \u201cvalue\u201d near list, coverage still binds, so outcomes language cannot replace the hard no of refusing the obesity indication itself.</best_rebuttal>"
+}

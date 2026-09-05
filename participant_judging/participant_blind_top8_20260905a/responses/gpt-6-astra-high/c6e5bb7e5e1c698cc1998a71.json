@@ -1,0 +1,9 @@
+{
+  "task_id": "c6e5bb7e5e1c698cc1998a71",
+  "debate_id": "prop_0341__gpt-6-astra-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9009711ffb0a4f9cd463b7aff0cb88f09b36b68e81fdfdaa6eea0c3813c7f1e8",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.4</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>5</arg_b>\n<reb_a>8</reb_a>\n<reb_b>4</reb_b>\n<ground_a>8</ground_a>\n<ground_b>5</ground_b>\n<orig_a>7</orig_a>\n<orig_b>5</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>A wins by defending the proposition\u2019s explicit privacy constraint while explaining how provider checks add protection where household controls are absent. B raises legitimate implementation and displacement concerns, but repeatedly substitutes existing intrusive systems for the proposed constrained mandate and asserts deployment limitations too categorically. A directly answers both pressure questions and acknowledges displacement; B never adequately supports its crucial claim that children lacking parental controls will simply evade provider checks.</reason>\n<best_rebuttal>A\u2019s closing exposes B\u2019s decisive leap: an inactive caregiver does not imply a determined circumventer. This preserves A\u2019s coverage advantage and shows why displacement alone cannot establish that mandatory checks produce net harm.</best_rebuttal>"
+}

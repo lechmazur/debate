@@ -1,0 +1,9 @@
+{
+  "task_id": "ee1dd4b1b4f36b95cd2e285d",
+  "debate_id": "prop_0532__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d188c63064c3bf816df3deaf1eaa8f9a810ac813376022867b3c1a3ae52c6811",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins the incremental-benefit comparison: pricing can shift some flexible stops and shorten occupation without changing every trip or creating more pavement. B raises legitimate concerns about pass-through and unequal resources, but repeatedly assumes that remaining demand cannot respond. A also successfully explains why locked quotes remain dynamic and why unpaid queues burden small operators unequally. B\u2019s closing treats fixed trips and possible exclusion as universal outcomes rather than overcoming A\u2019s narrower case for allowing targeted pricing.</reason>\n<best_rebuttal>B\u2019s receiver-versus-courier distinction sharply challenged who controls delivery timing. A answered with advance fleet/platform pricing and honestly conceded that some couriers cannot adjust. B then overextended that limited concession into a claim that the entire pricing mechanism cannot work.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "b1fed523738aa59061ecd4fd",
+  "debate_id": "prop_0630__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "e7f429e7365c74447b829b01405934ae48f33507502dc93f91c53a07cacf521e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins the regulatory-design comparison. It directly answers who pays and how conventional crops are treated, then explains how published risk-based criteria remove irrelevant burdens upfront while preserving targeted testing. B establishes a plausible case against redundant regulation, but its comparative advantage depends on recasting A's proposal as requiring full dossiers, litigated waivers, or worldwide reform. A also identifies that B's full-review escalation can impose more burdens than testing the particular unresolved hazard.</reason>\n<best_rebuttal>A's second rebuttal dismantles B's \u201ctoll booth\u201d argument: necessary testing remains under both proposals, while predictable eligibility rules need not require litigated waivers. B's allegation that A left its questions unanswered was also premature\u2014the scheduled answering turn had not yet occurred, and A subsequently answered both directly.</best_rebuttal>"
+}

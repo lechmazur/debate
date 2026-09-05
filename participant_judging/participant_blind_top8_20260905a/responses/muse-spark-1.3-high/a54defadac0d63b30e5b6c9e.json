@@ -1,0 +1,9 @@
+{
+  "task_id": "a54defadac0d63b30e5b6c9e",
+  "debate_id": "prop_0295__muse-spark-1.3-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "377d46014557b073def033d28c8ee64cfb835b2fd50207d685c30d73e346d220",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO won by turning CON's strongest dilemmas into design problems with a bounded solution: a finite, recipient-directed endowment where obligation explains why to pay but Lagos sets how to spend, plus the underfunded-not-incompetent reframe. CON's finish-line and boardroom-control case was sharp and memorable, but its always-control claim and ship-apologize-walk-away alternative never answered the survival point that return without capacity locks in the theft's second half. B also paid an execution cost for an over-limit clipped opening.</reason>\n<best_rebuttal>PRO's R1/R2 answer that control is a design choice, not a law of physics \u2014 finite endowment, interest funds care, Lagos decides recipient and priorities \u2014 most directly blunted CON's autonomous-vs-obligation and perpetual-dependency attacks.</best_rebuttal>"
+}

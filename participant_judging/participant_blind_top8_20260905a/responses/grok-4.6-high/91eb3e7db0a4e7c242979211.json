@@ -1,0 +1,9 @@
+{
+  "task_id": "91eb3e7db0a4e7c242979211",
+  "debate_id": "prop_0376__grok-4.6-high__claude-sonnet-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8f6b4ee2e65866abc5d5c77f32d6b2f3bcd3ab0470784830b93c324ae5b8a97e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>0.8</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON (A) won a close debate by making substitution the live cost of the cap and breaking PRO\u2019s claim that fringe lenders already exist beside cards, so leakage does not matter. A showed a binding cap expands that worse pool and that PRO\u2019s sympathetic emergency borrower is the person rationed out. B had punchier rhetoric, a cleaner \u201cmotion already prices in lost access\u201d rule, and a surviving remaining-borrower benefit (slower compounding), but never neutralized the uncontested worse-product channel. A\u2019s clipped opening and closing kept the margin thin.</reason>\n<best_rebuttal>A\u2019s reply that payday/title markets currently serve people who cannot get a card at any price, so a cap adds marginal borrowers to that pool rather than leaving substitution unchanged.</best_rebuttal>"
+}

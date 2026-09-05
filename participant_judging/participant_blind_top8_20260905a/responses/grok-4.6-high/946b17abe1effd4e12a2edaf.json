@@ -1,0 +1,9 @@
+{
+  "task_id": "946b17abe1effd4e12a2edaf",
+  "debate_id": "prop_0214__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "d51afcc6aa6efbe0fa8c6ba908da0a1e9d6dc46e88df99c326cffa1fa12a5fb3",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by forcing a clearer decision rule: outstanding identifiable duty versus irreversible consequence. PRO\u2019s \u201cdesigned absence\u201d framing was morally vivid, but after conceding assessed lineage losses, redaction, and survivor control it either collapsed into CON\u2019s bounded remedy or made closure impossible. A answered pressure directly and crystallized the false-choice weighing; B never specified a fulfillable endpoint that did not smuggle perpetual expansion.</reason>\n<best_rebuttal>A\u2019s R2/closing use of B\u2019s own \u201cassess demonstrated losses\u201d concession: if assessment can deny speculative inheritance/care claims, family pain can persist after the duty is discharged; if \u201cunrepaired bloodline\u201d overrides that, no scheme can ever close.</best_rebuttal>"
+}

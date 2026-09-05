@@ -1,0 +1,9 @@
+{
+  "task_id": "4433a3b5cc2be66dea6ef296",
+  "debate_id": "prop_0081__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "1984a7edbeeeb34d1f7007edb6f0ed186c66fec5277702629ce71b8e000f9af7",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by keeping the motion as written and crystallizing a cleaner vote: visibility can be sold, but working locks, the best available check, and real scam-help cannot be merchandised as perks. B had the sharper mechanisms\u2014false halo, de facto ID pressure, flood risk, funding\u2014but often answered gating with a subsidy story and recast the motion as mandatory ID plus unlimited concierge. A\u2019s clipped R1 and weak \u201cfix the interface\u201d reply keep it competitive.</reason>\n<best_rebuttal>A\u2019s pressure Qs plus R2: if a free-tier harasser can walk back in, the \u201cworking lock\u201d is the door, not a perk; CON\u2019s payment wall still faces the older user hit by one unpaid profile, not the predator.</best_rebuttal>"
+}

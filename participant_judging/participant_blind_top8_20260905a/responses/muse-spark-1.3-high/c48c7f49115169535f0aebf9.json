@@ -1,0 +1,9 @@
+{
+  "task_id": "c48c7f49115169535f0aebf9",
+  "debate_id": "prop_0486__muse-spark-1.3-high__kimi-k3__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "844e869d62017fbfdc9b087a92e9ee20e027fc6fc913de5066f411b9835660b8",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.2</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins because both sides ended permanence, so the only live fight was replacement, and B proved moderates free the same land without coercion or new illegality. A's no-coercion accommodation collapsed into B's rotation/niches plus a private opt-out that revives A's own inequity charge.</reason>\n<best_rebuttal>B's rotation-needs-no-new-ground plus accommodations-trap: Singapore loop and time-limited burial with niches answer scarcity today, forcing A to admit no municipal-scale precedent and to defend B's plan with compost as optional extra.</best_rebuttal>"
+}

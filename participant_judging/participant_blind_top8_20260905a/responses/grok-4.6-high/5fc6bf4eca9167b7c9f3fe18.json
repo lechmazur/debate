@@ -1,0 +1,9 @@
+{
+  "task_id": "5fc6bf4eca9167b7c9f3fe18",
+  "debate_id": "prop_0413__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "06211d297c6700016fb35671f4ede83989dc78b1bd8861932cd6076298701862",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by pinning the motion to state unmasking over objection and showing that contact rules cannot restore anonymity. PRO was honest and philosophically strong on origin facts and adulthood, but the hard-case safeguard collapsed (secret marriage/rape placement unprotected unless a later proven threat) while CON kept medical need, promise, and irreversibility on one consistent vote path.</reason>\n<best_rebuttal>CON's Q1 forced PRO to concede the name still prints over objection; CON then used that plus B4.2 to show \u201cproven-threat review\u201d is a pause, not privacy for the very cases PRO had said deserved protection.</best_rebuttal>"
+}

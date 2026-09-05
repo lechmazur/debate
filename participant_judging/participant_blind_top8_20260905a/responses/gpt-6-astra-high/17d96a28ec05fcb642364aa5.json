@@ -1,0 +1,9 @@
+{
+  "task_id": "17d96a28ec05fcb642364aa5",
+  "debate_id": "prop_0377__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "51f5b0109f08bf99fc0a385d1b1818c30eae2ecc680be4a842c8d9f497ac09ca",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.3</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly distinguished reasons to tax inheritances from reasons to increase their taxation substantially. A established a plausible mechanism of dynastic persistence and offered useful responses on gifts and instalments. But B exposed unresolved weaknesses in the comparison with earnings-funded opportunity, explained why working heirs can still enjoy inherited advantages, and challenged A's dismissal of investment costs. A repeatedly portrayed opposition to escalation as opposition to taxation altogether. Its closing compounded that problem with a consequential misdescription that B directly corrected.</reason>\n<best_rebuttal>B dismantled A's claimed closing concession: taxing unrealised appreciation is not taxing the entire capital stock, and supporting that tax does not concede that dynastic inheritance outweighs earnings as an opportunity threat. B's explicit support for taxing gains at death also defeated the \u201cwave the fortune through\u201d characterization.</best_rebuttal>"
+}

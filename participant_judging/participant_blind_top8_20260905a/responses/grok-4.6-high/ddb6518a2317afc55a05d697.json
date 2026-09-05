@@ -1,0 +1,9 @@
+{
+  "task_id": "ddb6518a2317afc55a05d697",
+  "debate_id": "prop_0296__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "256ab4ba11072593508bc4b3c769557d55f83d665900bd4c41044d7dc0fa3cc9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B made the easier decision rule: public naming confers present honor, history lives in archives and curricula, and \u201cprimarily\u201d can separate founders from Confederate generals. Side A\u2019s residue/orientation frame and new-versus-inherited distinction were philosophically sharp, and its pressure on majority-flip instability plus the keep-vote fork actually damaged B. But A never neutralized the meaning/harm double bind or matched the lived-cost claim, while B\u2019s limited-class case remained clearer than A\u2019s standing-default continuity.</reason>\n<best_rebuttal>PRO R1 trap: CON needs names to be priceless when removed and harmless when kept (B2.1\u2013B2.2), which structured the rest of the clash.</best_rebuttal>"
+}

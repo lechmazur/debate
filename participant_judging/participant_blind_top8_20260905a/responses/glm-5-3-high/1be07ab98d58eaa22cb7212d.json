@@ -1,0 +1,9 @@
+{
+  "task_id": "1be07ab98d58eaa22cb7212d",
+  "debate_id": "prop_0525__kimi-k3__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "glm-5-3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "e790ba5a46de21df464702c1fe2753bffab59c80ddb5281a1dd65bb0e0c7497d",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Both sides argued competently, but PRO (B) controlled the decisive clash. CON's core route \u2014 the graded standard judged against \"real alternatives\" \u2014 was met with a philosophically clean answer (B4.2/B5.3): if the coercer's own threatened cruelty supplies the baseline, every transfer is justified and \"safe\" does no work. CON's closing tried to shift the cruelty cost onto the rule itself, but never repaired the floor problem. Meanwhile PRO sustained a \"collapse\" narrative that CON's baseline (appeal sliver, subsistence, non-splitting) kept expanding into enforceable rights against the destination state; CON's distinctions were reasonable but defensive. PRO's pressure questions landed well and were answered only partially. CON also bore heavier execution costs: three turns clipped (including the closing, which ends mid-sentence), versus one clipped turn for PRO. PRO's consistent \"only\" defense and the low-bar reversal gave the cleaner reason to vote.</reason>\n<best_rebuttal>A4.4 argued that rights a state can \"legislate overnight\" are a mere bargaining package; B5.1 reversed it \u2014 if the bar is cheap to meet, refusing to meet it proves the transfer was about disposal, not protection. That reversal neutralized CON's most original late move and crystallized the debate.</best_rebuttal>"
+}

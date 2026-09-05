@@ -1,0 +1,9 @@
+{
+  "task_id": "96557b360d48f62c6597b702",
+  "debate_id": "prop_0092__glm-5-3-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "kimi-k3",
+  "side_a_source": "pro",
+  "prompt_sha256": "4efa9b26aaff991d24203b87f2ace0b9f9ea8c45508038d292a31fb700ec8ea7",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.0</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Both sides were strong, but B built the cleaner path. A's externality framing and curb-space argument were genuinely powerful, and A's closing (\"size is not a proxy\u2014it is the cost\") was the best reframe of the debate. But A never repaired the Turn 3 misdescription of insurance (liability coverage does price third-party pedestrian injury), which B punished precisely; A's Pressure Questions cited nonexistent reference IDs; and A's Rebuttal 2 was clipped. B held one consistent master-frame\u2014does a static size tier track harm better than use-scaled tools?\u2014answered both pressure questions with direct A1/A2 distinctions, and closed by granting A's best premise and showing the tiered motion still doesn't scale per foot or per pound, plus the velocity-squared gap. A kept a live curb-space route and B somewhat overread the motion as mandating cliffs and overstated A's \"retreat\" to revenue, so the margin stays slim, but B landed more unrepaired, decisive damage and made the decision easier.</reason>\n<best_rebuttal>B's two-stage judo: the Turn 4 correction that liability insurance already prices third-party pedestrian risk (never repaired by A), capped by the closing move granting \"size is the cost\" and then showing the motion charges a category tier, not per foot or per pound\u2014turning A's strongest line into an instrument critique.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "772aaaef438f82f1ee702f8e",
+  "debate_id": "prop_0383__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "bb89639ec4d98f5237d1ccc53e00ffaff57320fe42d5a66c570f6348018e40d1",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.4</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the comparative policy clash. A established environmental harms and plausible coordination benefits, but did not adequately show that targeted withdrawals outperform charges and opt-in rules once substitution impacts and recurring operating costs are counted. B answered the pressure questions directly and explained why passing charges to consumers preserves incentives rather than defeating them. A\u2019s claims that comparable schemes uniformly succeed and pricing merely funds cleanup were insufficiently grounded. Its closing also misrepresented B\u2019s conditional acceptance of justified phase-outs as conceding that A\u2019s proposed targets satisfied those conditions.</reason>\n<best_rebuttal>B\u2019s strongest rebuttal dismantled \u201cexit once\u201d: outsourcing washing and collection does not eliminate recurring costs, and removing the original container does not necessarily reduce total environmental harm. This directly undercut A\u2019s central contrast between temporary adjustment and permanent waste.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "a91343e37a9287004909e3db",
+  "debate_id": "prop_0413__muse-spark-1.3-high__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "1e57b7081b61abc521860194cf48b1cbd6c29adb2393d3a8973726b300ae50e0",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality debate by turning A\u2019s honest concession\u2014that names still issue over objection\u2014into a clean ballot. B showed later contact rules cannot restore anonymity, that medical history can move without identity, and that a proven-threat pause still unmasks the hard cases sealing was built for. A\u2019s adulthood and unremediable-ignorance weighing stayed live, but did not repair the knowledge/contact split.</reason>\n<best_rebuttal>B\u2019s sequence attack: a released name cannot be put back, so A\u2019s fence of no-contact orders fails and \u201cfinding living kin\u201d is contact smuggled in as medicine.</best_rebuttal>"
+}

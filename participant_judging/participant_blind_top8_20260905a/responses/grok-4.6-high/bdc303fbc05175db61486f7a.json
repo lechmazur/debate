@@ -1,0 +1,9 @@
+{
+  "task_id": "bdc303fbc05175db61486f7a",
+  "debate_id": "prop_0078__glm-5-3-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "439ee2d1811ea5d8bd4574e692373ad144a5030c9b345f5bcb20b3b036449a1c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by making the live clash decidable: adult natives keep full membership after every language or civic skip, so an immigrant-only \u201cadoption\u201d floor is a second standard triggered by origin, not reciprocity. B\u2019s \u201csame bar, different delivery\u201d and silent-enclave points stayed live but were damaged by the child-schooling concession and by never naming a native-adult membership failure. B also paid a real cost for two clipped turns and an overclaimed closing.</reason>\n<best_rebuttal>A\u2019s Q2 plus Rebuttal 2/closing: B could not name a native-adult failure that makes membership incomplete, which undercut \u201csame bar, different delivery.\u201d</best_rebuttal>"
+}

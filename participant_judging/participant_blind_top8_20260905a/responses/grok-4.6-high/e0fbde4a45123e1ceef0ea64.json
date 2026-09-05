@@ -1,0 +1,9 @@
+{
+  "task_id": "e0fbde4a45123e1ceef0ea64",
+  "debate_id": "prop_0413__grok-4.6-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a99aa515ce9aed2135eb8abbf29ef5bf6a9c69ecd431c5a4ac7020f146f8c25a",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won a close, high-quality clash by keeping the vote on the motion as a rights claim: the file is the adoptee\u2019s civil origin, the child never consented to secrecy, and ordinary anti-contact tools are the residual privacy regime. A was vivid on digital identifiability, irreversible outing, and reliance, but never neutralized the consent asymmetry or showed why intermediaries are more than the original veto. B also converted A\u2019s pipeline and \u201cask, don\u2019t seize\u201d path into illegitimate recruitment rather than a reason to deny an adult the facts of birth.</reason>\n<best_rebuttal>B\u2019s first rebuttal that mutual-consent registries are \u201csealed records with a waiting room,\u201d paired with refusing to withhold origins to keep a placement pipeline, most damaged A\u2019s live middle path; A\u2019s paper-equals-person / stalk-first replies were the strongest counter but did not retake the comparison.</best_rebuttal>"
+}

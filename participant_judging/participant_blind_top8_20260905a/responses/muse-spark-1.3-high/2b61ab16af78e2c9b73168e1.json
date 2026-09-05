@@ -1,0 +1,9 @@
+{
+  "task_id": "2b61ab16af78e2c9b73168e1",
+  "debate_id": "prop_0453__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "97284a468ec4d522fbbd99b295e817844b75624ff84d7de5e1f72ec0cc3dc9c0",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by breaking the means-ends link: higher rates raise mortgages, push buyers into rentals, and stall construction while rents lag, so the demand effect is weakest where scarcity is worst. PRO's honest answer to prioritize - tighten further despite rising unemployment for only slower rent growth - let CON weigh certain job loss against speculative rent relief, leaving PRO's entrenchment and fairness points without a working tool.</reason>\n<best_rebuttal>B's inelastic-demand inversion - squeezing spending hits paychecks first and rents last, weakest where vacancies are lowest - plus turning A's A4.1 admission into the price of prioritization in B4.4 and closing.</best_rebuttal>"
+}

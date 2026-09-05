@@ -1,0 +1,9 @@
+{
+  "task_id": "b0f9f4183c83ebcce8fec556",
+  "debate_id": "prop_0112__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a1231fd2912b25569183c87b9bc046300c9f01f09585cf88b068b0bd6eb573ee",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.9</margin>\n<fun>6</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>5</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A wins by distinguishing public protection from exclusive public purchasing. B establishes plausible advantages in continuity and administrative efficiency, but repeatedly attacks full-price COBRA rather than A\u2019s subsidized-continuation proposal. A honestly concedes that workers lack guaranteed individual exit while defending employer replacement of insurers as an additional correction mechanism. B never adequately explains why political reform can remedy single-payer underfunding but cannot protect coverage during employment interruptions, leaving A with the cleaner comparative case.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal exposes the unequal treatment of repairs: if government can finance everyone\u2019s coverage, it can also finance continuity after job loss. B answers pressure about immediate access under national underfunding with political visibility and campaignability, without resolving the patient\u2019s immediate problem or engaging A\u2019s proposed subsidy.</best_rebuttal>"
+}

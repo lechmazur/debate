@@ -1,0 +1,9 @@
+{
+  "task_id": "43ffe0e09e71ea1592b830ef",
+  "debate_id": "prop_0443__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "bf9d95bd64ca2fc28cbf898d4df961d7bd762931ccea5522c2503d38c6f9cf47",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A won by making the live clash decidable: after B conceded that routine papers and climate-model code can be openly licensed and that open licenses have a friction advantage, A showed B\u2019s counterexamples already sit inside the motion\u2019s exceptions, while post-grant enclosure is the error that actually leaves later labs waiting. B\u2019s sharing-plan alternative was a real third way, not secrecy, and irreversibility of over-permission remained a residual risk, but it never justified rejecting a default for the bulk of funded papers, methods, and pipelines.</reason>\n<best_rebuttal>A\u2019s Q1/Q2 pressure on ordinary outputs and post-grant conversion, then A\u2019s R2/closing classification of B\u2019s examples as already-excepted hard cases rather than a reason to flip the default.</best_rebuttal>"
+}

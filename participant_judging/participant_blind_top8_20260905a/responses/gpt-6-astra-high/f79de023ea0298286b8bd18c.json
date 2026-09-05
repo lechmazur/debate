@@ -1,0 +1,9 @@
+{
+  "task_id": "f79de023ea0298286b8bd18c",
+  "debate_id": "prop_0127__grok-4.6-high__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "ed07d05873b5dcbca7c1491d89d3d0abe38a1de49f7a048feab1aa1452ddb6ee",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.3</margin>\n<fun>6</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly distinguished useful clearance sales from a justified universal requirement. A established plausible recovery benefits, but did not resolve the meaningful-selling-window problem or justify compulsory attempts where recovery is unlikely. B answered its pressure questions directly and explained how disposal charges could encourage both recovery and prevention. A increasingly relied on calling disposal \u201cPlan B\u201d rather than showing why its procedure produced the better tradeoff.</reason>\n<best_rebuttal>B\u2019s strongest response turned A\u2019s \u201cpay and keep wasting\u201d objection back on the mandate: stores could also pay compliance labor and discard the same food afterward. B then explained that fees can induce the very markdowns A favors while additionally rewarding prevention. A\u2019s distinction between attempted and unattempted disposal did not adequately answer that comparison.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "9a108c34c7d5cb21a79a260a",
+  "debate_id": "prop_0678__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "dcb7cd63fe40ec973fca19f4d30153d16e8c98149f6763c708576f5d6ab0b5e3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making the live choice easier: consent is either a checkbox, a de facto ban, or a market in leftover unjustified surveillance, while necessity/limits already do the real work. A was vivid on coercion and necessity-creep, but had to carve bank logs out of the motion\u2019s own keystroke rule and never made the equal-promotions floor auditable. Two clipped B turns are a real cost, yet not enough to offset B\u2019s cleaner comparative map.</reason>\n<best_rebuttal>B\u2019s use of A\u2019s \u201cif fraud detection needs a log, collect the log\u201d against the motion\u2019s opt-in text, then treating A\u2019s later scoped-log carve-out as abandoning the proposition.</best_rebuttal>"
+}

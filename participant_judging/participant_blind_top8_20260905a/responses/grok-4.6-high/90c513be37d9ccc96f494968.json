@@ -1,0 +1,9 @@
+{
+  "task_id": "90c513be37d9ccc96f494968",
+  "debate_id": "prop_0493__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "773ea578b1a6ba978e47be961dcfcb106c0e5d30374c19445ed49664582f60fc",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON made the debate easier to decide: hydrology tracks litres, not deeds, and PRO never reconciled trusting volumetric caps against farms, fabs, and breweries while treating bottlers as uniquely ungovernable. PRO\u2019s civic-inventory frame and local-collapse argument stayed live and vivid, but CON\u2019s usufructuary-rights answer to drought cutoffs and the product-versus-input enforcement hole left the ban looking like a gesture. PRO\u2019s pressure Q2 was partly dodged; that kept it competitive rather than a rout.</reason>\n<best_rebuttal>CON\u2019s Rebuttal 2: if caps can restrain the biggest withdrawers, they can restrain bottling; PRO\u2019s later reliance on policing \u201csham flavoring\u201d revived the discretionary capture problem PRO had called fatal.</best_rebuttal>"
+}

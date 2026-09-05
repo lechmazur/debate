@@ -1,0 +1,9 @@
+{
+  "task_id": "64194f4d3cfc4fce4ada6d04",
+  "debate_id": "prop_0616__grok-4.6-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b0bcbf00768a66c76bd30162bf03a6eba999879faf888b97787f9535a5bb5e6c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won a close, high-quality clash by taking PRO\u2019s irreversibility test and inverting it: a foreign scanner is a maintained, service-dependent state, while a ban-created domestic tool order book is the permanent loss of leverage. PRO\u2019s factory-lock story and tutor/kill-switch attack were sharp, but CON better showed the motion\u2019s delay was unnamed and possibly self-defeating, and resolved the mature-node versus lithography tension with the \u201cladder\u201d dilemma.</reason>\n<best_rebuttal>CON Rebuttal 2: either the frontier matters, so funding the indigenous tool stack is the worst outcome, or it doesn\u2019t, so the ban buys nothing\u2014then weighing that against PRO\u2019s unnamed delay.</best_rebuttal>"
+}

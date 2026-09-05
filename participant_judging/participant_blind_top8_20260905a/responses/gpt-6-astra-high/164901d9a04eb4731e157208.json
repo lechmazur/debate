@@ -1,0 +1,9 @@
+{
+  "task_id": "164901d9a04eb4731e157208",
+  "debate_id": "prop_0008__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "201d1b702a4afc2f1d42d4086871783f9a459335dec4d8917bb5a79fba5e539c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.1</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B built the stronger comparative case: continuing retail barriers can prevent dependence rather than merely displace existing demand, while conventional controls remain available. B directly answered the proxy-purchasing and enforcement questions, acknowledging loopholes and costs. A raised meaningful equality and diversion objections, but repeatedly treated expanding barred cohorts as expanding tobacco demand and overstated the collapse of enforcement legitimacy. B better justified the transitional purchasing inequality and explained why imperfect compliance need not defeat prevention.</reason>\n<best_rebuttal>A effectively challenged the assumption that fewer legal buyers necessarily means less diversion. B conceded that point, then distinguished possible intermediaries from dependable retail access and barred adults from inevitable smokers. Its closing observation that the forty-year-old \u201chas a history\u201d crystallized the prevention mechanism; A\u2019s final appeal to nearby suppliers did not resolve it.</best_rebuttal>"
+}

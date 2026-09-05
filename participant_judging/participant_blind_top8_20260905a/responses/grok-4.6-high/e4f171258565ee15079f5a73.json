@@ -1,0 +1,9 @@
+{
+  "task_id": "e4f171258565ee15079f5a73",
+  "debate_id": "prop_0499__claude-opus-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "362500594ae5c35dcfd2565f83573c5b518112527606673936c4cd9e99a56c77",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by keeping the written motion intact: unmapped seafloor is a coverage problem for cheap machines, not a warrant for space-scale crewed programmes. A\u2019s trap\u2014either crewed exploration is worth a premium (so fund the nearer, load-bearing abyss) or cut space until parity arrives\u2014was sharp, but B answered it without collapsing: different products, sequenceable from a dock, postage-stamp hulls. A\u2019s honest \u201cyes\u201d to still demanding NASA-scale crewed funding after a finished map let B treat the given clause as pretext and made A\u2019s later \u201cvalue returned\u201d close look like a different motion. A remaining live routes (capacity gap, industrial-base-with-crews-at-centre) were answered as reasons to keep a handful of hulls, not to match a space agency. A\u2019s clipped opening and space-deletion close were clever but did not recapture the decision rule.</reason>\n<best_rebuttal>B\u2019s Q1 plus B4.5\u2013B4.8: A\u2019s admission that mapped seafloor would still require space-comparable crewed funding turned \u201cunmapped\u201d into atmosphere, after which B could weigh method and centre of gravity against the motion as written.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "bdb669324bfd3a783da10979",
+  "debate_id": "prop_0383__glm-5-3-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "glm-5-3-high",
+  "side_a_source": "con",
+  "prompt_sha256": "ccf39196979012f6d0775d918e90d91d593bcf76e659bc6f849484e2fc8336b9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B (PRO) won on clash resolution and framing. Its \"exit once versus renting the harm\" comparison gave voters a clean decision rule, and it turned Side A's own pressure-question answer into support: when A offered a comparative threshold for justified phase-outs, B's closing argued the motion already satisfies it for the most wasteful items \u2014 a move A never fully neutralized. A's strongest live route was the asymmetry point (B demands volume evidence for pricing while not proving phase-out reduces total lifecycle harm) plus the sharp circularity attack on B's \"safety valve\"; but A's honest concession of no evidence that pricing shrinks volumes, combined with a mostly conditional case, left B's narrative more decisive. A was epistemically disciplined and rigorous, but B made the debate easier to decide and answered pressure more directly (clear A1/A2 structure, decisive reframes).</reason>\n<best_rebuttal>B4.3\u2013B4.5: PRO conceded continued use after charges is not automatically failure, then redefined failure as growing volumes funded by a receipt line-item, and crystallized that \"lighter single-use is still single-use,\" converting A's pricing remedy into permanent harm-renting versus one-time exit.</best_rebuttal>"
+}

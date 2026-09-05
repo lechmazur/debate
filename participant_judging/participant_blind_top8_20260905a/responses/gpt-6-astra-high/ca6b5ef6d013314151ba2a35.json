@@ -1,0 +1,9 @@
+{
+  "task_id": "ca6b5ef6d013314151ba2a35",
+  "debate_id": "prop_0651__gpt-6-astra-high__kimi-k3__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "add0822a7e610e4aa45799a197cc403b53afe5bdb184b7ccb0af3a5f21b5d2d5",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A more convincingly distinguished English\u2019s value as a shared channel from its role as a gatekeeper for recognition and resources. B established substantial connectivity benefits, but never showed why strengthening local-language scholarship would dismantle that network. Its repeated claim that policy-remediable harms cannot be caused by dominance was unpersuasive. A directly answered the extinction challenge and explained why exclusion and weakened transmission matter before complete destruction. The win remains competitive because A\u2019s overall harm-versus-benefit weighing was qualitative and its concrete evidence of cultural loss limited.</reason>\n<best_rebuttal>A\u2019s strongest rebuttal answered \u201cfixable harms versus irreplaceable goods\u201d: original-language scholarship can receive recognition while English translation preserves international reach. This challenged B\u2019s fragmentation counterfactual without denying network benefits. B\u2019s response conflated having the widest audience with needing superior institutional standing.</best_rebuttal>"
+}

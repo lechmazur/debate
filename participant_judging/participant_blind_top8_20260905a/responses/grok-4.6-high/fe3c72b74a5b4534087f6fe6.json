@@ -1,0 +1,9 @@
+{
+  "task_id": "fe3c72b74a5b4534087f6fe6",
+  "debate_id": "prop_0062__grok-4.6-high__glm-5-3-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e201c7090732256a2c6d48f39aecba6f38ac6867d0d2d580a8ebe5f7adcf6d4a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>A won a competitive debate by matching the motion as written: net white-collar loss is likely because copyable cognition can fill extra demand without restoring seats, and institutions lag payroll shocks. B was sharp on historical demand expansion and the missing completed census, but repeatedly argued a \u201cwill / already proven\u201d burden the proposition did not require and never fully answered who restores non-liability jobs.</reason>\n<best_rebuttal>A\u2019s elasticity reply: ATM/spreadsheet analogies fail because extra volume is drafted by the same model, so a verifier on three workflows is still a net cut from twenty.</best_rebuttal>"
+}

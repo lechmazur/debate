@@ -1,0 +1,9 @@
+{
+  "task_id": "b6e1bf933a0bc225ca837bb2",
+  "debate_id": "prop_0277__grok-4.6-high__claude-opus-5-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "2e24bdc1d31689e23882f7f1271e957a8a40dca2c0845e5266fe9ac4eb4abe08",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the live comparison: spreading does not restore the core, it recruits still-working streets toward tipping, and choke-point rules are not the same as capillary protection across a wider map. A forced a real \u201cwho pays / unofficial leak\u201d case and kept geography on the table even after a cap, but never neutralized non-linear damage, irreversibility, or the charge that a genuine volume cap makes redrawing the map unnecessary. B answered pressure more cleanly; A\u2019s refusal to name a cap left the map looking like the actual policy.</reason>\n<best_rebuttal>B\u2019s Rebuttal 2: visitors stay in the already-tipped core because damage is not linear, while the same load spreads many quiet streets toward a first flip; enforcement works at gates, not as bakery-by-bakery policing.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "edd9ff9c98c7c77c2254a94d",
+  "debate_id": "prop_0017__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-spark-1.3-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e0517b3383501eeabd501c1fda318e6b358bbdd9b4653241f520b90d3429a15b",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A built the cleaner live route: targeted harm enforcement is allowed immediately, but criminalizing sheltering itself requires a usable alternative to distinguish inability from refusal. Side B never answered where lawful compliance ends if every location is penalized with no bed offered, and its net-safety claim stayed at cleared-park benefit without outweighing transferred hazards, lost belongings, and broken outreach. A's staff-assessment plus immediate-action answers blunted the veto/delay charge.</reason>\n<best_rebuttal>A's moving-on-is-not-a-destination / endless-series pressure, answered by B only with successive no-parking zones, left B biting the bullet of punishment everywhere with nowhere lawful to go.</best_rebuttal>"
+}

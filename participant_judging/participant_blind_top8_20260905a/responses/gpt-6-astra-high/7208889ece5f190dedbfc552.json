@@ -1,0 +1,9 @@
+{
+  "task_id": "7208889ece5f190dedbfc552",
+  "debate_id": "prop_0021__kimi-k3__gpt-6-astra-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "85889f743de62d95d3d814eeb40d0fe41a747e24f815912f4e7dc5a09c0649a2",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B more convincingly distinguished feasible reintroduction from justified imposition. A\u2019s strongest attack concerned a disguised local veto, but B answered with an explicit approval process and a concrete case where opposition could be overridden. That concession gave A legitimate closing pressure, yet did not establish its broader prescription. B also supplied an immediate restoration alternative and challenged the continuing costs of coexistence. A never adequately resolved those comparisons, instead repeatedly portraying B\u2019s approach as endless meetings and ecological abandonment.</reason>\n<best_rebuttal>B\u2019s strongest rebuttal distinguished a self-sustaining predator population from a self-sustaining policy: fencing, guarding, compensation, and cooperation remain necessary. Combined with targeted browsing control protecting seedlings during delay, this substantially weakened A\u2019s claimed choice between imposed predators and permanently deteriorating forests.</best_rebuttal>"
+}

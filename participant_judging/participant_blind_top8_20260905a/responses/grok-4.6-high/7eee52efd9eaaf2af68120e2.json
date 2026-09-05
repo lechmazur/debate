@@ -1,0 +1,9 @@
+{
+  "task_id": "7eee52efd9eaaf2af68120e2",
+  "debate_id": "prop_0216__kimi-k3__grok-4.6-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "1fdbb7d9f676a7e5406fa924dfa04a266f120b27e8400d0bba2345c0e04adb7b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.1</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the live decision rule: the motion\u2019s \u201ceven if,\u201d not a peat-fire ban with extra adjectives. A\u2019s deletion-vs-debt frame and 2015 haze were the stronger constructive, but they never fully mapped illegal burning onto lawful frontier hectares. B split those harms, forced A to name legal losers and keep the cut if the grant never comes, and left a cleaner ballot line: close the canal; do not bill school fees for a fire the child did not set. A\u2019s early rename and B\u2019s clipped R1 kept it competitive, not a blowout.</reason>\n<best_rebuttal>B\u2019s Q1 plus R2: spare legal planters and you abandon the \u201ceven if\u201d; A then named undeveloped concessions/frontier plots and said the rule stands without compensation\u2014B used that as the closing lock.</best_rebuttal>"
+}

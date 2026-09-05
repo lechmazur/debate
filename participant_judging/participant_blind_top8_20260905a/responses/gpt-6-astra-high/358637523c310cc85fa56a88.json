@@ -1,0 +1,9 @@
+{
+  "task_id": "358637523c310cc85fa56a88",
+  "debate_id": "prop_0026__gpt-6-astra-high__muse-spark-1.3-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f4f8ffd6eda2fef936f5a085dda6446fe241f4075cd4019656e30b8ef53e1820",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>A offered the stronger decision rule: competent patients retain presumptive authority, while concrete competing obligations can justify limits. B raised meaningful challenges involving dementia and harmful interventions, but A answered them directly. B repeatedly treated any exception as disproving greater weight and relabeled safety, welfare, and professional obligations as dignity without establishing that equivalence. A also answered B\u2019s treatment-refusal concession by showing that competing interpretations of dignity still require a rule allocating authority.</reason>\n<best_rebuttal>A\u2019s distinction between authority over one\u2019s body and entitlement to a clinician\u2019s participation substantially weakened B\u2019s intervention examples. Combined with the point that grounding a right does not establish priority over it, this exposed the central gap in B\u2019s argument rather than merely conceding exceptions.</best_rebuttal>"
+}

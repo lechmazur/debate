@@ -1,0 +1,9 @@
+{
+  "task_id": "2ef3af7cd189747691cdeb04",
+  "debate_id": "prop_0435__gpt-6-astra-high__claude-fable-5-1-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "458613be8a1167cd8545432bbf0a321c6b4ed8fcfea79a79c77448cdb97eb04b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the central comparison between checking readiness before expansion and enforcing conduct afterward. A raised meaningful concerns about unnecessary requirements and municipal delays, but B answered with proportionate commitments, existing-service options, and an honest defense of withholding extensions when essential arrangements are absent. A repeatedly reduced enforceable preparation to paperwork and overstated agency silence as an automatic veto. Its alternative never adequately answered the risk of preventable failures before inspections catch up.</reason>\n<best_rebuttal>B decisively answered A\u2019s claim that a cleanup rota proves nothing: confirming someone is assigned and available can reduce failure without guaranteeing compliance. This exposed A\u2019s unsupported leap from imperfect advance verification to identical risk under both systems.</best_rebuttal>"
+}

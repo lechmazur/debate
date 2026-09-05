@@ -1,0 +1,9 @@
+{
+  "task_id": "51ea1a9b3d9ca3393d49dc76",
+  "debate_id": "prop_0527__claude-opus-5-high__gpt-6-astra-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "8d925d500511f6f65e6bf343d608be8827ae53b126f6742ee5dde0c70309117c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins the contract-design clash. A persuasively explained the need for innovation incentives and addressed hospitals\u2019 immediate affordability problems, but did not adequately defend high marginal charges against B\u2019s alternative of substantial fixed rewards with affordable supply. B directly answered the pressure questions and distinguished refusing an advance guarantee from withholding existing treatment. A\u2019s closing largely repeated that disputed equivalence rather than resolving the comparison, while B explained why central reimbursement shifts rather than eliminates budget exposure.</reason>\n<best_rebuttal>B showed that fixed rewards can follow successful qualification and be paid over time, defeating A\u2019s claim that the alternative requires an upfront payment for possible failure. B also exposed A\u2019s stewardship retreat: marginal revenues cannot simultaneously be negligible for sales incentives yet essential to the investment case without further explanation.</best_rebuttal>"
+}

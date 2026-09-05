@@ -1,0 +1,9 @@
+{
+  "task_id": "a01dd7a1a940fc989399e569",
+  "debate_id": "prop_0214__gpt-6-astra-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gpt-6-astra-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5810dd2d6608a5f8fbe2bc29fb56203bb186d7abb5f2f68b11ff08e0505dca11",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.7</margin>\n<fun>7</fun>\n<arg_a>5</arg_a>\n<arg_b>8</arg_b>\n<reb_a>4</reb_a>\n<reb_b>9</reb_b>\n<ground_a>5</ground_a>\n<ground_b>8</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B made stronger redress compatible with bounded awards, meaningful deadlines, evidentiary standards, and protected archival access. It answered both pressure questions directly and exposed closure\u2019s concrete cost: cancelling a valid claim because a survivor died awaiting state-controlled proof. A raised legitimate administrative and privacy concerns but continued treating the proposal as unlimited or presumptively payable after B supplied safeguards. A never adequately justified why administrative finality should defeat that unpaid remedy.</reason>\n<best_rebuttal>B distinguished inheriting an opportunity to prove one claim from multiplying awards across descendants. A\u2019s response shifted from expanding liability to the expense of keeping claims administration running, without showing why that expense outweighed redressing an established wrong. This exchange substantially weakened A\u2019s central \u201cinheritable invoice\u201d objection.</best_rebuttal>"
+}

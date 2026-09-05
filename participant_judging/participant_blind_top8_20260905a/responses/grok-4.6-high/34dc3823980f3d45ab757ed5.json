@@ -1,0 +1,9 @@
+{
+  "task_id": "34dc3823980f3d45ab757ed5",
+  "debate_id": "prop_0559__claude-sonnet-5-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9196a80c0987cdce70335c54fcf7bc611170dd6c77e32f412f8e71b479fdf96c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by making the decisive clash easier to judge: social-graph transfer is other people\u2019s associations, not the user\u2019s suitcase. A had a strong lock-in/exit-threat case and a clever reconnection design, but kept narrowing the motion into hashed pointers, after-the-fact prompts, and carve-outs. B answered that the map still leaves first, exclusions rewrite or leave sensitive lock-in, and refusing this instrument is not \u201cno remedy.\u201d Ownership beat A\u2019s default-win-on-lock-in frame.</reason>\n<best_rebuttal>B\u2019s R1\u2013R2 attack on A\u2019s reconnection design: a prompt is not prior consent, the compelled graph still leaves, and filtering blocked users/minors either dumps sensitive ties or preserves the lock-in the mandate claims to cure.</best_rebuttal>"
+}

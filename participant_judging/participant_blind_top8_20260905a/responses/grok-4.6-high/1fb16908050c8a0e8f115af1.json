@@ -1,0 +1,9 @@
+{
+  "task_id": "1fb16908050c8a0e8f115af1",
+  "debate_id": "prop_0632__claude-fable-5-1-high__grok-4.6-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "grok-4.6-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "167eb317c85f435027ec895f68964686045ab5ab4fab30b8e91d6ba8d929f1ca",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B won the live clash on the motion as written: a coverage duty plus hoped-for spending controls. After pressure, A conceded the duty can still bite if manufacturers refuse value terms, which left B's indication-level walk-away intact and A's leverage story damaged. A's two-patient equity frame stayed vivid, but B distinguished optional coverage from a mass, lifelong essential-benefit lock-in and made the cash-flow/timing problem easier to vote on. A's two clipped turns added an execution cost.</reason>\n<best_rebuttal>B's Q1/Q2 trap (does the duty survive refused contracts, and who still has a hard no?) and R2 follow-through: brand-swapping is not an indication-level no, so controls do not actually restore buyer leverage.</best_rebuttal>"
+}
