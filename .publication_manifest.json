@@ -5324,6 +5324,9 @@
     "reports/debate_proxy_error_audit__judge_judge_blend_20260923_finala__debate_all_templates.md",
     "reports/debate_qualitative_behavior__judge_judge_blend_20260923_finala__debate_all_templates.md",
     "reports/frontier_expansion_20260923_final_analysis.md",
+    "reports/qualitative_model_comparison_summaries__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md",
+    "reports/qualitative_model_comparison_synthesis__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md",
+    "reports/qualitative_model_comparisons__judge_judge_active_20260321b__debate_placement_active_20260320f.md",
     "transcripts/prop_0001__claude-sonnet-4-6-0K__seed-2.0-pro__s0__tpl_placement_active_20260320f.md",
     "transcripts/prop_0001__claude-sonnet-5-high__gemini-3.7-flash-high__s0__tpl_placement_active_20260813a.md",
     "transcripts/prop_0001__ernie-5.1__seed-2.0-pro__s0__tpl_placement_active_20260320f.md",
@@ -12737,5 +12740,5 @@
     "transcripts/prop_0683__qwen3.8-max__muse-spark-1.1-high__s1__tpl_placement_active_20260320f.md",
     "transcripts/prop_0683__step-3.7-flash-high__grok-4.3__s1__tpl_placement_active_20260320f.md"
   ],
-  "file_count": 12733
+  "file_count": 12736
 }

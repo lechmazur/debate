@@ -45,6 +45,7 @@ The raw judge table contains 22,818 stored decisions; 22,592 belong to complete 
 2. **Design checks:** inspect the [pairwise heatmap](#pairwise-view), [judge agreement](#judge-sanity-checks), and [status report](reports/debate_benchmark_status__judge_judge_blend_20260923_finala__debate_all_templates.md).
 3. **How models debate:** use the [behavior model cards](reports/debate_behavior_model_cards__judge_judge_blend_20260923_finala__debate_all_templates__gpt-5.6-medium.md) and [four newcomer dossiers](reports/debate_model_dossiers__judge_judge_blend_20260923_finala__debate_all_templates__gpt-5.6-medium__reviewed.md), plus the [quantitative model profiles](reports/debate_model_profiles__judge_judge_blend_20260923_finala__debate_all_templates.md).
 4. **Individual debates:** browse the [matchup results index](reports/debate_matchup_judgments__judge_judge_blend_20260923_finala__debate_all_templates.md) and [published transcripts](transcripts/).
+5. **Topic coverage:** see the [summaries by subject and question type](#topics).
 
 ## Pairwise view
 
@@ -136,6 +137,8 @@ Cost coverage is reported per model; models without usable cost data are omitted
 
 The rating graph is connected. Mean all-bucket cross-judge winner agreement is `0.556`. Decisive-only agreement is `0.806`: it considers only judge pairs where both selected a clear winner, excluding cases where either judge returned a tie or noise-level result. Mean absolute presented-side margin bias is `0.183` on the signed-margin scale. Panels use three distinct model families and avoid same-family judges against debaters when feasible.
 
+The active judge pool is GPT-5.6 Sol (high), Claude Sonnet 5 (high), Gemini 3.1 Pro Preview, Qwen 3.7 Max, Grok 4.5 (high), Kimi K2.6, and Muse Spark 1.1 (high). The combined rating graph also retains judgments from earlier panels.
+
 ![All-bucket judge agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_blend_20260923_finala__debate_all_templates.png)
 
 ![Decisive-only judge agreement heatmap](images/debate_judge_decisive_agreement_heatmap__judge_judge_blend_20260923_finala__debate_all_templates.png)
@@ -194,6 +197,14 @@ The dossiers describe recurring strengths, weaknesses, execution, and behavior a
 - [Deterministic qualitative audit](reports/debate_qualitative_behavior__judge_judge_blend_20260923_finala__debate_all_templates.md)
 - [Current quantitative model profiles](reports/debate_model_profiles__judge_judge_blend_20260923_finala__debate_all_templates.md)
 
+### Historical qualitative readings
+
+The March 2026 close readings remain available as a dated, deliberately selected sample. They show the arguments and judge reasoning behind individual results, rather than representative estimates of current model behavior:
+
+- [Transcript evidence and judge notes](reports/qualitative_model_comparisons__judge_judge_active_20260321b__debate_placement_active_20260320f.md)
+- [Debate-by-debate summaries](reports/qualitative_model_comparison_summaries__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md)
+- [Cross-model synthesis](reports/qualitative_model_comparison_synthesis__judge_judge_active_20260321b__debate_placement_active_20260320f__gpt-5.4-medium.md)
+
 ## Reliability
 
 Content blocks, blank outputs, formatting failures, and model-service failures are tracked separately from debate quality. The availability-adjusted view shows how reliability would change model strength if completion problems were penalized; it does not change how completed debates were judged.
@@ -204,10 +215,59 @@ Content blocks, blank outputs, formatting failures, and model-service failures a
 
 ![Reliability breakdown](images/debate_reliability_breakdown__judge_judge_blend_20260923_finala__debate_all_templates.png)
 
-## New-entrant examples
+## Topics
 
-- **Claude Opus 5.5 vs Grok 4.7** on children’s digital wellbeing: [Debate A](transcripts/prop_0270__claude-opus-5-5-high__grok-4.7-high__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0270__grok-4.7-high__claude-opus-5-5-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_20260923_finala__debate_all_templates/matchup-judgment-prop_0270-claude-opus-5-5-high-vs-grok-4.7-high.md).
-- **DeepSeek V4.1 Flash vs MiMo V2.6 Pro Thinking** on whether the British economy would be stronger without Brexit: [Debate A](transcripts/prop_0030__deepseek-v4.1-flash-high__mimo-v2.6-pro-thinking__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0030__mimo-v2.6-pro-thinking__deepseek-v4.1-flash-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_20260923_finala__debate_all_templates/matchup-judgment-prop_0030-deepseek-v4.1-flash-high-vs-mimo-v2.6-pro-thinking.md).
+The topic bank contains **683 motions**, spanning policy, empirical, and moral disputes intended to be understandable to an informed generalist. All 683 appear in the complete stored rating graph. The tables count distinct topics, not debates; individual models have different topic coverage.
+
+| Theme | Topic bank | Topics with debates | Topics used for ratings |
+| --- | ---: | ---: | ---: |
+| Law / regulation / courts | 135 | 135 | 135 |
+| Labor / education / social policy | 122 | 122 | 122 |
+| Media / culture / internet | 111 | 111 | 111 |
+| Macro / trade / industrial policy | 108 | 108 | 108 |
+| Health / bioethics | 65 | 65 | 65 |
+| Energy / climate / infrastructure | 49 | 49 | 49 |
+| Science / space / frontier tech | 34 | 34 | 34 |
+| Business / antitrust / market structure | 28 | 28 | 28 |
+| Geopolitics / defense / security | 24 | 24 | 24 |
+| AI / tech policy | 7 | 7 | 7 |
+| **Total** | **683** | **683** | **683** |
+
+| Question type | Topic bank | Topics with debates | Topics used for ratings |
+| --- | ---: | ---: | ---: |
+| Mixed | 466 | 466 | 466 |
+| Normative | 151 | 151 | 151 |
+| Empirical | 66 | 66 | 66 |
+| **Total** | **683** | **683** | **683** |
+
+## Worked examples
+
+### New-entrant examples
+
+- **Claude Opus 5.5 vs Grok 4.7** on children’s digital wellbeing. Each won unanimously, 3–0, as CON, leaving the paired result tied. Both challenged whether sleep, boredom, and play adequately address product-specific harms such as grooming and unwanted purchases. Read [Debate A](transcripts/prop_0270__claude-opus-5-5-high__grok-4.7-high__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0270__grok-4.7-high__claude-opus-5-5-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_20260923_finala__debate_all_templates/matchup-judgment-prop_0270-claude-opus-5-5-high-vs-grok-4.7-high.md).
+- **DeepSeek V4.1 Flash vs MiMo V2.6 Pro Thinking** on whether the British economy would be stronger without Brexit. Each won unanimously, 3–0, as PRO, again producing a paired tie. The clash turns on the relevant counterfactual: whether avoiding Brexit's additional costs would improve an economy that still faces domestic structural problems. Read [Debate A](transcripts/prop_0030__deepseek-v4.1-flash-high__mimo-v2.6-pro-thinking__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0030__mimo-v2.6-pro-thinking__deepseek-v4.1-flash-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_20260923_finala__debate_all_templates/matchup-judgment-prop_0030-deepseek-v4.1-flash-high-vs-mimo-v2.6-pro-thinking.md).
+
+These pairs illustrate why a single debate direction can be misleading.
+
+### Earlier model comparison
+
+**Claude Opus 4.8 vs Claude Opus 5** on banning corporate political donations: Opus 4.8 won the first direction 2–1 as PRO; Opus 5 won the reverse direction 3–0 as PRO and won the paired result. Every judge rated both debates 9 / 10 for entertainment. Read [Debate A](transcripts/prop_0379__claude-opus-4-8-adaptive__claude-opus-5-high__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0379__claude-opus-5-high__claude-opus-4-8-adaptive__s1__tpl_placement_active_20260320f.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_20260923_finala__debate_all_templates/matchup-judgment-prop_0379-claude-opus-4-8-adaptive-vs-claude-opus-5-high.md).
+
+## Best lines
+
+A few memorable lines from earlier debates, with transcripts for context. These are examples of rhetoric, not inputs to the ratings.
+
+> You cannot reject a trap you cannot see.
+
+— **Qwen3.5-397B-A17B**, arguing for a ban on personalized algorithmic pricing. [Transcript](transcripts/prop_0041__qwen3.5-397b-a17b__minimax-m2.7__s1__tpl_placement_active_20260320f.md)
+
+> That is not a protection of the vulnerable; it is hostage-taking with occasional mercy.
+
+— **MiniMax-M2.7**, challenging the claim that personalized pricing protects low-income shoppers. [Transcript](transcripts/prop_0041__minimax-m2.7__qwen3.5-397b-a17b__s0__tpl_placement_active_20260320f.md)
+
+> If preservation wins even there, then it is not stewardship; it is exclusion protected by aesthetics.
+
+— **GPT-5.4 (high)**, arguing for housing density in historic districts. [Transcript](transcripts/prop_0003__gpt-5.4-high__minimax-m2.7__s0__tpl_placement_active_20260320f.md)
 
 ## Method summary
 
@@ -220,6 +280,8 @@ For each selected model pair and topic:
 5. Complete side-swapped groups feed Bradley-Terry; rubric subscores remain diagnostic.
 
 The ten turns are PRO opening, CON opening, first rebuttals, pressure questions, second rebuttals, and closings. Output length is enforced by deterministic clipping, so the stored text—not a model's self-reported word count—is authoritative.
+
+Bradley-Terry estimates relative strength from paired outcomes while accounting for opponent strength. This makes comparisons across uneven schedules more useful than a raw win rate or an average of rubric scores. Swapping sides reduces the influence of an easier position on a particular motion; multiple judges and confidence intervals help show the remaining uncertainty.
 
 ## Limits and caveats
 
