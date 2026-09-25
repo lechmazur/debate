@@ -133,6 +133,8 @@ Higher and further left is better. The x-axis is average debater-side USD per co
 
 Cost coverage is reported per model; models without usable cost data are omitted. Arrows connect the focused models to their recorded predecessors where available. DeepSeek Pro is a separate comparison variant, not a Flash predecessor.
 
+DeepSeek V4.1 Flash averages **$0.01117 per debate (1.12¢)** across 200 debates with complete recorded token usage. Its estimate uses the full-week weighted average of the scheduled rates: **20.83% peak and 79.17% off-peak**, independent of when requests ran.
+
 ## Judge sanity checks
 
 The rating graph is connected. Mean all-bucket cross-judge winner agreement is `0.556`. Decisive-only agreement is `0.806`: it considers only judge pairs where both selected a clear winner, excluding cases where either judge returned a tie or noise-level result. Mean absolute presented-side margin bias is `0.183` on the signed-margin scale. Panels use three distinct model families and avoid same-family judges against debaters when feasible.
