@@ -1,0 +1,9 @@
+{
+  "task_id": "fdd24e4bb70d875b5489438e",
+  "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d152b6f2f46b84ff8a98c63fb591f5116d5156e28664fd7940fef6dcd00562a3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B built a stronger case by exposing the enforcement dilemma\u2014that rules either lack verification capacity or compel harmful outflows\u2014and by dismantling Side A's reliance on institutional mechanisms (observatories, regional reserves) not created by the motion. Side A's case was concrete but ultimately aspirational, and its closing was clipped.</reason>\n<best_rebuttal>Side B's Rebuttal 2 (Turn 8) distinguishing government bans from private trade flows and exposing the observatory's inability to verify household stocks, collapsing Side A's verification defense.</best_rebuttal>"
+}

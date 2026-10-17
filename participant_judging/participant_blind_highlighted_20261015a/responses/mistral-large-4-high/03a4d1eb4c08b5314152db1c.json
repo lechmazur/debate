@@ -1,0 +1,9 @@
+{
+  "task_id": "03a4d1eb4c08b5314152db1c",
+  "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "7ff366c7c5172a296e7a79fc94a5eea58233115813003c94d0bdf40de8251bf8",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.0</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>Side A won by establishing that meaningful consent requires separability\u2014the ability to refuse AI cloning while retaining employment\u2014which broad boilerplate denies to non-union, background, and day players who lack bargaining power. A also demonstrated that AI dubbing fabricates new utterances (new words, machine-chosen inflections) attributed to the actor, distinguishing it from derivative uses like colorization or human dubbing. Side B relied on post-2023 union contracts but failed to address coercion for uncovered workers or the dignitary harm of fabricated public performance, retreating instead to the weak \"page layout\" argument. B's clipped closing compounded these execution costs.</reason>\n<best_rebuttal>Side A's Rebuttal 2 answer (A2) distinguishing between an actor's untouched recording and their fabricated public performance in a cloned voice, exposing the dignitary injury B could not counter without conceding the harm of putting words in someone's mouth.</best_rebuttal>"
+}

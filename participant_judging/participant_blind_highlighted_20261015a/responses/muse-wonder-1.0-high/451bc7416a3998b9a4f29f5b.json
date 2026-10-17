@@ -1,0 +1,9 @@
+{
+  "task_id": "451bc7416a3998b9a4f29f5b",
+  "debate_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "46358fa3a72ab3d28bb34bed44aa94e34964b3956dec58d74a49390c231bba73",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A established adolescent circadian delay and a strong guarantee-versus-permission asymmetry, but Side B made the debate about the actual burden: a universal requirement. B showed later dismissal can shift evenings later, an 8:30 bell still leaves long-commute students sleep-short, and A's fixes transfer early starts to elementary children or assume unfunded buses, drivers, and care. A answered with possibility and eventual investment rather than a reliable gain or funding path, and its clipped closing repeated that framing. B's local-choice alternative preserved the sleep tool without defending deprivation, leaving it the cleaner comparative case.</reason>\n<best_rebuttal>Side B's Rebuttal 1 was decisive: calling 8:30 a floor only permits flexibility upward, while the district needing 7:45, the parent clocking in at 8, and the rural student waking at 6:30 still bear certain costs for an uncertain sleep gain.</best_rebuttal>"
+}

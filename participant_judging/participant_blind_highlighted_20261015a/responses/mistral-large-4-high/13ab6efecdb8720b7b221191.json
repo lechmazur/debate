@@ -1,0 +1,9 @@
+{
+  "task_id": "13ab6efecdb8720b7b221191",
+  "debate_id": "prop_0222__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "59c16a32117584fabdd7e793ba6d2f58757539b00d9a981656a98fa7e5a6f476",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by grounding the case in the robust Portugal evidence, effectively rebutting Oregon as an underfunded outlier during a fentanyl supply shock, and exposing a logical contradiction in Side B's agency argument via pressure questions. Side A maintained coherent causal mechanisms addressing both overdose deaths (reduced fear of seeking help, earlier intervention) and downstream crime (avoiding criminal records that block housing/employment), while Side B relied on contested premises about the efficacy of coercion and enforcement paralysis.</reason>\n<best_rebuttal>Side A's Pressure Questions exposed Side B's contradiction: if addiction destroys rational agency making voluntary treatment futile, then threatening incarceration cannot restore that agency through \"leverage\"; Side B's subsequent pivot to \"physical interruption\" in Rebuttal 2 failed to fully resolve this logical tension, leaving its core mechanism unstable.</best_rebuttal>"
+}

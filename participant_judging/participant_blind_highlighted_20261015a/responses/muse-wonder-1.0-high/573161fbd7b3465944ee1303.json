@@ -1,0 +1,9 @@
+{
+  "task_id": "573161fbd7b3465944ee1303",
+  "debate_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e50d1e1423d54d340eec709115de72cc29d29df2b970b85208a845bd0e554842",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_b>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B wins by reframing objective calls as judgment embedded in calibration, then surviving A's best response. A's concession that sub-uncertainty margins should be inconclusive and defaulted let B show the decisive choice is preset officiating, not measurement, while A's physical-plausibility test never answers plausible mis-tracking or a late kick frame. B also preserves technology as advisory input, capturing accuracy benefits without surrendering accountable, on-field authority.</reason>\n<best_rebuttal>B's Rebuttal 2 was decisive: it answered A's pressure questions with local versus scaled failure and turned A's confidence-interval and plausibility answers into proof that plausible system errors pass the override test and decide matches uncheckably.</best_rebuttal>"
+}

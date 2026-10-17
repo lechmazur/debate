@@ -1,0 +1,9 @@
+{
+  "task_id": "f1bf215617278d7add60bf23",
+  "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cde2e648668fd0380b931b23cc1a1452cac22b84ab2faeb8b435828a9420bc20",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.0</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO better fits the motion's explicit tradeoff: it compared funded, compensated displacement risk under by-right rules against uncompensated displacement from scarcity, while CON's targeted alternative never fully explained how discretionary steering would supply enough homes or stop rent-driven expulsion. CON landed strong points on interim housing and pre-permit buyouts, but PRO's comparative frame remained live.</reason>\n<best_rebuttal>Side B's Rebuttal 2 was decisive: extra density cross-subsidizes replacements, predictability lowers costs, and a teardown mandate is an option not an order\u2014so unprofitable teardowns stay standing while housing proceeds on parking lots and commercial sites, flipping CON's fatal-bind argument.</best_rebuttal>"
+}

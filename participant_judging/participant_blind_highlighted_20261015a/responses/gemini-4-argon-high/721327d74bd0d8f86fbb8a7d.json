@@ -1,0 +1,9 @@
+{
+  "task_id": "721327d74bd0d8f86fbb8a7d",
+  "debate_id": "prop_0172__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d6e221e406997e5c1893c7db0febe8669709a0ff6e0366f811425631c1fc96f9",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.7</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>9</arg_b>\n<reb_a>6</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>9</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Side B won decisively by dismantling Side A's core biological premise and executing a devastating turn on the 3Rs framework. Side B persuasively showed that rudimentary associative learning only requires synaptic plasticity\u2014similar to isolated spinal cords or computer algorithms adjusting weights\u2014rather than the integrated sensory-affective circuitry needed for subjective valence. Furthermore, Side B forced Side A to concede that applying animal review would require rationing the number of organoids grown under the \"Reduction\" mandate. Side B then showed how restricting high-throughput organoid screening destroys the \"Replacement\" pillar of the 3Rs, prolonging reliance on live, undeniably sentient mammals.</reason>\n<best_rebuttal>In [B3.1]-[B3.2] and [B4.3]-[B4.6], Side B pressed Side A on what concrete protocols animal review would actually impose on a petri dish, and then capitalized on Side A's concession in [A4.3] that boards must reduce the number of organoids created just like live mice\u2014showing that rationing high-throughput cell cultures provides zero welfare benefit while undermining the replacement of live laboratory animals.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "0948fa8a55dd710421d60f49",
+  "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c650be7d55dfa77c0504635bd2f7273d7d4d70c43f28cd6cd2109bd1bce1c36f",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>9</fun>\n<arg_a>8</arg_a>\n<arg_b>9</arg_b>\n<reb_a>8</reb_a>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>9</ground_b>\n<orig_a>8</orig_a>\n<orig_b>9</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>In an exceptionally high-level debate, Side B won by systematically dismantling Side A's institutional mechanics and winning the comparison of failure modes. Side B turned Side A's government-funding analogy into proof that calendar deadlines invite hostage-taking, neutralized Side A's procedural objections to affirmative revocation via minority-triggered privileged resolutions, and forced Side A to concede that swing-vote extortion can cause powers to lapse under a sunset. When Side A tried to minimize that lapse as a harmless \"day of argument\" before re-passage, Side B convincingly showed why a 24-hour legal vacuum during a banking panic, quarantine, or security crisis causes irreversible chaos.</reason>\n<best_rebuttal>Side B's sequence in [B3.1], [B4.1], and [B4.4]: after Side A argued fast-track rules could prevent renewal blockades [A3.1], Side B distinguished procedural bottlenecks from substantive swing-vote extortion at midnight, forced Side A to concede that hostage-taking lapses can happen [A4.1], and then demolished Side A's claim that emergency powers evaporating for \"a day\" is harmless.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "dc6ddd143bac9cdb64fb32a6",
+  "debate_id": "prop_0493__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "1a4f7a87c92643a9ce148fd4dd6bd9c49ebb8a83cefc052d24400d3ca084a89f",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON wins the decisive clashes: the soda/farming loophole shows a bottling-only ban does little to protect the aquifer hydrologically, and the enforceability dilemma undercuts PRO's claim that permits must fail while other industries can be regulated. CON also answers drought-trigger pressure with automatic telemetry, shut-down-first permits, and corporate bonds. PRO's public-control and direct-competition frame remains plausible, but its relocation and core-asset claims sit uneasily together and never fully neutralize the arbitrariness charge.</reason>\n<best_rebuttal>CON's Rebuttal 2 and closing dilemma: if governments can enforce automatic cutoffs, regulated permits suffice; if they cannot, exempting vastly larger soda, farm, and industrial extractors leaves the aquifer unprotected anyway.</best_rebuttal>"
+}

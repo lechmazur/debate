@@ -1,0 +1,9 @@
+{
+  "task_id": "560c60b7a62a9fb2705d727c",
+  "debate_id": "prop_0425__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "91efa5f29b6977ce6b052833c6b648063317845d691b1500ac342f71dea461ce",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>9</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B (PRO) built a stronger path to victory by establishing that physical community infrastructure creates the belonging and repeated contact that digital tools presuppose, while demonstrating that digital-first sequencing risks coordinating an empty campus. Side B more effectively addressed the sequencing question\u2014arguing that physical space is harder to restore while digital features can be added later\u2014and better handled the inclusion argument by reframing vulnerable students as those on campus needing low-barrier physical spaces rather than solely those physically excluded. Side A made a compelling case about marginalized students who cannot attend, but relied on brittle scalability math (500 vs 50) and suffered a clipping execution cost in Rebuttal 1. Side B maintained stronger epistemic discipline and answered pressure questions more completely, particularly by distinguishing physical presence from mandatory participation.</reason>\n<best_rebuttal>The exchange over whether digital tools coordinate or replace community (B2.6 vs A2.1/A4.4), where Side B established that a digital coordinator requires real, existing community to coordinate, thereby neutralizing Side A's scalability argument and showing that funding digital first builds notifications for an empty campus.</best_rebuttal>"
+}

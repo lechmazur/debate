@@ -1,0 +1,9 @@
+{
+  "task_id": "05e50febae6047206e6873d3",
+  "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b00c90db104841ce4aa1c6489eb8ab2baf4405cd0291ee4ff5b02b860a5d285b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B wins by establishing that collective bargaining creates distinct legal and economic risks\u2014particularly the threat to cross-subsidization when athletes bargain over internal revenue-sharing budgets (unlike external NIL money) and mandatory wage floors that force roster cuts\u2014that ad hoc systems avoid. Side B effectively dismantled Side A's NFLPA analogy and exposed the legal feasibility gaps in Side A's federal preemption argument.</reason>\n<best_rebuttal>Side B's Rebuttal 2 (B4), specifically the A2 answer distinguishing external booster NIL money from internal university revenue-sharing budgets, which inverted Side A's cross-subsidization argument, and the critique of the NFLPA analogy noting that professional leagues cap rosters while colleges carry 100+ developmental players across different sports.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "049f2a3826b7ea8a598a8866",
+  "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "b00c90db104841ce4aa1c6489eb8ab2baf4405cd0291ee4ff5b02b860a5d285b",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>3.0</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>9</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>9</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Side B won decisively by grounding the debate in the actual legal and economic mechanics of college athletics, while dismantling Side A's analogies in every round. Side B established three major structural barriers to formal collective bargaining: state laws barring public-sector unions at major public universities, the economic incentive for high-leverage revenue athletes to form separate units and starve Olympic sports of internal funds, and union wage floors forcing NFL-style roster cuts for developmental players. Side A was forced to concede in Rebuttal 2 that its model required federal preemption or state legislative overhauls to be legal, and failed to answer Side B's distinction between flexible tiered revenue sharing and mandatory union minimums in the closing.</reason>\n<best_rebuttal>In Rebuttal 2 ([B4.5]), Side B dismantled Side A's analogy that the NFLPA proves quarterbacks and swimmers would bargain together to protect walk-ons and Olympic sports, pointing out that every NFL player plays a single revenue sport, the NFL ruthlessly caps roster sizes, and Title IX legally binds universities rather than labor unions.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "123c825ba1c4322caa66cc80",
+  "debate_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e899ed29eaa9394a26625c8f135f6ada21bfc1d897200b3dc75b7c1361b54ccb",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won by framing the clash around information asymmetry and market incentives. They neutralized B's vagueness critique by showing legal standards can define \"chronic\" through objective triggers, and they exposed fatal contradictions in B's position: claiming landlords are extortion victims while also claiming they control paper trails, and claiming landlords can raise rents on defective units (economically impossible). A's economic argument\u2014that disclosure creates a value-discount forcing landlords to fix problems\u2014remained live and unanswered, while B's alternative (enforcement only) failed to explain why disclosure cannot complement it. A's pressure questions successfully forced B into damaging concessions.</reason>\n<best_rebuttal>Side A's Rebuttal 2 exposed B's contradiction between claiming landlords are helpless against tenant extortion and claiming landlords can erase complaint records, while demolishing B's \"raise rent on defective unit\" claim as economically impossible.</best_rebuttal>"
+}

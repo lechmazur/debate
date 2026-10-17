@@ -1,0 +1,9 @@
+{
+  "task_id": "b4822d04728bbd7478040abd",
+  "debate_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "bbf37921d163718fec802aa52d899a2371fe5b54d1b7bfa1a96b53fd7f91caf3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B (PRO) won by owning the geometric reality of land scarcity and dismantling Side A's alternatives\u2014showing lease-based systems violate the religious covenants A invoked, vertical structures remain finite, green burial still consumes scarce land, and cemetery expansion contradicts the land-scarce premise. While A mounted a strong religious freedom and equity defense, B's \"generational lockout\" argument proved decisive: A's plan inevitably locks out future families once dedicated sections fill, whereas B's circular memorials preserve public access indefinitely. B also exposed A's reliance on peri-urban cemeteries after attacking them as inequitable.</reason>\n<best_rebuttal>B's Pressure Questions and Rebuttal 2 forcing A to confront that \"dedicated sections\" inevitably fill, exposing A's \"policy choice\" evasion (expanding cemeteries into housing/parks) as incompatible with land scarcity, while B demonstrated reusable, high-density memorials that avoid generational lockout.</best_rebuttal>"
+}

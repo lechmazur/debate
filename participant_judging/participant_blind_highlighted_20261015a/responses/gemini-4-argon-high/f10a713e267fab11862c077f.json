@@ -1,0 +1,9 @@
+{
+  "task_id": "f10a713e267fab11862c077f",
+  "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cde2e648668fd0380b931b23cc1a1452cac22b84ab2faeb8b435828a9420bc20",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>8</arg_b>\n<reb_a>9</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>While Side B built a strong macro case that housing scarcity causes uncompensated displacement through rising rents, Side A won by systematically dismantling Side B's mechanisms for how by-right upzoning interacts with existing low-rent apartments. Side A exposed the logistical contradiction of requiring developers to fund \"comparable interim housing nearby\" inside a neighborhood with no vacancies, highlighted how expensive replacement mandates incentivize pre-permit buyouts (\"permanent expulsion with a receipt\"), and turned Side B's fallback about building on parking lots and commercial sites into a compelling argument for targeted, conditional planning rather than blanket by-right entitlements.</reason>\n<best_rebuttal>In [A4.3]-[A4.4], Side A turned Side B's own answers in [B4.1]-[B4.4] against the proposition\u2014showing that Side B's \"interim housing nearby\" requirement contradicts its own premise of zero local vacancies, that admitting tenants will take \"a payout elsewhere\" exposes how speculators evade replacement mandates, and that leaving older rentals alone to build on parking lots and commercial sites concedes the case for targeted planning.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "c63f8a9d63897b8085a044b4",
+  "debate_id": "prop_0039__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1a19c0c18d2ac7195655b29231d671e07e3b149499e20760c4a23f2eea9d5d33",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_b>\n<reb_b>8</reb_b>\n<ground_a>5</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO sustained the decisive asymmetry: late sleep onset is the nighttime bottleneck, so an early alarm truncates usable sleep, while adult logistics can be replanned. CON asserted total bedtime compensation and catastrophic family costs, but PRO showed cancellation would require a full nightly hour-for-hour drift, offered early drop-off and teen self-supervision responses, and exposed that CON's local alternatives provide no enforceable protection against the harmful start time itself.</reason>\n<best_rebuttal>B's Rebuttal 2 partial-offset answer: bedtime would need to move a full hour every night to erase the gain, so even drift leaves better-timed net sleep, undercutting CON's central sleep-gain denial.</best_rebuttal>"
+}

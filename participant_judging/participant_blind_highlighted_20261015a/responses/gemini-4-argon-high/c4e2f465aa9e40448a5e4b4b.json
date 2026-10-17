@@ -1,0 +1,9 @@
+{
+  "task_id": "c4e2f465aa9e40448a5e4b4b",
+  "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "8ab612e9879e0b8014a20b9e28c0f67e48bc9fa7bd2d3240afaaaeb957a85564",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>9</fun>\n<arg_a>9</arg_a>\n<arg_b>8</arg_b>\n<reb_a>9</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A built a decisive case around legislative inertia and the math of executive vetoes, demonstrating why reclaiming emergency power is far harder than granting it. While Side B posed a clever dilemma\u2014arguing that renewals are either compulsory rubber-stamps or dangerous cliffs\u2014Side A cleanly resolved it in the second half by showing how scrutiny changes over time (week two vs. month eighteen) and how sunsets give lawmakers leverage to strip out specific abuses while renewing core relief. Finally, Side A's closing systematically dismantled Side B's alternative safeguards, particularly by turning Side B's own distinction between funding and legal authority against the idea that legislatures can simply defund regulatory coercion.</reason>\n<best_rebuttal>In [A5.2], Side A turned Side B's own argument from [B4.5]\u2014that budget battles do not erase legal authority\u2014directly against Side B's claim in [B4.1] and [B4.3] that legislatures can control abuses through appropriations, pointing out that banning protests, censoring speech, or suspending regulations by decree costs zero dollars and cannot be defunded.</best_rebuttal>"
+}

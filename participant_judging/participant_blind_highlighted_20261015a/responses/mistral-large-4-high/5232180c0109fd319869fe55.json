@@ -1,0 +1,9 @@
+{
+  "task_id": "5232180c0109fd319869fe55",
+  "debate_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "3306e1c365e53ac9e3104490f5a2ae1c23ff6d8c9b28df78000f41738b27edeb",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.0</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won by establishing that direct revenue sharing creates a commercial labor relationship requiring durable antitrust immunity that only collective bargaining can provide, while effectively rebutting tax and Title IX concerns. Side B mounted a strong defense of the status quo, but Side A's rebuttals were sharper\u2014particularly in exposing Side B's reliance on hypothetical congressional intervention as a concession that unilateral compliance is legally untenable, and in reframing workers' compensation objections as opposition to basic athlete protections.</reason>\n<best_rebuttal>Side A's second rebuttal (A4), which directly answered the antitrust immunity pressure question for public universities with sophisticated non-statutory labor exemption and state-action immunity doctrine, while reframing Side B's workers' compensation complaint as a bizarre opposition to injury coverage for revenue-generating athletes.</best_rebuttal>"
+}

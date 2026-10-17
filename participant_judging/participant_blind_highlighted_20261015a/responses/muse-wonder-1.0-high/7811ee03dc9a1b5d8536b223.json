@@ -1,0 +1,9 @@
+{
+  "task_id": "7811ee03dc9a1b5d8536b223",
+  "debate_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "b23861e2a1e123e6b49301a410c2c78845d4ff265e2549cbf233c3ae62d7afe6",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won the sequencing clash: physical-first still requires travel, timing, childcare, health, and confidence to enter, so it counts only students already able to show up. B's prevention-versus-management and destination arguments were strong, but A answered them with a plausible bridge design and showed digital reach can identify who is missing before physical spaces are built. B never solved the case of students who cannot be present at all.</reason>\n<best_rebuttal>Most decisive was A's Rebuttal 2: digital help works by phone asynchronously without a quiet room, a lounge solves a place barrier by requiring presence elsewhere, and a room can only notice absence after the repeated attendance that anxiety, shifts, and commuting prevent.</best_rebuttal>"
+}

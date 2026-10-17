@@ -1,0 +1,9 @@
+{
+  "task_id": "dabd0352998e91e1f61b1dbb",
+  "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a6bc02d0c778f321a6fe476a1036a984fa2f05db0b223689cfc8a03163160bf3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_b>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO established marginal contribution under near-zero vacancy and answered causation, funding, and trigger objections with sequencing, an external measurable test, and the distinction between freezing growth and eliminating existing fees. CON's secured-bed precondition conceded that recruitment cannot remain unconstrained, while its purpose-built housing claim never answered PRO's overflow-into-shared-housing mechanism.</reason>\n<best_rebuttal>PRO's Rebuttal 2 was decisive: purpose-built beds absorb students only until they run out, after which overflow competes for local homes, turning CON's segregation claim into evidence for a cap.</best_rebuttal>"
+}

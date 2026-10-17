@@ -1,0 +1,9 @@
+{
+  "task_id": "b9d0d661adaa8182e0fedce6",
+  "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8b004c8cb75dfb7e14d390539708c1162089d95a967d9df94db634ca7ca235ef",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>PRO's burden-shift case survived: silence should end broad coercion, not preserve it. CON's privileged-revocation alternative was inventive, but PRO showed it still forces opponents to assemble a majority against a sitting executive mid-crisis, while sunset forces the power-holder to earn continuation. CON's midnight hostage-taking and lapse risks were serious, yet PRO's weighing\u2014a loud, repairable lapse versus quiet, indefinite drift\u2014was cleaner and less neutralized.</reason>\n<best_rebuttal>PRO's Rebuttal 2 resolved the alleged procedural contradiction: if legislatures can fast-track revocation, they can fast-track renewal, and if neither is reliable the default should favor liberty over decree. CON's procedural-versus-substantive extortion reply narrowed but did not eliminate that burden asymmetry.</best_rebuttal>"
+}

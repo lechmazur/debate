@@ -1,0 +1,9 @@
+{
+  "task_id": "67df3d2d06a6c9dd2730bdda",
+  "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1c3fd9cb73135243a246316beb1cfe4b9ae6daeb4c0878daa95bba4252808f90",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Side B won by proving that once broad emergency powers are granted, legislatures cannot reliably reclaim or narrow them without an automatic sunset. Side A made a major institutional error in Rebuttal 1 by claiming an executive who can sustain a veto can usually win renewal; Side B exposed this math in Pressure Questions (one-third to sustain a veto vs. a majority to renew) and then dismantled every fallback mechanism Side A offered. In particular, Side B resolved Side A's central dilemma (rubber-stamp vs. dangerous cliff) by distinguishing acute early responses from lingering abuses and showing how sunsets create leverage to strip out coercive overreach that does not depend on appropriations.</reason>\n<best_rebuttal>In [B5.2], Side B used Side A's own argument from [A4.5]\u2014that budget battles do not erase legal authority\u2014to defeat Side A's claim in [A4.1] and [A4.3] that legislatures can simply control emergency abuses through appropriations, pointing out that banning protests, censoring speech, or suspending regulations by decree costs zero dollars and therefore cannot be defunded.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "42f16e668af3445d6517eced",
+  "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "2010740fd1cd0df2fb1c8844b6be5d990911bdeee34cb0b209b9643bb33bb20a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won by rigorously distinguishing faithful AI dubbing (translation of an existing performance) from abusive voice cloning, then exposing a fatal dilemma in Side B's position: if opt-in merely means an express AI clause negotiated at hiring, it is redundant with improved boilerplate; if it means a genuine right to refuse or revoke, then Side B's own answer (replace the actor or skip the territory) confirms Side A's warning that opt-in displaces original performers\u2014especially lesser-known actors\u2014and reduces audience access. Side B's concession on replacement undermined their accessibility and protection claims.</reason>\n<best_rebuttal>Side A's Rebuttal 2 (A4.3\u2013A4.4), which forced the dilemma: opt-in either collapses into a \"clearer contract clause\" (making the proposition unnecessary) or functions as a genuine veto that triggers the replacement of dissenting actors and abandonment of territories\u2014harms that Side B's own answer (B4.2) confirmed.</best_rebuttal>"
+}

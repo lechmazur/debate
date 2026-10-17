@@ -1,0 +1,9 @@
+{
+  "task_id": "a2c1f3b8611223fcd6d9ebc1",
+  "debate_id": "prop_0571__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "25786f3046caeb0ecdd72bf17f593461b4bb97af5ede192808ffadaf2a0bdbd8",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B maintained the decisive objective-versus-judgment distinction, answered override and calibration pressure with a concrete protocol and indeterminate fallback, and consistently compared auditable machine error against invisible human error. Side A's liability-transfer, calibration, flow, and two-tier concerns raised real pressure, and its binary-versus-relational offside distinction was sharp, but its VAR alternative did not show faster or more accurate correction and its clipped Rebuttal 2 weakened execution.</reason>\n<best_rebuttal>Side B's Rebuttal 2 was decisive: defining official-only, triggered, time-boxed override and an indeterminate fallback turned Side A's edge-case and confidence-interval attacks into evidence for bounded, auditable uncertainty over unacknowledged human guessing.</best_rebuttal>"
+}

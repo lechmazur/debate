@@ -1,0 +1,9 @@
+{
+  "task_id": "c44f030d40eada05c8421ea9",
+  "debate_id": "prop_0423__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cf6747690379588e004e09be86cf034fc97cf18f63e0b9be92b05890930eb437",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.4</margin>\n<fun>8</fun>\n<arg_a>9</arg_a>\n<arg_b>7</arg_b>\n<reb_a>9</reb_a>\n<reb_b>6</reb_b>\n<ground_a>9</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won decisively by dismantling Side B's urban economics and turning Side B's core fairness framing against the proposition. Side A proved that in a finite-capacity stadium, replacing out-of-town visitors with locals who sleep at home starves the municipality of net-new hotel and tourist tax revenue. As Side A crystallized in closing, giving a private ticket discount to the tiny fraction of residents who fit inside the stadium forces the broader local public\u2014who still endure the disruption and pay year-round taxes\u2014to absorb a deeper municipal deficit. Side A also won the market-mechanics clash by showing that pre-dynamic carve-outs create an inescapable dilemma between secondary-market arbitrage (especially via purchasable \"member\" tiers) and stadium turnstile gridlock, while shrinking general-sale supply to make dynamic surge prices even steeper for everyone else.</reason>\n<best_rebuttal>In [A4.1] and [A4.2], Side A dismantled Side B's pressure questions by exposing B3.1 as a fatal policy dilemma for the proposition (arbitrage windfalls vs. turnstile gridlock) and proving against B4.1 that because stadium capacity is finite and locals pay property taxes regardless, \"sequencing\" tickets still displaces net-new tourist tax revenue at the expense of local municipal budgets.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "712119dac69d82f604eacf78",
+  "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "39a02131aaf53b7af2a5a1e252e1233662f67a6b3c0240f0e25a2a85176546df",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A (PRO) won by establishing that unlimited offsets create a severe moral hazard that crowds out genuine in-value-chain reductions and enables greenwashing. A effectively rebutted Side B's concern that in-value-chain mandates trap capital in wealthy nations by demonstrating that most corporate value chains (smartphones, apparel, data centers) already run through Global South manufacturing. Side B's efficiency argument relied on assumptions about offset permanence and additionality that Side A successfully challenged, and Side B ultimately conceded that executives would not voluntarily fund expensive retrofits when cheap offsets are available\u2014an admission that supported Side A's case that the cap forces necessary action rather than destroying climate ambition.</reason>\n<best_rebuttal>Side A's Rebuttal 2 (Turn 7) decisively exposed the contradiction in Side B's claim that firms would simultaneously purchase cheap offsets and fund expensive retrofits, while effectively rebutting the \"capital flight from Global South\" argument by noting that most value chains run through developing-world manufacturing.</best_rebuttal>"
+}

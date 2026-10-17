@@ -1,0 +1,9 @@
+{
+  "task_id": "25c2c4c2abed3ca6befac3b2",
+  "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "8ab612e9879e0b8014a20b9e28c0f67e48bc9fa7bd2d3240afaaaeb957a85564",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_b>\n<reb_b>7</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A wins on the burden-flip: sustaining a veto needs only a minority while ending powers without sunsets can require overriding it, leaving executives protected by inertia. B's tailored, appropriations, and parliamentary alternatives were damaged by A's conditional-renewal leverage and the point that bans, censorship, and regulatory suspensions need no funding to defund. B's cliff and rubber-stamp dilemma remained forceful, but A answered it with time-sensitive, clause-by-clause renewal.</reason>\n<best_rebuttal>Most decisive was A's closing answer to B's appropriations alternative: defunding cannot repeal zero-cost coercive decrees, while repeal or amendment remains blocked by veto or party loyalty.</best_rebuttal>"
+}

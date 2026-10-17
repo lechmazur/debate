@@ -1,0 +1,9 @@
+{
+  "task_id": "1030116be9f89d6e38fcbd4c",
+  "debate_id": "prop_0333__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5247b0bc810688e682f123d8dccdaaddd3743edd04b8e00df458a03021137d93",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>5</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the comparative frame: prioritization is not abandonment, existing channels remain, and marginal spending should create first encounters where youth actually are. B also neutralized the creator-incentive attack, answered the broken-funnel point with sequenced depth, and showed channel expansion is at least as cannibalistic of journalism budgets. A defended depth and universality forcefully but repeatedly conflated expansion with necessary maintenance and never explained how more linear channels create youth familiarity or trust.</reason>\n<best_rebuttal>B's Rebuttal 2 was decisive: partnerships need not be per-engagement, hiring creators would destroy their independent community value, and short-form can multiply existing investigations at lower marginal cost than filling another channel.</best_rebuttal>"
+}

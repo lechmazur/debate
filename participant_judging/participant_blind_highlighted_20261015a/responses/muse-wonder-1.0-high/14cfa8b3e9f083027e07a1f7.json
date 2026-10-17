@@ -1,0 +1,9 @@
+{
+  "task_id": "14cfa8b3e9f083027e07a1f7",
+  "debate_id": "prop_0571__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "80269303f33d9494bb336ed834bf94553d31e0e299223e357dfc5537bfc959c5",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>6</rhet_b>\n<reason>Side A maintained the proposition's sharp objective/judgment distinction, answered the override and calibration pressures with a concrete triggered protocol and indeterminate fallback, and consistently weighed auditable automated error against invisible human error. Side B's discrete-versus-relational distinction and liability concerns were competitive, but its VAR alternative, repeated stratification claim, and clipped second rebuttal did not neutralize A's comparative case.</reason>\n<best_rebuttal>Side A's Rebuttal 2 was decisive: it directly answered who holds final authority and what happens when confidence straddles the line, then reframed those concessions as bounded uncertainty superior to routine blocked-view human guessing.</best_rebuttal>"
+}

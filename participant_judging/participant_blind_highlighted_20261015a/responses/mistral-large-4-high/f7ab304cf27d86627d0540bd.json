@@ -1,0 +1,9 @@
+{
+  "task_id": "f7ab304cf27d86627d0540bd",
+  "debate_id": "prop_0594__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "50eabe32ff30ac7b6682e9b3e61b8759653d21e9c61eddf79bf495962be149d1",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by successfully distinguishing \"limiting bans\" from \"banning bans,\" thereby neutralizing CON's sovereignty argument and exposing that CON's voluntary alternative fails to stop pre-emptive bans. A's rebuttals were sharper, particularly in answering the pressure questions about the 72-hour enforcement gap with the \"automatic sunset\" mechanism, while B admitted its system offers no remedy in that window.</reason>\n<best_rebuttal>The Rebuttal 2 exchange where Side A answered the pressure questions: A4.1 explained that automatic expiry operates before any tribunal ruling, halting the cascade through pre-commitment, while A4.4 exposed that CON offered no remedy for pre-emptive bans and no enforceable limit it would accept, revealing that CON defends unlimited closure rather than emergency measures.</best_rebuttal>"
+}

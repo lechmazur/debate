@@ -1,0 +1,9 @@
+{
+  "task_id": "84481f946313a04364ab8dcf",
+  "debate_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "d729c4488d1ed6830f4fcbce00283cc9eee911d23b9da572e742f314007d1f91",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won the sequencing and competitiveness clash. A powerfully exposed the raw-export trap and argued regional demand already exists through imports, but B showed that population is not effective demand, local processing only saves hard currency if it beats import costs, and demoting the main earner risks losing both export revenue and factory viability. B also credibly distinguished competitive, incremental processing from premature regional prioritization.</reason>\n<best_rebuttal>B's second rebuttal was decisive: it answered the alleged contradiction by separating processing where scale and energy make it competitive from mandating it prematurely, then showed that resource-access conditions can lower bids and that tariff removal does not fix power, credit, or transport costs.</best_rebuttal>"
+}

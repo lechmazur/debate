@@ -1,0 +1,9 @@
+{
+  "task_id": "c0e435ef5a3dd06f12424476",
+  "debate_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "911df46e0269c362096cf36770851ba7d43fc42c75c8dd636e9470d812fc7daf",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B won the ordering clash: digital-first reaches commuters, parents, disabled and anxious students, provides out-of-hours support, and gathers evidence about who is missing before scarce funds are fixed in place. Side A's prevention and embodied-belonging case was compelling, but it never solved travel, timing, childcare, or first-entry barriers, and its claim that physical assets appreciate while platforms merely depreciate ignored maintenance and reach.</reason>\n<best_rebuttal>Side B's Rebuttal 2 was decisive: matching, named hosts, invitations and follow-ups answered the bridge objection, asynchronous phone access answered the private-space objection, and the distinction between speed for the already-organized and reach for the isolated exposed Side A's central flaw.</best_rebuttal>"
+}

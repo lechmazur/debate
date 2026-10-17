@@ -1,0 +1,9 @@
+{
+  "task_id": "b818b06369a2b5d4fb8609d1",
+  "debate_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "78a531a4694e503ea3561a1b800c8f5631b8875130c97d20de3626d905c2965d",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.2</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won by reframing B's family-burden argument as an attack on an unfunded status quo rather than the proposition's vision of supported home care. A maintained the decisive textual advantage of the \"when possible\" qualifier, while B's concession that \"early facility placement\" is continuity allowed A to expose B's model as preemptive institutionalization of elders who do not yet require 24/7 care. A's rebuttals were sharper, better adapted to pressure, and successfully narrowed the dispute to whether B's default amounts to confiscating independence years early.</reason>\n<best_rebuttal>A's Rebuttal 1 distinguishing \"supporting home care\" from \"abandoning families,\" which neutralized B's opening attack on caregiver burden and reframed the debate around whether home care is adequately funded rather than whether it is inherently dangerous.</best_rebuttal>"
+}

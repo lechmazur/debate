@@ -1,0 +1,9 @@
+{
+  "task_id": "9654bffc392cbaf3cbff0f6b",
+  "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "496d043309fa0a26d09df3a48d7ce15b8c63d074479fe79d9e2b46d696842369",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.7</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>5</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B wins by defining opt-in as a separable yes that can be refused without losing the job, then showing boilerplate either lacks that separability or is opt-in under another name. B neutralizes A's paralysis case with one upfront scoped consent and the human-dub fallback, and distinguishes cloning from colorization or human dubbing because it fabricates attributed new utterances from a biometric model. A repeats the forty-holdout and accessibility claims after they were answered and gives an evasive answer on whether the AI rider can be struck without losing work.</reason>\n<best_rebuttal>Most decisive was B's pressure-question dilemma and follow-through: if the rider can be refused while keeping the job it is opt-in, and if it cannot it is not meaningful consent. A never squarely escaped that fork.</best_rebuttal>"
+}

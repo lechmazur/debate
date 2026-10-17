@@ -1,0 +1,9 @@
+{
+  "task_id": "521f99dbd7581ba1aaae6f6b",
+  "debate_id": "prop_0333__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "e42b5a5ed34f68a1092f40ca200fb7f0a81385b01f3ec26587ec7327f492a5f5",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A wins by consistently framing the issue as prioritization and marginal investment, not abandonment of existing channels. It answers the depth objection with series-based depth over time, answers the incentive objection with flat-fee editorially controlled partnerships, and flips universal service by identifying youth as the group not actually encountering public service. Side B's budget, broken-funnel, and universal-mandate pressures are serious, but B repeatedly treats prioritization as abandonment and repeats per-engagement and visibility objections after A had directly addressed them.</reason>\n<best_rebuttal>Side A's Rebuttal 2 was decisive: its A1/A2 answers distinguish commercial saturation from public-service access and replace per-engagement pay with flat-fee commissions, then use low marginal cost and sequenced clips to blunt both the cannibalization and broken-funnel attacks.</best_rebuttal>"
+}

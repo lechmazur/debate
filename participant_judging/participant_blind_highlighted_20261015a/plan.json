@@ -1,0 +1,2720 @@
+{
+  "protocol_version": "participant-judging-2026-09-05a",
+  "protocol_digest": "64d993639e1d85f90155d68fbb522babc9734dcd750b12d943c7df1ed81d6dda",
+  "source_scope": "judge_judge_blend_mistral4_20261014_finalb__debate_all_templates",
+  "judge_template": "judge_blend_mistral4_20261014_finalb",
+  "models": [
+    "muse-wonder-1.0-high",
+    "gemini-4-argon-high",
+    "mistral-large-4-high"
+  ],
+  "source_pair_sha256": "24e151f7becb1e53a1607372a968d97dced852b91484dd46ff84997885364006",
+  "source_judge_sha256": "f865d8ff6f853802e73e908f1c0d8cb76a04a3881c9520a3ddf7c249bf3f5eb7",
+  "groups": 25,
+  "debates": [
+    {
+      "debate_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0019",
+      "proposition_text": "Landlords that use shared algorithmic rent-setting tools should face antitrust scrutiny as if they were coordinating prices directly.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "ae850d13c3fb7507e9730438e2107d03dfb7d7c68e130fd1858be1f61fcfd724",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "gpt-5.6-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": -1.9333333333333333,
+      "panel_normalized_pro_margin": -1.8574074074074074,
+      "panel_argument_strength_pro": 6.333333333333333,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 6.333333333333333,
+      "panel_rebuttal_quality_con": 8.666666666666666,
+      "panel_grounding_and_epistemic_discipline_pro": 6.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 6.333333333333333,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0019__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0019",
+      "proposition_text": "Landlords that use shared algorithmic rent-setting tools should face antitrust scrutiny as if they were coordinating prices directly.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "ff4e90a400851abeee67700aa1d5e36b1313191e510cd4ed50a74294084bf81f",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "gpt-5.6-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 1.7666666666666666,
+      "panel_normalized_pro_margin": 1.7188888888888887,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.666666666666666,
+      "panel_rebuttal_quality_con": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 7.666666666666667,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.666666666666666,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0039",
+      "proposition_text": "Secondary schools should be required to start no earlier than 8:30 a.m. based on adolescent sleep science even when transportation and parent schedules become harder.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "8a8938485845886c31a7c3cfb8ee113eb64a95b12532b49b6bf0319ff6b572a9",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": -1.6666666666666667,
+      "panel_normalized_pro_margin": -1.6910052910052913,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 6.666666666666667,
+      "panel_rebuttal_quality_con": 8.0,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 6.0,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0039__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0039",
+      "proposition_text": "Secondary schools should be required to start no earlier than 8:30 a.m. based on adolescent sleep science even when transportation and parent schedules become harder.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "eace3147bc5ebe27f92301457a7591202f7a92dc50db7e2bd4c1a872dcc6b32c",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 1.8666666666666665,
+      "panel_normalized_pro_margin": 1.8735978835978837,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.0,
+      "panel_rebuttal_quality_con": 6.333333333333333,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 5.666666666666667,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0080",
+      "proposition_text": "College athletes at schools that directly share sports revenue should be represented through formal collective bargaining rather than ad hoc NIL and compliance systems.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "406faee89a34060b9f064cbbb2e5c81348784bdc1e76afecb00221403611a4da",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "kimi-k2.6",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 2.1,
+      "panel_normalized_pro_margin": 2.02515873015873,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0080",
+      "proposition_text": "College athletes at schools that directly share sports revenue should be represented through formal collective bargaining rather than ad hoc NIL and compliance systems.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "aaddf5bb21e9925a4c693f4c04e22303b3265c580e76c6ce126c21af4b4c749f",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "kimi-k2.6",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -1.9333333333333333,
+      "panel_normalized_pro_margin": -1.8578571428571429,
+      "panel_argument_strength_pro": 6.333333333333333,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 5.666666666666667,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 7.0,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0096",
+      "proposition_text": "AI dubbing of actors' voices for film and television should require opt-in performer consent rather than rely on broad contract boilerplate.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "65d83acd0b7a7d5df153ae9e3616505b5fe6c3f31f17b6c4f5fd5b1ce71f6ff5",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gemini-3.1-pro-preview",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": -1.8333333333333333,
+      "panel_normalized_pro_margin": -1.7890476190476192,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.666666666666667,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0096",
+      "proposition_text": "AI dubbing of actors' voices for film and television should require opt-in performer consent rather than rely on broad contract boilerplate.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "53bae9a4e75572568be956c0236c67e870c03b23f4862fc91571f5e5ee9d908e",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gemini-3.1-pro-preview",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 2.066666666666667,
+      "panel_normalized_pro_margin": 1.9873809523809525,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 6.0,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.666666666666667,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 6.333333333333333
+    },
+    {
+      "debate_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0172",
+      "proposition_text": "Proof-of-concept brain organoids capable of rudimentary learning should trigger the same ethical review frameworks applied to animal experimentation.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "b8dc738081abfc6a88a64596d29894f76d110ba96c4b87b5a81b1857296304dc",
+      "panel_judges": [
+        "gpt-5.6-high",
+        "grok-4.5-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 0.39999999999999997,
+      "panel_normalized_pro_margin": 0.41870370370370363,
+      "panel_argument_strength_pro": 7.666666666666667,
+      "panel_argument_strength_con": 7.333333333333333,
+      "panel_rebuttal_quality_pro": 7.666666666666667,
+      "panel_rebuttal_quality_con": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0172__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0172",
+      "proposition_text": "Proof-of-concept brain organoids capable of rudimentary learning should trigger the same ethical review frameworks applied to animal experimentation.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "82d6a56a95e74071c1375f5ef72d5de396ef64ff299b6cc6fd492f6befae3987",
+      "panel_judges": [
+        "gpt-5.6-high",
+        "grok-4.5-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -2.5333333333333337,
+      "panel_normalized_pro_margin": -2.4366666666666665,
+      "panel_argument_strength_pro": 6.333333333333333,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.666666666666666,
+      "panel_grounding_and_epistemic_discipline_pro": 6.0,
+      "panel_grounding_and_epistemic_discipline_con": 8.333333333333334,
+      "panel_originality_of_argument_pro": 6.0,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.0,
+      "panel_rhetorical_effectiveness_con": 8.666666666666666
+    },
+    {
+      "debate_id": "prop_0222__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0222__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0222",
+      "proposition_text": "Decriminalizing possession of small amounts of drugs leads to lower overdose deaths and fewer downstream crimes than continuing punitive enforcement.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "140335f664384ba4cd1d0e676df745958fa31e39779484106ac1e73c3586d58e",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 2.2333333333333334,
+      "panel_normalized_pro_margin": 2.0467460317460318,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 7.0,
+      "panel_rebuttal_quality_pro": 8.666666666666666,
+      "panel_rebuttal_quality_con": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 7.666666666666667,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 8.666666666666666,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0222__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0222__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0222",
+      "proposition_text": "Decriminalizing possession of small amounts of drugs leads to lower overdose deaths and fewer downstream crimes than continuing punitive enforcement.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "8483259f9056b21b75462839cb806445d7c619d060bff575eb889f48d0ecb5ce",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -1.8333333333333333,
+      "panel_normalized_pro_margin": -1.6838095238095239,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 7.0,
+      "panel_rebuttal_quality_con": 8.666666666666666,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 6.0,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.666666666666666
+    },
+    {
+      "debate_id": "prop_0268__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0268__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0268",
+      "proposition_text": "Supermarkets and food apps should be required to display shrinkflation and unit-price changes more clearly when package sizes fall without obvious headline price cuts.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "357dd42a288f7975d16be2af05c249e9229c8e4501696363eeb2e4039b9d7f50",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 1.6000000000000003,
+      "panel_normalized_pro_margin": 1.6253439153439153,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 7.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0268__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0268__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0268",
+      "proposition_text": "Supermarkets and food apps should be required to display shrinkflation and unit-price changes more clearly when package sizes fall without obvious headline price cuts.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "bf0ad7723bbbb5962efa9dedaa2aaa03d6c2426a80f0f23abcadc5a2a8cf9e93",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 0.33333333333333326,
+      "panel_normalized_pro_margin": 0.24555555555555553,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 7.333333333333333,
+      "panel_rebuttal_quality_con": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 6.333333333333333,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0269__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0269__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0269",
+      "proposition_text": "Clothing resale platforms should authenticate more items and absorb more counterfeit risk themselves rather than push the burden mainly onto buyers.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "6440933e073a41ee62a4b9d0d370ac69d5fb913a4aa1682d9f63cf76dbf1c2ad",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 1.9666666666666668,
+      "panel_normalized_pro_margin": 1.976137566137566,
+      "panel_argument_strength_pro": 7.666666666666667,
+      "panel_argument_strength_con": 6.0,
+      "panel_rebuttal_quality_pro": 7.666666666666667,
+      "panel_rebuttal_quality_con": 6.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 6.333333333333333,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 6.333333333333333
+    },
+    {
+      "debate_id": "prop_0269__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0269__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0269",
+      "proposition_text": "Clothing resale platforms should authenticate more items and absorb more counterfeit risk themselves rather than push the burden mainly onto buyers.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "448930409e764f4f990201df804a85f34be9144c0f459cd23a4fc337f911cd34",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": -2.1,
+      "panel_normalized_pro_margin": -2.1281481481481483,
+      "panel_argument_strength_pro": 6.333333333333333,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.666666666666666,
+      "panel_grounding_and_epistemic_discipline_pro": 6.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0307",
+      "proposition_text": "When possible, elder care should be organized around supporting home care rather than moving older adults into institutions by default.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "6bb80904d07a6c308b0209d8238423747c21494398c56345a7f563964a4d8d9c",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 2.066666666666667,
+      "panel_normalized_pro_margin": 2.0768783068783065,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.333333333333333,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0307__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0307",
+      "proposition_text": "When possible, elder care should be organized around supporting home care rather than moving older adults into institutions by default.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "1d180ac1cbd8cda8c62f9f606755bc02ccfc11626f66bed8817a403893631cfd",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": -0.7000000000000001,
+      "panel_normalized_pro_margin": -0.7825396825396824,
+      "panel_argument_strength_pro": 7.333333333333333,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 6.666666666666667,
+      "panel_rebuttal_quality_con": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0308",
+      "proposition_text": "Populist movements in democracies are usually a warning sign of institutional decay and democratic backsliding more than a healthy corrective to elite failure.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "664632f6179d94e419ffa73f40cc05f7f776d88ac3e52cec6d09f2146f669ba7",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "gpt-5.6-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -1.9000000000000001,
+      "panel_normalized_pro_margin": -1.6842592592592593,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.666666666666667,
+      "panel_rebuttal_quality_con": 9.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 6.333333333333333,
+      "panel_originality_of_argument_con": 8.0,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 8.333333333333334
+    },
+    {
+      "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0308",
+      "proposition_text": "Populist movements in democracies are usually a warning sign of institutional decay and democratic backsliding more than a healthy corrective to elite failure.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "9518031160b3ec6f7c09e00d715722beb47e9b256dcdde08e05c838a8d7045a2",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "gpt-5.6-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 2.2333333333333334,
+      "panel_normalized_pro_margin": 1.9675925925925926,
+      "panel_argument_strength_pro": 8.666666666666666,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 9.0,
+      "panel_rebuttal_quality_con": 7.0,
+      "panel_grounding_and_epistemic_discipline_pro": 8.0,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 8.0,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 9.0,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0333",
+      "proposition_text": "Public broadcasters should prioritize youth-oriented short-form video and creator partnerships rather than traditional channel expansion to remain relevant.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "8da611d99b077e583810d5ef9464ce8d073df79bce65c9d350e626138fcd10fe",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gemini-3.1-pro-preview",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": -2.0333333333333337,
+      "panel_normalized_pro_margin": -1.9779365079365079,
+      "panel_argument_strength_pro": 6.666666666666667,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.0,
+      "panel_rhetorical_effectiveness_con": 8.333333333333334
+    },
+    {
+      "debate_id": "prop_0333__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0333",
+      "proposition_text": "Public broadcasters should prioritize youth-oriented short-form video and creator partnerships rather than traditional channel expansion to remain relevant.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "c407e50796a63366566d2045a49ffd0b559b817d4cc3711350cd00f5de907906",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gemini-3.1-pro-preview",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 1.7333333333333334,
+      "panel_normalized_pro_margin": 1.6595238095238098,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.333333333333333,
+      "panel_rebuttal_quality_pro": 7.333333333333333,
+      "panel_rebuttal_quality_con": 6.0,
+      "panel_grounding_and_epistemic_discipline_pro": 8.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 5.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0412",
+      "proposition_text": "Influencers with large audiences should face advertising-disclosure rules as strict as those applied to traditional media personalities.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "0e7b1cf5200e5cccc76ad74252e990396f3fcfd54a9d11a12980270f8013255d",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 2.1666666666666665,
+      "panel_normalized_pro_margin": 2.171322751322751,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0412__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0412",
+      "proposition_text": "Influencers with large audiences should face advertising-disclosure rules as strict as those applied to traditional media personalities.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "3fe8d4dfada36cf0960c2db7b3182345c0ebb4ef4cdbf2a323a626c478947948",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": -0.6666666666666666,
+      "panel_normalized_pro_margin": -0.7402645502645502,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 6.333333333333333,
+      "panel_rebuttal_quality_con": 8.0,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 5.666666666666667,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0423",
+      "proposition_text": "Large event organizers should reserve a meaningful share of tickets for local residents or members before opening dynamic general-sale markets.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "c951bbdd682a514d188465e2e0ac6fa8449ad180b74e1a4f03013b32155adcf1",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "kimi-k2.6",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 2.1666666666666665,
+      "panel_normalized_pro_margin": 2.1115079365079366,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0423__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0423",
+      "proposition_text": "Large event organizers should reserve a meaningful share of tickets for local residents or members before opening dynamic general-sale markets.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "9d876611a9cd6dbfcb5a47ee7e60214131ad7bcac7e60afbf1a7c4e7e5988a7e",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "kimi-k2.6",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -1.9333333333333333,
+      "panel_normalized_pro_margin": -1.8578571428571429,
+      "panel_argument_strength_pro": 6.666666666666667,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 6.333333333333333,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0425",
+      "proposition_text": "Universities should fund in-person clubs, common spaces, and recurring social events before expanding digital wellness and engagement platforms.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "4e0c56f1ae055916b102936816cdcd193d4bee87fa82e9bb3621ae85c063a1cb",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "grok-4.5-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": -1.5333333333333332,
+      "panel_normalized_pro_margin": -1.6406349206349207,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 6.333333333333333,
+      "panel_rebuttal_quality_con": 8.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 6.0,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0425__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0425",
+      "proposition_text": "Universities should fund in-person clubs, common spaces, and recurring social events before expanding digital wellness and engagement platforms.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "db2d7124d5bf914c3838d0af4f923ce61b6cba4b3835fb1a26ac571c32dafb4c",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "grok-4.5-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 1.5,
+      "panel_normalized_pro_margin": 1.6190476190476188,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.0,
+      "panel_rebuttal_quality_con": 6.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0433",
+      "proposition_text": "Landlords should disclose whether a building has recurring short-term-rental party complaints, severe noise problems, or chronic package theft before tenants sign a lease.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "7e21b778bf85208693e4554ec4f9c22098f1f8f09e3c882b9057a89be8f59294",
+      "panel_judges": [
+        "kimi-k2.6",
+        "muse-spark-1.1-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 2.1666666666666665,
+      "panel_normalized_pro_margin": 2.172222222222222,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 6.333333333333333,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 5.333333333333333,
+      "panel_grounding_and_epistemic_discipline_pro": 8.0,
+      "panel_grounding_and_epistemic_discipline_con": 6.333333333333333,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 5.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 6.333333333333333
+    },
+    {
+      "debate_id": "prop_0433__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0433",
+      "proposition_text": "Landlords should disclose whether a building has recurring short-term-rental party complaints, severe noise problems, or chronic package theft before tenants sign a lease.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "ff5a319a04728b87433cd8a7b9c110e6e1574605a536a0ba8285fb3eb2843f87",
+      "panel_judges": [
+        "kimi-k2.6",
+        "muse-spark-1.1-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -2.0,
+      "panel_normalized_pro_margin": -1.9833333333333334,
+      "panel_argument_strength_pro": 6.666666666666667,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 5.666666666666667,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 6.666666666666667,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0442",
+      "proposition_text": "International shipping should be required to use low- or zero-carbon fuels on a binding timetable set by the IMO, even if freight costs rise.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "ba5c0aedecffbe96e9b141ffa58bc8af5a931f6cddf73e001d2e9d827707eace",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": -2.066666666666667,
+      "panel_normalized_pro_margin": -1.9896296296296292,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.666666666666666,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 6.0,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.333333333333334
+    },
+    {
+      "debate_id": "prop_0442__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0442",
+      "proposition_text": "International shipping should be required to use low- or zero-carbon fuels on a binding timetable set by the IMO, even if freight costs rise.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "d3a890c827a74b118a79dd52a39c120baedf36bc7b5bf6140ec377bb78b94438",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 1.5333333333333332,
+      "panel_normalized_pro_margin": 1.460740740740741,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 7.0,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 7.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0486",
+      "proposition_text": "Public cemeteries in land-scarce cities should transition to composting or alkaline hydrolysis rather than continue allocating permanent burial plots.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "6757364941bdf1ca4fffe825b680d6954ca5eac4233553b0216443322013ac70",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "muse-spark-1.1-high"
+      ],
+      "panel_pro_margin": 2.1333333333333333,
+      "panel_normalized_pro_margin": 2.1115079365079366,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.333333333333333,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0486__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0486",
+      "proposition_text": "Public cemeteries in land-scarce cities should transition to composting or alkaline hydrolysis rather than continue allocating permanent burial plots.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "b08250e4d31e55906ff23ad649a4a5c14e7938741d25c0d64f7e528ccc746ed8",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "muse-spark-1.1-high"
+      ],
+      "panel_pro_margin": -2.0,
+      "panel_normalized_pro_margin": -1.981984126984127,
+      "panel_argument_strength_pro": 6.666666666666667,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 6.0,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 7.0,
+      "panel_rhetorical_effectiveness_con": 8.333333333333334
+    },
+    {
+      "debate_id": "prop_0493__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0493__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0493",
+      "proposition_text": "Governments should ban private corporations from owning, trading, or extracting municipal water sources and aquifers for commercial bottling.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "9d31f2f560d37dab3b51d118b01249e8b025c252c3a02fdfc52cb4c5fbd6378d",
+      "panel_judges": [
+        "gpt-5.6-high",
+        "grok-4.5-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -2.1,
+      "panel_normalized_pro_margin": -1.999074074074074,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 7.0,
+      "panel_rebuttal_quality_con": 8.0,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0493__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0493__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0493",
+      "proposition_text": "Governments should ban private corporations from owning, trading, or extracting municipal water sources and aquifers for commercial bottling.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "fb53333022ebabf946043876ce5a92b5d55fa982cf9796ba865aa0f2b68971b8",
+      "panel_judges": [
+        "gpt-5.6-high",
+        "grok-4.5-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -1.5666666666666667,
+      "panel_normalized_pro_margin": -1.4985185185185186,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 7.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0516",
+      "proposition_text": "Public universities should cap international student recruitment when local housing shortages become severe rather than leave capacity unconstrained.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "b289f8303862588b7b3577bc2fffee1c670c00ab80eef967d16ccd386526ff84",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "grok-4.5-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": -1.8,
+      "panel_normalized_pro_margin": -1.8511111111111112,
+      "panel_argument_strength_pro": 6.333333333333333,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 6.0,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 6.666666666666667,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0516",
+      "proposition_text": "Public universities should cap international student recruitment when local housing shortages become severe rather than leave capacity unconstrained.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "ffc50df232fe6707dbde48f31a1dae17400d89978b939a8356c21853cb7870bf",
+      "panel_judges": [
+        "gemini-3.1-pro-preview",
+        "grok-4.5-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 1.8666666666666665,
+      "panel_normalized_pro_margin": 1.8511111111111112,
+      "panel_argument_strength_pro": 7.666666666666667,
+      "panel_argument_strength_con": 6.333333333333333,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 7.666666666666667,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0538",
+      "proposition_text": "African countries should prioritize intra-African trade and manufacturing over continued dependence on exporting raw materials to former colonial powers and distant rich markets.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "e7cb02a843586a02d04bc30bbbfe269eb58c94ae19856701afd82c6d8be59b75",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": -0.5666666666666668,
+      "panel_normalized_pro_margin": -0.6062433862433863,
+      "panel_argument_strength_pro": 7.333333333333333,
+      "panel_argument_strength_con": 8.0,
+      "panel_rebuttal_quality_pro": 7.333333333333333,
+      "panel_rebuttal_quality_con": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 7.666666666666667,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0538__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0538",
+      "proposition_text": "African countries should prioritize intra-African trade and manufacturing over continued dependence on exporting raw materials to former colonial powers and distant rich markets.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "503a3d0851cf9e896065530123cc49d8a2faa977c9a81918b8ff508d3fe9a03b",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 1.3666666666666665,
+      "panel_normalized_pro_margin": 1.3914814814814818,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 7.666666666666667,
+      "panel_rebuttal_quality_con": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0571",
+      "proposition_text": "Sports leagues should adopt semi-automated officiating for objective calls, with limited human override, rather than rely mainly on traditional human officiating.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "205e444b6ca1d1e4355efe44c5e52b06185ae1cbff701513bed1e6f4a756d16f",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "grok-4.5-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -1.7,
+      "panel_normalized_pro_margin": -1.6568253968253968,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 7.0,
+      "panel_rebuttal_quality_con": 8.333333333333334,
+      "panel_grounding_and_epistemic_discipline_pro": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_con": 8.0,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.333333333333334
+    },
+    {
+      "debate_id": "prop_0571__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0571",
+      "proposition_text": "Sports leagues should adopt semi-automated officiating for objective calls, with limited human override, rather than rely mainly on traditional human officiating.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "d537bdc75b8c9c733643d36c90d8b046f7ba062151aa0c8f0e331baf3154a401",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "grok-4.5-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 1.7333333333333334,
+      "panel_normalized_pro_margin": 1.7148412698412698,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 8.0,
+      "panel_grounding_and_epistemic_discipline_con": 6.666666666666667,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 7.0
+    },
+    {
+      "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0594",
+      "proposition_text": "The African Continental Free Trade Area should adopt enforceable continent-wide rules limiting export bans on staple foods during crises.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "6157fb79e09d7c416f54097a18bb86dfcf92c736a671b30e05d5fe1831c06460",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gemini-3.1-pro-preview",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -2.1333333333333333,
+      "panel_normalized_pro_margin": -1.9023809523809525,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.333333333333333,
+      "panel_rebuttal_quality_con": 8.666666666666666,
+      "panel_grounding_and_epistemic_discipline_pro": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 8.333333333333334,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.333333333333334
+    },
+    {
+      "debate_id": "prop_0594__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0594",
+      "proposition_text": "The African Continental Free Trade Area should adopt enforceable continent-wide rules limiting export bans on staple foods during crises.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "f1e6d4f49486325132508c0a85cc0b9dae68f8628ef698e17dd32801e2054983",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gemini-3.1-pro-preview",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 2.066666666666667,
+      "panel_normalized_pro_margin": 1.8376190476190477,
+      "panel_argument_strength_pro": 8.666666666666666,
+      "panel_argument_strength_con": 6.666666666666667,
+      "panel_rebuttal_quality_pro": 8.666666666666666,
+      "panel_rebuttal_quality_con": 6.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 8.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 7.666666666666667,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 8.0
+    },
+    {
+      "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0608",
+      "proposition_text": "Carbon offsets used for corporate \u201cnet-zero\u201d claims should be legally limited to a small share of emissions, with most reductions required to be in-value-chain.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "mistral-large-4-high",
+      "transcript_sha256": "3f2c6e2d24192efc1198d7f4c2622dc9b3ce008ac3222e0974001a6f92e8dfaf",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": 1.8666666666666665,
+      "panel_normalized_pro_margin": 1.7161904761904763,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 7.0,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 6.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.0,
+      "panel_originality_of_argument_pro": 7.0,
+      "panel_originality_of_argument_con": 6.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0608__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0608",
+      "proposition_text": "Carbon offsets used for corporate \u201cnet-zero\u201d claims should be legally limited to a small share of emissions, with most reductions required to be in-value-chain.",
+      "model_pro": "mistral-large-4-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "5d1a02a649cd200f836120f6e3fd3c62ba99f07d3f35d358139e8202aedee6d4",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "qwen3.7-max"
+      ],
+      "panel_pro_margin": -2.2333333333333334,
+      "panel_normalized_pro_margin": -2.0467460317460318,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 8.333333333333334,
+      "panel_rebuttal_quality_pro": 6.333333333333333,
+      "panel_rebuttal_quality_con": 8.666666666666666,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 7.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 7.333333333333333,
+      "panel_rhetorical_effectiveness_con": 8.666666666666666
+    },
+    {
+      "debate_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0637",
+      "proposition_text": "Municipalities should allow densification by-right near transit even if it increases local displacement risks in the short term.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "015d01446f5e115312a0298436980d5430901bebb8dbe0c4b7a773b367de5020",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "grok-4.5-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": 1.2333333333333332,
+      "panel_normalized_pro_margin": 1.316825396825397,
+      "panel_argument_strength_pro": 8.0,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 8.0,
+      "panel_rebuttal_quality_con": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.666666666666667,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 7.0,
+      "panel_rhetorical_effectiveness_pro": 8.0,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0637",
+      "proposition_text": "Municipalities should allow densification by-right near transit even if it increases local displacement risks in the short term.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "3710e57d34854a5d1b9a95efa952a6ec4fd3e1476bdb58ad49ab90972b2233d0",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "grok-4.5-high",
+        "kimi-k2.6"
+      ],
+      "panel_pro_margin": -1.5999999999999999,
+      "panel_normalized_pro_margin": -1.7323809523809526,
+      "panel_argument_strength_pro": 7.0,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 6.666666666666667,
+      "panel_rebuttal_quality_con": 8.0,
+      "panel_grounding_and_epistemic_discipline_pro": 7.0,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 6.333333333333333,
+      "panel_originality_of_argument_con": 6.666666666666667,
+      "panel_rhetorical_effectiveness_pro": 6.666666666666667,
+      "panel_rhetorical_effectiveness_con": 7.666666666666667
+    },
+    {
+      "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0644",
+      "proposition_text": "Democracies should require automatic sunset hearings and renewal votes for broad emergency executive powers.",
+      "model_pro": "gemini-4-argon-high",
+      "model_con": "muse-wonder-1.0-high",
+      "transcript_sha256": "b4a17c7028a5ebb58feba343b168eb86e15645093acc2d387d820d4a3a2b1b21",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 1.5,
+      "panel_normalized_pro_margin": 1.530899470899471,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 7.333333333333333,
+      "panel_rebuttal_quality_pro": 8.333333333333334,
+      "panel_rebuttal_quality_con": 7.333333333333333,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 7.333333333333333,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 7.333333333333333
+    },
+    {
+      "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "side_swap_group_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__tpl_placement_active_20260813a",
+      "topic_id": "prop_0644",
+      "proposition_text": "Democracies should require automatic sunset hearings and renewal votes for broad emergency executive powers.",
+      "model_pro": "muse-wonder-1.0-high",
+      "model_con": "gemini-4-argon-high",
+      "transcript_sha256": "35227ada3072d1269a149281c1cf0de5bc258255b57f1b5d2ee23db3e1982a84",
+      "panel_judges": [
+        "claude-sonnet-5-high",
+        "gpt-5.6-high",
+        "grok-4.5-high"
+      ],
+      "panel_pro_margin": 0.5,
+      "panel_normalized_pro_margin": 0.5612698412698413,
+      "panel_argument_strength_pro": 8.333333333333334,
+      "panel_argument_strength_con": 7.666666666666667,
+      "panel_rebuttal_quality_pro": 7.666666666666667,
+      "panel_rebuttal_quality_con": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_pro": 7.666666666666667,
+      "panel_grounding_and_epistemic_discipline_con": 7.333333333333333,
+      "panel_originality_of_argument_pro": 6.666666666666667,
+      "panel_originality_of_argument_con": 7.333333333333333,
+      "panel_rhetorical_effectiveness_pro": 8.333333333333334,
+      "panel_rhetorical_effectiveness_con": 8.0
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": "34d47b1864df0ebf2117f85d",
+      "debate_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "2a8fd152f0ec102507316f1280a617dd1e3ed5a676b2210ae1f4ae79b5f40bd1"
+    },
+    {
+      "task_id": "c45ca88dc49d3a5e673509de",
+      "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "68f4821f5d2d019f1ac3d7c32e26d1f62fb787547a7aeec9f78f0be55a306989"
+    },
+    {
+      "task_id": "ffc33ded5183278622a4da19",
+      "debate_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "fc5842a6b2e1948ab7bc908070fba1aa838a07bca58c017ed692bc2119f541b7"
+    },
+    {
+      "task_id": "96e3bd65b21c47a7d2b3d161",
+      "debate_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "c8624e5e5d162af13e91a6ee39a37f53cd56ca88581f44fb7b8616edfe595a32"
+    },
+    {
+      "task_id": "da2a4386b8d49431856f562c",
+      "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "f45f3de0eb23a52d1ad2eb36df045295ed92337d6a834bde0170d231bb524a6a"
+    },
+    {
+      "task_id": "4823766a451566fc496d6e94",
+      "debate_id": "prop_0172__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d6e221e406997e5c1893c7db0febe8669709a0ff6e0366f811425631c1fc96f9"
+    },
+    {
+      "task_id": "b0428a435027c8805c388f83",
+      "debate_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "3306e1c365e53ac9e3104490f5a2ae1c23ff6d8c9b28df78000f41738b27edeb"
+    },
+    {
+      "task_id": "e622e3059f58397421d2a5dd",
+      "debate_id": "prop_0412__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "6045482e4244eb77fb192558fc9dd114337e7ffc585c4cc1e4138327f9a522c6"
+    },
+    {
+      "task_id": "7d4716c84074118cc1a29966",
+      "debate_id": "prop_0269__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "e2e5d9afd065bea76bc79646a15eec6aa6134416137593df7671647e8306c6d5"
+    },
+    {
+      "task_id": "68fa9e7b4b04ba06002aa064",
+      "debate_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "bbf37921d163718fec802aa52d899a2371fe5b54d1b7bfa1a96b53fd7f91caf3"
+    },
+    {
+      "task_id": "c44f030d40eada05c8421ea9",
+      "debate_id": "prop_0423__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "cf6747690379588e004e09be86cf034fc97cf18f63e0b9be92b05890930eb437"
+    },
+    {
+      "task_id": "6f341a8af33d5ed10dd440f9",
+      "debate_id": "prop_0442__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "c7b4ff667cd1de925b2e753a854b8e428cbe688d6bc84dc0177bdbe771e8339a"
+    },
+    {
+      "task_id": "d4a3253d3d9188202636c553",
+      "debate_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "f19d40abb0156d9e3d8b3335b6c8f35768389a8f4bc02fa6f8a10e67c3d4cdf8"
+    },
+    {
+      "task_id": "ce9d1b8c7114709536fe015f",
+      "debate_id": "prop_0493__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "1083ec89e05ae6201dd07d0f4de6a17417c3cdd99c973cc5e3d151d60a1bfc77"
+    },
+    {
+      "task_id": "5b29fb1cef701155a898725a",
+      "debate_id": "prop_0423__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "101874c12fe032185eb22450f1c9485a50f8c19864460e1515f79441df5e7706"
+    },
+    {
+      "task_id": "4bcb73dd9d1e187766320e4f",
+      "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "0dd6d0f78df31d583b393c4e88745b0b1fc915e565a427e44a2b73ccda0d4368"
+    },
+    {
+      "task_id": "4a46699b24592ab8358a25c9",
+      "debate_id": "prop_0039__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e9d294ab2b3cc92a9c189661e79b558a7f6d2b887a9174c412ef12b2fa23d08f"
+    },
+    {
+      "task_id": "4c97a43d5a5b8e0ef6a248b5",
+      "debate_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "bf46cfafbb9f27736af2d0be8d1b0cbd37b4e98a0d3d684fb1d48f7cdc38e61c"
+    },
+    {
+      "task_id": "e70426b41c9cba1d10069436",
+      "debate_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "aacccd3aa54f86514b852ac605c84bd459640f8d8170506c8f2a0a0573dd3862"
+    },
+    {
+      "task_id": "97bc53592d76703e6059992f",
+      "debate_id": "prop_0594__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "50eabe32ff30ac7b6682e9b3e61b8759653d21e9c61eddf79bf495962be149d1"
+    },
+    {
+      "task_id": "f3eafd932e837d20335b2fd0",
+      "debate_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e899ed29eaa9394a26625c8f135f6ada21bfc1d897200b3dc75b7c1361b54ccb"
+    },
+    {
+      "task_id": "b356981ee4d692ace824d4a4",
+      "debate_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "f19d40abb0156d9e3d8b3335b6c8f35768389a8f4bc02fa6f8a10e67c3d4cdf8"
+    },
+    {
+      "task_id": "b0130011431c5f64e8edcb43",
+      "debate_id": "prop_0268__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "ebc9b89122594a5b0ede8ad6ba4655a9de4d0aa6624c8440e93285521ccf6165"
+    },
+    {
+      "task_id": "6a4041a47498bd3b80e2cb75",
+      "debate_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "77b2fceab7e7955f41b047c24737a57c0e32e3b30c90291d40b0dc5e3e19af20"
+    },
+    {
+      "task_id": "4486b81e6135bd33ad1bd8e3",
+      "debate_id": "prop_0268__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "f95714acc43399efe05aebb61b128fa3d90fc3c3212074235e76ffd94b847a2b"
+    },
+    {
+      "task_id": "947a93fec85b4c0e4f1e58ca",
+      "debate_id": "prop_0172__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "4d9a21e1c804063332929b5797cf73d0313b7146be30b475aa52a81fe2bfc598"
+    },
+    {
+      "task_id": "f7cb6797643c91f55d76a059",
+      "debate_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "14bb4060a66f73b557783251c404ffb9250729738f1dc161dd5720f1e4c08e21"
+    },
+    {
+      "task_id": "502fd39ba049f2b3fef1dd95",
+      "debate_id": "prop_0268__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "b39df877f722295097f42244b1aa4fcc5dc40ed895288dcd483a27bd9c9cb7be"
+    },
+    {
+      "task_id": "2d8c0d704fc3d782a17e3f8c",
+      "debate_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "bb3f3bedadb3fafa75c815ee94c9a3a75b27ccf33bd23366aef7c25dcc816822"
+    },
+    {
+      "task_id": "24677ee14a1f5df8252ae53a",
+      "debate_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "5326b68706b80fd0e4007ce3ef0c56d60235f406e958aac5e1f12234f5524b4c"
+    },
+    {
+      "task_id": "f10a713e267fab11862c077f",
+      "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "cde2e648668fd0380b931b23cc1a1452cac22b84ab2faeb8b435828a9420bc20"
+    },
+    {
+      "task_id": "451bc7416a3998b9a4f29f5b",
+      "debate_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "46358fa3a72ab3d28bb34bed44aa94e34964b3956dec58d74a49390c231bba73"
+    },
+    {
+      "task_id": "9e15bc5b714ad965b4a61b93",
+      "debate_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "a2444806da133c0ef6376063f2ae1eddea38178b2f374fdd53973d1c1f937552"
+    },
+    {
+      "task_id": "0352be52afc4695da7378713",
+      "debate_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "e74e9bded98da86590285d33521aab79ebfac8691f51d11c13ac429439ac5de6"
+    },
+    {
+      "task_id": "3606970824071346ba3c3003",
+      "debate_id": "prop_0222__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "89152dc28c90da1c365bb48af2a103f4e47d54322826ee12ef7ef2644abfa01e"
+    },
+    {
+      "task_id": "131326a7bd51fc9628779876",
+      "debate_id": "prop_0222__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "59c16a32117584fabdd7e793ba6d2f58757539b00d9a981656a98fa7e5a6f476"
+    },
+    {
+      "task_id": "a2a6ab35cbcf40795f704a8b",
+      "debate_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "83e32239d6e5cade4762001d50658922c8ee1bbbf86f3446f47cd25f975562c2"
+    },
+    {
+      "task_id": "0aadf17d087a861b3eb57463",
+      "debate_id": "prop_0433__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "acbed06c55c5f62322b9f362965a69c96420fb2dc4a51abda253d07ba9ebcc76"
+    },
+    {
+      "task_id": "e323b03f1b1a653f7d56a998",
+      "debate_id": "prop_0333__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e42b5a5ed34f68a1092f40ca200fb7f0a81385b01f3ec26587ec7327f492a5f5"
+    },
+    {
+      "task_id": "335be5774de4f1fc05fa48a3",
+      "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "0dd6d0f78df31d583b393c4e88745b0b1fc915e565a427e44a2b73ccda0d4368"
+    },
+    {
+      "task_id": "da0c370f91c5c6ee199bf030",
+      "debate_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "922acd4ea88017e0d608b55be83eba78e66ec2756571efd8f6538ff0441d54b6"
+    },
+    {
+      "task_id": "5391d6b19d6930d661b41326",
+      "debate_id": "prop_0433__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7817741fb81d635e335c358e2c3536431e1b96dec1aeafb97ac7595df0994fc7"
+    },
+    {
+      "task_id": "87cbd850470f37c4cd11eb45",
+      "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "78560212db13701f30008972cfce788c68050845288217da266eb80e106a9ac3"
+    },
+    {
+      "task_id": "1c74f1b3dc2015abbd829775",
+      "debate_id": "prop_0222__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "54daf8b37013e00db9df7c63c07b194cfb2d5ef290d8b374322f539776fecfe8"
+    },
+    {
+      "task_id": "5c93b96f982ff7b463e316f6",
+      "debate_id": "prop_0486__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "48a16b8c374bde77757f464b0b1765ccb858ddd1fa95c4e6906db4d3815f6f70"
+    },
+    {
+      "task_id": "e671edc647389cebd1299183",
+      "debate_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "83e32239d6e5cade4762001d50658922c8ee1bbbf86f3446f47cd25f975562c2"
+    },
+    {
+      "task_id": "13ab6efecdb8720b7b221191",
+      "debate_id": "prop_0222__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "59c16a32117584fabdd7e793ba6d2f58757539b00d9a981656a98fa7e5a6f476"
+    },
+    {
+      "task_id": "e3bab012682f4af28d551449",
+      "debate_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "8e59d2196ed376e53f401eb85b4808a2a39875822118a94d70f14f64dee4aa6e"
+    },
+    {
+      "task_id": "cec6e853b3fb2dca72666483",
+      "debate_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "f4651c65d79fb76ef136c67c66ac9da89b2924cf14612342510e08d1526a1df1"
+    },
+    {
+      "task_id": "73470a8af618bc7401f3fae6",
+      "debate_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "e0be421ffdf0a93fc67ad4890de0e67b796e3d7d754629c66a9ebdc0b5bde6ad"
+    },
+    {
+      "task_id": "3a5f52804d902b368ba3667b",
+      "debate_id": "prop_0019__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "8c2d039f194de678fb2b429aceeb06ff800543579a0372204b8ac08456bd59a8"
+    },
+    {
+      "task_id": "97fbcd6016b7ca951a6676ea",
+      "debate_id": "prop_0019__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "229a2284169814f03406f5f8a0f62f9590e7c9d36c43a60cff8524fc04606fd3"
+    },
+    {
+      "task_id": "08f52922915aaaa297e83763",
+      "debate_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "9d985c19657174fe6ff2b882d1562447cb8e950670e9d327758146baa3474753"
+    },
+    {
+      "task_id": "2b458f7af13bdf4d4a7ae32a",
+      "debate_id": "prop_0608__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "5c03b37e14f4c6367f67377ccedbc06e6a29947599dcda9f57a8a2525e705cca"
+    },
+    {
+      "task_id": "a2c1f3b8611223fcd6d9ebc1",
+      "debate_id": "prop_0571__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "25786f3046caeb0ecdd72bf17f593461b4bb97af5ede192808ffadaf2a0bdbd8"
+    },
+    {
+      "task_id": "b9d0d661adaa8182e0fedce6",
+      "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "8b004c8cb75dfb7e14d390539708c1162089d95a967d9df94db634ca7ca235ef"
+    },
+    {
+      "task_id": "42f16e668af3445d6517eced",
+      "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "2010740fd1cd0df2fb1c8844b6be5d990911bdeee34cb0b209b9643bb33bb20a"
+    },
+    {
+      "task_id": "f940a39abdc932c90a42aeb3",
+      "debate_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "bf46cfafbb9f27736af2d0be8d1b0cbd37b4e98a0d3d684fb1d48f7cdc38e61c"
+    },
+    {
+      "task_id": "f7ab304cf27d86627d0540bd",
+      "debate_id": "prop_0594__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "50eabe32ff30ac7b6682e9b3e61b8759653d21e9c61eddf79bf495962be149d1"
+    },
+    {
+      "task_id": "b672d0a3a8ca233526cbecc3",
+      "debate_id": "prop_0571__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "80269303f33d9494bb336ed834bf94553d31e0e299223e357dfc5537bfc959c5"
+    },
+    {
+      "task_id": "6291e2adfeb9db7793fa108e",
+      "debate_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d729c4488d1ed6830f4fcbce00283cc9eee911d23b9da572e742f314007d1f91"
+    },
+    {
+      "task_id": "123c825ba1c4322caa66cc80",
+      "debate_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e899ed29eaa9394a26625c8f135f6ada21bfc1d897200b3dc75b7c1361b54ccb"
+    },
+    {
+      "task_id": "01bdd434f2e954559aff5982",
+      "debate_id": "prop_0423__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "cf6747690379588e004e09be86cf034fc97cf18f63e0b9be92b05890930eb437"
+    },
+    {
+      "task_id": "f282f27969cf20be633281c2",
+      "debate_id": "prop_0608__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "5c03b37e14f4c6367f67377ccedbc06e6a29947599dcda9f57a8a2525e705cca"
+    },
+    {
+      "task_id": "d1a6c0a764c2cf92c05d69e5",
+      "debate_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "0707e278f8b21ae2723de7c6da548c4320a580131ec8816f150beb1c08bcb3e8"
+    },
+    {
+      "task_id": "d275ebbf4426bae089825531",
+      "debate_id": "prop_0019__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "229a2284169814f03406f5f8a0f62f9590e7c9d36c43a60cff8524fc04606fd3"
+    },
+    {
+      "task_id": "74f2e7d80bbcb42577816992",
+      "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "8b004c8cb75dfb7e14d390539708c1162089d95a967d9df94db634ca7ca235ef"
+    },
+    {
+      "task_id": "573161fbd7b3465944ee1303",
+      "debate_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e50d1e1423d54d340eec709115de72cc29d29df2b970b85208a845bd0e554842"
+    },
+    {
+      "task_id": "ce0fa892f7c3faa45f37a529",
+      "debate_id": "prop_0333__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "5247b0bc810688e682f123d8dccdaaddd3743edd04b8e00df458a03021137d93"
+    },
+    {
+      "task_id": "1e84b2f581de380dfeaccd4c",
+      "debate_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "079b1512699b3a4a8d4066f049b61fe5db703e810dc68b9d4f924e71f8976d70"
+    },
+    {
+      "task_id": "e4aa6dc6295855a854a54979",
+      "debate_id": "prop_0425__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "91efa5f29b6977ce6b052833c6b648063317845d691b1500ac342f71dea461ce"
+    },
+    {
+      "task_id": "05e50febae6047206e6873d3",
+      "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "b00c90db104841ce4aa1c6489eb8ab2baf4405cd0291ee4ff5b02b860a5d285b"
+    },
+    {
+      "task_id": "f620d4e7e12a018b6f1406d2",
+      "debate_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "06df65d717c74c4aced476ce23c9fd7b744a815bad8fdb162dbd9ea7439a9346"
+    },
+    {
+      "task_id": "c0e435ef5a3dd06f12424476",
+      "debate_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "911df46e0269c362096cf36770851ba7d43fc42c75c8dd636e9470d812fc7daf"
+    },
+    {
+      "task_id": "ea10b346582f1e5b247cd492",
+      "debate_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "f4651c65d79fb76ef136c67c66ac9da89b2924cf14612342510e08d1526a1df1"
+    },
+    {
+      "task_id": "742088ff8fbc3b7f61032915",
+      "debate_id": "prop_0039__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e9d294ab2b3cc92a9c189661e79b558a7f6d2b887a9174c412ef12b2fa23d08f"
+    },
+    {
+      "task_id": "657e0dbec402781cf175fe28",
+      "debate_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "78a531a4694e503ea3561a1b800c8f5631b8875130c97d20de3626d905c2965d"
+    },
+    {
+      "task_id": "0ab0d8179228f04d8cb5e785",
+      "debate_id": "prop_0268__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "b39df877f722295097f42244b1aa4fcc5dc40ed895288dcd483a27bd9c9cb7be"
+    },
+    {
+      "task_id": "8bf0eaa6350a021dd28b7921",
+      "debate_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "8e59d2196ed376e53f401eb85b4808a2a39875822118a94d70f14f64dee4aa6e"
+    },
+    {
+      "task_id": "6de5b935f544431d3e395e78",
+      "debate_id": "prop_0571__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "25786f3046caeb0ecdd72bf17f593461b4bb97af5ede192808ffadaf2a0bdbd8"
+    },
+    {
+      "task_id": "721327d74bd0d8f86fbb8a7d",
+      "debate_id": "prop_0172__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d6e221e406997e5c1893c7db0febe8669709a0ff6e0366f811425631c1fc96f9"
+    },
+    {
+      "task_id": "cc82a735cc5d3a5240c86d96",
+      "debate_id": "prop_0425__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "2a1a2e5f0e49f18136256b0493d83f29e40b47628377d1cc483e04428e09a778"
+    },
+    {
+      "task_id": "c4ababa967f211ad5109a743",
+      "debate_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "f00c4b93b28cd29a3a652c350014ab9dcf84511f06e72f5787b5271cc45f051c"
+    },
+    {
+      "task_id": "a5d577ccb95344b7162a7af1",
+      "debate_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "fb571622e0380a3157d55a694900e8d0c8016d9f72aba670b6226fd684d2e48c"
+    },
+    {
+      "task_id": "5e8df655d08b569c0a8bb230",
+      "debate_id": "prop_0608__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "40229db22eeb130f596670c8545a9dfaa4d6f56cc0c193563ac9cc2640ab17df"
+    },
+    {
+      "task_id": "7722ebd83a803f8fad7b1938",
+      "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "2010740fd1cd0df2fb1c8844b6be5d990911bdeee34cb0b209b9643bb33bb20a"
+    },
+    {
+      "task_id": "b0a04bdba8ca8895e1e817be",
+      "debate_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "c8624e5e5d162af13e91a6ee39a37f53cd56ca88581f44fb7b8616edfe595a32"
+    },
+    {
+      "task_id": "d056bdb20128a8ecffa279a2",
+      "debate_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "e74e9bded98da86590285d33521aab79ebfac8691f51d11c13ac429439ac5de6"
+    },
+    {
+      "task_id": "c5fdf0b8e8436a16cd2d2b2a",
+      "debate_id": "prop_0538__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "6440426c35c048d86e94a446da1a7f81dc71ad3ebbdf313b4e93c53568cb07f8"
+    },
+    {
+      "task_id": "f88d3ada0f002b1857e52cbb",
+      "debate_id": "prop_0222__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "8a36f209857eedfe46b85f1c42ea24da3aa26a6c2f3fcfb1f5c94f9fcb9c64c6"
+    },
+    {
+      "task_id": "0948fa8a55dd710421d60f49",
+      "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "c650be7d55dfa77c0504635bd2f7273d7d4d70c43f28cd6cd2109bd1bce1c36f"
+    },
+    {
+      "task_id": "207c55c8dffa1b6645c42e84",
+      "debate_id": "prop_0269__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "65a8297fa1a5f0e5a280024dae26d355d33546ff19386accb4efc3c52fd68108"
+    },
+    {
+      "task_id": "959fcde6fab9b35f68df1d87",
+      "debate_id": "prop_0493__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "1a4f7a87c92643a9ce148fd4dd6bd9c49ebb8a83cefc052d24400d3ca084a89f"
+    },
+    {
+      "task_id": "acd102492e8fa75e33a6782a",
+      "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "39a02131aaf53b7af2a5a1e252e1233662f67a6b3c0240f0e25a2a85176546df"
+    },
+    {
+      "task_id": "fa676b7acf1fd1b96e1b10a4",
+      "debate_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "14bb4060a66f73b557783251c404ffb9250729738f1dc161dd5720f1e4c08e21"
+    },
+    {
+      "task_id": "cd9af6d302bdac304fbc75e3",
+      "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "6af8c83178a9b13ab8ef04db0ae3371576de047bf1ea7d4793bfecfff4e03c8e"
+    },
+    {
+      "task_id": "4c1366ede24ead9d28f6286c",
+      "debate_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "922acd4ea88017e0d608b55be83eba78e66ec2756571efd8f6538ff0441d54b6"
+    },
+    {
+      "task_id": "f3f9a8173bd9363a41b6d108",
+      "debate_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "0707e278f8b21ae2723de7c6da548c4320a580131ec8816f150beb1c08bcb3e8"
+    },
+    {
+      "task_id": "6562ec2bb8323830355f6fe2",
+      "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "a5d63d756179089b1f700bf1465b2a233a36ef878b0fed8a85a45ce06477324b"
+    },
+    {
+      "task_id": "9ba06833c6a78d5c67569198",
+      "debate_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "5326b68706b80fd0e4007ce3ef0c56d60235f406e958aac5e1f12234f5524b4c"
+    },
+    {
+      "task_id": "b21333682e076d87774ff88a",
+      "debate_id": "prop_0538__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "6485d0e47ebba286a9c7dad1b1abcc38478fb458136fa91c1c4a36ba576ee9d5"
+    },
+    {
+      "task_id": "cbe6b0f7bbc802b87a8755ad",
+      "debate_id": "prop_0269__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "e2e5d9afd065bea76bc79646a15eec6aa6134416137593df7671647e8306c6d5"
+    },
+    {
+      "task_id": "ecf791f1c90e39aa4d2bc259",
+      "debate_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "b23861e2a1e123e6b49301a410c2c78845d4ff265e2549cbf233c3ae62d7afe6"
+    },
+    {
+      "task_id": "d7ef6dc603ecf3ae730dc39c",
+      "debate_id": "prop_0412__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "6045482e4244eb77fb192558fc9dd114337e7ffc585c4cc1e4138327f9a522c6"
+    },
+    {
+      "task_id": "281520287f747cf7bf26efa0",
+      "debate_id": "prop_0594__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "975c31d73b1f255884de708aa1a3c897e045895d654ff66db51f3f3c5d1f89b8"
+    },
+    {
+      "task_id": "5c216b523451818b039366da",
+      "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "6af8c83178a9b13ab8ef04db0ae3371576de047bf1ea7d4793bfecfff4e03c8e"
+    },
+    {
+      "task_id": "5d4bf3d5e1ae753308fb3010",
+      "debate_id": "prop_0222__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "89152dc28c90da1c365bb48af2a103f4e47d54322826ee12ef7ef2644abfa01e"
+    },
+    {
+      "task_id": "9654bffc392cbaf3cbff0f6b",
+      "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "496d043309fa0a26d09df3a48d7ce15b8c63d074479fe79d9e2b46d696842369"
+    },
+    {
+      "task_id": "bae007195d1c8d35dd4de8bc",
+      "debate_id": "prop_0019__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "8c2d039f194de678fb2b429aceeb06ff800543579a0372204b8ac08456bd59a8"
+    },
+    {
+      "task_id": "b818b06369a2b5d4fb8609d1",
+      "debate_id": "prop_0307__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "78a531a4694e503ea3561a1b800c8f5631b8875130c97d20de3626d905c2965d"
+    },
+    {
+      "task_id": "049f2a3826b7ea8a598a8866",
+      "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "b00c90db104841ce4aa1c6489eb8ab2baf4405cd0291ee4ff5b02b860a5d285b"
+    },
+    {
+      "task_id": "93ed452ad1e9789f96f7d0db",
+      "debate_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "aacccd3aa54f86514b852ac605c84bd459640f8d8170506c8f2a0a0573dd3862"
+    },
+    {
+      "task_id": "b90c0ba7ad1e80a4d602b705",
+      "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "78560212db13701f30008972cfce788c68050845288217da266eb80e106a9ac3"
+    },
+    {
+      "task_id": "5232180c0109fd319869fe55",
+      "debate_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "3306e1c365e53ac9e3104490f5a2ae1c23ff6d8c9b28df78000f41738b27edeb"
+    },
+    {
+      "task_id": "61b24ef41a0682e7012bbeed",
+      "debate_id": "prop_0433__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "acbed06c55c5f62322b9f362965a69c96420fb2dc4a51abda253d07ba9ebcc76"
+    },
+    {
+      "task_id": "ba0ac1398a639fff96a5f5d4",
+      "debate_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "fb571622e0380a3157d55a694900e8d0c8016d9f72aba670b6226fd684d2e48c"
+    },
+    {
+      "task_id": "472e6f4aefd2405478349d0a",
+      "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7ff366c7c5172a296e7a79fc94a5eea58233115813003c94d0bdf40de8251bf8"
+    },
+    {
+      "task_id": "88621cc78afbb3459805e7db",
+      "debate_id": "prop_0425__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "2a1a2e5f0e49f18136256b0493d83f29e40b47628377d1cc483e04428e09a778"
+    },
+    {
+      "task_id": "2c3d9d7110152890eeaf700d",
+      "debate_id": "prop_0269__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d79809150b2e6f8d93c16b76177d9ac61d77b668c9e655a1890a41e9bc711fc3"
+    },
+    {
+      "task_id": "12de8d64340c5adf101d4bca",
+      "debate_id": "prop_0307__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7987b68c2f24f9ab8ffe16eff520688c2f61a4ac53f1551652e6b0d8ea5bf6dc"
+    },
+    {
+      "task_id": "36437e5340eba7b0386cf8c3",
+      "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "a6bc02d0c778f321a6fe476a1036a984fa2f05db0b223689cfc8a03163160bf3"
+    },
+    {
+      "task_id": "67eaa492fcabf0cb7b257685",
+      "debate_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "e0be421ffdf0a93fc67ad4890de0e67b796e3d7d754629c66a9ebdc0b5bde6ad"
+    },
+    {
+      "task_id": "5fcc99a5d5b9c2b13d543f50",
+      "debate_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "77b2fceab7e7955f41b047c24737a57c0e32e3b30c90291d40b0dc5e3e19af20"
+    },
+    {
+      "task_id": "84481f946313a04364ab8dcf",
+      "debate_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d729c4488d1ed6830f4fcbce00283cc9eee911d23b9da572e742f314007d1f91"
+    },
+    {
+      "task_id": "1030116be9f89d6e38fcbd4c",
+      "debate_id": "prop_0333__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "5247b0bc810688e682f123d8dccdaaddd3743edd04b8e00df458a03021137d93"
+    },
+    {
+      "task_id": "ab2def32259985ec0ab7d95d",
+      "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7a4ef65a188fce37973dd9e045b99a53ab185308acab522accb2815ff2b58ec4"
+    },
+    {
+      "task_id": "3a99bbbdf4eee91e3267032a",
+      "debate_id": "prop_0486__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "83259a53f6246d305c7acac9ab51df78fdee8ffed1037198d3439c15e1697b80"
+    },
+    {
+      "task_id": "fee02b99b91e26f1e54a6ba2",
+      "debate_id": "prop_0594__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "975c31d73b1f255884de708aa1a3c897e045895d654ff66db51f3f3c5d1f89b8"
+    },
+    {
+      "task_id": "45ba8fc8e6362621730c04ea",
+      "debate_id": "prop_0412__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "cd3321547bbf538384442b0bad1444e8b461b91edc412cf70133b6b9babda25d"
+    },
+    {
+      "task_id": "2d6da7aa9bebc0ac8c047d28",
+      "debate_id": "prop_0433__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7817741fb81d635e335c358e2c3536431e1b96dec1aeafb97ac7595df0994fc7"
+    },
+    {
+      "task_id": "25c2c4c2abed3ca6befac3b2",
+      "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "8ab612e9879e0b8014a20b9e28c0f67e48bc9fa7bd2d3240afaaaeb957a85564"
+    },
+    {
+      "task_id": "4844254997a35ce693b4e231",
+      "debate_id": "prop_0222__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "8a36f209857eedfe46b85f1c42ea24da3aa26a6c2f3fcfb1f5c94f9fcb9c64c6"
+    },
+    {
+      "task_id": "39b77ff6a876e788c9ec8f3b",
+      "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "5c9953ec7f3d0ad1295baa65de8e906a5d525472bbcfbac070ebe29fb912433e"
+    },
+    {
+      "task_id": "ef7630cdd3dca6e7d28a1863",
+      "debate_id": "prop_0172__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "4d9a21e1c804063332929b5797cf73d0313b7146be30b475aa52a81fe2bfc598"
+    },
+    {
+      "task_id": "44eb78d9f1f78db249d1c03e",
+      "debate_id": "prop_0039__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "46358fa3a72ab3d28bb34bed44aa94e34964b3956dec58d74a49390c231bba73"
+    },
+    {
+      "task_id": "560c60b7a62a9fb2705d727c",
+      "debate_id": "prop_0425__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "91efa5f29b6977ce6b052833c6b648063317845d691b1500ac342f71dea461ce"
+    },
+    {
+      "task_id": "379fe8d3432458b50d67bcf1",
+      "debate_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "bd9d19d4a81b1632bef0ae9ae9bd8677dcc3223532bf54e1398ebaad81abe3a5"
+    },
+    {
+      "task_id": "c0aa27ffa24f4ee7344dbffa",
+      "debate_id": "prop_0571__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e50d1e1423d54d340eec709115de72cc29d29df2b970b85208a845bd0e554842"
+    },
+    {
+      "task_id": "b942e0a07a3ff1e4165ee7ec",
+      "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7a4ef65a188fce37973dd9e045b99a53ab185308acab522accb2815ff2b58ec4"
+    },
+    {
+      "task_id": "81538b96838c1182e9a84c49",
+      "debate_id": "prop_0493__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "cc54e07053bab8b86336450b1357640c17318204da1bf82ffc27477d50b011da"
+    },
+    {
+      "task_id": "07ce2cfc6adf8d5923f6784a",
+      "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "68f4821f5d2d019f1ac3d7c32e26d1f62fb787547a7aeec9f78f0be55a306989"
+    },
+    {
+      "task_id": "f1bf215617278d7add60bf23",
+      "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "cde2e648668fd0380b931b23cc1a1452cac22b84ab2faeb8b435828a9420bc20"
+    },
+    {
+      "task_id": "36064af11275f377b2d0a53b",
+      "debate_id": "prop_0423__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "101874c12fe032185eb22450f1c9485a50f8c19864460e1515f79441df5e7706"
+    },
+    {
+      "task_id": "4125379ed08cadbd1a5865b4",
+      "debate_id": "prop_0493__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "fe5becb65737c67466e3981e598e1d1eb5d0c91eea3cf57efd630b095ca55067"
+    },
+    {
+      "task_id": "b1afcc0442e4436b1f8621fc",
+      "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "c650be7d55dfa77c0504635bd2f7273d7d4d70c43f28cd6cd2109bd1bce1c36f"
+    },
+    {
+      "task_id": "4a2e47e0fe290dca50dff24d",
+      "debate_id": "prop_0268__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "f95714acc43399efe05aebb61b128fa3d90fc3c3212074235e76ffd94b847a2b"
+    },
+    {
+      "task_id": "0d4740d0a7bc66ffb51e243e",
+      "debate_id": "prop_0307__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "7ef1ebb3ed4340b6b320af5a16166bf02d253fecc50e8d476306d146384529fa"
+    },
+    {
+      "task_id": "67df3d2d06a6c9dd2730bdda",
+      "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "1c3fd9cb73135243a246316beb1cfe4b9ae6daeb4c0878daa95bba4252808f90"
+    },
+    {
+      "task_id": "e767c1daa11afcef704951f9",
+      "debate_id": "prop_0608__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "40229db22eeb130f596670c8545a9dfaa4d6f56cc0c193563ac9cc2640ab17df"
+    },
+    {
+      "task_id": "b4822d04728bbd7478040abd",
+      "debate_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "bbf37921d163718fec802aa52d899a2371fe5b54d1b7bfa1a96b53fd7f91caf3"
+    },
+    {
+      "task_id": "4e6d864ea5bee3326f61da95",
+      "debate_id": "prop_0269__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "6fe0d2c4e3ce145b5ec167ad1aa40a80c75baf22599f16a0ea04256f2967ab6f"
+    },
+    {
+      "task_id": "dabd0352998e91e1f61b1dbb",
+      "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "a6bc02d0c778f321a6fe476a1036a984fa2f05db0b223689cfc8a03163160bf3"
+    },
+    {
+      "task_id": "c63f8a9d63897b8085a044b4",
+      "debate_id": "prop_0039__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "1a19c0c18d2ac7195655b29231d671e07e3b149499e20760c4a23f2eea9d5d33"
+    },
+    {
+      "task_id": "63e7c0d3b80aec78996567ca",
+      "debate_id": "prop_0412__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "cd3321547bbf538384442b0bad1444e8b461b91edc412cf70133b6b9babda25d"
+    },
+    {
+      "task_id": "d28c0c35d8e03de5c6bb23db",
+      "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "1c3fd9cb73135243a246316beb1cfe4b9ae6daeb4c0878daa95bba4252808f90"
+    },
+    {
+      "task_id": "c2255f2aff5328fa6d08e5ea",
+      "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d152b6f2f46b84ff8a98c63fb591f5116d5156e28664fd7940fef6dcd00562a3"
+    },
+    {
+      "task_id": "7fb648e33f5deae1a1c0fbc6",
+      "debate_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "911df46e0269c362096cf36770851ba7d43fc42c75c8dd636e9470d812fc7daf"
+    },
+    {
+      "task_id": "2b161061c0959c44411e8d7b",
+      "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "496d043309fa0a26d09df3a48d7ce15b8c63d074479fe79d9e2b46d696842369"
+    },
+    {
+      "task_id": "91a4a43843bb5b186fbe9053",
+      "debate_id": "prop_0268__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "0cd809d4d10fcdc5f87a3c3aad701701190739760884c926e9a272170d7a0eab"
+    },
+    {
+      "task_id": "a66b1307d5047c09939acf6f",
+      "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "a5d63d756179089b1f700bf1465b2a233a36ef878b0fed8a85a45ce06477324b"
+    },
+    {
+      "task_id": "5d14d562e4b47dbc7f75c3e1",
+      "debate_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "9d985c19657174fe6ff2b882d1562447cb8e950670e9d327758146baa3474753"
+    },
+    {
+      "task_id": "fdd24e4bb70d875b5489438e",
+      "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d152b6f2f46b84ff8a98c63fb591f5116d5156e28664fd7940fef6dcd00562a3"
+    },
+    {
+      "task_id": "56b0294d381b614a2c2b2cf8",
+      "debate_id": "prop_0307__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "7ef1ebb3ed4340b6b320af5a16166bf02d253fecc50e8d476306d146384529fa"
+    },
+    {
+      "task_id": "cb066f3377a7475497a3a400",
+      "debate_id": "prop_0433__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "06df65d717c74c4aced476ce23c9fd7b744a815bad8fdb162dbd9ea7439a9346"
+    },
+    {
+      "task_id": "521f99dbd7581ba1aaae6f6b",
+      "debate_id": "prop_0333__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "e42b5a5ed34f68a1092f40ca200fb7f0a81385b01f3ec26587ec7327f492a5f5"
+    },
+    {
+      "task_id": "18fa14cdd35d1943d0b3ae7a",
+      "debate_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "f00c4b93b28cd29a3a652c350014ab9dcf84511f06e72f5787b5271cc45f051c"
+    },
+    {
+      "task_id": "712119dac69d82f604eacf78",
+      "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "39a02131aaf53b7af2a5a1e252e1233662f67a6b3c0240f0e25a2a85176546df"
+    },
+    {
+      "task_id": "dc6ddd143bac9cdb64fb32a6",
+      "debate_id": "prop_0493__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "1a4f7a87c92643a9ce148fd4dd6bd9c49ebb8a83cefc052d24400d3ca084a89f"
+    },
+    {
+      "task_id": "1a28df94806626babf484f8d",
+      "debate_id": "prop_0493__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "1083ec89e05ae6201dd07d0f4de6a17417c3cdd99c973cc5e3d151d60a1bfc77"
+    },
+    {
+      "task_id": "df94fdb2597fbd04a27dcb32",
+      "debate_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "a2444806da133c0ef6376063f2ae1eddea38178b2f374fdd53973d1c1f937552"
+    },
+    {
+      "task_id": "14cfa8b3e9f083027e07a1f7",
+      "debate_id": "prop_0571__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "80269303f33d9494bb336ed834bf94553d31e0e299223e357dfc5537bfc959c5"
+    },
+    {
+      "task_id": "fe5dd18e31b1c2632c4ece2d",
+      "debate_id": "prop_0486__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "83259a53f6246d305c7acac9ab51df78fdee8ffed1037198d3439c15e1697b80"
+    },
+    {
+      "task_id": "7811ee03dc9a1b5d8536b223",
+      "debate_id": "prop_0425__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "b23861e2a1e123e6b49301a410c2c78845d4ff265e2549cbf233c3ae62d7afe6"
+    },
+    {
+      "task_id": "387de31503f3ad066b6e80f8",
+      "debate_id": "prop_0442__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "c7b4ff667cd1de925b2e753a854b8e428cbe688d6bc84dc0177bdbe771e8339a"
+    },
+    {
+      "task_id": "923f7d15fdb57b013cfb7b6b",
+      "debate_id": "prop_0268__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "0cd809d4d10fcdc5f87a3c3aad701701190739760884c926e9a272170d7a0eab"
+    },
+    {
+      "task_id": "264d78ca96081cd3dce3b191",
+      "debate_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "079b1512699b3a4a8d4066f049b61fe5db703e810dc68b9d4f924e71f8976d70"
+    },
+    {
+      "task_id": "4577e7b3b2e1c09b3c48bee1",
+      "debate_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "bd9d19d4a81b1632bef0ae9ae9bd8677dcc3223532bf54e1398ebaad81abe3a5"
+    },
+    {
+      "task_id": "a25c2e90e412a636eebced63",
+      "debate_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "bb3f3bedadb3fafa75c815ee94c9a3a75b27ccf33bd23366aef7c25dcc816822"
+    },
+    {
+      "task_id": "691ee0ddfe5e18cb10b6b3d1",
+      "debate_id": "prop_0222__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "54daf8b37013e00db9df7c63c07b194cfb2d5ef290d8b374322f539776fecfe8"
+    },
+    {
+      "task_id": "15814f44534f59572922d6f1",
+      "debate_id": "prop_0486__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "48a16b8c374bde77757f464b0b1765ccb858ddd1fa95c4e6906db4d3815f6f70"
+    },
+    {
+      "task_id": "af91ca17d1a8b68c01ca403b",
+      "debate_id": "prop_0269__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "65a8297fa1a5f0e5a280024dae26d355d33546ff19386accb4efc3c52fd68108"
+    },
+    {
+      "task_id": "c4e2f465aa9e40448a5e4b4b",
+      "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "8ab612e9879e0b8014a20b9e28c0f67e48bc9fa7bd2d3240afaaaeb957a85564"
+    },
+    {
+      "task_id": "a4ed12df5fa6a70235b8ac0a",
+      "debate_id": "prop_0269__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "d79809150b2e6f8d93c16b76177d9ac61d77b668c9e655a1890a41e9bc711fc3"
+    },
+    {
+      "task_id": "344294c021011ff026ad687d",
+      "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "5c9953ec7f3d0ad1295baa65de8e906a5d525472bbcfbac070ebe29fb912433e"
+    },
+    {
+      "task_id": "210ab4ac2196f66fb7813b01",
+      "debate_id": "prop_0442__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "7f25113b57d033208e50734966456c7b37917ddca438380850d56e2f77a3bb49"
+    },
+    {
+      "task_id": "ae7fcbb1d9271861b1965808",
+      "debate_id": "prop_0307__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7987b68c2f24f9ab8ffe16eff520688c2f61a4ac53f1551652e6b0d8ea5bf6dc"
+    },
+    {
+      "task_id": "62eca80183d96d7b5ee60c55",
+      "debate_id": "prop_0538__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "6485d0e47ebba286a9c7dad1b1abcc38478fb458136fa91c1c4a36ba576ee9d5"
+    },
+    {
+      "task_id": "c3c7cf913d74e0ac32eea5ad",
+      "debate_id": "prop_0442__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "7f25113b57d033208e50734966456c7b37917ddca438380850d56e2f77a3bb49"
+    },
+    {
+      "task_id": "7937512d0705b28bab704ad1",
+      "debate_id": "prop_0268__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "ebc9b89122594a5b0ede8ad6ba4655a9de4d0aa6624c8440e93285521ccf6165"
+    },
+    {
+      "task_id": "677a51bf5ba7d245ba6f9a3e",
+      "debate_id": "prop_0493__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "cc54e07053bab8b86336450b1357640c17318204da1bf82ffc27477d50b011da"
+    },
+    {
+      "task_id": "fef9473fcd29bbedd2f72022",
+      "debate_id": "prop_0493__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "fe5becb65737c67466e3981e598e1d1eb5d0c91eea3cf57efd630b095ca55067"
+    },
+    {
+      "task_id": "03a4d1eb4c08b5314152db1c",
+      "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "7ff366c7c5172a296e7a79fc94a5eea58233115813003c94d0bdf40de8251bf8"
+    },
+    {
+      "task_id": "3e3498ce29af271a54717eec",
+      "debate_id": "prop_0080__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "2a8fd152f0ec102507316f1280a617dd1e3ed5a676b2210ae1f4ae79b5f40bd1"
+    },
+    {
+      "task_id": "a02dc3f3d9e59c822e93e944",
+      "debate_id": "prop_0269__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "6fe0d2c4e3ce145b5ec167ad1aa40a80c75baf22599f16a0ea04256f2967ab6f"
+    },
+    {
+      "task_id": "c7ab88a7b244632d90b3242a",
+      "debate_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "muse-wonder-1.0-high",
+      "side_a_source": "con",
+      "prompt_sha256": "955bbc8081527e9d2eb66ff15bba112eef4e30f8a2cef9768bb4a9af6e255c61"
+    },
+    {
+      "task_id": "9026ddcda10c07910afec3e7",
+      "debate_id": "prop_0538__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "con",
+      "prompt_sha256": "6440426c35c048d86e94a446da1a7f81dc71ad3ebbdf313b4e93c53568cb07f8"
+    },
+    {
+      "task_id": "06182ec02850d202eb3ceb62",
+      "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "f45f3de0eb23a52d1ad2eb36df045295ed92337d6a834bde0170d231bb524a6a"
+    },
+    {
+      "task_id": "2031a0d7ec21d0110343fd74",
+      "debate_id": "prop_0039__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "1a19c0c18d2ac7195655b29231d671e07e3b149499e20760c4a23f2eea9d5d33"
+    },
+    {
+      "task_id": "7aa6ade208bbb6a907b06d24",
+      "debate_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "gemini-4-argon-high",
+      "side_a_source": "pro",
+      "prompt_sha256": "fc5842a6b2e1948ab7bc908070fba1aa838a07bca58c017ed692bc2119f541b7"
+    },
+    {
+      "task_id": "551be0b01472be39da473f4f",
+      "debate_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+      "participant_model": "mistral-large-4-high",
+      "side_a_source": "con",
+      "prompt_sha256": "955bbc8081527e9d2eb66ff15bba112eef4e30f8a2cef9768bb4a9af6e255c61"
+    }
+  ],
+  "presentation_policy": "Side A first within each round; both PRO-as-A and CON-as-A; original turn numbers retained.",
+  "aggregation_policy": "Only fully observed eight-response side-swapped groups; average both display orders before comparison."
+}

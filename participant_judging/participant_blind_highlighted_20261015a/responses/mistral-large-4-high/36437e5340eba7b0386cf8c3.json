@@ -1,0 +1,9 @@
+{
+  "task_id": "36437e5340eba7b0386cf8c3",
+  "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a6bc02d0c778f321a6fe476a1036a984fa2f05db0b223689cfc8a03163160bf3",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won by demonstrating that capping international recruitment builds zero additional housing while severing the cross-subsidy revenue that funds local bursaries and new construction. A's \"secured bed precondition\" alternative directly tied enrollment to physical capacity without scapegoating international students or starving university finances. While Side B effectively argued for binding capacity limits and a duty to local communities, A's argument that the cap treats a symptom (demand) while ignoring the disease (supply-side zoning failures), combined with the exposure of the arbitrary \"severe\" trigger and the contradiction in B's housing-market claims, gave A the stronger path to victory. Side B also incurred execution costs from clipped turns in the opening and Rebuttal 2.</reason>\n<best_rebuttal>Side A's Pressure Question Q1 was decisive: it forced Side B to resolve the contradiction between claiming international students occupy purpose-built housing (absorbing demand) and simultaneously bid up family rentals (displacing locals). B's concession that students \"overflow\" into shared houses only after purpose-built beds fill weakened the direct displacement mechanism and revealed the cap's blunt imprecision.</best_rebuttal>"
+}

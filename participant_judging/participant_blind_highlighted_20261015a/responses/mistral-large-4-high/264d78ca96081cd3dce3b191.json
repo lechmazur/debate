@@ -1,0 +1,9 @@
+{
+  "task_id": "264d78ca96081cd3dce3b191",
+  "debate_id": "prop_0172__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "079b1512699b3a4a8d4066f049b61fe5db703e810dc68b9d4f924e71f8976d70",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A built a stronger precautionary case, exposing the inconsistency between regulating animal learning but not human neural learning, and effectively challenged Side B's monitoring-for-integration concession as contradictory. Side B mounted a solid architectural defense distinguishing computation from suffering, but failed to fully neutralize A's arguments about direct aversive stimulation of central human tissue and the proportionality of applying Three Rs frameworks.</reason>\n<best_rebuttal>Side A's pressure questions and Rebuttal 2, which forced Side B to clarify the contradiction between claiming organoids can never suffer while admitting we must monitor them to prevent future moral patients, and effectively used the cephalopod precedent and phantom limb pain to show learning as a functional marker of potential distress.</best_rebuttal>"
+}

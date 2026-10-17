@@ -1,0 +1,9 @@
+{
+  "task_id": "ab2def32259985ec0ab7d95d",
+  "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "7a4ef65a188fce37973dd9e045b99a53ab185308acab522accb2815ff2b58ec4",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>B won by separating faithful AI dubbing of an already-performed role from open-ended cloning for new dialogue or future projects, then trapping PRO in a dilemma: opt-in is either just a clearer upfront clause, which improved contracting can supply, or a distinct refuse/revoke gate with real distribution costs. PRO's ensemble answer\u2014replace the actor or skip the territory\u2014confirmed B's replacement and access harms, and PRO's closing did not answer B's updated explicit-consent point.</reason>\n<best_rebuttal>B's Rebuttal 2 was decisive: answering No to permanent-replica consent while showing that abuse is not dubbing, and framing PRO's position as either agreement with clearer contracts or a harmful separate veto.</best_rebuttal>"
+}

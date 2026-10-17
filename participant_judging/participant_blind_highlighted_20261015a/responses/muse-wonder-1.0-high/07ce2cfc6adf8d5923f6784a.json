@@ -1,0 +1,9 @@
+{
+  "task_id": "07ce2cfc6adf8d5923f6784a",
+  "debate_id": "prop_0637__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "68f4821f5d2d019f1ac3d7c32e26d1f62fb787547a7aeec9f78f0be55a306989",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>CON won by breaking PRO's false choice between blanket by-right and a housing ban. CON showed conditional planning can add abundant housing on parking lots, commercial strips, and wealthy lots without creating a speculative demolition premium over occupied low-rent buildings. PRO's replacement and relocation mandates were then exposed as internally strained: interim homes must be found amid the claimed shortage, costly mandates invite pre-permit buyouts and evictions, and PRO's claim that unprofitable teardowns simply will not occur concedes much of CON's targeted alternative. PRO effectively answered status-quo displacement, but never closed those evasion and feasibility gaps.</reason>\n<best_rebuttal>CON's Rebuttal 2 was decisive: it answered that conditional denial removes the speculative premium, then turned PRO's interim-housing and \u201coption, not an order\u201d defenses into evidence for directly targeting density away from vulnerable rentals.</best_rebuttal>"
+}

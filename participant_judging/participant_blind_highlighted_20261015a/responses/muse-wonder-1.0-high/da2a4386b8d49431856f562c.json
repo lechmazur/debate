@@ -1,0 +1,9 @@
+{
+  "task_id": "da2a4386b8d49431856f562c",
+  "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f45f3de0eb23a52d1ad2eb36df045295ed92337d6a834bde0170d231bb524a6a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A built the cleaner comparative test: a healthy corrective must leave citizens able to correct the corrector. It answered the baseline challenge by showing rotating elites still leave plural exits, while populist capture closes courts, counts, media and opposition together. Side B asserted most populism is peaceful and corrective but never substantiated the base-rate claim or escaped the problem that its successes work by normalizing away the exclusive mandate.</reason>\n<best_rebuttal>Most decisive was A's Rebuttal 2 on the captured baseline: pre-populist Venezuela and Hungary still allowed alternation, whereas populist rule redesigns the field to prevent reversal, directly defeating B's 'worse disease' pressure.</best_rebuttal>"
+}

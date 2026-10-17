@@ -1,0 +1,9 @@
+{
+  "task_id": "2b161061c0959c44411e8d7b",
+  "debate_id": "prop_0096__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "496d043309fa0a26d09df3a48d7ce15b8c63d074479fe79d9e2b46d696842369",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B (PRO) won by successfully framing the debate around the separability of consent from employment. While Side A effectively challenged the practicality of opt-in and offered strong analogies (colorization, human dubbing), they failed to refute Side B's core argument that bundled boilerplate\u2014even with AI riders\u2014constitutes a condition of employment rather than opt-in consent for non-union and day players. Side B's pressure questions exposed this weakness, and their answers in Rebuttal 2 clarified that opt-in prevents scope creep into sequels/games and protects public reputation, not just the underlying recording. Side A's closing was clipped, and their rebuttal sidestepped the question of whether performers could strike AI clauses while retaining employment.</reason>\n<best_rebuttal>Side B's Rebuttal 2 (Turn 7), specifically the A2 answer explaining that the dignitary injury lies in audiences hearing the fabricated public performance (the actor apparently endorsing translations/emphasis), and the A1 answer clarifying that sequels require new opt-in scope, exposing Side A's \"derivative use\" argument as a loophole for perpetual voice reuse without fresh consent.</best_rebuttal>"
+}

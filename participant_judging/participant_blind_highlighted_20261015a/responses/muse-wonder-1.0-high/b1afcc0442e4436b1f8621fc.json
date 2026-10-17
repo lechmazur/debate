@@ -1,0 +1,9 @@
+{
+  "task_id": "b1afcc0442e4436b1f8621fc",
+  "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "c650be7d55dfa77c0504635bd2f7273d7d4d70c43f28cd6cd2109bd1bce1c36f",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B wins by offering privileged, veto-proof revocation as an alternative that preserves majority control without recurring cliffs, then showing sunsets add minority hostage leverage, potentially irreversible lapse harms, and fresh legislative ratification that can increase judicial deference. Side A\u2019s burden-shift framing remains powerful, but its concessions on hostage-taking and next-day repair weaken its central claim that failed renewal simply proves majority opposition.</reason>\n<best_rebuttal>Side B\u2019s first rebuttal exposed the procedural symmetry problem: if veto gates can block revocation, they can also let minorities block renewal. Its later distinction between preventing procedural burial and preventing substantive midnight extortion answered Side A\u2019s strongest pressure question.</best_rebuttal>"
+}

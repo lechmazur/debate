@@ -1,0 +1,9 @@
+{
+  "task_id": "4c97a43d5a5b8e0ef6a248b5",
+  "debate_id": "prop_0333__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "bf46cfafbb9f27736af2d0be8d1b0cbd37b4e98a0d3d684fb1d48f7cdc38e61c",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B won the prioritisation clash: once Side A defended short-form as merely a doorway and creators as a durable in-house desk, B showed that justified using clips as a tool, not prioritising rented feeds and personalities over the universal services that deliver depth. B also sustained the creator-control dilemma and the owned-versus-rented distribution distinction.</reason>\n<best_rebuttal>Side B's Rebuttal 1 and Rebuttal 2 doorway reversal: if short-form only leads to long-form and value survives through staff capability, scarce money should protect the destination and staff it well rather than prioritise creators over channels.</best_rebuttal>"
+}

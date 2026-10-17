@@ -1,0 +1,9 @@
+{
+  "task_id": "5c93b96f982ff7b463e316f6",
+  "debate_id": "prop_0486__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "48a16b8c374bde77757f464b0b1765ccb858ddd1fa95c4e6906db4d3815f6f70",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>9</fun>\n<arg_a>9</arg_a>\n<arg_b>8</arg_b>\n<reb_a>9</reb_a>\n<reb_b>8</reb_b>\n<ground_a>9</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by dismantling the proposition on both ecological and equity grounds. Side A demonstrated that the environmental harms of traditional burial can be solved by mandating natural green burials and multi-layered plots rather than abolishing graves. Crucially, Side A forced Side B to concede that intact earth burial is a non-negotiable religious mandate for observant Muslims and Orthodox Jews. Side B's attempt to justify abolishing plots today because urban cemeteries will eventually run out of space in the future was cleanly neutralized by Side A, who pointed out that imposing an immediate religious exclusion on working-class minorities is worse than eventually expanding into subsidized regional cemeteries, and that voluntary alternatives can coexist alongside permanent plots.</reason>\n<best_rebuttal>In Rebuttal 2 and Closing, Side A turned Side B's concession that intact burial is religiously non-negotiable [B4.3] and Side B's attack on regional cemeteries as a \"deferred eviction\" [B5.1] into a decisive blow: abolishing public plots today to avoid running out of space decades from now simply replaces a future regional transition with an \"immediate eviction\" of low-income religious minorities.</best_rebuttal>"
+}

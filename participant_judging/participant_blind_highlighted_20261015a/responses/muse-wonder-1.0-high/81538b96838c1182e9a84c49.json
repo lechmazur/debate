@@ -1,0 +1,9 @@
+{
+  "task_id": "81538b96838c1182e9a84c49",
+  "debate_id": "prop_0493__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "cc54e07053bab8b86336450b1357640c17318204da1bf82ffc27477d50b011da",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON built the cleaner comparative case: a ban still lets the same firms pump the same aquifer for soda, while effective automatic cutoffs would make permits reversible. PRO's attempt to distinguish bottlers as uniquely unable to alter water sourcing was weak, and its claims that bottlers could operate outside municipal zones or under public contracts sat uneasily with the motion and its own point that aquifers ignore boundaries. CON also answered the trigger question directly with pre-harm thresholds, telemetry, shutdown-first rules, and bonds.</reason>\n<best_rebuttal>CON's closing dilemma was decisive: if governments can enforce drought rules on much larger farm and soda users, they can enforce them on bottlers; if they cannot, the ban saves little water while losing revenue and emergency capacity.</best_rebuttal>"
+}

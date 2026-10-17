@@ -1,0 +1,9 @@
+{
+  "task_id": "39b77ff6a876e788c9ec8f3b",
+  "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5c9953ec7f3d0ad1295baa65de8e906a5d525472bbcfbac070ebe29fb912433e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B (PRO) built the stronger path to victory by maintaining that \"net-zero\" is a claim about physical emissions trajectories, not a global accounting exercise. CON's efficiency arguments failed to address the core moral hazard\u2014which they effectively conceded when admitting executives would not voluntarily fund expensive retrofits while cheap offsets exist\u2014and were countered on the Global South finance point by demonstrating that multinational value chains (smartphones, apparel, data centers) run through developing economies. PRO successfully framed the proposition as a truth-in-advertising measure that prevents greenwashing while preserving external climate finance under honest labels.</reason>\n<best_rebuttal>Side B's Rebuttal 2, which answered the pressure questions with specific sector-benchmark mechanisms, countered CON's \"domestic value chains\" claim with concrete manufacturing examples (smartphones, apparel, data centers) proving capital would reach the Global South, and reinforced the moral hazard argument by highlighting CON's admission that cheap offsets crowd out industrial investment.</best_rebuttal>"
+}

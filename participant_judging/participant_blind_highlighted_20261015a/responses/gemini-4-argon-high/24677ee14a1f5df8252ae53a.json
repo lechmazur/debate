@@ -1,0 +1,9 @@
+{
+  "task_id": "24677ee14a1f5df8252ae53a",
+  "debate_id": "prop_0412__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "5326b68706b80fd0e4007ce3ef0c56d60235f406e958aac5e1f12234f5524b4c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.8</margin>\n<fun>9</fun>\n<arg_a>9</arg_a>\n<arg_b>6</arg_b>\n<reb_a>9</reb_a>\n<reb_b>5</reb_b>\n<ground_a>9</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won every major clash by exposing a fatal contradiction at the heart of Side B's case. Side B claimed both that social media users instantly recognize sponsored content and that requiring explicit verbal disclosures would ruin the \"authenticity\" of livestreams and short videos. Side A used its pressure questions and rebuttals to trap Side B on this point, eventually forcing Side B to admit in Rebuttal 2 that general skepticism does not tell viewers which specific product is paid and that explicit disclosure alters the \"perceived unmediated relationship.\" Side A also cleanly dismantled Side B's feasibility and regulatory-arbitrage objections by pointing to integrated morning-show segments and the basic economics of sponsorship reach.</reason>\n<best_rebuttal>Side A's pressure question [A3.1] and follow-up in [A4.5]-[A4.7] &amp; [A5.1]-[A5.2], which exposed that if stating \"paid ad\" aloud ruins an influencer's \"authenticity,\" then that authenticity depends on deceiving viewers into thinking a paid pitch is an unmediated personal recommendation.</best_rebuttal>"
+}

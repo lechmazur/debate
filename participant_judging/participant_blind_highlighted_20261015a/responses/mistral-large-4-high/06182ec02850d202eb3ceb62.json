@@ -1,0 +1,9 @@
+{
+  "task_id": "06182ec02850d202eb3ceb62",
+  "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "f45f3de0eb23a52d1ad2eb36df045295ed92337d6a834bde0170d231bb524a6a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>6</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won by establishing a decisive test\u2014whether populism leaves citizens able to correct the corrector\u2014and showing populism usually fails it by closing institutional exits and pre-delegitimizing referees. Side B effectively argued populism responds to real elite capture, but struggled to show populism is usually a healthy corrective rather than a warning, as their success examples (Southern Europe) involved movements ceasing to be populist, and their \"most stay constitutional\" claim was undercut by A's point about opposition-level delegitimization. A's pressure questions exposed contradictions in B's normalization and certification arguments, and A's rebuttals provided the stronger comparative weighing.</reason>\n<best_rebuttal>Side A's Rebuttal 2 (A1 and A2), which argued that backsliding occurs not just through dismantling checks but through pre-delegitimizing referees in opposition, and that populist capture closes plural exits that competitive elite rotation preserves, decisively answering B's baseline-comparison pressure.</best_rebuttal>"
+}

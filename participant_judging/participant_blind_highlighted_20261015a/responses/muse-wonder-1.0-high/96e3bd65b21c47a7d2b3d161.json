@@ -1,0 +1,9 @@
+{
+  "task_id": "96e3bd65b21c47a7d2b3d161",
+  "debate_id": "prop_0538__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "c8624e5e5d162af13e91a6ee39a37f53cd56ca88581f44fb7b8616edfe595a32",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A won by establishing the hard-currency and competitiveness constraints: regional demand and factories cannot yet replace world-market earnings needed for machinery, power, and grids. A also resolved the alleged contradiction by distinguishing competitive, incremental processing from prematurely prioritizing higher-cost regional production, while B never fully showed regional output would be cheaper or finance the transition.</reason>\n<best_rebuttal>Side A's Rebuttal 2 was decisive: local refining or fertilizer production only saves foreign exchange if its full cost beats importing, and conditioning resource access can lower bids and delay projects, directly undercutting B's answers to both pressure questions.</best_rebuttal>"
+}

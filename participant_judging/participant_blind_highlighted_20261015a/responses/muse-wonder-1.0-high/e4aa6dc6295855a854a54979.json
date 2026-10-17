@@ -1,0 +1,9 @@
+{
+  "task_id": "e4aa6dc6295855a854a54979",
+  "debate_id": "prop_0425__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "91efa5f29b6977ce6b052833c6b648063317845d691b1500ac342f71dea461ce",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_b>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by reframing the motion as the next discretionary pound, not cutting existing crisis services, and by defending irreversible, repeated in-person belonging against A's reach claims. A powerfully raised excluded and vulnerable students, but never squarely overcame the contact-versus-care distinction or the anonymity-versus-monitoring tension, and its first rebuttal was clipped.</reason>\n<best_rebuttal>B's Rebuttal 1 was decisive: existing portals and counselling remain, digital distribution is not sustained care, and A's coordinator argument presupposes real clubs and spaces to coordinate.</best_rebuttal>"
+}

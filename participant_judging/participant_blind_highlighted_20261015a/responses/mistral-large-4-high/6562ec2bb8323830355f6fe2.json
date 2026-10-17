@@ -1,0 +1,9 @@
+{
+  "task_id": "6562ec2bb8323830355f6fe2",
+  "debate_id": "prop_0080__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a5d63d756179089b1f700bf1465b2a233a36ef878b0fed8a85a45ce06477324b",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A (CON) won by establishing that formal collective bargaining faces decisive legal barriers at public universities in states banning public-sector bargaining\u2014an objection Side B could not neutralize without conceding the motion requires prior legislative reform. A also provided a sharper economic analysis of union incentives and roster costs, distinguishing internal revenue sharing from external NIL to undermine B's cross-subsidization defense.</reason>\n<best_rebuttal>Side A's Rebuttal 2 (A1/A2) decisively separated direct revenue sharing from unionization regarding roster elimination, and distinguished external booster NIL from internal university budgets to demonstrate that Title IX compliance protects cross-subsidization in ways union contracts would not.</best_rebuttal>"
+}

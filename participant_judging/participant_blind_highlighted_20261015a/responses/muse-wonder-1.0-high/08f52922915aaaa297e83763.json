@@ -1,0 +1,9 @@
+{
+  "task_id": "08f52922915aaaa297e83763",
+  "debate_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "9d985c19657174fe6ff2b882d1562447cb8e950670e9d327758146baa3474753",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.6</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>8</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by sustaining the credibility dilemma: holding an unmeetable fuel date creates scarcity and two-tier fleets, while waiving it destroys the demand signal A relies on. B also showed A's container-cost and revenue-recycling answers ignored bulk and island-state impacts and added a levy not guaranteed by the motion, while its binding intensity trajectory answered A's claim that only a fuel timetable reaches zero.</reason>\n<best_rebuttal>B's first rebuttal and answered pressure in Rebuttal 2 were decisive: a binary fuel mandate makes unverifiable lifecycle compliance and shortages determinative of port access, whereas an audited, declining intensity standard with pricing can force cuts now and pull in fuels as they scale.</best_rebuttal>"
+}

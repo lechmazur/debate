@@ -1,0 +1,9 @@
+{
+  "task_id": "3a99bbbdf4eee91e3267032a",
+  "debate_id": "prop_0486__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "83259a53f6246d305c7acac9ab51df78fdee8ffed1037198d3439c15e1697b80",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>9</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Side B won by neutralizing Side A's ecological arguments through green burial mandates and decisively winning the central clash over religious pluralism and class equity. Side A was forced to concede in Rebuttal 2 that composting and alkaline hydrolysis violate non-negotiable religious mandates for observant Muslim and Orthodox Jewish families, falling back on the claim that finite urban land makes eventual exclusion inevitable anyway. Side B dismantled this defense by showing that multi-layered green plots, voluntary alternatives, and transit-connected regional cemeteries extend affordable access for generations, whereas Side A's ban inflicts immediate exclusion on low-income minorities today to prevent a theoretical capacity shortage decades from now.</reason>\n<best_rebuttal>Side B's counter in Rebuttal 2 and Closing ([B4.3]-[B4.4], [B5.1]-[B5.3]) seizing on Side A's concession that intact burial is a non-negotiable religious mandate [A4.3] and turning Side A's attack on regional cemeteries as a \"deferred eviction\" [A5.1] into the devastating point that abolishing public plots today is an \"immediate eviction\" of working-class religious minorities.</best_rebuttal>"
+}

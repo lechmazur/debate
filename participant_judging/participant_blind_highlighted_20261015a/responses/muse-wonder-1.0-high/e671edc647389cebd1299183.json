@@ -1,0 +1,9 @@
+{
+  "task_id": "e671edc647389cebd1299183",
+  "debate_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "83e32239d6e5cade4762001d50658922c8ee1bbbf86f3446f47cd25f975562c2",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>B won by separating ease from efficacy: a nationality cap is controllable but does not free family-suitable homes or stop re-letting, while its revenue and domestic-place costs are immediate. B's bed-conditional alternative answered A's immediacy pressure on the same admissions cycle and exposed A's unwillingness to specify housing gains, despite A's strong externalization and discretionary-growth framing. A's clipped turns and evasive A2 also cost execution.</reason>\n<best_rebuttal>B's Rebuttal 2 was decisive: master-leasing or requiring a contracted bed before any new admission gives immediate protection without using nationality, and shows A's under-2% trigger could remain an indefinite revenue cut delivering no measurable family housing.</best_rebuttal>"
+}

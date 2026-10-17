@@ -1,0 +1,9 @@
+{
+  "task_id": "b90c0ba7ad1e80a4d602b705",
+  "debate_id": "prop_0308__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "78560212db13701f30008972cfce788c68050845288217da266eb80e106a9ac3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B defined populism as an exclusive claim to embody the people and supplied the decisive test: a healthy corrective must leave citizens able to correct the corrector. Side A effectively defended popular challenges to captured elites but never separated that defence from populism's anti-pluralist logic, relied on an unsupported claim that most movements remain constitutional, and treated normalization into ordinary parties as success rather than answering why success required abandoning exclusivism. Side B also answered the captured-baseline challenge by showing that flawed competitive systems retain multiple exits, while populist capture closes them together.</reason>\n<best_rebuttal>The most decisive exchange was over normalization: Side B showed that Side A's Southern European successes worked by accepting coalitions, defeats, and binding procedures, and Side A's answer that disruption itself was the correction did not rebut the claim that the benefit came from surrendering populism's exclusive mandate.</best_rebuttal>"
+}

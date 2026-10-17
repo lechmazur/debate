@@ -1,0 +1,9 @@
+{
+  "task_id": "ea10b346582f1e5b247cd492",
+  "debate_id": "prop_0637__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "f4651c65d79fb76ef136c67c66ac9da89b2924cf14612342510e08d1526a1df1",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>9</fun>\n<arg_a>8</arg_a>\n<arg_b>9</arg_b>\n<reb_a>8</reb_a>\n<reb_b>9</reb_b>\n<ground_a>9</ground_a>\n<ground_b>9</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Both debaters delivered a high-level policy exchange, but Side B won by systematically dismantling the economic feasibility of Side A's alternative while cleanly resolving the pressure on its own case. Side A scored an early point by exposing the timing gap between demolition displacement and future property tax revenues, but Side B persuasively answered that pre-demolition stipends can be fronted from existing funds and replenished by subsequent tax surges. More decisively, Side B's pressure questions forced Side A to concede that heavy replacement mandates would stop owners of existing rentals from selling, shrinking redevelopment to vacant or commercial lots while relying on rent control for existing units. Side B capitalized on this concession in the final rounds, showing that freezing the residential footprint manufactures the very vacancy scarcity that locks out working-class families and undermines relocation vouchers.</reason>\n<best_rebuttal>In [B3.2], [B4.3], and [B5.1]-[B5.3], Side B dismantled Side A's claim that land prices would simply adjust downward to absorb heavy replacement mandates, forcing Side A to admit in [A4.2] that existing rental owners would not sell and then showing how that freeze creates chronic corridor-wide scarcity.</best_rebuttal>"
+}

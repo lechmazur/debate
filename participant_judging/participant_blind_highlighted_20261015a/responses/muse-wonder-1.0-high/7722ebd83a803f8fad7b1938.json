@@ -1,0 +1,9 @@
+{
+  "task_id": "7722ebd83a803f8fad7b1938",
+  "debate_id": "prop_0096__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "2010740fd1cd0df2fb1c8844b6be5d990911bdeee34cb0b209b9643bb33bb20a",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A wins by narrowing the motion to faithful dubbing of an already-performed script, distinguishing it from open-ended cloning, new dialogue, and reuse for unrelated projects that can be expressly banned. B repeatedly relied on those broader abuses without proving they are inherent to dubbing. A also turned B's answers into a damaging fork: opt-in is either just a clearer upfront clause or a refusable/revocable gate whose admitted consequence is replacing performers or skipping territories, harming lesser-known actors and audiences most.</reason>\n<best_rebuttal>A's Rebuttal 2 answers B's questions directly, concedes permanent replicas for new dialogue are not licensed, then uses B's own replacement-or-skip-territory answer to show opt-in produces the displacement and access losses B claimed to prevent.</best_rebuttal>"
+}

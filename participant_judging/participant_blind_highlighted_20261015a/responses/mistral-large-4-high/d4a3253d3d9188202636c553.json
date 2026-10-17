@@ -1,0 +1,9 @@
+{
+  "task_id": "d4a3253d3d9188202636c553",
+  "debate_id": "prop_0423__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "f19d40abb0156d9e3d8b3335b6c8f35768389a8f4bc02fa6f8a10e67c3d4cdf8",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.8</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>6</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B (PRO) won by systematically dismantling Side A's case. B exposed the fatal contradiction between A's attack on residency-verification burdens (\"bureaucratic gauntlet\") and A's proposed alternative of means-tested discounts, which require far more invasive income verification. B effectively countered A's scalping concerns with plausible non-transferable mobile ticketing and face-value resale caps, and neutralized A's \"traveling fans locked out\" argument by noting that devoted fans qualify through the \"members\" prong of the proposition. Most decisively, B weaponized A's concession that dynamic pricing fails locals during sell-out surges (\"bloodbath of bots\"), turning it into proof that the proposition is necessary. A's opening was clipped (execution cost), and A's closing was largely recap, while B's closing crystallized the decisive clash with rhetorical force.</reason>\n<best_rebuttal>B's Rebuttal 2 (Turn 7), which directly answered the pressure questions about account security and supply constraints while exposing that A's means-tested alternative contradicts their verification-burden critique and remains equally vulnerable to arbitrage.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "d28c0c35d8e03de5c6bb23db",
+  "debate_id": "prop_0644__gemini-4-argon-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "1c3fd9cb73135243a246316beb1cfe4b9ae6daeb4c0878daa95bba4252808f90",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>7</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B built the cleaner live route: flipping the default defeats veto-protected inertia, and sunsets create leverage to renew needed relief while stripping abuses. Side A's rubber-stamp-versus-cliff dilemma was sharp, but B split it by time and scope, while A's appropriations and repeal alternatives never overcame the one-third veto problem or zero-cost coercive decrees.</reason>\n<best_rebuttal>Side B's response that defunding cannot stop costless coercion like protest bans or censorship, combined with the veto-math point that a 55-60% majority can still lose without a sunset, most decisively damaged Side A's alternatives.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "210ab4ac2196f66fb7813b01",
+  "debate_id": "prop_0442__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "7f25113b57d033208e50734966456c7b37917ddca438380850d56e2f77a3bb49",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>6</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>6</ground_a>\n<ground_b>7</ground_b>\n<orig_a>6</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>PRO wins by turning scarcity into a chicken-and-egg deadlock that a phased, rising-share timetable credibly solves, with port-state and concentrated-bunkering enforcement. CON's carbon-price alternative was shown to raise freight too while guaranteeing neither demand nor evasion-proofing. CON's waiver attack was forceful, but PRO's priced, expiring availability relief with pooling and banking preserved bindingness better than CON acknowledged, and its food-cost answer was partly mischaracterized as a later rebate.</reason>\n<best_rebuttal>Side B's Rebuttal 2 was decisive: it answered the detain-or-waive dilemma with phased shares, pooling, banking and expiring paid exemptions, then turned both pressure questions back on CON's price, which can simply be paid and faces the same enforcement world.</best_rebuttal>"
+}

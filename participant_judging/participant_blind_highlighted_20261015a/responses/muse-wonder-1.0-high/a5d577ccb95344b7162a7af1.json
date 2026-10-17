@@ -1,0 +1,9 @@
+{
+  "task_id": "a5d577ccb95344b7162a7af1",
+  "debate_id": "prop_0442__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "fb571622e0380a3157d55a694900e8d0c8016d9f72aba670b6226fd684d2e48c",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A wins the instrument clash: its hold-or-waive credibility dilemma, bulk-cargo cost distinction, and two-tier fleet risks survive, while B relies on hypothetical revenue recycling and repeats that container costs are trivial. A also shows a binding intensity trajectory can force cuts now and compel zero-carbon fuels when deliverable, neutralizing B's claim that only a fuel timetable ends fossil shipping.</reason>\n<best_rebuttal>Most decisive was A's Rebuttal 2: it distinguished imperfect verification workable for pricing from a binary fuel mandate that rewards certificate fraud, and recast its intensity standard as a dated binding trajectory rather than an undefined endpoint.</best_rebuttal>"
+}

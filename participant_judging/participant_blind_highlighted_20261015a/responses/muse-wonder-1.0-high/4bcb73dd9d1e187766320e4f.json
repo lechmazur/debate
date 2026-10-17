@@ -1,0 +1,9 @@
+{
+  "task_id": "4bcb73dd9d1e187766320e4f",
+  "debate_id": "prop_0516__muse-wonder-1.0-high__mistral-large-4-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "0dd6d0f78df31d583b393c4e88745b0b1fc915e565a427e44a2b73ccda0d4368",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A built the cleaner marginal-contribution case: universities control the fastest-moving demand dial when vacancy is near zero, and a severe-shortage cap freezes growth rather than eliminating existing fees or students. A answered the purpose-built housing challenge with a persuasive overflow mechanism and gave external, liftable criteria for \"severe.\" Side B's root-cause and cross-subsidy points remained live but were weakened by misattributing the segregation claim and by proposing a secured-bed precondition, which A convincingly framed as conceding that recruitment cannot remain unconstrained.</reason>\n<best_rebuttal>Side A's Rebuttal 2 \"both, in sequence\" answer: purpose-built beds absorb students only until built capacity is exceeded, after which overflow competes for shared and family housing. Its closing then turned B's bed-guarantee alternative into an admission that some binding recruitment limit is necessary.</best_rebuttal>"
+}

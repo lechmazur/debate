@@ -1,0 +1,9 @@
+{
+  "task_id": "a25c2e90e412a636eebced63",
+  "debate_id": "prop_0516__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "bb3f3bedadb3fafa75c815ee94c9a3a75b27ccf33bd23366aef7c25dcc816822",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>7</ground_b>\n<orig_a>8</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A wins by replacing a passport cap with a bed-conditioned enrollment rule that answers PRO's immediacy and discretionary-growth pressures on the same admissions cycle, while exposing that a cap frees mostly re-lettable student rooms, delivers no specified family housing benefit, and cuts revenue needed for domestic places and accommodation. B's threshold answer still risks an open-ended brake and its refusal to quantify housing relief weakened its burden.</reason>\n<best_rebuttal>Side A's Rebuttal 2 was decisive: A1/A2 directly offered master-leases and secured-bed offers as immediate protection, then showed B's answers supplied no family-home metric and relied on a vacancy trigger that could persist for years.</best_rebuttal>"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "0d4740d0a7bc66ffb51e243e",
+  "debate_id": "prop_0307__mistral-large-4-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "7ef1ebb3ed4340b6b320af5a16166bf02d253fecc50e8d476306d146384529fa",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>2.3</margin>\n<fun>9</fun>\n<arg_a>9</arg_a>\n<arg_b>7</arg_b>\n<reb_a>9</reb_a>\n<reb_b>7</reb_b>\n<ground_a>9</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A overcame a proposition phrased favorably for PRO by exposing a fatal dilemma in Side B's case regarding labor scarcity and nighttime safety. While Side B relied on eloquent appeals to autonomy and the qualifier \"when possible,\" Side A demonstrated that a finite caregiver workforce cannot supply one-on-one overnight care across scattered private homes without starving collective facilities of staff, and that waiting for strict \"medical necessity\" traps mobility-impaired elders in isolated houses until a crisis occurs.</reason>\n<best_rebuttal>In Turn 8 [A4.1, A4.3], Side A dismantled Side B's defense by catching a direct contradiction: Side B dismissed 24/7 home staffing as a \"strawman\" in favor of part-time care during Pressure Questions [B3.1] to dodge labor-scarcity critiques, but immediately pivoted to promising \"overnight aides\" and \"24/7 support\" in Rebuttal 2 [B4.1, B4.4] to answer who helps a frail elder at 2:00 a.m.</best_rebuttal>"
+}

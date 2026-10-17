@@ -1,0 +1,9 @@
+{
+  "task_id": "8bf0eaa6350a021dd28b7921",
+  "debate_id": "prop_0019__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8e59d2196ed376e53f401eb85b4808a2a39875822118a94d70f14f64dee4aa6e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.3</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>7</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A wins by holding PRO to the proposition as written. B effectively distinguishes confidential pooling from public information, but its answers concede common use alone is insufficient and require pooling, adherence, and discipline\u2014facts A accepts would prove actual coordination. A also undercuts the asserted rim by showing visibility and losing tenants are competition, not agreement or retaliation, while exposing the burden-shifting cost of cartel-level scrutiny.</reason>\n<best_rebuttal>Most decisive was A's Rebuttal 2: answering that proven pooling-plus-commitment would warrant scrutiny, then showing B's narrowed test is A's evidence-first standard rather than category-wide treatment as direct coordinators.</best_rebuttal>"
+}

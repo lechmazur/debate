@@ -1,0 +1,9 @@
+{
+  "task_id": "4577e7b3b2e1c09b3c48bee1",
+  "debate_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "bd9d19d4a81b1632bef0ae9ae9bd8677dcc3223532bf54e1398ebaad81abe3a5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>8</arg_a>\n<arg_b>9</arg_b>\n<reb_a>8</reb_a>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side B prevailed by directly addressing the \"usually\" qualifier with base-rate evidence (Syriza, Northern European coalitions, American Populists) showing populists typically operate within democratic rules and moderate, while distinguishing between distrust of party elites (correctable) and decay of constitutional institutions (backsliding). Side A's case, though theoretically coherent regarding anti-pluralism, relied on worst-case examples and struggled to establish that populist rhetoric alone constitutes institutional decay rather than legitimate contestation.</reason>\n<best_rebuttal>Side B's Rebuttal 2 (B4.1-B4.6), specifically the answer distinguishing between distrust of party elites versus constitutional institutions (A2), and the charge that Side A's framework is unfalsifiable\u2014where moderation is dismissed as external restraint and radicalization blamed on populism, leaving no outcome that counts as correction.</best_rebuttal>"
+}

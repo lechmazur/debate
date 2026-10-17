@@ -1,0 +1,9 @@
+{
+  "task_id": "62eca80183d96d7b5ee60c55",
+  "debate_id": "prop_0538__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "pro",
+  "prompt_sha256": "6485d0e47ebba286a9c7dad1b1abcc38478fb458136fa91c1c4a36ba576ee9d5",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>6</reb_a>\n<reb_b>8</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>8</rhet_b>\n<reason>Side A persuasively exposed commodity volatility and the historical failure of industrialize-later, but Side B sustained the decisive financing clash: prioritization diverts scarce capital from depleting extraction that needs continuous upgrades, while regional factories still require dollar-priced inputs and sell for local currency. A never fully answered that balance-of-payments and capex problem, and its retreat to cement and cooking oil weakened its larger manufacturing claim. B also answered A's pressure with dual-use infrastructure tied to licenses and adaptable commodity contracts.</reason>\n<best_rebuttal>Side B's rebuttals on starving the extraction engine: A claimed existing mines would keep earning while new investment went elsewhere, but B showed extraction declines without upgrades, making the proposed bridge self-undermining alongside the hard-currency mismatch.</best_rebuttal>"
+}

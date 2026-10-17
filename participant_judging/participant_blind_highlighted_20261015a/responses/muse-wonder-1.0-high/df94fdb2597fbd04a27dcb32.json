@@ -1,0 +1,9 @@
+{
+  "task_id": "df94fdb2597fbd04a27dcb32",
+  "debate_id": "prop_0308__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "a2444806da133c0ef6376063f2ae1eddea38178b2f374fdd53973d1c1f937552",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>7</ground_a>\n<ground_b>7</ground_b>\n<orig_a>7</orig_a>\n<orig_b>6</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side A won the central 'usually' clash. Its denominator argument, distinction between distrust of party elites and decay of constitutional institutions, and examples of populists governing, moderating, and leaving office left Side B relying mainly on Hungary, Turkey, and Venezuela. Side B's claim that anti-pluralist rhetoric is itself backsliding was forceful but never escaped A's charge of definitional circularity and unfalsifiability.</reason>\n<best_rebuttal>Side A's Rebuttal 1 and 2 credit/blame asymmetry: if moderation under strong institutions credits institutions and radicalization under weak ones blames populism, Side B's three capture cases cannot prove populism usually causes backsliding.</best_rebuttal>"
+}

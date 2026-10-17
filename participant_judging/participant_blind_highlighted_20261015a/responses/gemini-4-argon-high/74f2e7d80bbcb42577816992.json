@@ -1,0 +1,9 @@
+{
+  "task_id": "74f2e7d80bbcb42577816992",
+  "debate_id": "prop_0644__muse-wonder-1.0-high__gemini-4-argon-high__s1__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "8b004c8cb75dfb7e14d390539708c1162089d95a967d9df94db634ca7ca235ef",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.5</margin>\n<fun>9</fun>\n<arg_a>9</arg_a>\n<arg_b>8</arg_b>\n<reb_a>9</reb_a>\n<reb_b>8</reb_b>\n<ground_a>9</ground_a>\n<ground_b>8</ground_b>\n<orig_a>9</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>9</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>While Side B presented an eloquent case centered on shifting the burden of legislative inertia, Side A won by out-executing on institutional mechanics and failure modes. Side A neutralized the problem of legislative silence via minority-triggered privileged revocation votes, exposed how fast-track rules still cannot prevent substantive midnight hostage-taking by swing factions under a sunset deadline, and devastated Side B's attempt to write off a 24-hour lapse of emergency powers as a harmless \"day of argument.\" Side A also won the judicial review clash by showing that panicked legislative renewals certify the ongoing existence of an emergency and insulate stale executive overreach from court intervention.</reason>\n<best_rebuttal>Side A's response in [A4.1]-[A4.4] to Side B's fast-track question and \"next day\" defense: Side A cleanly distinguished procedural obstruction from substantive hostage-taking by swing votes at a deadline, then showed why even a 24-hour lapse in banking backstops, quarantines, or wartime authorities triggers irreversible legal and operational chaos.</best_rebuttal>"
+}

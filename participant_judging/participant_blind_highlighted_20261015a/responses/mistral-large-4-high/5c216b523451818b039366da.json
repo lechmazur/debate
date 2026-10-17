@@ -1,0 +1,9 @@
+{
+  "task_id": "5c216b523451818b039366da",
+  "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "mistral-large-4-high",
+  "side_a_source": "con",
+  "prompt_sha256": "6af8c83178a9b13ab8ef04db0ae3371576de047bf1ea7d4793bfecfff4e03c8e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>1.5</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>8</arg_b>\n<reb_a>8</reb_a>\n<reb_b>8</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>8</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>Side B (PRO) won by constructing a more comprehensive affirmative case: enforceable rules civilize sovereignty by preventing beggar-thy-neighbor cascades, and workability is secured through a package of collective insurance (regional reserves, emergency financing), objective verification via a foods observatory, and targeted penalties that shield vulnerable populations while deterring defiance. Side A's skeptical case against enforceability was strong but defensive, and B successfully reframed A's evasion argument as a description of the status quo rather than a refutation of rules.</reason>\n<best_rebuttal>Side B's Rebuttal 2 answers to pressure questions (A1/A2), which proposed the staple foods observatory for verification and targeted elite sanctions paired with solidarity mechanisms, effectively neutralizing Side A's enforcement dilemma.</best_rebuttal>"
+}

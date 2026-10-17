@@ -1,0 +1,9 @@
+{
+  "task_id": "cd9af6d302bdac304fbc75e3",
+  "debate_id": "prop_0594__mistral-large-4-high__muse-wonder-1.0-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "muse-wonder-1.0-high",
+  "side_a_source": "con",
+  "prompt_sha256": "6af8c83178a9b13ab8ef04db0ae3371576de047bf1ea7d4793bfecfff4e03c8e",
+  "status": "ok",
+  "raw_text": "<winner>A</winner>\n<margin>1.4</margin>\n<fun>7</fun>\n<arg_a>8</arg_a>\n<arg_b>7</arg_b>\n<reb_a>8</reb_a>\n<reb_b>6</reb_b>\n<ground_a>8</ground_a>\n<ground_b>6</ground_b>\n<orig_a>7</orig_a>\n<orig_b>7</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>7</rhet_b>\n<reason>CON wins the central dilemma: either a genuine-shortage exemption swallows the rule, or enforcement on contested data compels outflows and invites defiance. PRO increasingly relies on reserves, financing, observatories and targeted sanctions not created by the ban limit, while CON answers the forced-export challenge and offers notice, time limits and humanitarian access as a survivable alternative. PRO's clipped closing adds an execution cost.</reason>\n<best_rebuttal>CON's Rebuttal 2: explaining that removing a ban lets private traders export food a country cannot afford to lose, and that satellites/customs cannot verify household, seed and informal stocks or make preference sanctions harmless.</best_rebuttal>"
+}

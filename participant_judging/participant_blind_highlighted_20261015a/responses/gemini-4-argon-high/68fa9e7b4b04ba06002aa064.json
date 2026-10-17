@@ -1,0 +1,9 @@
+{
+  "task_id": "68fa9e7b4b04ba06002aa064",
+  "debate_id": "prop_0486__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "bbf37921d163718fec802aa52d899a2371fe5b54d1b7bfa1a96b53fd7f91caf3",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.0</margin>\n<fun>8</fun>\n<arg_a>7</arg_a>\n<arg_b>9</arg_b>\n<reb_a>7</reb_a>\n<reb_b>9</reb_b>\n<ground_a>8</ground_a>\n<ground_b>8</ground_b>\n<orig_a>7</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>8</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Side B won by anchoring its case in the motion's core constraint\u2014finite land in land-scarce cities\u2014and systematically dismantling Side A's alternatives. After Side B exposed that plot recycling and mausoleums violate the very religious covenants Side A sought to defend, Side A retreated to reserving \"dedicated sections\" for in-ground burial. Side B then boxed Side A in with pressure questions, forcing Side A to concede in Rebuttal 2 that when those sections fill, cities must either seize other urban land or \"coordinate with peri-urban religious cemeteries\"\u2014the exact out-of-town solution Side A had previously attacked as an unjust travel burden and \"private exile.\"</reason>\n<best_rebuttal>Side B's first rebuttal [B2.1-B2.2] and closing follow-through [B5.1-B5.3]: Side B showed that Side A's proposed land-management tools (such as lease-based plot recycling) required exhuming the dead in violation of the religious covenants Side A championed, and later caught Side A conceding reliance on the very peri-urban cemeteries it had condemned in [A2.6].</best_rebuttal>"
+}

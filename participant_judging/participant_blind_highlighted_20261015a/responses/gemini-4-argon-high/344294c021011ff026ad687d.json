@@ -1,0 +1,9 @@
+{
+  "task_id": "344294c021011ff026ad687d",
+  "debate_id": "prop_0608__gemini-4-argon-high__mistral-large-4-high__s0__tpl_placement_active_20260813a",
+  "participant_model": "gemini-4-argon-high",
+  "side_a_source": "con",
+  "prompt_sha256": "5c9953ec7f3d0ad1295baa65de8e906a5d525472bbcfbac070ebe29fb912433e",
+  "status": "ok",
+  "raw_text": "<winner>B</winner>\n<margin>2.8</margin>\n<fun>8</fun>\n<arg_a>6</arg_a>\n<arg_b>9</arg_b>\n<reb_a>5</reb_a>\n<reb_b>9</reb_b>\n<ground_a>6</ground_a>\n<ground_b>9</ground_b>\n<orig_a>6</orig_a>\n<orig_b>8</orig_b>\n<rhet_a>7</rhet_a>\n<rhet_b>9</rhet_b>\n<reason>Side B systematically dismantled every pillar of Side A's case while maintaining tight internal consistency. Side B proved that paying to avoid an emission in India while continuing to burn coal in Ohio does not result in net-zero emissions, and showed that unlimited cheap offsets crowd out the commercial demand needed to scale down costs in hard-to-abate sectors. Side A dropped the physical equivalence argument in the first rebuttal, made a deeply flawed claim that retail and tech supply chains do not run through the Global South, and fatally contradicted itself between [A2.1], [A4.1], and [A5.2] on whether executives would ever fund domestic retrofits while cheap offsets remain available.</reason>\n<best_rebuttal>Side B's pressure question [B3.1] and follow-up in [B4.3] and [B5.1], which forced Side A to admit in [A4.1] that no profit-driven executive would pay hundreds of dollars per ton for internal retrofits while cheap offsets are unlimited\u2014directly contradicting Side A's own defense in [A2.1] and [A5.2] that firms would finance both simultaneously.</best_rebuttal>"
+}
