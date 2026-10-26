@@ -6,9 +6,9 @@ Each matchup runs twice on the **same motion with sides swapped**. A three-model
 
 ---
 
-![Bradley-Terry leaderboard: current models and highlighted predecessors](images/debate_bt_ratings_current_models__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Bradley-Terry leaderboard: current models and highlighted predecessors](images/debate_bt_ratings_current_models__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-This chart shows **26 current models and highlighted-model predecessors**, including Muse Spark 1.3, Gemini 3.1 Pro Preview, and Mistral Large 3. The [full historical chart](images/debate_bt_ratings__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png) and leaderboard table below retain the broader public comparison set.
+This chart shows **25 current models and selected predecessors**, including Kimi K3.1 Pro (high), Kimi K3, and DeepSeek V4.1 Flash 1017 (high). The [full historical chart](images/debate_bt_ratings__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png) and leaderboard table below retain the broader public comparison set.
 
 ---
 
@@ -19,47 +19,44 @@ This chart shows **26 current models and highlighted-model predecessors**, inclu
 - The grey band spans the **95% robust confidence interval**; darker shading means greater relative density.
 - The published order uses Bradley-Terry. Glicko-2 remains a secondary scheduling diagnostic.
 
-## Current snapshot — October 15, 2026
+## Current snapshot — October 26, 2026
 
-- **62 rated model identities** in the complete stored graph; **59** shown publicly
-- **4,223 complete side-swapped matchups**, comprising **8,446 debates**, used for ratings
-- **25,896 judge decisions** behind the ratings
+- **64 rated model identities** in the complete stored graph; **61** shown in the full public leaderboard
+- **4,492 complete side-swapped matchups**, comprising **8,984 debates**, used for ratings
+- **27,510 judge decisions** behind the ratings
 - **683 topics** represented in the rated corpus
 
-Opus 5.5's coverage expansion adds **70 complete matchups (140 debates)**. It now also has at least **five fully judged, side-swapped topics against all 25 other displayed models**.
+The latest additions are **Kimi K3.1 Pro (high)** and **DeepSeek V4.1 Flash 1017 (high)**. Kimi now has **159 complete matchups across 24 opponents**; DeepSeek has **120 across 23 opponents**. Every tested opponent has at least five complete topics, including ten Kimi–DeepSeek topics. Three opponent refusals in the DeepSeek intake were preserved, and fresh replacement topics completed its planned coverage.
 
-The earlier October 15 highlighted-model coverage expansion adds **192 complete matchups (384 debates)**. Each highlighted model now has at least **five fully judged, side-swapped topics against all 25 other displayed models**: 72 unique pairings, including the selected predecessors. Existing deeper comparisons remain intact. Gemini 3.1 Flash-Lite Preview is retired and no longer routable, so it remains in the historical leaderboard and is hidden from current-model charts.
+Kimi ranks **10th of the 25 models in the current-focused chart**, and DeepSeek ranks **12th**. The separate October 25 qualitative study compares Kimi K3.1 Pro with K3 using Claude Opus 5.5 (high), including all **19 direct topic pairs**.
 
-The earlier October intakes added **Meta Muse Wonder 1.0 (high), Gemini 4 Argon (high), and Mistral Large 4 (high)**. Those two intakes completed **588 of 590 scheduled debates** and saved **1,763 judgments**. One MiMo blank response and one Qwen refusal left two debate directions unavailable. One Grok judgment remained unavailable after an exact retry; both directions of that matchup are excluded from ratings, while its five successful judgments remain archived.
-
-A transcript audit also removed three historical matchups whose motion changed during generation. Their original transcripts and 20 judgments remain archived. Ratings and confidence intervals below use the corrected combined results.
-
-One side-swapped matchup means two debates on the same motion with PRO and CON roles reversed.
+One side-swapped matchup means two debates on the same motion with PRO and CON roles reversed. Incomplete pairs and archived unavailable-panel or topic-drift results do not enter the ratings.
 
 ### Model and data scopes
 
 | View | Models | Matchups | Purpose |
 | --- | ---: | ---: | --- |
-| Complete stored rating graph | 62 | 4,298 represented; 4,223 rated | All retained historical and current results |
-| Public leaderboard | 59 | 4,041 represented; 3,976 rated after report-time exclusions | Reader-facing ranking |
-| September 24 qualitative analysis | 43 | 2,926 complete, or 5,852 debates | 42 public behavior cards and four newcomer dossiers |
-| Current-focused comparison charts | 26; 25 with costs | — | Current models plus selected predecessors |
+| Complete stored rating graph | 64 | 4,571 represented; 4,492 rated | All retained historical and current results |
+| Full public leaderboard | 61 | 4,245 complete after report-time exclusions | Reader-facing ranking with historical models |
+| Current-focused comparison charts | 25 | — | Current models plus selected predecessors |
+| October 25 Kimi qualitative study | 24-model comparison roster | 281 eligible; all 19 direct Kimi pairs reviewed | Focused version comparison |
+| September 24 qualitative analysis | 43 | 2,926 complete | Dated behavior cards and September entrant dossiers |
 
-The published judge table contains 26,143 retained decisions; 25,896 belong to complete matchups used for ratings. Archived unavailable-panel and topic-drift results are outside this export. These scopes answer different questions, so their counts are not expected to match. The full leaderboard retains historical comparisons; current-focused charts hide superseded versions except selected predecessors. The September 5 and October 15 blind participant-judging studies are separate diagnostics and do not feed the leaderboard.
+The downloadable judge table contains **27,769 retained decisions**; 27,510 belong to complete matchups used for ratings. Public display exclusions do not remove historical results from the stored rating graph. The qualitative studies and participant self-judging studies are separate diagnostics and do not feed the leaderboard.
 
 ## Reader paths
 
-1. **Ranking:** start with the chart above, the [full leaderboard report](reports/debate_leaderboard__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md), and the [Opus 5.5 coverage report](reports/opus55_coverage_20261015_final_analysis.md).
-2. **Design checks:** inspect the [pairwise heatmap](#pairwise-view), [judge agreement](#judge-sanity-checks), and [status report](reports/debate_benchmark_status__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md).
-3. **How models debate:** use the September 24 [behavior model cards](reports/debate_behavior_model_cards__judge_judge_blend_20260923_finala__debate_all_templates__gpt-5.6-medium.md) and [four September entrant dossiers](reports/debate_model_dossiers__judge_judge_blend_20260923_finala__debate_all_templates__gpt-5.6-medium__reviewed.md), plus the [quantitative model profiles](reports/debate_model_profiles__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md).
-4. **Individual debates:** browse the [matchup results index](reports/debate_matchup_judgments__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md) and [published transcripts](transcripts/).
+1. **Ranking:** start with the chart above, the [full leaderboard report](reports/debate_leaderboard__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md), and the [DeepSeek intake report](reports/frontier_expansion_deepseek41flash1017_20261024_final_analysis.md).
+2. **Design checks:** inspect the [pairwise heatmap](#pairwise-view), [judge agreement](#judge-sanity-checks), and [status report](reports/debate_benchmark_status__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md).
+3. **How models debate:** read the [Kimi K3.1 versus K3 qualitative study](reports/kimi31pro_vs_k3_qualitative_opus55_20261024.md), its [two model dossiers](reports/debate_model_dossiers__judge_judge_blend_kimi31pro_coverage_20261023_finala__debate_all_templates__claude-opus-5-5-high.md), and the [current quantitative profiles](reports/debate_model_profiles__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md). Earlier studies remain below as dated comparisons.
+4. **Individual debates:** browse the [matchup results index](reports/debate_matchup_judgments__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md) and [published transcripts](transcripts/).
 5. **Topic coverage:** see the [summaries by subject and question type](#topics).
 
 ## Pairwise view
 
-![Pairwise heatmap: current models and highlighted predecessors](images/debate_pair_margin_heatmap_current_models__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Pairwise heatmap: current models and highlighted predecessors](images/debate_pair_margin_heatmap_current_models__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-This heatmap uses the same **26 current models and highlighted-model predecessors** as the main leaderboard chart. All 72 pairings involving a highlighted model, plus all 25 Opus 5.5 pairings, have at least five complete topics. Other model pairs can still have sparse or missing coverage. Its coverage note counts only matchups between the displayed models. The [full historical heatmap](images/debate_pair_margin_heatmap__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png) remains available separately.
+This heatmap uses the same **25 current models and selected predecessors** as the main leaderboard. Kimi K3.1 Pro covers all 24 other displayed models with at least five complete topics each. DeepSeek 1017 covers 23 opponents at the same minimum; the historical unversioned Flash alias is excluded from fresh comparisons because it now routes to 1017. Other pairs can still have sparse or missing coverage. The coverage note counts only matchups between displayed models. The [full historical heatmap](images/debate_pair_margin_heatmap__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png) remains available separately.
 
 Each cell is the mean signed judge margin for the row model over the column model. Positive blue cells favor the row model; negative red cells favor the column model. The number in parentheses is the count of complete side-swapped matchups for that head-to-head. Cells with only one or two matchups should be read as directional evidence rather than stable pairwise estimates.
 
@@ -67,104 +64,104 @@ Each cell is the mean signed judge margin for the row model over the column mode
 
 | Rank | Model | BT | Matchups |
 | ---: | --- | ---: | ---: |
-| 1 | Claude Fable 5.1 (high) | 1733.5 | 212 |
-| 2 | Claude Fable 5 (high) | 1722.4 | 205 |
-| 3 | Claude Opus 5 (high) | 1720.1 | 207 |
-| 4 | Kimi K3 | 1694.0 | 225 |
-| 5 | Claude Opus 5.5 (high) | 1691.1 | 192 |
-| 6 | Gemini 4 Argon (high) | 1672.7 | 175 |
-| 7 | Muse Wonder 1.0 (high) | 1651.9 | 175 |
-| 8 | Claude Opus 4.7 (high) | 1644.1 | 120 |
-| 9 | GPT-5.6 Sol (high) | 1642.0 | 267 |
-| 10 | GLM-5.3 (high) | 1637.7 | 143 |
-| 11 | Muse Spark 1.1 (high) | 1633.9 | 189 |
-| 12 | Claude Opus 4.8 (high) | 1626.7 | 165 |
-| 13 | Grok 4.7 (high) | 1616.1 | 114 |
-| 14 | GPT-6 Astra (high) | 1608.0 | 182 |
-| 15 | Xiaomi MiMo V2.6 Pro (thinking) | 1604.6 | 108 |
-| 16 | Grok 4.6 (high) | 1600.9 | 197 |
-| 17 | Muse Spark 1.3 (high) | 1593.3 | 212 |
-| 18 | Claude Sonnet 5 (high) | 1582.5 | 237 |
-| 19 | DeepSeek V4.1 Flash (high) | 1578.5 | 115 |
-| 20 | Tencent Hy4 Preview (high) | 1577.6 | 212 |
-| 21 | DeepSeek V4 Pro 0813 (high) | 1567.2 | 193 |
-| 22 | GLM-5.2 (max) | 1559.3 | 182 |
-| 23 | Claude Sonnet 4.6 (high) | 1556.4 | 139 |
-| 24 | Qwen 3.8 Max | 1549.3 | 183 |
-| 25 | GPT-5.4 (high) | 1542.7 | 131 |
-| 26 | Claude Sonnet 4.6 (no reasoning) | 1537.2 | 85 |
-| 27 | GPT-5.5 (high) | 1523.4 | 126 |
-| 28 | GLM-5.1 | 1514.4 | 99 |
-| 29 | Gemini 3.8 Flash (high) | 1509.7 | 155 |
-| 30 | Kimi K2.6 | 1506.8 | 131 |
-| 31 | MiniMax-M3 | 1496.0 | 176 |
-| 32 | GPT-5.4 (no reasoning) | 1490.3 | 93 |
-| 33 | Grok 4.5 (high) | 1486.1 | 122 |
-| 34 | Gemini 3.1 Pro Preview | 1485.2 | 250 |
-| 35 | Xiaomi MiMo V2.5 Pro | 1480.0 | 187 |
-| 36 | Qwen 3.6 Max Preview | 1470.4 | 84 |
-| 37 | Gemini 3.7 Flash (high) | 1451.2 | 117 |
-| 38 | Mistral Large 4 (high) | 1451.2 | 159 |
-| 39 | Kimi K2.5 Thinking | 1448.7 | 73 |
-| 40 | ByteDance Seed2.0 Pro | 1448.1 | 195 |
-| 41 | DeepSeek V4 Pro Preview | 1443.6 | 128 |
-| 42 | Qwen 3.7 Max | 1429.8 | 160 |
-| 43 | MiniMax-M2.7 | 1429.0 | 89 |
-| 44 | Grok 4.20 0309 (Reasoning) | 1406.7 | 49 |
-| 45 | Gemini 3.5 Flash | 1402.8 | 129 |
-| 46 | Grok 4.20 0309 (Non-Reasoning) | 1398.8 | 36 |
-| 47 | Qwen3.5-397B-A17B | 1385.2 | 91 |
-| 48 | Xiaomi MiMo V2 Pro | 1385.1 | 28 |
-| 49 | Baidu Ernie 5.1 | 1383.0 | 188 |
-| 50 | Tencent Hy3 Preview (high) | 1382.0 | 122 |
-| 51 | Step 3.7 Flash (high) | 1377.0 | 180 |
-| 52 | Grok 4.3 | 1366.2 | 88 |
-| 53 | DeepSeek V3.2 | 1357.3 | 41 |
-| 54 | Mistral Medium 3.5 (high) | 1336.6 | 142 |
-| 55 | Gemini 3.1 Flash-Lite Preview | 1324.9 | 31 |
-| 56 | GPT-OSS-120B | 1272.9 | 51 |
-| 57 | Baidu Ernie 5.0 | 1241.6 | 16 |
-| 58 | Mistral Large 3 | 1184.9 | 57 |
-| 59 | Llama 4 Maverick | 1025.6 | 29 |
+| 1 | Claude Fable 5.1 (high) | 1727.1 | 227 |
+| 2 | Claude Fable 5 (high) | 1719.2 | 205 |
+| 3 | Claude Opus 5 (high) | 1717.1 | 207 |
+| 4 | Claude Opus 5.5 (high) | 1691.5 | 207 |
+| 5 | Kimi K3 | 1691.2 | 249 |
+| 6 | Gemini 4 Argon (high) | 1669.4 | 190 |
+| 7 | Muse Wonder 1.0 (high) | 1647.1 | 190 |
+| 8 | Claude Opus 4.7 (high) | 1641.1 | 120 |
+| 9 | GPT-5.6 Sol (high) | 1637.1 | 277 |
+| 10 | GLM-5.3 (high) | 1633.9 | 153 |
+| 11 | Muse Spark 1.1 (high) | 1630.8 | 189 |
+| 12 | Claude Opus 4.8 (high) | 1623.8 | 165 |
+| 13 | Grok 4.7 (high) | 1613.6 | 124 |
+| 14 | GPT-6 Astra (high) | 1604.1 | 192 |
+| 15 | Kimi K3.1 Pro (high) | 1602.6 | 159 |
+| 16 | Xiaomi MiMo V2.6 Pro (thinking) | 1600.3 | 118 |
+| 17 | Grok 4.6 (high) | 1597.9 | 197 |
+| 18 | DeepSeek V4.1 Flash 1017 (high) | 1593.0 | 120 |
+| 19 | Muse Spark 1.3 (high) | 1590.1 | 212 |
+| 20 | Claude Sonnet 5 (high) | 1580.3 | 247 |
+| 21 | DeepSeek V4.1 Flash (high) | 1577.1 | 120 |
+| 22 | Tencent Hy4 Preview (high) | 1576.6 | 222 |
+| 23 | DeepSeek V4 Pro 0813 (high) | 1564.8 | 203 |
+| 24 | GLM-5.2 (max) | 1556.4 | 182 |
+| 25 | Claude Sonnet 4.6 (high) | 1553.4 | 139 |
+| 26 | Qwen 3.8 Max | 1546.2 | 193 |
+| 27 | GPT-5.4 (high) | 1539.5 | 131 |
+| 28 | Claude Sonnet 4.6 (no reasoning) | 1534.2 | 85 |
+| 29 | GPT-5.5 (high) | 1520.4 | 126 |
+| 30 | GLM-5.1 | 1511.4 | 99 |
+| 31 | Gemini 3.8 Flash (high) | 1504.5 | 165 |
+| 32 | Kimi K2.6 | 1504.0 | 131 |
+| 33 | MiniMax-M3 | 1496.0 | 186 |
+| 34 | GPT-5.4 (no reasoning) | 1487.0 | 93 |
+| 35 | Grok 4.5 (high) | 1483.2 | 122 |
+| 36 | Gemini 3.1 Pro Preview | 1482.1 | 250 |
+| 37 | Xiaomi MiMo V2.5 Pro | 1476.8 | 187 |
+| 38 | Qwen 3.6 Max Preview | 1467.4 | 84 |
+| 39 | Mistral Large 4 (high) | 1448.1 | 169 |
+| 40 | Gemini 3.7 Flash (high) | 1447.9 | 117 |
+| 41 | ByteDance Seed2.0 Pro | 1447.1 | 205 |
+| 42 | Kimi K2.5 Thinking | 1445.4 | 73 |
+| 43 | DeepSeek V4 Pro Preview | 1440.7 | 128 |
+| 44 | Qwen 3.7 Max | 1426.9 | 160 |
+| 45 | MiniMax-M2.7 | 1425.9 | 89 |
+| 46 | Grok 4.20 0309 (Reasoning) | 1403.7 | 49 |
+| 47 | Gemini 3.5 Flash | 1399.9 | 129 |
+| 48 | Grok 4.20 0309 (Non-Reasoning) | 1396.1 | 36 |
+| 49 | Xiaomi MiMo V2 Pro | 1382.3 | 28 |
+| 50 | Qwen3.5-397B-A17B | 1382.2 | 91 |
+| 51 | Baidu Ernie 5.1 | 1379.9 | 198 |
+| 52 | Tencent Hy3 Preview (high) | 1379.4 | 122 |
+| 53 | Step 3.7 Flash (high) | 1373.8 | 190 |
+| 54 | Grok 4.3 | 1363.4 | 88 |
+| 55 | DeepSeek V3.2 | 1354.5 | 41 |
+| 56 | Mistral Medium 3.5 (high) | 1332.5 | 152 |
+| 57 | Gemini 3.1 Flash-Lite Preview | 1322.2 | 31 |
+| 58 | GPT-OSS-120B | 1263.4 | 61 |
+| 59 | Baidu Ernie 5.0 | 1239.0 | 16 |
+| 60 | Mistral Large 3 | 1181.2 | 57 |
+| 61 | Llama 4 Maverick | 1021.2 | 29 |
 
-`BT` is the headline Bradley-Terry rating. `Matchups` counts complete side-swapped matchup groups.
+`BT` is the headline judge-normalized Bradley-Terry rating. `Matchups` counts complete side-swapped matchup groups. This table includes historical models, so its rank numbers differ from the current-focused chart.
 
 ### What stands out
 
-- **Claude Opus 5.5 ranks #5 publicly** with 1691.1 BT (95% CI 1681.0–1701.1) across 192 complete matchups.
-- **Gemini 4 Argon ranks #6 publicly** with 1672.7 BT (95% CI 1661.1–1684.2) across 175 complete matchups. Gemini 3.1 Pro Preview scores 1485.2.
-- **Meta Muse Wonder ranks #7 publicly** with 1651.9 BT (95% CI 1641.5–1662.3) across 175 complete matchups. Muse Spark 1.3 scores 1593.3.
-- **Mistral Large 4 ranks #38 publicly** with 1451.2 BT (95% CI 1437.6–1464.8) across 159 complete matchups. Mistral Large 3 scores 1184.9.
-- **Claude Fable 5.1 (high) leads** at 1733.5. These ratings incorporate the broader opponent coverage and supersede the standalone intake estimates.
+- **Kimi K3.1 Pro (high)** scores **1602.6 BT** (95% CI 1589.8–1615.4): **10th/25** in the current-focused chart and **15th/61** in the full public leaderboard, across 159 complete matchups.
+- **DeepSeek V4.1 Flash 1017 (high)** scores **1593.0 BT** (95% CI 1579.1–1606.8): **12th/25** in the current-focused chart and **18th/61** publicly, across 120 complete matchups. Against Kimi K3.1 Pro, it has one paired win, four losses, and five ties.
+- **Kimi K3 remains ahead of K3.1 Pro** at 1691.2 BT. Across their 19 direct topics, K3 wins 14 paired results, five are tied, and K3.1 wins none. These are topic-level results after pooling both directions, not individual-debate win counts.
+- **Claude Fable 5.1 (high) leads** at 1727.1 BT. Opus 5.5 and Kimi K3 are close at 1691.5 and 1691.2.
+- The historical unversioned **DeepSeek V4.1 Flash** scores 1577.1, but its mutable alias now serves 1017. The historical comparison is not a controlled frozen-version test.
 
 ## Price vs. performance
 
-![Price versus performance](images/debate_price_vs_performance__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Price versus performance](images/debate_price_vs_performance__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
 Higher and further left is better. The x-axis is average debater-side USD per completed, rating-eligible debate, calculated from recorded token usage and applicable prices or provider-reported request costs. It accounts for the number of input and output tokens actually used, including recorded reasoning tokens and cache or batch discounts. It covers accepted turns and excludes failed attempts and judging.
 
 Cost coverage is reported per model; models without usable cost data are omitted. The current-focused view includes selected predecessors for comparison. DeepSeek Pro is a separate comparison variant, not a Flash predecessor.
 
-DeepSeek V4.1 Flash averages **$0.01127 per debate (1.13¢)** across 230 debates with complete recorded token usage. Its estimate uses the full-week weighted average of the scheduled rates: **20.83% peak and 79.17% off-peak**, independent of when requests ran.
-
-The recently expanded models have complete recorded-usage cost coverage for their rating-eligible debates:
+Both new entrants have complete recorded-usage cost coverage for their rating-eligible debates:
 
 | Model | Average debater cost per debate | Debates |
 | --- | ---: | ---: |
-| Claude Opus 5.5 (high) | $0.12418 | 384 |
-| Gemini 4 Argon (high) | $0.19289 | 350 |
-| Meta Muse Wonder 1.0 (high) | $0.25598 | 350 |
-| Mistral Large 4 (high) | $0.09241 | 318 |
+| Kimi K3.1 Pro (high) | $0.08769 | 318 |
+| DeepSeek V4.1 Flash 1017 (high) | $0.005974 | 240 |
+
+These costs describe the routes used in the benchmark; they are not a quote for every provider or serving route.
 
 ## Judge sanity checks
 
-The rating graph is connected. After averaging the two debate directions within each matchup, mean cross-judge winner agreement is `0.634`. Decisive-only agreement is `0.938`: it considers only judge pairs where both selected a clear winner, excluding cases where either judge returned a tie or noise-level result. Mean absolute presented-side margin bias is `0.181` on the signed-margin scale. Panels use three distinct model families and avoid same-family judges against debaters when feasible.
+The rating graph is connected. After averaging the two debate directions within each matchup, mean cross-judge winner agreement is `0.631`. Decisive-only agreement is `0.936`: it considers only judge pairs where both selected a clear winner, excluding cases where either judge returned a tie or noise-level result. Mean absolute presented-side margin bias is `0.181` on the signed-margin scale. Panels use three distinct model families and avoid same-family judges against debaters when feasible.
 
 The active judge pool is GPT-5.6 Sol (high), Claude Sonnet 5 (high), Gemini 3.1 Pro Preview, Qwen 3.7 Max, Grok 4.5 (high), Kimi K2.6, and Muse Spark 1.1 (high). The combined rating graph also retains judgments from earlier panels.
 
-![All-bucket judge agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![All-bucket judge agreement heatmap](images/debate_judge_agreement_heatmap__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-![Decisive-only judge agreement heatmap](images/debate_judge_decisive_agreement_heatmap__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Decisive-only judge agreement heatmap](images/debate_judge_decisive_agreement_heatmap__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
 The heatmaps compare judges on side-swapped matchups. The first includes either model winning and tie/noise buckets. The second asks the narrower question: when both judges chose a clear winner, how often did they choose the same winner? These are evaluator-consistency diagnostics, not a second leaderboard.
 
@@ -217,11 +214,28 @@ These participant judgments are a separate diagnostic and do not affect official
 
 ## Debate quality signal
 
-The benchmark tracks an entertainment/readability score as a diagnostic only; it does not affect ratings. Across chart-visible complete matchups, the mean is `7.50 / 10`. The highest model averages include Claude Opus 5 (high), Claude Fable 5.1 (high), Grok 4.6 (high), Muse Spark 1.3 (high), and Grok 4.7 (high).
+The benchmark tracks an entertainment/readability score as a diagnostic only; it does not affect ratings. Across chart-visible complete matchups, the mean is `7.50 / 10`. The highest model averages include Claude Opus 5 (high), Claude Fable 5.1 (high), Grok 4.6 (high), Muse Spark 1.3 (high), and Kimi K3.
 
-![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Strength versus entertainment](images/debate_strength_vs_entertainment__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-See the [entertainment report](reports/debate_entertainment_report__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md) for model and matchup details.
+See the [entertainment report](reports/debate_entertainment_report__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md) for model and matchup details.
+
+## Qualitative behavior — October 25 Kimi comparison
+
+Claude Opus 5.5 (high) analyzed **560 of 562 eligible transcripts**, completed **279 paired behavior analyses**, and reviewed **all 19 direct Kimi K3–K3.1 topic pairs**. The study includes two model dossiers, transcript evidence, judge-comment analysis, and a direct comparison synthesis.
+
+The analyst identifies K3's pressure questions and concise closing decision rules as recurring strengths. K3.1 often makes careful mechanism distinctions, but qualified concessions and repeated word-limit clipping hurt its judged performance. K3's overclaims remain a weakness that K3.1 sometimes exposes. These are model-generated interpretations of this debate corpus, not independent factual verification or a general ranking of model usefulness.
+
+The broader sample contains current-peer debates involving either Kimi version; its field averages are specific to that sample. The transcript annotation stage omits judge scores, but model names remain in debate IDs, so it is **not fully identity-blind**. Refused annotations are reported as missing evidence; all direct topic pairs remain covered.
+
+![Kimi study diagnostic subscores](images/debate_behavior_diagnostic_subscores__judge_judge_blend_kimi31pro_coverage_20261023_finala__debate_all_templates__claude-opus-5-5-high__kimi_comparison_opus55_high_20261024.png)
+
+- [Qualitative study and matched diagnostics](reports/kimi31pro_vs_k3_qualitative_opus55_20261024.md)
+- [K3 and K3.1 model dossiers](reports/debate_model_dossiers__judge_judge_blend_kimi31pro_coverage_20261023_finala__debate_all_templates__claude-opus-5-5-high.md)
+- [Behavior model cards](reports/debate_behavior_model_cards__judge_judge_blend_kimi31pro_coverage_20261023_finala__debate_all_templates__claude-opus-5-5-high__kimi_comparison_opus55_high_20261024.md)
+- [All 19 direct matchup summaries](reports/qualitative_model_comparison_summaries__judge_judge_blend_kimi31pro_coverage_20261023_finala__debate_placement_active_20260813a__claude-opus-5-5-high.md)
+- [Direct comparison synthesis](reports/qualitative_model_comparison_synthesis__judge_judge_blend_kimi31pro_coverage_20261023_finala__debate_placement_active_20260813a__claude-opus-5-5-high.md)
+- [Transcript and judge evidence](reports/kimi31pro_vs_k3_evidence_opus55_20261024.md)
 
 ## Qualitative behavior — September 24 study
 
@@ -240,7 +254,7 @@ The dossiers describe recurring strengths, weaknesses, execution, and behavior a
 - [Four newcomer dossiers](reports/debate_model_dossiers__judge_judge_blend_20260923_finala__debate_all_templates__gpt-5.6-medium__reviewed.md)
 - [September 4 model dossiers](reports/debate_model_dossiers__judge_judge_blend_glm53_coverage_20260904a__debate_all_templates__gpt-5.6-medium__reviewed.md)
 - [Deterministic qualitative audit](reports/debate_qualitative_behavior__judge_judge_blend_20260923_finala__debate_all_templates.md)
-- [Current quantitative model profiles](reports/debate_model_profiles__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md)
+- [Current quantitative model profiles](reports/debate_model_profiles__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md)
 
 ### Historical qualitative readings
 
@@ -254,11 +268,11 @@ The March 2026 close readings remain available as a dated, deliberately selected
 
 Content blocks, blank outputs, formatting failures, and model-service failures are tracked separately from debate quality. The availability-adjusted view shows how reliability would change model strength if completion problems were penalized; it does not change how completed debates were judged.
 
-![Content block rate](images/debate_content_block_rate__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Content block rate](images/debate_content_block_rate__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-![Strength versus reliability](images/debate_strength_vs_reliability__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Strength versus reliability](images/debate_strength_vs_reliability__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-![Reliability breakdown](images/debate_reliability_breakdown__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png)
+![Reliability breakdown](images/debate_reliability_breakdown__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
 ## Topics
 
@@ -289,14 +303,14 @@ The topic bank contains **683 motions**, spanning policy, empirical, and moral d
 
 ### September entrant examples
 
-- **Claude Opus 5.5 vs Grok 4.7** on children’s digital wellbeing. Each won unanimously, 3–0, as CON, leaving the paired result tied. Both challenged whether sleep, boredom, and play adequately address product-specific harms such as grooming and unwanted purchases. Read [Debate A](transcripts/prop_0270__claude-opus-5-5-high__grok-4.7-high__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0270__grok-4.7-high__claude-opus-5-5-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates/matchup-judgment-prop_0270-claude-opus-5-5-high-vs-grok-4.7-high-df0a410a9f89.md).
-- **DeepSeek V4.1 Flash vs MiMo V2.6 Pro Thinking** on whether the British economy would be stronger without Brexit. Each won unanimously, 3–0, as PRO, again producing a paired tie. The clash turns on the relevant counterfactual: whether avoiding Brexit's additional costs would improve an economy that still faces domestic structural problems. Read [Debate A](transcripts/prop_0030__deepseek-v4.1-flash-high__mimo-v2.6-pro-thinking__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0030__mimo-v2.6-pro-thinking__deepseek-v4.1-flash-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates/matchup-judgment-prop_0030-deepseek-v4.1-flash-high-vs-mimo-v2.6-pro-thinking-1e46e51726a9.md).
+- **Claude Opus 5.5 vs Grok 4.7** on children’s digital wellbeing. Each won unanimously, 3–0, as CON, leaving the paired result tied. Both challenged whether sleep, boredom, and play adequately address product-specific harms such as grooming and unwanted purchases. Read [Debate A](transcripts/prop_0270__claude-opus-5-5-high__grok-4.7-high__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0270__grok-4.7-high__claude-opus-5-5-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates/matchup-judgment-prop_0270-claude-opus-5-5-high-vs-grok-4.7-high-df0a410a9f89.md).
+- **DeepSeek V4.1 Flash vs MiMo V2.6 Pro Thinking** on whether the British economy would be stronger without Brexit. Each won unanimously, 3–0, as PRO, again producing a paired tie. The clash turns on the relevant counterfactual: whether avoiding Brexit's additional costs would improve an economy that still faces domestic structural problems. Read [Debate A](transcripts/prop_0030__deepseek-v4.1-flash-high__mimo-v2.6-pro-thinking__s0__tpl_placement_active_20260813a.md), [Debate B](transcripts/prop_0030__mimo-v2.6-pro-thinking__deepseek-v4.1-flash-high__s1__tpl_placement_active_20260813a.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates/matchup-judgment-prop_0030-deepseek-v4.1-flash-high-vs-mimo-v2.6-pro-thinking-1e46e51726a9.md).
 
 These pairs illustrate why a single debate direction can be misleading.
 
 ### Earlier model comparison
 
-**Claude Opus 4.8 vs Claude Opus 5** on banning corporate political donations: Opus 4.8 won the first direction 2–1 as PRO; Opus 5 won the reverse direction 3–0 as PRO and won the paired result. Every judge rated both debates 9 / 10 for entertainment. Read [Debate A](transcripts/prop_0379__claude-opus-4-8-adaptive__claude-opus-5-high__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0379__claude-opus-5-high__claude-opus-4-8-adaptive__s1__tpl_placement_active_20260320f.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates/matchup-judgment-prop_0379-claude-opus-4-8-adaptive-vs-claude-opus-5-high-4db31537c073.md).
+**Claude Opus 4.8 vs Claude Opus 5** on banning corporate political donations: Opus 4.8 won the first direction 2–1 as PRO; Opus 5 won the reverse direction 3–0 as PRO and won the paired result. Every judge rated both debates 9 / 10 for entertainment. Read [Debate A](transcripts/prop_0379__claude-opus-4-8-adaptive__claude-opus-5-high__s0__tpl_placement_active_20260320f.md), [Debate B](transcripts/prop_0379__claude-opus-5-high__claude-opus-4-8-adaptive__s1__tpl_placement_active_20260320f.md), and the [matchup report](reports/debate_matchup_judgments/judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates/matchup-judgment-prop_0379-claude-opus-4-8-adaptive-vs-claude-opus-5-high-4db31537c073.md).
 
 ## Best lines
 
@@ -333,28 +347,31 @@ Bradley-Terry estimates relative strength from paired outcomes while accounting 
 - This is a live benchmark, not a frozen final release.
 - It uses LLM judges rather than human judges, though side swaps, multiple judges, distinct judge families, and agreement diagnostics reduce some noise.
 - Matchup schedules are intentionally non-uniform, so confidence intervals and the pairwise matrix matter.
-- Qualitative tags and dossier prose come from GPT-5.6 Sol (medium), not human coders.
+- Qualitative tags and dossier prose are model-generated: Claude Opus 5.5 (high) for the October Kimi study and GPT-5.6 Sol (medium) for the September study. The Kimi analysis is not fully identity-blind.
 - Availability and content-filter behavior can materially affect coverage; reliability is reported separately.
 - Debate is one capability slice, not a complete measure of model usefulness.
 
 ## Further reading and data
 
-- [Opus 5.5 coverage report](reports/opus55_coverage_20261015_final_analysis.md)
+- [DeepSeek 1017 intake report](reports/frontier_expansion_deepseek41flash1017_20261024_final_analysis.md)
+- [Kimi K3.1 versus K3 qualitative study](reports/kimi31pro_vs_k3_qualitative_opus55_20261024.md)
+
+- [October 15 Opus 5.5 coverage report](reports/opus55_coverage_20261015_public_snapshot.md) — historical [leaderboard](reports/opus55_coverage_20261015_leaderboard_snapshot.md), [profiles](reports/debate_model_profiles__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md), and [heatmap](images/debate_pair_margin_heatmap_current_models__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.png).
 
 - [Five-topic coverage report](reports/highlighted_coverage_20261015_stage1_final_analysis.md) — historical [leaderboard](reports/highlighted_coverage_20261015_leaderboard_snapshot.md), [profiles](reports/debate_model_profiles__judge_judge_blend_highlighted_coverage_20261015_finala__debate_all_templates.md), and [heatmap](images/debate_pair_margin_heatmap_current_models__judge_judge_blend_highlighted_coverage_20261015_finala__debate_all_templates.png).
 
-- [Leaderboard report](reports/debate_leaderboard__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md)
-- [Benchmark status](reports/debate_benchmark_status__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md)
-- [Matchup results index](reports/debate_matchup_judgments__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md)
+- [Leaderboard report](reports/debate_leaderboard__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md)
+- [Benchmark status](reports/debate_benchmark_status__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md)
+- [Matchup results index](reports/debate_matchup_judgments__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md)
 - [Wonder/Argon intake report](reports/frontier_expansion_20261014_final_analysis.md)
 - [Mistral intake report](reports/frontier_expansion_mistral4_20261014_final_analysis.md)
-- [Judge decision table](judgments/judge_results__judge_blend_opus55_coverage_20261015_finala.csv)
-- [Full judge decision records (gzip-compressed JSONL)](judgments/judge_results__judge_blend_opus55_coverage_20261015_finala.jsonl.gz)
+- [Judge decision table](judgments/judge_results__judge_blend_deepseek41flash1017_20261024_finala.csv)
+- [Full judge decision records (gzip-compressed JSONL)](judgments/judge_results__judge_blend_deepseek41flash1017_20261024_finala.jsonl.gz)
 - [Completed public transcripts](transcripts/)
 
 ### Reproducibility checks
 
-- [Proxy-error integrity audit](reports/debate_proxy_error_audit__judge_judge_blend_opus55_coverage_20261015_finala__debate_all_templates.md)
+- [Proxy-error integrity audit](reports/debate_proxy_error_audit__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.md)
 - Public judgment exports omit local prompt and raw-response filesystem paths; canonical raw artifacts remain retained in the benchmark data store.
 
 ## Related benchmarks
@@ -373,8 +390,13 @@ Bradley-Terry estimates relative strength from paired outcomes while accounting 
 
 ## Updates
 
+- `2026-10-26`: Added Kimi K3.1 Pro (high) and DeepSeek V4.1 Flash 1017 (high).
+
 - `2026-10-15`: Added Meta Muse Wonder 1.0 (high), Gemini 4 Argon (high), and Mistral Large 4 (high).
+- `2026-10-15`: Added blind participant judging for the three highlighted models: 50 debates and 200 judgments.
+
 - `2026-09-24`: Added Opus 5.5 High, Grok 4.7 High, MiMo V2.6 Pro Thinking, and DeepSeek V4.1 Flash High.
+
 - `2026-09-05`: Added blind participant judging among the current top eight: 450 debates, both presentation orders, graded margins, and per-model summaries.
 - `2026-09-04`: Added GPT-6 Astra (high) and GLM-5.3 (high), expanded opponent coverage for highlighted models, completed six new qualitative profiles, and refreshed the cost chart using recorded token usage.
 
