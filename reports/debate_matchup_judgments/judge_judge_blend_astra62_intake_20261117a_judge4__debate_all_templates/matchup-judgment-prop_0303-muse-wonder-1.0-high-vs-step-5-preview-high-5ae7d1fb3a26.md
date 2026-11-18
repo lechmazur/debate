@@ -1,0 +1,71 @@
+# Debate Matchup Judgment Report
+
+**Muse Wonder 1.0 (high)** vs **Step 5 Preview (high)**
+
+- Paired result: **Muse Wonder 1.0 (high)**
+- Mean entertainment: `7.50 / 10`
+- Judge decisions: `6` across `2` side-swapped debates
+
+**Motion:** Modern meritocracy is overstated, and elite educational and professional pathways still reproduce class privilege more than most successful people admit.
+
+## Debates and evidence
+
+- [Debate A transcript](../../../transcripts/prop_0303__muse-wonder-1.0-high__step-5-preview-high__s0__tpl_placement_active_20260813a.md): PRO = **Muse Wonder 1.0 (high)**, CON = **Step 5 Preview (high)**
+- [Debate B transcript](../../../transcripts/prop_0303__step-5-preview-high__muse-wonder-1.0-high__s1__tpl_placement_active_20260813a.md): PRO = **Step 5 Preview (high)**, CON = **Muse Wonder 1.0 (high)**
+- [Public judge decision table](../../../judgments/judge_results__judge_blend_astra62_intake_20261117a_judge4.csv)
+
+## Debate A
+
+- Transcript: [read the full debate](../../../transcripts/prop_0303__muse-wonder-1.0-high__step-5-preview-high__s0__tpl_placement_active_20260813a.md)
+- Roles: PRO = **Muse Wonder 1.0 (high)**, CON = **Step 5 Preview (high)**
+- Judged result: Unanimous `3-0` for **Muse Wonder 1.0 (high)**.
+- Entertainment scores: `7`, `8`, `8`
+- Mean signed raw margin (PRO+): `+1.80`
+
+| Judge | Presented sides | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
+| --- | --- | --- | ---: | ---: | ---: |
+| Claude Opus 5.5 (high) | A = Muse Wonder 1.0 (high) (PRO); B = Step 5 Preview (high) (CON) | Muse Wonder 1.0 (high) | +1.6 | +1.71 | 7.0 |
+| GLM-5.3 (high) | A = Muse Wonder 1.0 (high) (PRO); B = Step 5 Preview (high) (CON) | Muse Wonder 1.0 (high) | +1.8 | +2.25 | 8.0 |
+| Gemini 4 Carbon (high) | A = Muse Wonder 1.0 (high) (PRO); B = Step 5 Preview (high) (CON) | Muse Wonder 1.0 (high) | +2.0 | +1.50 | 8.0 |
+
+### Judge Notes
+
+- **Claude Opus 5.5 (high)** (A = Muse Wonder 1.0 (high) (PRO); B = Step 5 Preview (high) (CON)): PRO wins because its reading of the motion fits the wording and holds up through the exchange. The motion asks whether meritocracy is overstated and whether elite pathways reproduce privilege more than successful people admit. It does not ask whether class overrides recorded scores at the final gate. CON built a sharp and well-executed distinction: "unfair preparation is not meritless selection." Its unfalsifiability charge was also good pressure. But that framing narrows the motion to whether class displaces demonstrated ability at the moment of allocation. PRO answered this directly in A4.4 with a falsifiable standard: elite outcomes tracking income far beyond any plausible spread of talent, resilient whether gates stress tests or polish. PRO also kept final-gate intrusions in play (legacy, early decision, referrals, cultural fit, unpaid internships). CON largely sidestepped these by demanding evidence rather than rebutting them. CON's own lines also concede ground on the "more than most successful people admit" clause: - Passing the exam "does not prove the road was fair." - Acknowledging help makes the story "incomplete." CON also somewhat overstated PRO's concessions. PRO admitted that tests filter out incompetence, but not that class never decides close final allocations. Both sides showed good grounding and avoided fake statistics. PRO's laundering metaphor and its focus on survivor-pool skew made the stakes clearer.
+  Most decisive rebuttal noted: The decisive exchange was over Q1 and the answers that followed. CON pressed: what final allocation does class override? PRO answered in A4.1–A4.2: "the exam ranks survivors; it does not explain why the survivor pool was skewed." PRO added named final-gate intrusions, then in A4.4 turned CON's unfalsifiability charge into a testable standard. CON's reply restated its distinction but never neutralized the legacy, referral, and internship mechanisms.
+- **GLM-5.3 (high)** (A = Muse Wonder 1.0 (high) (PRO); B = Step 5 Preview (high) (CON)): Both sides debated with unusual discipline: sharp pressure questions, direct A1/A2 answers, and clean crystallization. The decisive clash was burden interpretation. B's best move—reframing the motion as requiring proof that class overrides the *final* allocation ("unfair preparation is not meritless selection")—was rhetorically powerful but arguably an evasive narrowing of the proposition as written, which claims meritocracy is *overstated* and that pathways reproduce privilege "more than most successful people admit." A flagged this narrowing early (A2.1) and supplied a falsifiability standard (A4.4) plus concrete gate-adjacent mechanisms—legacy preference, referral hiring, unpaid internships, early decision—that B never squarely engaged, dismissing them as "risk buffers." B's honest concession that "passing the exam does not prove the road was fair" gave A's closing its strongest line. B's A2 answer (demanding displacement among comparable-ability candidates) set a bar higher than the motion requires. A's case better matched the motion's actual terms and survived B's best pressure; B's case was competent and well-weighed but rested on a narrower reading of the proposition.
+  Most decisive rebuttal noted: A's A4.1/A4.2 answer to B's "which final allocation does class override" question: conceding that class rarely overrides a recorded score while showing it overrides the allocation *around* it (legacy, referrals, unpaid internships, subsidized risk), capped by "The exam ranks survivors; it does not explain why the survivor pool was skewed." B's counter—"a family that buys tutoring buys a chance to compete; it cannot buy a multivariable proof"—was B's sharpest moment, but A's framing better tracked the motion as written.
+- **Gemini 4 Carbon (high)** (A = Muse Wonder 1.0 (high) (PRO); B = Step 5 Preview (high) (CON)): Side A won solidly by arguing the exact proposition while dismantling Side B's overly narrow burden. Side B staked the debate on a sharp distinction between unequal preparation and meritless selection at the gate, insisting that because boards, proofs, and coding screens reject the unprepared, meritocracy is merely imperfect rather than overstated. Side A smartly conceded that technical screens test real competence, then showed why that floor does not refute the motion: elite pathways reproduce privilege by unevenly manufacturing, cushioning, and filtering whose competence reaches the gate, laundering unequal investment and inherited risk tolerance into credentials that winners attribute too heavily to personal effort. Side A also answered Side B's pressure questions directly—identifying non-score final gates like legacy preferences, early decision, unpaid internships, and referrals that Side B left unanswered in late rounds—while Side B's concession that passing an exam does not prove a fair road gave away the core clash over pathways.
+  Most decisive rebuttal noted: In response to Side B's pressure question [B3.1] asking which final allocation class overrides when exams reward demonstrated ability, Side A [A4.1]-[A4.4] showed both how pre-gate filtering skews the survivor pool before scores are recorded and how class directly intrudes at final non-exam gates (legacy, early decision, referrals, unpaid internships), before turning Side B's own [B4.1] admission that exams do not prove a fair road into the decisive closing crystallization [A5.1]-[A5.3].
+
+## Debate B
+
+- Transcript: [read the full debate](../../../transcripts/prop_0303__step-5-preview-high__muse-wonder-1.0-high__s1__tpl_placement_active_20260813a.md)
+- Roles: PRO = **Step 5 Preview (high)**, CON = **Muse Wonder 1.0 (high)**
+- Judged result: Unanimous `3-0` for **Muse Wonder 1.0 (high)**.
+- Entertainment scores: `7`, `8`, `7`
+- Mean signed raw margin (PRO+): `-1.40`
+
+| Judge | Presented sides | Winner | Signed Margin (PRO+) | Normalized | Entertainment |
+| --- | --- | --- | ---: | ---: | ---: |
+| Claude Opus 5.5 (high) | A = Step 5 Preview (high) (PRO); B = Muse Wonder 1.0 (high) (CON) | Muse Wonder 1.0 (high) | -1.0 | -1.07 | 7.0 |
+| GLM-5.3 (high) | A = Step 5 Preview (high) (PRO); B = Muse Wonder 1.0 (high) (CON) | Muse Wonder 1.0 (high) | -1.2 | -1.50 | 7.0 |
+| Gemini 4 Carbon (high) | A = Step 5 Preview (high) (PRO); B = Muse Wonder 1.0 (high) (CON) | Muse Wonder 1.0 (high) | -2.0 | -1.50 | 8.0 |
+
+### Judge Notes
+
+- **Claude Opus 5.5 (high)** (A = Step 5 Preview (high) (PRO); B = Muse Wonder 1.0 (high) (CON)): CON wins a competitive debate. PRO had a strong motion-friendly route: CON conceded that habits, language, and occupational knowledge flow from parental income, and PRO in A2.4 turned that into "class reproduction enacted through merit." That reading fits the proposition as written. PRO, however, framed its case around strong claims of "laundering," "purchased ability," and "inheritance systems wearing competitive rituals." CON attacked exactly that framing with the unfalsifiability point in B2.5: if every upbringing-linked skill counts as laundering, nothing could ever vindicate merit. The pressure-question exchange then went against PRO in three ways: - **Admission claim:** PRO's A1 rests on an asserted gap between what winners say and the policies they defend. CON rightly noted that policy disagreement does not measure self-awareness, which left the "more than they admit" half of the motion weakly supported. - **Merit test:** PRO's A2 said merit counts only after class-coded filters are removed. In the closing, PRO then accused CON of "relocating merit to a hypothetical pipeline," which misdescribes the exchange, since PRO itself proposed that standard. - **Wealth as a predictor:** CON's A2 gave a cogent answer: controlling for one test score leaves many performance-relevant differences uncontrolled. CON's "independent transfer" criterion gave a clear, observable line between privilege and merit. PRO never squarely rebutted it beyond repeating that the preparation happened upstream, and CON had already answered that with "every ability is formed somewhere." PRO kept a live point that unequal access shapes outcomes, but CON gave the cleaner decision rule.
+  Most decisive rebuttal noted: The decisive exchange was CON's B2.5/B4.5–B4.6 unfalsifiability argument against PRO's laundering frame. PRO's reply, that merit counts only once class-coded filters are removed, effectively conceded that current high performers may have real competence. PRO's closing then attributed that "hypothetical pipeline" standard to CON rather than defending it.
+- **GLM-5.3 (high)** (A = Step 5 Preview (high) (PRO); B = Muse Wonder 1.0 (high) (CON)): Both sides argued the proposition as written and avoided fake precision, making this a genuine clash. Side A's structural case (preparation, selection, and reward all monetize inherited resources) was coherent and rhetorically vivid, and its pressure Q2 (wealth predicting outcomes after score controls) was a real empirical jab. But Side A leaned repeatedly into a definition PRO itself supplied: any skill whose acquisition was shaped by class advantage is "laundering." Side B exposed this as unfalsifiable in B2.5-B2.6 and crystallized it in the closing ("merit impossible by definition, not overstated in fact"), and never fully escaped that trap. Side B's A1/A2 answers were more direct and rigorous: the "independent transfer" test gave an operational line between privilege and competence, and the point that controlling for one thin test score does not control for other performance-relevant differences defused PRO's strongest empirical pressure. Side B also cleanly answered the "admit" component by noting routine acknowledgment of luck and that policy disagreement is not a measure of self-awareness. Side A's closing claim that CON "relocated merit to a hypothetical pipeline" slightly misdescribed B's actual test, which relied on existing gates (blind grading, licensing, work samples), a real execution cost. Side A was punchier; Side B made the debate easier to decide and met its burdens more squarely.
+  Most decisive rebuttal noted: B4.1-B4.6: Side B answered PRO's pressure questions with a concrete falsifiable line — laundering would mean wealth rewarded after performance disappears — then showed PRO's counter-standard ("merit counts only after every class-coded filter is removed") concedes current competence and makes merit impossible by definition, which dismantled PRO's core route to victory.
+- **Gemini 4 Carbon (high)** (A = Step 5 Preview (high) (PRO); B = Muse Wonder 1.0 (high) (CON)): Side B built the cleaner, more resilient path to victory across both clauses of the motion. While conceding starting-line inequality and legacy flaws, B established a concrete "independent transfer" standard—whether candidates repeatedly perform alone across blind curves, licensing exams, work samples, and job output—and showed that A's [A4.2] test made merit impossible by definition until all priced preparation vanished. B also cleanly answered A's tough test-score-control question via omitted performance-relevant variables ([B4.3]), pointed out that many elite internships are paid ([B2.4]), and decisively won the "more than most successful people admit" burden ([B2.7], [B4.7]). Finally, A damaged its late-round credibility in [A4.3] and [A5.1] by misattributing its own hypothetical neutral pipeline ([A4.2]) to B as a "concession."
+  Most decisive rebuttal noted: Side B's [B4.5]-[B4.7] turn on A's pressure-question answers: B showed that A's [A4.2] benchmark—counting competence as merit only after legacy, unpaid routes, and priced preparation disappear—disqualifies real acquired skill simply for having an unequal origin, while demonstrating in [B4.7] that policy disagreement does not prove winners underestimate luck and family head starts they already publicly acknowledge.
+
+## Technical metadata
+
+- Evaluation scope: `judge_judge_blend_astra62_intake_20261117a_judge4__debate_all_templates`
+- Topic ID: `prop_0303`
+- Side-swap group ID: `prop_0303__muse-wonder-1.0-high__step-5-preview-high__tpl_placement_active_20260813a`
+- Raw paired winner: **Muse Wonder 1.0 (high)**
+- Mean normalized margin for Muse Wonder 1.0 (high): `+1.59`
+- Complete side swap: `yes`
+- Included in ratings: `yes`
