@@ -8,7 +8,7 @@ Each matchup runs twice on the **same motion with sides swapped**. A three-model
 
 ![Bradley-Terry leaderboard: current models and selected earlier versions](images/debate_bt_ratings_current_models__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-This chart compares **25 current models and selected earlier versions**. The [full historical chart](images/debate_bt_ratings__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png) and leaderboard table below retain the broader public comparison set.
+This chart compares **22 current models and selected earlier versions**. The [full historical chart](images/debate_bt_ratings__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png) and leaderboard table below retain the broader public comparison set.
 
 ---
 
@@ -38,7 +38,7 @@ Each matchup consists of two debates on the same motion with PRO and CON roles r
 
 ![Pairwise heatmap: current models and selected earlier versions](images/debate_pair_margin_heatmap_current_models__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png)
 
-The heatmap compares the same **25 models** as the main chart. Some pairs have many more topics than others; a sparse or empty cell means limited evidence, not equal ability. Its coverage note counts matchups between the displayed models. The [full historical heatmap](images/debate_pair_margin_heatmap__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png) includes earlier models.
+The heatmap compares the same **22 models** as the main chart. Some pairs have many more topics than others; a sparse or empty cell means limited evidence, not equal ability. Its coverage note counts matchups between the displayed models. The [full historical heatmap](images/debate_pair_margin_heatmap__judge_judge_blend_deepseek41flash1017_20261024_finala__debate_all_templates.png) includes earlier models.
 
 Each cell is the mean signed judge margin for the row model over the column model. Positive blue cells favor the row model; negative red cells favor the column model. The number in parentheses is the count of complete side-swapped matchups for that head-to-head. Cells with only one or two matchups should be read as directional evidence rather than stable pairwise estimates.
 
